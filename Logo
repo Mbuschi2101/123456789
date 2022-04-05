@@ -1,0 +1,4 @@
+mkdir repo
+cd repo
+git init
+mkdir Logo
