@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Das Erste HD
+#EXTINF:-1,Das Erste
 http://45.153.35.228:8000/play/a06e/index.m3u8
 
 #EXTINF:-1,ZDF HD
