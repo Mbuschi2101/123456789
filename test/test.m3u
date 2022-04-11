@@ -1,0 +1,529 @@
+EXTM3U
+#EXTINF:-1,Das Erste HD
+http://new-pro.tv:8080/Fernando/123321/27627
+#EXTINF:-1,ARD
+http://new-pro.tv:8080/Fernando/123321/151111
+#EXTINF:-1,ZDF HD
+http://new-pro.tv:8080/Fernando/123321/27634
+#EXTINF:-1,ZDF
+http://new-pro.tv:8080/Fernando/123321/63109
+#EXTINF:-1,De: ZDF Neo HD
+http://new-pro.tv:8080/Fernando/123321/27632
+#EXTINF:-1,De: ZDF Neo 4K
+http://new-pro.tv:8080/Fernando/123321/63110
+#EXTINF:-1,RTL
+http://new-pro.tv:8080/Fernando/123321/27637
+#EXTINF:-1,De: RTL 4K
+http://new-pro.tv:8080/Fernando/123321/63056
+#EXTINF:-1,De: RTL 2 HD
+http://new-pro.tv:8080/Fernando/123321/27638
+#EXTINF:-1,De: RTL 2 4K
+http://new-pro.tv:8080/Fernando/123321/63057
+#EXTINF:-1,De: RTL ZWEI
+http://new-pro.tv:8080/Fernando/123321/294964
+#EXTINF:-1,De: RTL Plus HD
+http://new-pro.tv:8080/Fernando/123321/27636
+#EXTINF:-1,De: RTL UP
+http://new-pro.tv:8080/Fernando/123321/294948
+#EXTINF:-1,De: RTL Crime HD
+http://new-pro.tv:8080/Fernando/123321/27653
+#EXTINF:-1,De: RTL Passion HD
+http://new-pro.tv:8080/Fernando/123321/27650
+#EXTINF:-1,De: RTL Living HD
+http://new-pro.tv:8080/Fernando/123321/27651
+#EXTINF:-1,De: Sat 1 HD
+http://new-pro.tv:8080/Fernando/123321/27619
+#EXTINF:-1,De: Sat 1 4K
+http://new-pro.tv:8080/Fernando/123321/63049
+#EXTINF:-1,De: SAT 1 Gold HD
+http://new-pro.tv:8080/Fernando/123321/27647
+#EXTINF:-1,De: Sat 1 Gold 4K
+http://new-pro.tv:8080/Fernando/123321/63053
+#EXTINF:-1,De: One HD
+http://new-pro.tv:8080/Fernando/123321/27667
+#EXTINF:-1,De: ProSieben HD
+http://new-pro.tv:8080/Fernando/123321/71176
+#EXTINF:-1,De: ProSieben 4K
+http://new-pro.tv:8080/Fernando/123321/63047
+#EXTINF:-1,De: Pro7 Maxx HD
+http://new-pro.tv:8080/Fernando/123321/27645
+#EXTINF:-1,De: Pro7 Maxx 4K
+http://new-pro.tv:8080/Fernando/123321/63046
+#EXTINF:-1,DE: VOXUP
+http://new-pro.tv:8080/Fernando/123321/294931
+#EXTINF:-1,De: VOX 4K
+http://new-pro.tv:8080/Fernando/123321/63055
+#EXTINF:-1,De: Vox HD
+http://new-pro.tv:8080/Fernando/123321/27642
+#EXTINF:-1,De: Kabel 1 [KABEL EINS] HD
+http://new-pro.tv:8080/Fernando/123321/27640
+#EXTINF:-1,De: Kabel 1 [KABEL EINS] 4K
+http://new-pro.tv:8080/Fernando/123321/63045
+#EXTINF:-1,De: Kabel Eins Classics HD
+http://new-pro.tv:8080/Fernando/123321/62249
+#EXTINF:-1,De: Anixe HD
+http://new-pro.tv:8080/Fernando/123321/27618
+#EXTINF:-1,De: Arte HD
+http://new-pro.tv:8080/Fernando/123321/27641
+#EXTINF:-1,De: Sixx HD
+http://new-pro.tv:8080/Fernando/123321/36676
+#EXTINF:-1,De: Sixx 4K
+http://new-pro.tv:8080/Fernando/123321/63050
+#EXTINF:-1,De: 3 Sat HD
+http://new-pro.tv:8080/Fernando/123321/71183
+#EXTINF:-1,De: 3 Sat 4K
+http://new-pro.tv:8080/Fernando/123321/63108
+#EXTINF:-1,De: EuroNews HD
+http://new-pro.tv:8080/Fernando/123321/62252
+#EXTINF:-1,De: N24
+http://new-pro.tv:8080/Fernando/123321/294937
+#EXTINF:-1,De: NTV HD
+http://new-pro.tv:8080/Fernando/123321/27601
+#EXTINF:-1,De: NTV 4K
+http://new-pro.tv:8080/Fernando/123321/66068
+#EXTINF:-1,De: TAGESSCHAU 24
+http://new-pro.tv:8080/Fernando/123321/27586
+#EXTINF:-1,De: Welt HD
+http://new-pro.tv:8080/Fernando/123321/27603
+#EXTINF:-1,De: Welt 4K
+http://new-pro.tv:8080/Fernando/123321/66069
+#EXTINF:-1,De: Sony AXN HD
+http://new-pro.tv:8080/Fernando/123321/27658
+#EXTINF:-1,De: Servus TV HD
+http://new-pro.tv:8080/Fernando/123321/62258
+#EXTINF:-1,De: SWR HD
+http://new-pro.tv:8080/Fernando/123321/62256
+#EXTINF:-1,De: Universal Channel HD
+http://new-pro.tv:8080/Fernando/123321/27657
+#EXTINF:-1,De: Universal TV 4K
+http://new-pro.tv:8080/Fernando/123321/66063
+#EXTINF:-1,De: Wdr Tv
+http://new-pro.tv:8080/Fernando/123321/21470
+#EXTINF:-1,De: Hr Tv
+http://new-pro.tv:8080/Fernando/123321/21466
+#EXTINF:-1,De: MDR SACHSEN HD
+http://new-pro.tv:8080/Fernando/123321/62257
+#EXTINF:-1,De: Dmax HD
+http://new-pro.tv:8080/Fernando/123321/27611
+#EXTINF:-1,De: DMAX 4K
+http://new-pro.tv:8080/Fernando/123321/95716
+#EXTINF:-1,De: Nitro HD
+http://new-pro.tv:8080/Fernando/123321/62248
+#EXTINF:-1,De: Nitro 4K
+http://new-pro.tv:8080/Fernando/123321/66067
+#EXTINF:-1,De: SYFY HD
+http://new-pro.tv:8080/Fernando/123321/27656
+#EXTINF:-1,De: SYFY 4K
+http://new-pro.tv:8080/Fernando/123321/110340
+#EXTINF:-1,De: 13th Street HD
+http://new-pro.tv:8080/Fernando/123321/27660
+#EXTINF:-1,De: 13th Street 4K
+http://new-pro.tv:8080/Fernando/123321/95710
+#EXTINF:-1,De: Tele 5 HD
+http://new-pro.tv:8080/Fernando/123321/27615
+#EXTINF:-1,De: Tele 5 4K
+http://new-pro.tv:8080/Fernando/123321/95717
+#EXTINF:-1,De: Kinowelt TV
+http://new-pro.tv:8080/Fernando/123321/27655
+#EXTINF:-1,De: Puls 8 HD
+http://new-pro.tv:8080/Fernando/123321/27654
+#EXTINF:-1,De: BR HD
+http://new-pro.tv:8080/Fernando/123321/62255
+#EXTINF:-1,De: NDR HD
+http://new-pro.tv:8080/Fernando/123321/62251
+#EXTINF:-1,De: Romance TV
+http://new-pro.tv:8080/Fernando/123321/27620
+#EXTINF:-1,De: E! Entertainment HD
+http://new-pro.tv:8080/Fernando/123321/27599
+#EXTINF:-1,De: E! Entertainment 4K
+http://new-pro.tv:8080/Fernando/123321/110341
+#EXTINF:-1,De: Franken
+http://new-pro.tv:8080/Fernando/123321/294956
+#EXTINF:-1,De: HSE24
+http://new-pro.tv:8080/Fernando/123321/95516
+#EXTINF:-1,De: HSE24 EXTRA
+http://new-pro.tv:8080/Fernando/123321/95517
+#EXTINF:-1,De: QVC HD
+http://new-pro.tv:8080/Fernando/123321/294935
+#EXTINF:-1,De: 123TV HD
+http://new-pro.tv:8080/Fernando/123321/294933
+#EXTINF:-1,✦●✦ De: Germany Lokal ✦●✦
+http://new-pro.tv:8080/Fernando/123321/28888
+#EXTINF:-1,De: Pearl TV
+http://new-pro.tv:8080/Fernando/123321/294958
+#EXTINF:-1,De: Juwelo
+http://new-pro.tv:8080/Fernando/123321/294959
+#EXTINF:-1,De: Bergblick
+http://new-pro.tv:8080/Fernando/123321/294957
+#EXTINF:-1,De: Rbw Tv
+http://new-pro.tv:8080/Fernando/123321/21475
+#EXTINF:-1,De: Augsburg TV
+http://new-pro.tv:8080/Fernando/123321/294946
+#EXTINF:-1,De: Munchen TV
+http://new-pro.tv:8080/Fernando/123321/294953
+#EXTINF:-1,De: Channel 21
+http://new-pro.tv:8080/Fernando/123321/294954
+#EXTINF:-1,De: Douna Tv
+http://new-pro.tv:8080/Fernando/123321/21468
+#EXTINF:-1,De: Folx
+http://new-pro.tv:8080/Fernando/123321/294955
+#EXTINF:-1,DE: SILVERLINE
+http://new-pro.tv:8080/Fernando/123321/294932
+#EXTINF:-1,De: Waidwerk
+http://new-pro.tv:8080/Fernando/123321/294960
+#EXTINF:-1,De: Baden Tv
+http://new-pro.tv:8080/Fernando/123321/21471
+#EXTINF:-1,DE: BIBEL TV
+http://new-pro.tv:8080/Fernando/123321/294928
+#EXTINF:-1,De: Ran 1Tv
+http://new-pro.tv:8080/Fernando/123321/21476
+#EXTINF:-1,De: Oberpfalz Tv
+http://new-pro.tv:8080/Fernando/123321/21478
+#EXTINF:-1,DE: FILSTALWELLE
+http://new-pro.tv:8080/Fernando/123321/294930
+#EXTINF:-1,De: Rbb HD
+http://new-pro.tv:8080/Fernando/123321/28887
+#EXTINF:-1,De: RFO
+http://new-pro.tv:8080/Fernando/123321/294952
+#EXTINF:-1,De: ZDF Info HD
+http://new-pro.tv:8080/Fernando/123321/27633
+#EXTINF:-1,De: Nat Geo HD
+http://new-pro.tv:8080/Fernando/123321/27606
+#EXTINF:-1,De: Nat Geo 4K
+http://new-pro.tv:8080/Fernando/123321/95708
+#EXTINF:-1,De: Nat Geo Wild HD
+http://new-pro.tv:8080/Fernando/123321/27607
+#EXTINF:-1,De: Nat Geo Wild 4K
+http://new-pro.tv:8080/Fernando/123321/95707
+#EXTINF:-1,De: History HD
+http://new-pro.tv:8080/Fernando/123321/27610
+#EXTINF:-1,De: History 4K
+http://new-pro.tv:8080/Fernando/123321/110342
+#EXTINF:-1,De: Discovery Channel HD
+http://new-pro.tv:8080/Fernando/123321/27612
+#EXTINF:-1,De: Discovery Channel 4K
+http://new-pro.tv:8080/Fernando/123321/95706
+#EXTINF:-1,De: Kabel 1 Doku HD
+http://new-pro.tv:8080/Fernando/123321/27609
+#EXTINF:-1,De: Kabel 1 Doku 4K
+http://new-pro.tv:8080/Fernando/123321/63048
+#EXTINF:-1,De: Crime & Investigation HD
+http://new-pro.tv:8080/Fernando/123321/69565
+#EXTINF:-1,De: TLC HD
+http://new-pro.tv:8080/Fernando/123321/27604
+#EXTINF:-1,De: Animal Planet HD
+http://new-pro.tv:8080/Fernando/123321/27613
+#EXTINF:-1,De: Spiegel Geschichte HD
+http://new-pro.tv:8080/Fernando/123321/66082
+#EXTINF:-1,De: Spiegel TV Wissen HD
+http://new-pro.tv:8080/Fernando/123321/27605
+#EXTINF:-1,De: N24 DoKu HD
+http://new-pro.tv:8080/Fernando/123321/62253
+#EXTINF:-1,De: Phoenix HD
+http://new-pro.tv:8080/Fernando/123321/27600
+#EXTINF:-1,De: SCHAU TV HD
+http://new-pro.tv:8080/Fernando/123321/294934
+#EXTINF:-1,De: HGTV
+http://new-pro.tv:8080/Fernando/123321/294950
+#EXTINF:-1,De: Health TV
+http://new-pro.tv:8080/Fernando/123321/294951
+#EXTINF:-1,De: WELT DER WUNDER TV
+http://new-pro.tv:8080/Fernando/123321/294966
+#EXTINF:-1,✦●✦ De: Germany Music ✦●✦
+http://new-pro.tv:8080/Fernando/123321/28890
+#EXTINF:-1,De: JukeBox HD
+http://new-pro.tv:8080/Fernando/123321/27597
+#EXTINF:-1,De: Deluxe Music HD
+http://new-pro.tv:8080/Fernando/123321/27591
+#EXTINF:-1,De: Classica
+http://new-pro.tv:8080/Fernando/123321/27617
+#EXTINF:-1,DE: SONNENKLAR TV
+http://new-pro.tv:8080/Fernando/123321/294929
+#EXTINF:-1,De: Heimat Kanal TV
+http://new-pro.tv:8080/Fernando/123321/27616
+#EXTINF:-1,De: Boomerang HD
+http://new-pro.tv:8080/Fernando/123321/27625
+#EXTINF:-1,De: Cartoon Network HD
+http://new-pro.tv:8080/Fernando/123321/27624
+#EXTINF:-1,De: Disney Channel HD
+http://new-pro.tv:8080/Fernando/123321/27593
+#EXTINF:-1,De: Disney Plus Film
+http://new-pro.tv:8080/Fernando/123321/294949
+#EXTINF:-1,De: Junior HD
+http://new-pro.tv:8080/Fernando/123321/71177
+#EXTINF:-1,De: baby
+http://new-pro.tv:8080/Fernando/123321/294942
+#EXTINF:-1,De: NickToons HD
+http://new-pro.tv:8080/Fernando/123321/66078
+#EXTINF:-1,De: Nick + HD
+http://new-pro.tv:8080/Fernando/123321/62250
+#EXTINF:-1,De: Nick JR
+http://new-pro.tv:8080/Fernando/123321/294965
+#EXTINF:-1,De: Super RTL HD
+http://new-pro.tv:8080/Fernando/123321/27629
+#EXTINF:-1,De: Super RTL 4K
+http://new-pro.tv:8080/Fernando/123321/63054
+#EXTINF:-1,De: Kika HD
+http://new-pro.tv:8080/Fernando/123321/27602
+#EXTINF:-1,De: Kika 4K
+http://new-pro.tv:8080/Fernando/123321/63111
+#EXTINF:-1,De: Toggo Plus TV
+http://new-pro.tv:8080/Fernando/123321/27628
+#EXTINF:-1,De: Warner Film HD
+http://new-pro.tv:8080/Fernando/123321/27662
+#EXTINF:-1,De: Warner Film 4K
+http://new-pro.tv:8080/Fernando/123321/95712
+#EXTINF:-1,De: Warner Series HD
+http://new-pro.tv:8080/Fernando/123321/27661
+#EXTINF:-1,De: Warner Series 4K
+http://new-pro.tv:8080/Fernando/123321/66077
+#EXTINF:-1,De: Warner Comedy HD
+http://new-pro.tv:8080/Fernando/123321/27663
+#EXTINF:-1,De: Warner Comedy 4K
+http://new-pro.tv:8080/Fernando/123321/95721
+#EXTINF:-1,De: Comedy Central HD
+http://new-pro.tv:8080/Fernando/123321/62260
+#EXTINF:-1,De: Comedy Central 4K
+http://new-pro.tv:8080/Fernando/123321/66073
+#EXTINF:-1,De: Sky replay
+http://new-pro.tv:8080/Fernando/123321/27598
+#EXTINF:-1,De: Sky replay 4K
+http://new-pro.tv:8080/Fernando/123321/95718
+#EXTINF:-1,De: Sky Atlantic HD
+http://new-pro.tv:8080/Fernando/123321/27668
+#EXTINF:-1,De: Sky Atlantic 4K
+http://new-pro.tv:8080/Fernando/123321/95709
+#EXTINF:-1,De: Sky Cinema Action HD
+http://new-pro.tv:8080/Fernando/123321/71181
+#EXTINF:-1,De: Sky Cinema Action 4K
+http://new-pro.tv:8080/Fernando/123321/66076
+#EXTINF:-1,De: Sky Cinema Fun HD
+http://new-pro.tv:8080/Fernando/123321/27666
+#EXTINF:-1,De: Sky Cinema Family HD
+http://new-pro.tv:8080/Fernando/123321/27671
+#EXTINF:-1,De: Sky Cinema Family 4K
+http://new-pro.tv:8080/Fernando/123321/66072
+#EXTINF:-1,De: Sky Cinema Best Of HD
+http://new-pro.tv:8080/Fernando/123321/66079
+#EXTINF:-1,De: Sky Cinema best Of 4K
+http://new-pro.tv:8080/Fernando/123321/95720
+#EXTINF:-1,De: Sky Cinema Special HD
+http://new-pro.tv:8080/Fernando/123321/66081
+#EXTINF:-1,De: Sky Cinema Special 4K
+http://new-pro.tv:8080/Fernando/123321/95711
+#EXTINF:-1,De: Sky Cinema Premiere HD
+http://new-pro.tv:8080/Fernando/123321/71182
+#EXTINF:-1,De: Sky Cinema Premiere 4K
+http://new-pro.tv:8080/Fernando/123321/66062
+#EXTINF:-1,De: Cinema Premiere +24 4K
+http://new-pro.tv:8080/Fernando/123321/95723
+#EXTINF:-1,De: Sky Cinema Premiere +24
+http://new-pro.tv:8080/Fernando/123321/71178
+#EXTINF:-1,De: Sky Cinema Thriller 4K
+http://new-pro.tv:8080/Fernando/123321/95713
+#EXTINF:-1,De: Sky Krimi HD
+http://new-pro.tv:8080/Fernando/123321/27665
+#EXTINF:-1,De: Sky Krimi 4K
+http://new-pro.tv:8080/Fernando/123321/95714
+#EXTINF:-1,De: SKY CRIME HD
+http://new-pro.tv:8080/Fernando/123321/294943
+#EXTINF:-1,De: SKY COMEDY HD
+http://new-pro.tv:8080/Fernando/123321/294944
+#EXTINF:-1,De: Sky ONE
+http://new-pro.tv:8080/Fernando/123321/160871
+#EXTINF:-1,De: Sky Cinema
+http://new-pro.tv:8080/Fernando/123321/27672
+#EXTINF:-1,De: Sky Cinema  24
+http://new-pro.tv:8080/Fernando/123321/27673
+#EXTINF:-1,De: Sky Select 32 Hits
+http://new-pro.tv:8080/Fernando/123321/27670
+#EXTINF:-1,De: Sky Cinema Classic HD
+http://new-pro.tv:8080/Fernando/123321/66080
+#EXTINF:-1,De: Hyper Cinema Info HD
+http://new-pro.tv:8080/Fernando/123321/95592
+#EXTINF:-1,De: Hyper Cinema Boxset HD
+http://new-pro.tv:8080/Fernando/123321/95593
+#EXTINF:-1,De: Hyper Cinema 1 HD
+http://new-pro.tv:8080/Fernando/123321/95594
+#EXTINF:-1,De: Hyper Cinema 2 HD
+http://new-pro.tv:8080/Fernando/123321/95595
+#EXTINF:-1,De: Hyper Cinema 3 HD
+http://new-pro.tv:8080/Fernando/123321/95596
+#EXTINF:-1,De: Hyper Cinema 4 HD
+http://new-pro.tv:8080/Fernando/123321/95597
+#EXTINF:-1,De: Hyper Cinema 5 HD
+http://new-pro.tv:8080/Fernando/123321/95598
+#EXTINF:-1,De: Hyper Cinema 6 HD
+http://new-pro.tv:8080/Fernando/123321/95599
+#EXTINF:-1,De: Hyper Cinema 7 HD
+http://new-pro.tv:8080/Fernando/123321/95600
+#EXTINF:-1,De: Hyper Cinema 8 HD
+http://new-pro.tv:8080/Fernando/123321/95601
+#EXTINF:-1,De: Netflix Deutsche 1 HD
+http://new-pro.tv:8080/Fernando/123321/35611
+#EXTINF:-1,De: Netflix Deutsche 2 HD
+http://new-pro.tv:8080/Fernando/123321/35612
+#EXTINF:-1,De: Netflix Deutsche 3 HD
+http://new-pro.tv:8080/Fernando/123321/35613
+#EXTINF:-1,De: Netflix Deutsche 4 HD
+http://new-pro.tv:8080/Fernando/123321/35614
+#EXTINF:-1,De: Netflix Deutsche 5 HD
+http://new-pro.tv:8080/Fernando/123321/35615
+#EXTINF:-1,De: Netflix Deutsche 6 HD
+http://new-pro.tv:8080/Fernando/123321/35616
+#EXTINF:-1,De: Netflix Deutsche HD7
+http://new-pro.tv:8080/Fernando/123321/35617
+#EXTINF:-1,De: Netflix Deutsche HD8
+http://new-pro.tv:8080/Fernando/123321/35618
+#EXTINF:-1,De: Netflix Deutsche HD9
+http://new-pro.tv:8080/Fernando/123321/35619
+#EXTINF:-1,De: Netflix Deutsche HD10
+http://new-pro.tv:8080/Fernando/123321/35620
+#EXTINF:-1,De: Sky Select 1 HD
+http://new-pro.tv:8080/Fernando/123321/27728
+#EXTINF:-1,De: Sky Select 2 HD
+http://new-pro.tv:8080/Fernando/123321/27727
+#EXTINF:-1,De: Sky Select 3 HD
+http://new-pro.tv:8080/Fernando/123321/27726
+#EXTINF:-1,De: Sky Select 4 HD
+http://new-pro.tv:8080/Fernando/123321/95579
+#EXTINF:-1,De: Sky Select 5 HD
+http://new-pro.tv:8080/Fernando/123321/95580
+#EXTINF:-1,De: Sky Select 6 HD
+http://new-pro.tv:8080/Fernando/123321/27723
+#EXTINF:-1,De: Sky Select 7 HD
+http://new-pro.tv:8080/Fernando/123321/27722
+#EXTINF:-1,De: Sky Select 8 HD
+http://new-pro.tv:8080/Fernando/123321/95581
+#EXTINF:-1,De: Sky Select 9 HD
+http://new-pro.tv:8080/Fernando/123321/95582
+#EXTINF:-1,De: Sky Select 10 HD
+http://new-pro.tv:8080/Fernando/123321/95583
+#EXTINF:-1,De: Sky Select 12 HD
+http://new-pro.tv:8080/Fernando/123321/95584
+#EXTINF:-1,De: Sky Select 13 HD
+http://new-pro.tv:8080/Fernando/123321/95585
+#EXTINF:-1,De: Max Select 1 HD
+http://new-pro.tv:8080/Fernando/123321/36281
+#EXTINF:-1,De: Max Select 2 HD
+http://new-pro.tv:8080/Fernando/123321/36282
+#EXTINF:-1,De: Max Select 3 HD
+http://new-pro.tv:8080/Fernando/123321/36283
+#EXTINF:-1,De: Max Select 4 HD
+http://new-pro.tv:8080/Fernando/123321/36284
+#EXTINF:-1,De: Max Select 5 HD
+http://new-pro.tv:8080/Fernando/123321/36285
+#EXTINF:-1,De: Sky PopCorn 1 HD
+http://new-pro.tv:8080/Fernando/123321/95586
+#EXTINF:-1,De: Sky PopCorn 3 HD
+http://new-pro.tv:8080/Fernando/123321/95588
+#EXTINF:-1,De: Sky PopCorn 4 HD
+http://new-pro.tv:8080/Fernando/123321/95589
+#EXTINF:-1,De: Sky PopCorn 5 HD
+http://new-pro.tv:8080/Fernando/123321/95590
+#EXTINF:-1,De: Sky Sport News HD
+http://new-pro.tv:8080/Fernando/123321/33379
+#EXTINF:-1,De: Sky Sport News 4K
+http://new-pro.tv:8080/Fernando/123321/95719
+#EXTINF:-1,De: Dazn Bar 1 HD
+http://new-pro.tv:8080/Fernando/123321/33382
+#EXTINF:-1,De: Dazn 1 4K
+http://new-pro.tv:8080/Fernando/123321/66075
+#EXTINF:-1,De: Dazn Bar 2 HD
+http://new-pro.tv:8080/Fernando/123321/33383
+#EXTINF:-1,De: Dazn 2 4K
+http://new-pro.tv:8080/Fernando/123321/66074
+#EXTINF:-1,De: EuroSport 1 HD
+http://new-pro.tv:8080/Fernando/123321/33380
+#EXTINF:-1,De: EuroSport 1 4K
+http://new-pro.tv:8080/Fernando/123321/66066
+#EXTINF:-1,De: EuroSport 2 HD
+http://new-pro.tv:8080/Fernando/123321/33381
+#EXTINF:-1,De: EuroSport 2 4K
+http://new-pro.tv:8080/Fernando/123321/95722
+#EXTINF:-1,De: Auto Motor Sport HD
+http://new-pro.tv:8080/Fernando/123321/69568
+#EXTINF:-1,De: Sky Sport F1
+http://new-pro.tv:8080/Fernando/123321/126307
+#EXTINF:-1,De: Motorvision TV
+http://new-pro.tv:8080/Fernando/123321/234065
+#EXTINF:-1,De: SPORT DIGITAL FUSSBALL HD
+http://new-pro.tv:8080/Fernando/123321/294945
+#EXTINF:-1,De: Sky Sport Bundesliga 1 HD
+http://new-pro.tv:8080/Fernando/123321/33359
+#EXTINF:-1,De: Sky Sport Bundesliga 1 4K
+http://new-pro.tv:8080/Fernando/123321/74786
+#EXTINF:-1,De: Sky Sport Bundesliga 2 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33360
+#EXTINF:-1,De: Sky Sport Bundesliga 3 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33361
+#EXTINF:-1,De: Sky Sport Bundesliga 4 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33362
+#EXTINF:-1,De: Sky Sport Bundesliga 5 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33363
+#EXTINF:-1,De: Sky Sport Bundesliga 6 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33364
+#EXTINF:-1,De: Sky Sport Bundesliga 7 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33365
+#EXTINF:-1,De: Sky Sport Bundesliga 8 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33366
+#EXTINF:-1,De: Sky Sport Bundesliga 9 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33367
+#EXTINF:-1,De: Sky Sport Bundesliga 10 HD
+http://new-pro.tv:8080/Fernando/123321/33237
+#EXTINF:-1,De: Sky Sport 1 HD
+http://new-pro.tv:8080/Fernando/123321/33368
+#EXTINF:-1,De: Sky Sport 1 4K
+http://new-pro.tv:8080/Fernando/123321/66070
+#EXTINF:-1,De: Sky Sport 2 HD
+http://new-pro.tv:8080/Fernando/123321/33369
+#EXTINF:-1,De: Sky Sport 3 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33370
+#EXTINF:-1,De: Sky Sport 4 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33371
+#EXTINF:-1,De: Sky Sport 5 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33372
+#EXTINF:-1,De: Sky Sport 6 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33373
+#EXTINF:-1,De: Sky Sport 7 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33374
+#EXTINF:-1,De: Sky Sport 8 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33375
+#EXTINF:-1,De: Sky Sport 9 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33376
+#EXTINF:-1,De: Sky Sport 10 HD [ Match Time ]
+http://new-pro.tv:8080/Fernando/123321/33377
+#EXTINF:-1,De: Telekom DEL SPORT 1  NUR SPIEL
+http://new-pro.tv:8080/Fernando/123321/95497
+#EXTINF:-1,De: Telekom DEL SPORT 2  NUR SPIEL
+http://new-pro.tv:8080/Fernando/123321/95498
+#EXTINF:-1,De: Telekom DEL SPORT 3  NUR SPIEL
+http://new-pro.tv:8080/Fernando/123321/95499
+#EXTINF:-1,De: Telekom DEL SPORT 4  NUR SPIEL
+http://new-pro.tv:8080/Fernando/123321/95500
+#EXTINF:-1,De: Telekom DEL SPORT 5  NUR SPIEL
+http://new-pro.tv:8080/Fernando/123321/95501
+#EXTINF:-1,De: Telekom DEL SPORT 6  NUR SPIEL
+http://new-pro.tv:8080/Fernando/123321/95502
+#EXTINF:-1,De: Telekom DEL SPORT 7 NUR SPIEL
+http://new-pro.tv:8080/Fernando/123321/95503
+#EXTINF:-1,De: Telekom Fussball Liga 8 ( Match Only )
+http://new-pro.tv:8080/Fernando/123321/95505
+#EXTINF:-1,De: Telekom Fussball Liga 10 ( Match Only )
+http://new-pro.tv:8080/Fernando/123321/95506
+#EXTINF:-1,De: Telekom Fussball Liga 11 ( Match Only )
+http://new-pro.tv:8080/Fernando/123321/95507
+#EXTINF:-1,De: Telekom Basketball BBL 1 [Match Time]
+http://new-pro.tv:8080/Fernando/123321/95508
+#EXTINF:-1,De: Telekom Basketball BBL 2 [Match Time]
+http://new-pro.tv:8080/Fernando/123321/95509
+#EXTINF:-1,De: Telekom Basketball BBL 3
+http://new-pro.tv:8080/Fernando/123321/95510
+#EXTINF:-1,De: Telekom SKY SPORT KOMPAKT 1 HD  NUR SPIEL
+http://new-pro.tv:8080/Fernando/123321/95512
+#EXTINF:-1,De: Telekom SKY SPORT KOMPAKT 2 HD  NUR SPIE
+http://new-pro.tv:8080/Fernando/123321/95513
+#EXTINF:-1,De: Telekom SKY SPORT KOMPAKT 3 HD  NUR SPIEL
+http://new-pro.tv:8080/Fernando/123321/95514
+#EXTINF:-1,De: Telekom SKY SPORT KOMPAKT 4 HD  NUR SPIE
+http://new-pro.tv:8080/Fernando/123321/95515
