@@ -10,8 +10,8 @@
   <channel id="RTL">
     <display-name>RTL</display-name>
   </channel>
-  <channel id="SAT1">
-    <display-name>Sat.1</display-name>
+  <channel id="SAT.1">
+    <display-name>Sat1</display-name>
   </channel>
   <channel id="PRO7">
     <display-name>PRO7</display-name>
