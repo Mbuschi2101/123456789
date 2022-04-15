@@ -2,7 +2,7 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="epg_grabber">
   <channel id="ARD">
-    <display-name>ARD</display-name>
+    <display-name>Das Erste</display-name>
   </channel>
   <channel id="ZDF">
     <display-name>ZDF</display-name>
