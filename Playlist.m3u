@@ -1,563 +1,356 @@
 #EXTM3U
-#EXTINF:-1,DE: 3SAT HD
-http://bigdog.click:80/cheese1/cheese1/576814
-#EXTINF:-1,DE: ARD HD
-http://bigdog.click:80/cheese1/cheese1/576815
-#EXTINF:-1,DE: ARTE
-http://bigdog.click:80/cheese1/cheese1/576816
-#EXTINF:-1,DE: ZDF HD
-http://bigdog.click:80/cheese1/cheese1/576817
-#EXTINF:-1,DE: BOOMERANG
-http://bigdog.click:80/cheese1/cheese1/576818
-#EXTINF:-1,DE: SKY CINEMA HD
-http://bigdog.click:80/cheese1/cheese1/576819
-#EXTINF:-1,DE: COMEDY CENTRAL
-http://bigdog.click:80/cheese1/cheese1/576820
-#EXTINF:-1,DE: DISCOVERY CHANNEL HD
-http://bigdog.click:80/cheese1/cheese1/576821
-#EXTINF:-1,DE: DISNEY CINEMA MAGIC
-http://bigdog.click:80/cheese1/cheese1/576822
-#EXTINF:-1,DE: WDR HD
-http://bigdog.click:80/cheese1/cheese1/576823
+#EXTINF:-1,DE : Eurosport 1 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/521
+#EXTINF:-1,DE : Sky Atlantic HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/515
+#EXTINF:-1,DE : A&E FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6291
+#EXTINF:-1,DE : Animal Planet FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6292
+
+#EXTINF:-1,DE : Discovery FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6294
+
+#EXTINF:-1,DE : Sky Replay
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6297
+
+#EXTINF:-1,DE : Nat Geo Wild FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6301
+#EXTINF:-1,DE : National Geographic FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6303
+#EXTINF:-1,DE : PRO 7 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6304
+
+#EXTINF:-1,DE : RTL 2 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6306
+#EXTINF:-1,DE : RTL FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6307
+#EXTINF:-1,DE : RTL NITRO FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6308
+#EXTINF:-1,DE : SAT.1 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6309
+#EXTINF:-1,DE : sixx FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6310
+#EXTINF:-1,DE : Sky Action FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6311
+#EXTINF:-1,DE : Sky Cinema FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6313
+#EXTINF:-1,DE : Sky Hits FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6314
+
+#EXTINF:-1,DE : TNT Serie FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6317
+#EXTINF:-1,DE : VOX FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6318
+#EXTINF:-1,DE: 13th Street
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/527
+
+
+
+
+#EXTINF:-1,DE: Auto Motor Sport HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/68374
+#EXTINF:-1,DE: AXN HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/462
+
+#EXTINF:-1,DE: Bundesliga 1
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/951
+#EXTINF:-1,DE: Bundesliga 2 FHD (BackUp)
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/8123
+
+
+#EXTINF:-1,DE: DAS ERSTE HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6322
+
+#EXTINF:-1,DE: Discovery HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/458
+
+#EXTINF:-1,DE: Eurosport 2 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7590
+
+
+#EXTINF:-1,DE: KABEL 1 CLASSIC
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/31523
+#EXTINF:-1,DE: Kabel 1 Doku
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/31524
+#EXTINF:-1,DE: KABEL 1 HD 1080
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/8758
+
+#EXTINF:-1,DE: KINOWELT TV HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/31527
+
+#EXTINF:-1,DE: MDR Sachsen FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7227
+
+
+#EXTINF:-1,DE: N-TV HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6300
+#EXTINF:-1,DE: Welt
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/946
+
+#EXTINF:-1,DE: ONE HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/31525
+#EXTINF:-1,DE: Orf 1
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/945
+#EXTINF:-1,DE: Orf 2
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/944
+
+#EXTINF:-1,DE: Pro7 Fun HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7056
+
+#EXTINF:-1,DE: ProSieben 
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7249
+#EXTINF:-1,DE: ProSieben Maxx FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7244
+
+#EXTINF:-1,DE: RTL
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/942
+
+
+#EXTINF:-1,DE: RTL NITRO
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/940
+#EXTINF:-1,DE: RTL Passion
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/516
+
+
+#EXTINF:-1,DE: sat 1 emotions
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/938
+#EXTINF:-1,DE: Sat 1 Gold
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6326
+#EXTINF:-1,DE: SAT.1 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7578
+
+#EXTINF:-1,DE: SILVERLINE
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/68373
 #EXTINF:-1,DE: SIXX HD
-http://bigdog.click:80/cheese1/cheese1/576824
-#EXTINF:-1,DE: SONY AXN
-http://bigdog.click:80/cheese1/cheese1/576825
-#EXTINF:-1,DE: ZEE ONE HD
-http://bigdog.click:80/cheese1/cheese1/576829
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/8756
+#EXTINF:-1,DE: Sky 1 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7579
+#EXTINF:-1,DE: Sky Action HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/412
+#EXTINF:-1,DE: Sky Arts FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7580
+#EXTINF:-1,DE: Sky atlantic
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/935
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/933
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6312
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/408
+#EXTINF:-1,DE: Sky Bundesliga 1 HD ( during match )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/8145
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3086
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3079
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3078
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3080
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3081
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3082
+#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3083
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3084
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3085
+#EXTINF:-1,DE: Sky Bundesliga 9 HD ( during match )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/8137
+#EXTINF:-1,DE: Sky Cinema  1 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7582
+#EXTINF:-1,DE: Sky Cinema  1 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/448
+#EXTINF:-1,DE: SKY CINEMA  24
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/932
+#EXTINF:-1,DE: Sky Cinema  24 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7581
+#EXTINF:-1,DE: Sky Cinema Family
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7265
+#EXTINF:-1,DE: Sky Cinema Family FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7583
+#EXTINF:-1,DE: Sky Cinema Fun HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/68370
+#EXTINF:-1,DE: Sky Cinema HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/413
+#EXTINF:-1,DE: Sky Cinema Hits
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7266
+#EXTINF:-1,DE: Sky Cinema Premieren +24 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/68371
+#EXTINF:-1,DE: Sky Cinema Premieren FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/68367
+#EXTINF:-1,DE: Sky Cinema Premieren HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/68368
+#EXTINF:-1,DE: Sky Comedy HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/415
+#EXTINF:-1,DE: Sky Disney HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/419
+#EXTINF:-1,DE: Sky DMAX HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/453
+#EXTINF:-1,DE: Sky Emotion HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/418
+#EXTINF:-1,DE: Sky  BUNDESLIGA 10 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3631
+#EXTINF:-1,DE: Sky  BUNDESLIGA 2 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3623
+#EXTINF:-1,DE: Sky  BUNDESLIGA 3 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3624
+#EXTINF:-1,DE: Sky  BUNDESLIGA 4 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3625
+#EXTINF:-1,DE: Sky  BUNDESLIGA 5 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3626
+#EXTINF:-1,DE: Sky  BUNDESLIGA 6 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3627
+#EXTINF:-1,DE: Sky  BUNDESLIGA 7 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3628
+#EXTINF:-1,DE: Sky  BUNDESLIGA 8 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3629
+#EXTINF:-1,DE: Sky  BUNDESLIGA 9 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3630
+#EXTINF:-1,DE: Sky Hits HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/414
+#EXTINF:-1,DE: Sky Krimi
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/514
+#EXTINF:-1,DE: Sky Nostalgie
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/513
+#EXTINF:-1,DE: SKY SELECT 1
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/4093
+#EXTINF:-1,DE: SKY SELECT 2
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/4094
+#EXTINF:-1,DE: SKY SELECT 3
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/4095
+#EXTINF:-1,DE: SKY SELECT 4
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/4096
+#EXTINF:-1,DE: SKY SELECT 5
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/4097
+#EXTINF:-1,DE: SKY SELECT 6
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/4098
+#EXTINF:-1,DE: Sky Select 7
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/4099
+#EXTINF:-1,DE: Sky Select 8
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/4100
+#EXTINF:-1,DE: Sky Sport 1 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6746
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/409
+#EXTINF:-1,DE: Sky Sport 1 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7524
+#EXTINF:-1,DE: Sky Sport 10 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6755
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3076
+#EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3077
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6747
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/410
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7523
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3069
+#EXTINF:-1,DE: Sky Sport 4 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6749
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3070
+#EXTINF:-1,DE: Sky Sport 5 HD  ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3071
+#EXTINF:-1,DE: Sky Sport 6 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6751
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3072
+#EXTINF:-1,DE: Sky Sport 7 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6752
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3073
+#EXTINF:-1,DE: Sky Sport 8 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6753
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3074
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3075
+#EXTINF:-1,DE: Sky Sport Austria
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/931
+#EXTINF:-1,DE: Sky Sport Austria FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7584
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7534
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6795
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7532
+#EXTINF:-1,DE: Sky Sport Fanzone FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7224
+#EXTINF:-1,DE: Sky Sport News FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6745
+#EXTINF:-1,DE: Sky Sport News HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/447
+#EXTINF:-1,DE: Sky Sport News FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7513
+#EXTINF:-1,DE: Sky Universal HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/416
+#EXTINF:-1,DE: SPIEGEL TV Wissen HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7240
+#EXTINF:-1,DE: Sport 1  HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/511
+#EXTINF:-1,DE: Sport 1 US
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6982
+#EXTINF:-1,DE: Sport 1+ HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6980
+#EXTINF:-1,DE: Sport Digital HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6981
+#EXTINF:-1,DE: SPORT1 FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7223
+#EXTINF:-1,DE: SRF Zwei DE
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7586
 #EXTINF:-1,DE: SUPER RTL HD
-http://bigdog.click:80/cheese1/cheese1/576830
-#EXTINF:-1,DE: RTL NITRO HD
-http://bigdog.click:80/cheese1/cheese1/576831
-#EXTINF:-1,DE: RTL PASSION HD
-http://bigdog.click:80/cheese1/cheese1/576832
-#EXTINF:-1,DE: RTL PLUS HD
-http://bigdog.click:80/cheese1/cheese1/576833
-#EXTINF:-1,DE: NDR HD
-http://bigdog.click:80/cheese1/cheese1/576834
-#EXTINF:-1,DE: FOX
-http://bigdog.click:80/cheese1/cheese1/576835
-#EXTINF:-1,DE: JUNIOR HD 1080
-http://bigdog.click:80/cheese1/cheese1/576836
-#EXTINF:-1,DE: KABEL 1 HD
-http://bigdog.click:80/cheese1/cheese1/576837
-#EXTINF:-1,DE: KIKA HD
-http://bigdog.click:80/cheese1/cheese1/576838
-#EXTINF:-1,DE: N24 HD
-http://bigdog.click:80/cheese1/cheese1/576839
-#EXTINF:-1,DE: NAT GEO HD
-http://bigdog.click:80/cheese1/cheese1/576840
-#EXTINF:-1,DE: NAT GEO WILD HD
-http://bigdog.click:80/cheese1/cheese1/576841
-#EXTINF:-1,DE: 13TH STREET
-http://bigdog.click:80/cheese1/cheese1/576842
-#EXTINF:-1,DE: NICKELODEON
-http://bigdog.click:80/cheese1/cheese1/576843
-#EXTINF:-1,DE: NTV FHD
-http://bigdog.click:80/cheese1/cheese1/576844
-#EXTINF:-1,DE: ORF SPORT  HD
-http://bigdog.click:80/cheese1/cheese1/576845
-#EXTINF:-1,DE: ORF1 HD
-http://bigdog.click:80/cheese1/cheese1/576846
-#EXTINF:-1,DE: ORF2 HD
-http://bigdog.click:80/cheese1/cheese1/576847
-#EXTINF:-1,DE: POPCORN SELECT 1
-http://bigdog.click:80/cheese1/cheese1/576848
-#EXTINF:-1,DE: POPCORN SELECT 2
-http://bigdog.click:80/cheese1/cheese1/576849
-#EXTINF:-1,DE: POPCORN SELECT 3
-http://bigdog.click:80/cheese1/cheese1/576850
-#EXTINF:-1,DE: POPCORN SELECT 4
-http://bigdog.click:80/cheese1/cheese1/576851
-#EXTINF:-1,DE: POPCORN SELECT 5
-http://bigdog.click:80/cheese1/cheese1/576852
-#EXTINF:-1,DE: POPCORN SELECT 6
-http://bigdog.click:80/cheese1/cheese1/576853
-#EXTINF:-1,DE: PRO7 MAXX
-http://bigdog.click:80/cheese1/cheese1/576854
-#EXTINF:-1,DE: RTL CRIME
-http://bigdog.click:80/cheese1/cheese1/576855
-#EXTINF:-1,DE: RTL LIVING HD
-http://bigdog.click:80/cheese1/cheese1/576856
-#EXTINF:-1,DE: SKY SPORTS 1
-http://bigdog.click:80/cheese1/cheese1/576857
-#EXTINF:-1,DE: SKY SPORTS 2
-http://bigdog.click:80/cheese1/cheese1/576858
-#EXTINF:-1,DE: SKY CINEMA  1 HD
-http://bigdog.click:80/cheese1/cheese1/576859
-#EXTINF:-1,DE: SKY CINEMA  24 HD
-http://bigdog.click:80/cheese1/cheese1/576860
-#EXTINF:-1,DE: SKY CINEMA ACTION HD
-http://bigdog.click:80/cheese1/cheese1/576861
-#EXTINF:-1,DE: SKY CINEMA ATLANTIC HD
-http://bigdog.click:80/cheese1/cheese1/576862
-#EXTINF:-1,DE: SKY CINEMA COMEDY HD
-http://bigdog.click:80/cheese1/cheese1/576863
-#EXTINF:-1,DE: SKY CINEMA EMOTION HD
-http://bigdog.click:80/cheese1/cheese1/576864
-#EXTINF:-1,DE: SKY CINEMA FAMILY HD
-http://bigdog.click:80/cheese1/cheese1/576865
-#EXTINF:-1,DE: SKY CINEMA HD
-http://bigdog.click:80/cheese1/cheese1/576866
-#EXTINF:-1,DE: SKY CINEMA HITS HD
-http://bigdog.click:80/cheese1/cheese1/576867
-#EXTINF:-1,DE: SKY CINEMA NOSTALGIE HD
-http://bigdog.click:80/cheese1/cheese1/576868
-#EXTINF:-1,DE: SKY SYFY HD
-http://bigdog.click:80/cheese1/cheese1/576869
-#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
-http://bigdog.click:80/cheese1/cheese1/576870
-#EXTINF:-1,DE: PRO 7 HD
-http://bigdog.click:80/cheese1/cheese1/576871
-#EXTINF:-1,DE: RTL HD
-http://bigdog.click:80/cheese1/cheese1/576872
-#EXTINF:-1,DE: RTL 2 HD
-http://bigdog.click:80/cheese1/cheese1/576873
-#EXTINF:-1,DE: SAT 1
-http://bigdog.click:80/cheese1/cheese1/576874
-#EXTINF:-1,DE: SVT 1
-http://bigdog.click:80/cheese1/cheese1/576875
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/937
+#EXTINF:-1,DE: SWR DE
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7585
+#EXTINF:-1,DE: Syfy
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/930
+#EXTINF:-1,DE: SyFy FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6316
+#EXTINF:-1,DE: Tele 5 HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/17971
+#EXTINF:-1,DE: TLC FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7246
 #EXTINF:-1,DE: TLC HD
-http://bigdog.click:80/cheese1/cheese1/576876
-#EXTINF:-1,DE: TNT FILM HD
-http://bigdog.click:80/cheese1/cheese1/576877
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/16747
+#EXTINF:-1,DE: TNT Comedy
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/3473
+#EXTINF:-1,DE: TNT Comedy FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7248
+#EXTINF:-1,DE: TNT Film TCM
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/510
+#EXTINF:-1,DE: TNT Serie
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/936
+#EXTINF:-1,DE: TNT Serie HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/417
+#EXTINF:-1,DE: Universal Channel FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7588
+#EXTINF:-1,DE: V2Beat TV
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/68366
+#EXTINF:-1,DE: VIVA
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6323
 #EXTINF:-1,DE: VOX
-http://bigdog.click:80/cheese1/cheese1/576878
-#EXTINF:-1,DE: DAZN 1 HD BAR
-http://bigdog.click:80/cheese1/cheese1/576879
-#EXTINF:-1,DE: DAZN 2 HD BAR
-http://bigdog.click:80/cheese1/cheese1/576880
-#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576881
-#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576882
-#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576883
-#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576884
-#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576885
-#EXTINF:-1,DE: SKY BUNDESLIGA 7 HD (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576886
-#EXTINF:-1,DE: SKY BUNDESLIGA 8 HD (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576887
-#EXTINF:-1,DE: SKY BUNDESLIGA 9 HD (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576888
-#EXTINF:-1,DE: SKY BUNDESLIGA 10 HD (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576889
-#EXTINF:-1,DE: C HD
-http://bigdog.click:80/cheese1/cheese1/576890
-#EXTINF:-1,DE: SKY SPORT 1 HD
-http://bigdog.click:80/cheese1/cheese1/576891
-#EXTINF:-1,DE: SKY SPORT 2 HD
-http://bigdog.click:80/cheese1/cheese1/576892
-#EXTINF:-1,DE: SKY SPORT 4 (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576893
-#EXTINF:-1,DE: SKY SPORT 5 (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576894
-#EXTINF:-1,DE: SKY SPORT 6 (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576895
-#EXTINF:-1,DE: SKY SPORT 7 (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576896
-#EXTINF:-1,DE: SKY SPORT 8 (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576897
-#EXTINF:-1,DE: SKY SPORT 9 (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576898
-#EXTINF:-1,DE: SKY SPORT 10 (MATCH TIME)
-http://bigdog.click:80/cheese1/cheese1/576899
-#EXTINF:-1,DE: SKY SPORT AUSTRIA HD
-http://bigdog.click:80/cheese1/cheese1/576900
-#EXTINF:-1,DE: NOW 90S HITS
-http://bigdog.click:80/cheese1/cheese1/576901
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/526
+#EXTINF:-1,DE: VOX HD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/8757
+#EXTINF:-1,DE: WDR HD DE
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6328
+#EXTINF:-1,DE: ZDF
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/928
+#EXTINF:-1,DE: ZDF FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/8862
+#EXTINF:-1,DE: ZDF info
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/31526
 #EXTINF:-1,DE: ZDF NEO HD
-http://bigdog.click:80/cheese1/cheese1/576902
-#EXTINF:-1,DE: SPORT 1 HD
-http://bigdog.click:80/cheese1/cheese1/576903
-#EXTINF:-1,DE: DMAX HD
-http://bigdog.click:80/cheese1/cheese1/576904
-#EXTINF:-1,DE: TNT COMEDY HD
-http://bigdog.click:80/cheese1/cheese1/576905
-#EXTINF:-1,DE: TNT FILM HD
-http://bigdog.click:80/cheese1/cheese1/576906
-#EXTINF:-1,DE: TNT SERIE HD
-http://bigdog.click:80/cheese1/cheese1/576907
-#EXTINF:-1,DE: DISNEY CINEMAGIC HD
-http://bigdog.click:80/cheese1/cheese1/576909
-#EXTINF:-1,DE: SKY ONE
-http://bigdog.click:80/cheese1/cheese1/576910
-#EXTINF:-1,DE: DISNEY JUNIOR
-http://bigdog.click:80/cheese1/cheese1/576911
-#EXTINF:-1,DE: DISNEY XD
-http://bigdog.click:80/cheese1/cheese1/576912
-#EXTINF:-1,DE: BADEN TV FHD
-http://bigdog.click:80/cheese1/cheese1/576913
-#EXTINF:-1,DE: BAYERISCHES FERNSEHEN NORD HD
-http://bigdog.click:80/cheese1/cheese1/576914
-#EXTINF:-1,DE: BAYERISCHES FERNSEHEN SUD HD
-http://bigdog.click:80/cheese1/cheese1/576915
-#EXTINF:-1,DE: BERGBLICK HD
-http://bigdog.click:80/cheese1/cheese1/576916
-#EXTINF:-1,DE: BIBEL TV HD
-http://bigdog.click:80/cheese1/cheese1/576917
-#EXTINF:-1,DE: BIBEL TV IMPLUS HD
-http://bigdog.click:80/cheese1/cheese1/576918
-#EXTINF:-1,DE: BIBEL TV MUSIK HD
-http://bigdog.click:80/cheese1/cheese1/576919
-#EXTINF:-1,DE: BOSS TV MOVIES 1 FHD
-http://bigdog.click:80/cheese1/cheese1/576921
-#EXTINF:-1,DE: BOSS TV MOVIES 2 FHD
-http://bigdog.click:80/cheese1/cheese1/576922
-#EXTINF:-1,DE: BOSS TV MOVIES 3 HD
-http://bigdog.click:80/cheese1/cheese1/576923
-#EXTINF:-1,DE: BOSS TV MOVIES 4 HD
-http://bigdog.click:80/cheese1/cheese1/576924
-#EXTINF:-1,DE: CHEMNITZ FERNSEHEN FHD
-http://bigdog.click:80/cheese1/cheese1/576925
-#EXTINF:-1,DE: CINE GOLD ACTION FHD
-http://bigdog.click:80/cheese1/cheese1/576926
-#EXTINF:-1,DE: CINE GOLD ANIMATION FHD
-http://bigdog.click:80/cheese1/cheese1/576927
-#EXTINF:-1,DE: CINE GOLD BOLLYWOOD FHD
-http://bigdog.click:80/cheese1/cheese1/576928
-#EXTINF:-1,DE: CINE GOLD COMEDY FHD
-http://bigdog.click:80/cheese1/cheese1/576929
-#EXTINF:-1,DE: CINE GOLD DRAMA FHD
-http://bigdog.click:80/cheese1/cheese1/576930
-#EXTINF:-1,DE: CINE GOLD FANTASY FHD
-http://bigdog.click:80/cheese1/cheese1/576931
-#EXTINF:-1,DE: CINE GOLD MUSICAL FHD
-http://bigdog.click:80/cheese1/cheese1/576932
-#EXTINF:-1,DE: CINE GOLD MUSICAL FHD
-http://bigdog.click:80/cheese1/cheese1/576933
-#EXTINF:-1,DE: CINE GOLD ROMANCE FHD
-http://bigdog.click:80/cheese1/cheese1/576934
-#EXTINF:-1,DE: CINE GOLD SCI-FI FHD
-http://bigdog.click:80/cheese1/cheese1/576935
-#EXTINF:-1,DE: CINE GOLD SPONGEBOB HD
-http://bigdog.click:80/cheese1/cheese1/576936
-#EXTINF:-1,DE: CINE GOLD WAR FHD
-http://bigdog.click:80/cheese1/cheese1/576937
-#EXTINF:-1,DE: CINE GOLD WESTERN FHD
-http://bigdog.click:80/cheese1/cheese1/576938
-#EXTINF:-1,DE: CINE MAX JURASSIC PARK FHD
-http://bigdog.click:80/cheese1/cheese1/576939
-#EXTINF:-1,DE: CINEDOME COMEDY FHD
-http://bigdog.click:80/cheese1/cheese1/576940
-#EXTINF:-1,DE: DEL SPORT 1 HD
-http://bigdog.click:80/cheese1/cheese1/576941
-#EXTINF:-1,DE: DELUXE LOUNGE HD
-http://bigdog.click:80/cheese1/cheese1/576942
-#EXTINF:-1,DE: DELUXE MUSIC FHD
-http://bigdog.click:80/cheese1/cheese1/576943
-#EXTINF:-1,DE: EAGLE BOLLYWOOD HD
-http://bigdog.click:80/cheese1/cheese1/576944
-#EXTINF:-1,DE: EAGLE CINEMA 007 HD
-http://bigdog.click:80/cheese1/cheese1/576945
-#EXTINF:-1,DE: EAGLE CINEMA 4K
-http://bigdog.click:80/cheese1/cheese1/576946
-#EXTINF:-1,DE: EAGLE CINEMA ABENTEUER HD
-http://bigdog.click:80/cheese1/cheese1/576947
-#EXTINF:-1,DE: EAGLE CINEMA ACTION FHD
-http://bigdog.click:80/cheese1/cheese1/576948
-#EXTINF:-1,DE: EAGLE CINEMA AKTION FHD
-http://bigdog.click:80/cheese1/cheese1/576949
-#EXTINF:-1,DE: EAGLE CINEMA ANIMATION HD
-http://bigdog.click:80/cheese1/cheese1/576950
-#EXTINF:-1,DE: EAGLE CINEMA BIOGRAFIE FHD
-http://bigdog.click:80/cheese1/cheese1/576951
-#EXTINF:-1,DE: EAGLE CINEMA DRAMA HD
-http://bigdog.click:80/cheese1/cheese1/576952
-#EXTINF:-1,DE: EAGLE CINEMA FANTASIE FHD
-http://bigdog.click:80/cheese1/cheese1/576953
-#EXTINF:-1,DE: EAGLE CINEMA GESCHICHTE FHD
-http://bigdog.click:80/cheese1/cheese1/576954
-#EXTINF:-1,DE: EAGLE CINEMA HORROR HD
-http://bigdog.click:80/cheese1/cheese1/576955
-#EXTINF:-1,DE: EAGLE CINEMA KINOSAAL HD
-http://bigdog.click:80/cheese1/cheese1/576956
-#EXTINF:-1,DE: EAGLE CINEMA KOMODIE HD
-http://bigdog.click:80/cheese1/cheese1/576957
-#EXTINF:-1,DE: EAGLE CINEMA LACHELN FHD
-http://bigdog.click:80/cheese1/cheese1/576958
-#EXTINF:-1,DE: EAGLE CINEMA MYTHOLOGIE FHD
-http://bigdog.click:80/cheese1/cheese1/576959
-#EXTINF:-1,DE: EAGLE CINEMA PREMIERE FHD
-http://bigdog.click:80/cheese1/cheese1/576960
-#EXTINF:-1,DE: EAGLE CINEMA RELIGION FHD
-http://bigdog.click:80/cheese1/cheese1/576961
-#EXTINF:-1,DE: EAGLE CINEMA ROMANTISCH FHD
-http://bigdog.click:80/cheese1/cheese1/576962
-#EXTINF:-1,DE: EAGLE CINEMA SCI-FI FHD
-http://bigdog.click:80/cheese1/cheese1/576963
-#EXTINF:-1,DE: EAGLE CINEMA SPAGHETTI WESTERN HD
-http://bigdog.click:80/cheese1/cheese1/576964
-#EXTINF:-1,DE: EAGLE CINEMA THRILLER FHD
-http://bigdog.click:80/cheese1/cheese1/576965
-#EXTINF:-1,DE: EAGLE CINEMA WESTERN FHD
-http://bigdog.click:80/cheese1/cheese1/576966
-#EXTINF:-1,DE: EAGLE ENTDECKERNATUR FHD
-http://bigdog.click:80/cheese1/cheese1/576967
-#EXTINF:-1,DE: EAGLE MASHA UND DER BAR FHD
-http://bigdog.click:80/cheese1/cheese1/576968
-#EXTINF:-1,DE: EAGLE PEPPA WUTZ HD
-http://bigdog.click:80/cheese1/cheese1/576969
-#EXTINF:-1,DE: EAGLE PJ MASKS HD
-http://bigdog.click:80/cheese1/cheese1/576970
-#EXTINF:-1,DE: EDGE SPORT FHD
-http://bigdog.click:80/cheese1/cheese1/576971
-#EXTINF:-1,DE: FAST & FURIOS CHANNEL FHD
-http://bigdog.click:80/cheese1/cheese1/576972
-#EXTINF:-1,DE: HYPER CINEMA HORROR FHD
-http://bigdog.click:80/cheese1/cheese1/576973
-#EXTINF:-1,DE: HYPER CINEMA INFO FHD
-http://bigdog.click:80/cheese1/cheese1/576974
-#EXTINF:-1,DE: HYPER CINEMA JACKIE CHAN HD
-http://bigdog.click:80/cheese1/cheese1/576975
-#EXTINF:-1,DE: HYPER CINEMA MARTIAL ARTS FHD
-http://bigdog.click:80/cheese1/cheese1/576976
-#EXTINF:-1,DE: HYPER CINEMA VISION 1 FHD
-http://bigdog.click:80/cheese1/cheese1/576977
-#EXTINF:-1,DE: HYPER CINEMA VISION 2 HD
-http://bigdog.click:80/cheese1/cheese1/576978
-#EXTINF:-1,DE: HYPER CINEMA VISION 3 FHD
-http://bigdog.click:80/cheese1/cheese1/576979
-#EXTINF:-1,DE: HYPER CINEMA VISION 4 FHD
-http://bigdog.click:80/cheese1/cheese1/576980
-#EXTINF:-1,DE: HYPER CINEMA VISION 5 FHD
-http://bigdog.click:80/cheese1/cheese1/576981
-#EXTINF:-1,DE: MAGENTA SPORT 1 HD
-http://bigdog.click:80/cheese1/cheese1/576982
-#EXTINF:-1,DE: MAGENTA SPORT 2 HD
-http://bigdog.click:80/cheese1/cheese1/576983
-#EXTINF:-1,DE: MAGENTA SPORT 3 HD
-http://bigdog.click:80/cheese1/cheese1/576984
-#EXTINF:-1,DE: MAGENTA SPORT 4 HD
-http://bigdog.click:80/cheese1/cheese1/576985
-#EXTINF:-1,DE: MAGENTA SPORT 5 HD
-http://bigdog.click:80/cheese1/cheese1/576986
-#EXTINF:-1,DE: MAGENTA SPORT 6 HD
-http://bigdog.click:80/cheese1/cheese1/576987
-#EXTINF:-1,DE: MAGENTA SPORT 7 HD
-http://bigdog.click:80/cheese1/cheese1/576988
-#EXTINF:-1,DE: MAGENTA SPORT 8 HD
-http://bigdog.click:80/cheese1/cheese1/576989
-#EXTINF:-1,DE: MAIN FRANKEN TV FHD
-http://bigdog.click:80/cheese1/cheese1/576990
-#EXTINF:-1,DE: MAX SELECT 1 FHD
-http://bigdog.click:80/cheese1/cheese1/576991
-#EXTINF:-1,DE: MAX SELECT 2 FHD
-http://bigdog.click:80/cheese1/cheese1/576992
-#EXTINF:-1,DE: MAX SELECT 3 FHD
-http://bigdog.click:80/cheese1/cheese1/576993
-#EXTINF:-1,DE: MAX SELECT 4 FHD
-http://bigdog.click:80/cheese1/cheese1/576994
-#EXTINF:-1,DE: MAX SELECT 5 FHD
-http://bigdog.click:80/cheese1/cheese1/576995
-#EXTINF:-1,DE: MAX SELECT 6 FHD
-http://bigdog.click:80/cheese1/cheese1/576996
-#EXTINF:-1,DE: MORE THAN SPORTS TV FHD
-http://bigdog.click:80/cheese1/cheese1/576997
-#EXTINF:-1,DE: MOTORVISION TV FHD
-http://bigdog.click:80/cheese1/cheese1/576998
-#EXTINF:-1,DE: MOVIE KINO 1 FHD
-http://bigdog.click:80/cheese1/cheese1/576999
-#EXTINF:-1,DE: MOVIE KINO 2 FHD
-http://bigdog.click:80/cheese1/cheese1/577000
-#EXTINF:-1,DE: MOVIE KINO 4 FHD
-http://bigdog.click:80/cheese1/cheese1/577001
-#EXTINF:-1,DE: NETFLIX 1 HD
-http://bigdog.click:80/cheese1/cheese1/577002
-#EXTINF:-1,DE: NETFLIX 2 FHD
-http://bigdog.click:80/cheese1/cheese1/577003
-#EXTINF:-1,DE: NETFLIX 3 FHD
-http://bigdog.click:80/cheese1/cheese1/577004
-#EXTINF:-1,DE: NETFLIX 4 FHD
-http://bigdog.click:80/cheese1/cheese1/577005
-#EXTINF:-1,DE: NETFLIX 7 FHD
-http://bigdog.click:80/cheese1/cheese1/577006
-#EXTINF:-1,DE: NETFLIX 8 FHD
-http://bigdog.click:80/cheese1/cheese1/577007
-#EXTINF:-1,DE: NETFLIX 9 FHD
-http://bigdog.click:80/cheese1/cheese1/577008
-#EXTINF:-1,DE: NETFLIX 10 FHD
-http://bigdog.click:80/cheese1/cheese1/577009
-#EXTINF:-1,DE: NICK EMMA EINFACH MAGISCH HD
-http://bigdog.click:80/cheese1/cheese1/577010
-#EXTINF:-1,DE: OK 54 TRIER HD
-http://bigdog.click:80/cheese1/cheese1/577011
-#EXTINF:-1,DE: OK KAISERSLAUTERN HD
-http://bigdog.click:80/cheese1/cheese1/577012
-#EXTINF:-1,DE: OK KASSEL HD
-http://bigdog.click:80/cheese1/cheese1/577013
-#EXTINF:-1,DE: OK KONZERT FHD
-http://bigdog.click:80/cheese1/cheese1/577014
-#EXTINF:-1,DE: OK LUDWIGSHAFEN HD
-http://bigdog.click:80/cheese1/cheese1/577015
-#EXTINF:-1,DE: OK MERSEBURG FHD
-http://bigdog.click:80/cheese1/cheese1/577016
-#EXTINF:-1,DE: OK RHEIN MAIN HD
-http://bigdog.click:80/cheese1/cheese1/577017
-#EXTINF:-1,DE: OK SUEDWESTPFALZ HD
-http://bigdog.click:80/cheese1/cheese1/577018
-#EXTINF:-1,DE: OK WEINSTRASSE HD
-http://bigdog.click:80/cheese1/cheese1/577019
-#EXTINF:-1,DE: OKD FHD
-http://bigdog.click:80/cheese1/cheese1/577020
-#EXTINF:-1,DE: PLUTO COMEDY CENTRAL HD
-http://bigdog.click:80/cheese1/cheese1/577021
-#EXTINF:-1,DE: PLUTO TV CHEFKOCH HD
-http://bigdog.click:80/cheese1/cheese1/577022
-#EXTINF:-1,DE: PLUTO TV MTV HD
-http://bigdog.click:80/cheese1/cheese1/577023
-#EXTINF:-1,DE: PLUTO TV N24 DOKU HD
-http://bigdog.click:80/cheese1/cheese1/577024
-#EXTINF:-1,DE: PLUTO TV NICK EMMA EINFACH MAGISCH! HD
-http://bigdog.click:80/cheese1/cheese1/577025
-#EXTINF:-1,DE: PLUTO TV NICK HD
-http://bigdog.click:80/cheese1/cheese1/577026
-#EXTINF:-1,DE: PLUTO TV NICK JR. HD
-http://bigdog.click:80/cheese1/cheese1/577027
-#EXTINF:-1,DE: POPCORN SELECT 7 HD
-http://bigdog.click:80/cheese1/cheese1/577028
-#EXTINF:-1,DE: POPCORN SELECT 8 HD
-http://bigdog.click:80/cheese1/cheese1/577029
-#EXTINF:-1,DE: POPCORN SELECT 10 HD
-http://bigdog.click:80/cheese1/cheese1/577030
-#EXTINF:-1,DE: PRIMAFILA 2 4K
-http://bigdog.click:80/cheese1/cheese1/577031
-#EXTINF:-1,DE: PRIMAFILA 3 4K
-http://bigdog.click:80/cheese1/cheese1/577032
-#EXTINF:-1,DE: PRIMAFILA 4 4K
-http://bigdog.click:80/cheese1/cheese1/577033
-#EXTINF:-1,DE: PRIMAFILA 5 FHD
-http://bigdog.click:80/cheese1/cheese1/577034
-#EXTINF:-1,DE: PRIMAFILA 7 4K
-http://bigdog.click:80/cheese1/cheese1/577035
-#EXTINF:-1,DE: PRIMAFILA 9 4K
-http://bigdog.click:80/cheese1/cheese1/577036
-#EXTINF:-1,DE: SKY CINEMA FHD
-http://bigdog.click:80/cheese1/cheese1/577037
-#EXTINF:-1,DE: SKY CINEMA FUN HD
-http://bigdog.click:80/cheese1/cheese1/577038
-#EXTINF:-1,DE: SKY CINEMA HITS FHD
-http://bigdog.click:80/cheese1/cheese1/577039
-#EXTINF:-1,DE: SKY CINEMA NOSTALGIE HD
-http://bigdog.click:80/cheese1/cheese1/577040
-#EXTINF:-1,DE: SKY CINEMA PREMIERE HD
-http://bigdog.click:80/cheese1/cheese1/577041
-#EXTINF:-1,DE: SKY CINEMA PREMIEREN +24 HD
-http://bigdog.click:80/cheese1/cheese1/577042
-#EXTINF:-1,DE: SKY CINEMA PREMIEREN 24 HD
-http://bigdog.click:80/cheese1/cheese1/577043
-#EXTINF:-1,DE: SKY CINEMA SPECIAL FHD
-http://bigdog.click:80/cheese1/cheese1/577044
-#EXTINF:-1,DE: SKY CINEMA THRILLER FHD
-http://bigdog.click:80/cheese1/cheese1/577045
-#EXTINF:-1,DE: SKY COMEDY HD
-http://bigdog.click:80/cheese1/cheese1/577046
-#EXTINF:-1,DE: SKY CRIME FHD
-http://bigdog.click:80/cheese1/cheese1/577047
-#EXTINF:-1,DE: SKY DOCUMENTARIES FHD
-http://bigdog.click:80/cheese1/cheese1/577048
-#EXTINF:-1,DE: SKY KRIMI FHD
-http://bigdog.click:80/cheese1/cheese1/577049
-#EXTINF:-1,DE: SKY MOVIES SELECT 6 FHD
-http://bigdog.click:80/cheese1/cheese1/577050
-#EXTINF:-1,DE: SKY MOVIES SELECT 7 HD
-http://bigdog.click:80/cheese1/cheese1/577051
-#EXTINF:-1,DE: SKY MOVIES SELECT 8 FHD
-http://bigdog.click:80/cheese1/cheese1/577052
-#EXTINF:-1,DE: SKY NATURE FHD
-http://bigdog.click:80/cheese1/cheese1/577053
-#EXTINF:-1,DE: SKY REPLAY FHD
-http://bigdog.click:80/cheese1/cheese1/577054
-#EXTINF:-1,DE: SKY REPLY ACTION FHD
-http://bigdog.click:80/cheese1/cheese1/577055
-#EXTINF:-1,DE: SKY SELECT 1 HD
-http://bigdog.click:80/cheese1/cheese1/577056
-#EXTINF:-1,DE: SKY SELECT 2 FHD
-http://bigdog.click:80/cheese1/cheese1/577057
-#EXTINF:-1,DE: SKY SELECT 3 FHD
-http://bigdog.click:80/cheese1/cheese1/577058
-#EXTINF:-1,DE: SKY SELECT 4 FHD
-http://bigdog.click:80/cheese1/cheese1/577059
-#EXTINF:-1,DE: SKY SELECT 5 FHD
-http://bigdog.click:80/cheese1/cheese1/577060
-#EXTINF:-1,DE: SKY SELECT 6 FHD
-http://bigdog.click:80/cheese1/cheese1/577061
-#EXTINF:-1,DE: SKY SELECT 7 FHD
-http://bigdog.click:80/cheese1/cheese1/577062
-#EXTINF:-1,DE: SKY SELECT 8 FHD
-http://bigdog.click:80/cheese1/cheese1/577063
-#EXTINF:-1,DE: SKY SELECT 9 FHD
-http://bigdog.click:80/cheese1/cheese1/577064
-#EXTINF:-1,DE: SKY SELECT 10 FHD
-http://bigdog.click:80/cheese1/cheese1/577065
-#EXTINF:-1,DE: SKY SELECT PREMIERE 6 FHD
-http://bigdog.click:80/cheese1/cheese1/577066
-#EXTINF:-1,DE: SKY SELECT PREMIERE 7 FHD
-http://bigdog.click:80/cheese1/cheese1/577067
-#EXTINF:-1,DE: SKY SELECT PREMIERE 8 FHD
-http://bigdog.click:80/cheese1/cheese1/577068
-#EXTINF:-1,DE: SKY SELECT PREMIERE 9 FHD
-http://bigdog.click:80/cheese1/cheese1/577069
-#EXTINF:-1,DE: SKY SELECT PREMIERE 11 FHD
-http://bigdog.click:80/cheese1/cheese1/577070
-#EXTINF:-1,DE: SKY SELECT PREMIERE 12 FHD
-http://bigdog.click:80/cheese1/cheese1/577071
-#EXTINF:-1,DE: SKY SELECT PREMIERE 14 FHD
-http://bigdog.click:80/cheese1/cheese1/577072
-#EXTINF:-1,DE: SKY SELECT PREMIERE 16 FHD
-http://bigdog.click:80/cheese1/cheese1/577073
-#EXTINF:-1,DE: SKY SELECT PREMIERE 17 FHD
-http://bigdog.click:80/cheese1/cheese1/577074
-#EXTINF:-1,DE: SKY SELECT PREMIERE 18 FHD
-http://bigdog.click:80/cheese1/cheese1/577075
-#EXTINF:-1,DE: SKY SELECT PREMIERE VITRINE HD
-http://bigdog.click:80/cheese1/cheese1/577076
-#EXTINF:-1,DE: SKY SERIEN & SHOWS HD
-http://bigdog.click:80/cheese1/cheese1/577077
-#EXTINF:-1,DE: XP KIDS HD
-http://bigdog.click:80/cheese1/cheese1/577078
-#EXTINF:-1,DE: XP KINO 1 HD
-http://bigdog.click:80/cheese1/cheese1/577079
-#EXTINF:-1,DE: XP KINO 2 HD
-http://bigdog.click:80/cheese1/cheese1/577080
-#EXTINF:-1,DE: XP PREMIUM CINEMA 4 HD
-http://bigdog.click:80/cheese1/cheese1/577081
-#EXTINF:-1,DE: XP RAMBO HD
-http://bigdog.click:80/cheese1/cheese1/577082
-#EXTINF:-1,DE: XP RICK & MORTY HD
-http://bigdog.click:80/cheese1/cheese1/577083
-#EXTINF:-1,DE: XP SELECT 2020 KINO 3 HD
-http://bigdog.click:80/cheese1/cheese1/577084
-#EXTINF:-1,DE: XP SELECT ACTION 1 HD
-http://bigdog.click:80/cheese1/cheese1/577085
-#EXTINF:-1,DE: XP SELECT ACTION 4 HD
-http://bigdog.click:80/cheese1/cheese1/577086
-#EXTINF:-1,DE: XP SELECT ACTION 5 HD
-http://bigdog.click:80/cheese1/cheese1/577087
-#EXTINF:-1,DE: XP SELECT AVONTUUR 2 HD
-http://bigdog.click:80/cheese1/cheese1/577088
-#EXTINF:-1,DE: XP SELECT CLASSIC 6 HD
-http://bigdog.click:80/cheese1/cheese1/577089
-#EXTINF:-1,DE: XP SELECT DRAMA 2 HD
-http://bigdog.click:80/cheese1/cheese1/577090
-#EXTINF:-1,DE: XP SELECT DRAMA 3 HD
-http://bigdog.click:80/cheese1/cheese1/577091
-#EXTINF:-1,DE: XP SELECT DRAMA 4 HD
-http://bigdog.click:80/cheese1/cheese1/577092
-#EXTINF:-1,DE: XP SELECT HORROR 2 HD
-http://bigdog.click:80/cheese1/cheese1/577093
-#EXTINF:-1,DE: XP SELECT HORROR 3 HD
-http://bigdog.click:80/cheese1/cheese1/577094
-#EXTINF:-1,DE: XP SELECT KOMÖDIE 1 HD
-http://bigdog.click:80/cheese1/cheese1/577095
-#EXTINF:-1,DE: XP SELECT MÄRCHEN HD
-http://bigdog.click:80/cheese1/cheese1/577096
-#EXTINF:-1,DE: XP STAR CINEMA 2 HD
-http://bigdog.click:80/cheese1/cheese1/577097
-#EXTINF:-1,DE: XP STAR CINEMA 3 HD
-http://bigdog.click:80/cheese1/cheese1/577098
-#EXTINF:-1,DE: XP STAR CINEMA 4 HD
-http://bigdog.click:80/cheese1/cheese1/577099
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6329
+#EXTINF:-1,DE: ZEE ONE
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/6330
+#EXTINF:-1,DE: Zee One FHD
+http://premium-iptv.link:8080/eclipse2000inflatables/HGSgcjY6sR/7250
