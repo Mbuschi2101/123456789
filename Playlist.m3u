@@ -1,13 +1,337 @@
 #EXTM3U
-#EXTINF:-1,RTL HD
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:BF3A:CFAB:EC:0:0:0:0" epg-source="mxhmap4n3nw", Das Erste
+https://derste247livede.akamaized.net/hls/live/658317-b/daserste_de/master_1920p_5128.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:F6A5:40EA:EC:0:0:0:0" epg-source="mxhmap4n3nw", ZDF
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/229
+#EXTINF:-1 tvg-id="" tvg-name="RTL" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:5FB0:241C:EC:0:0:0:0", RTL
 http://185.234.217.21:8001/play/a024/index.m3u8
-#EXTINF:-1,RTLZWEI HD
+#EXTINF:-1 tvg-id="" tvg-name="Sat 1" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:994C:B576:EC:0:0:0:0", Sat 1
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/236
+#EXTINF:-1 tvg-id="" tvg-name="RTL 2" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:3EC5:434D:EC:0:0:0:0", RTL 2
 http://185.234.217.21:8001/play/a027/index.m3u8
-#EXTINF:-1,RTLup HD
-http://185.234.217.21:8001/play/a028/index.m3u8
-#EXTINF:-1,VOX HD
+#EXTINF:-1 tvg-id="" tvg-name="Pro 7" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:F6A5:40DF:EC:0:0:0:0", Pro 7
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/222
+#EXTINF:-1 tvg-id="" tvg-name="Kabel 1" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:C691:FC83:EC:0:0:0:0", Kabel 1
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/240
+#EXTINF:-1 tvg-id="" tvg-name="Vox" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:1329:30D7:EC:0:0:0:0", Vox
 http://185.234.217.21:8001/play/a025/index.m3u8
-#EXTINF:-1,VOXup HD
+#EXTINF:-1 tvg-id="" tvg-name="RTL up" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:56A:4A93:EC:0:0:0:0", RTL up
+http://185.234.217.21:8001/play/a028/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vox up" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:A1D:B5EB:EC:0:0:0:0", Vox up
 http://185.234.217.21:8001/play/a029/index.m3u8
-#EXTINF:-1,ntv HD
+#EXTINF:-1 tvg-id="" tvg-name="ZDF Neo" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:E624:EFB3:EC:0:0:0:0", ZDF Neo
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52023
+#EXTINF:-1 tvg-id="" tvg-name="Sat.1 Emotions" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:55FE:E086:EC:0:0:0:0", Sat.1 Emotions
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4656
+#EXTINF:-1 tvg-id="" tvg-name="RTL Nitro" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:5F9D:1F28:EC:0:0:0:0", RTL Nitro
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2241
+#EXTINF:-1 tvg-id="" tvg-name="RTL Crime" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:244:93C3:EC:0:0:0:0", RTL Crime
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2242
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben FUN" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:D41C:BA49:EC:0:0:0:0", ProSieben FUN
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51477
+#EXTINF:-1 tvg-id="" tvg-name="RTL Passion" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:A4EC:85E:EC:0:0:0:0", RTL Passion
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2243
+#EXTINF:-1 tvg-id="" tvg-name="SIXX" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:5262:1002:EC:0:0:0:0", SIXX
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3969
+#EXTINF:-1 tvg-id="" tvg-name="One" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:136A:36FC:EC:0:0:0:0", One
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52277
+#EXTINF:-1 tvg-id="" tvg-name="Kabel eins Doku" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:1A9F:E987:EC:0:0:0:0", Kabel eins Doku
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50942
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:A8D6:8F4E:EC:0:0:0:0" epg-source="b5avzyyvtda", DMAX
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49020
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="Pro 7 MAXX" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:F6A:540E:EC:0:0:0:0" epg-source="b5avzyyvtda", Pro 7 MAXX
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/223
+#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:C012:4792:EC:0:0:0:0", NTV
 http://185.234.217.21:8001/play/a026/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:ACE:C9E1:EC:0:0:0:0", TLC
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3967
+#EXTINF:-1 tvg-id="" tvg-name="MDR" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:A0D6:74A:EC:0:0:0:0", MDR
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52608
+#EXTINF:-1 tvg-id="" tvg-name="Welt" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:6BD6:C48C:EC:0:0:0:0", Welt
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="N24" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:94E:2FBE:EC:0:0:0:0", N24
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3974
+#EXTINF:-1 tvg-id="" tvg-name="Spiegel Geschichte" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:136A:36FF:EC:0:0:0:0", Spiegel Geschichte
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52274
+#EXTINF:-1 tvg-id="" tvg-name="Spiegel TV Wissen" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:136A:36F8:EC:0:0:0:0", Spiegel TV Wissen
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52273
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:D8E9:D48C:EC:0:0:0:0", History
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49989
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:C4F6:403E:EC:0:0:0:0", National Geographic
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3972
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:224E:CBA3:EC:0:0:0:0", National Geographic Wild
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3973
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:994C:B585:EC:0:0:0:0", Discovery
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/239
+#EXTINF:-1 tvg-id="" tvg-name="Planet" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:196:BA3C:EC:0:0:0:0", Planet
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51654
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:C47D:384:EC:0:0:0:0", FOX
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46522
+#EXTINF:-1 tvg-id="" tvg-name="Sony Channel" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:497E:E81E:EC:0:0:0:0", Sony Channel
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51634
+#EXTINF:-1 tvg-id="" tvg-name="Kinowelt TV" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:497E:E81C:EC:0:0:0:0", Kinowelt TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51636
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:94E2:FBE1:EC:0:0:0:0", Universal Channel
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3964
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:E69E:1FF8:EC:0:0:0:0", SyFy
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2502
+#EXTINF:-1 tvg-id="" tvg-name="TNT Serie" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:3711:33C7:EC:0:0:0:0", TNT Serie
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46598
+#EXTINF:-1 tvg-id="" tvg-name="TNT Comedy" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:D61B:D696:EC:0:0:0:0", TNT Comedy
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49253
+#EXTINF:-1 tvg-id="" tvg-name="TNT Film" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:B089:6F56:EC:0:0:0:0", TNT Film
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2618
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:6724:781A:EC:0:0:0:0", AXN
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46537
+#EXTINF:-1 tvg-id="" tvg-name="13th Street" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:3DF5:3F16:EC:0:0:0:0", 13th Street
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2621
+#EXTINF:-1 tvg-id="" tvg-name="Sky Atlantic" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:DE9B:9EAF:EC:0:0:0:0", Sky Atlantic
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/215
+#EXTINF:-1 tvg-id="" tvg-name="Sky One" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:2B73:D8EA:EC:0:0:0:0", Sky One
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52042
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:DC86:A5AE:EC:0:0:0:0", Sky Cinema
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46577
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Thriller HD" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:DE9B:9EB1:EC:0:0:0:0", Sky Cinema Thriller HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/213
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Comedy" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:DE9B:9EAE:EC:0:0:0:0", Sky Cinema Comedy
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/214
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Hits" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:9469:BF26:EC:0:0:0:0", Sky Cinema Hits
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46582
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Family" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:D8E9:D48D:EC:0:0:0:0", Sky Cinema Family
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49988
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Premieren" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:DE9B:9EBB:EC:0:0:0:0", Sky Cinema Premieren
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/219
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Action" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:DE9B:9EAC:EC:0:0:0:0", Sky Cinema Action
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/216
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 1" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:3BF4:2A16:EC:0:0:0:0", Sky Select 1
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/203
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 3" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:3BF4:2A14:EC:0:0:0:0", Sky Select 3
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/205
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 4" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:3BF4:2A11:EC:0:0:0:0", Sky Select 4
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/206
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 5" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:7F2E:1AAA:EC:0:0:0:0", Sky Select 5
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46605
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 6" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:9546:B603:EC:0:0:0:0", Sky Select 6
+ttp://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46606
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 2" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:3BF4:2A13:EC:0:0:0:0", Sky Select 2
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/204
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 7" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:7F2E:1AA8:EC:0:0:0:0", Sky Select 7
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46607
+#EXTINF:-1 tvg-id="" tvg-name="Sky Select 8" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:7F2E:1AB5:EC:0:0:0:0", Sky Select 8
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46608
+#EXTINF:-1 tvg-id="" tvg-name="ORF 1" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:994C:B584:EC:0:0:0:0", ORF 1
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/238
+#EXTINF:-1 tvg-id="" tvg-name="ORF 2" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:D231:4FC3:EC:0:0:0:0", ORF 2
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3278
+#EXTINF:-1 tvg-id="" tvg-name="ORF Sport+" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:196B:A3BE:EC:0:0:0:0", ORF Sport+
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51656
+#EXTINF:-1 tvg-id="" tvg-name="Sky Bundesliga" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:39DF:3111:EC:0:0:0:0", Sky Bundesliga
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46565
+#EXTINF:-1 tvg-id="" tvg-name="Sport 1+" tvg-logo="" tvg-shift="0" group-title="IPTV" dvb-reference="4097:0:1:5330:E3EA:EC:0:0:0:0", Sport 1+
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2669
+#EXTINF:-1 tvg-id="" tvg-name="ZDF HD" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:2B66:3F3:1:FFFF0000:0:0:0", ZDF HD
+http://192.168.0.11:8001/1:0:19:2B66:3F3:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="RTL Television" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:101:C001:F101:FFFF0000:0:0:0", RTL Television
+http://192.168.0.11:8001/1:0:1:101:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="RTL2" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:102:C001:F101:FFFF0000:0:0:0", RTL2
+http://192.168.0.11:8001/1:0:1:102:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SAT.1" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:301:C003:F101:FFFF0000:0:0:0", SAT.1
+http://192.168.0.11:8001/1:0:1:301:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:302:C003:F101:FFFF0000:0:0:0", ProSieben
+http://192.168.0.11:8001/1:0:1:302:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="kabel eins" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:303:C003:F101:FFFF0000:0:0:0", kabel eins
+http://192.168.0.11:8001/1:0:1:303:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="VOX" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:104:C001:F101:FFFF0000:0:0:0", VOX
+http://192.168.0.11:8001/1:0:1:104:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="RTLNITRO" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:105:C001:F101:FFFF0000:0:0:0", RTLNITRO
+http://192.168.0.11:8001/1:0:1:105:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SIXX" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:201:C002:F101:FFFF0000:0:0:0", SIXX
+http://192.168.0.11:8001/1:0:1:201:C002:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="RTLup" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:107:C001:F101:FFFF0000:0:0:0", RTLup
+http://192.168.0.11:8001/1:0:1:107:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SAT.1 Gold" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:305:C003:F101:FFFF0000:0:0:0", SAT.1 Gold
+http://192.168.0.11:8001/1:0:1:305:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="TELE 5" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:401:C004:F101:FFFF0000:0:0:0", TELE 5
+http://192.168.0.11:8001/1:0:1:401:C004:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="N24 DOKU" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:208:C002:F101:FFFF0000:0:0:0", N24 DOKU
+http://192.168.0.11:8001/1:0:1:208:C002:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="n-tv" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:106:C001:F101:FFFF0000:0:0:0", n-tv
+http://192.168.0.11:8001/1:0:1:106:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Pro7 MAXX" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:306:C003:F101:FFFF0000:0:0:0", Pro7 MAXX
+http://192.168.0.11:8001/1:0:1:306:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="ServusTV Deutschland" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:708:C007:F101:FFFF0000:0:0:0", ServusTV Deutschland
+http://192.168.0.11:8001/1:0:1:708:C007:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Welt der Wunder" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:709:C007:F101:FFFF0000:0:0:0", Welt der Wunder
+http://192.168.0.11:8001/1:0:1:709:C007:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="kabel eins Doku" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:307:C003:F101:FFFF0000:0:0:0", kabel eins Doku
+http://192.168.0.11:8001/1:0:1:307:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="WELT" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:304:C003:F101:FFFF0000:0:0:0", WELT
+http://192.168.0.11:8001/1:0:1:304:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:202:C002:F101:FFFF0000:0:0:0", TLC
+http://192.168.0.11:8001/1:0:1:202:C002:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:402:C004:F101:FFFF0000:0:0:0", DMAX
+http://192.168.0.11:8001/1:0:1:402:C004:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SPORT1" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:403:C004:F101:FFFF0000:0:0:0", SPORT1
+http://192.168.0.11:8001/1:0:1:403:C004:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 Deutschland" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:703:C007:F101:FFFF0000:0:0:0", Eurosport 1 Deutschland
+http://192.168.0.11:8001/1:0:1:703:C007:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="ONE" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:7032:41B:1:FFFF0000:0:0:0", ONE
+http://192.168.0.11:8001/1:0:1:7032:41B:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="arte HD" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:283E:3FB:1:FFFF0000:0:0:0", arte HD
+http://192.168.0.11:8001/1:0:19:283E:3FB:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="phoenix HD" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:285B:401:1:FFFF0000:0:0:0", phoenix HD
+http://192.168.0.11:8001/1:0:19:285B:401:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="MDR Sachsen HD" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:2870:425:1:FFFF0000:0:0:0", MDR Sachsen HD
+http://192.168.0.11:8001/1:0:19:2870:425:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="3sat HD" tvg-logo="" tvg-shift="0" group-title="Kabel TV" dvb-reference="4097:0:1:2B8E:3F2:1:FFFF0000:0:0:0", 3sat HD
+http://192.168.0.11:8001/1:0:19:2B8E:3F2:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="3sat HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2B8E:3F2:1:FFFF0000:0:0:0", 3sat HD
+http://192.168.0.11:8001/1:0:19:2B8E:3F2:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="ARD alpha HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2889:40F:1:FFFF0000:0:0:0", ARD alpha HD
+http://192.168.0.11:8001/1:0:19:2889:40F:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="arte HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:283E:3FB:1:FFFF0000:0:0:0", arte HD
+http://192.168.0.11:8001/1:0:19:283E:3FB:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="BR Fernsehen Nord HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2856:401:1:FFFF0000:0:0:0", BR Fernsehen Nord HD
+http://192.168.0.11:8001/1:0:19:2856:401:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:1A3:1964:9C:FFFF0000:0:0:0", Comedy Central HD
+http://192.168.0.11:8001/1:0:19:1A3:1964:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central/VIVA" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:706:C007:F101:FFFF0000:0:0:0", Comedy Central/VIVA
+http://192.168.0.11:8001/1:0:1:706:C007:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Das Erste HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:283D:3FB:1:FFFF0000:0:0:0", Das Erste HD
+http://192.168.0.11:8001/1:0:19:283D:3FB:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="DELUXE MUSIC" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:20F:C002:F101:FFFF0000:0:0:0", DELUXE MUSIC
+http://192.168.0.11:8001/1:0:1:20F:C002:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Deutsches Musik Fernsehen" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:10A:C001:F101:FFFF0000:0:0:0", Deutsches Musik Fernsehen
+http://192.168.0.11:8001/1:0:1:10A:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:203:C002:F101:FFFF0000:0:0:0", Disney Channel
+http://192.168.0.11:8001/1:0:1:203:C002:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:1A4:1964:9C:FFFF0000:0:0:0", Disney Channel HD
+http://192.168.0.11:8001/1:0:19:1A4:1964:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:402:C004:F101:FFFF0000:0:0:0", DMAX
+http://192.168.0.11:8001/1:0:1:402:C004:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:1051:D001:F101:FFFF0000:0:0:0", Euronews
+http://192.168.0.11:8001/1:0:1:1051:D001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 Deutschland" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:703:C007:F101:FFFF0000:0:0:0", Eurosport 1 Deutschland
+http://192.168.0.11:8001/1:0:1:703:C007:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:CD:14B4:9C:FFFF0000:0:0:0", Eurosport 1 HD
+http://192.168.0.11:8001/1:0:19:CD:14B4:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="GEO HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:4EF3:21FC:9C:FFFF0000:0:0:0", GEO HD
+http://192.168.0.11:8001/1:0:19:4EF3:21FC:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="hr-fernsehen HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2873:425:1:FFFF0000:0:0:0", hr-fernsehen HD
+http://192.168.0.11:8001/1:0:19:2873:425:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Jukebox" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:191:B:85:FFFF0000:0:0:0", Jukebox
+http://192.168.0.11:8001/1:0:16:191:B:85:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="kabel eins" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:303:C003:F101:FFFF0000:0:0:0", kabel eins
+http://192.168.0.11:8001/1:0:1:303:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="kabel eins Doku" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:307:C003:F101:FFFF0000:0:0:0", kabel eins Doku
+http://192.168.0.11:8001/1:0:1:307:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="KiKA HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2B98:3F2:1:FFFF0000:0:0:0", KiKA HD
+http://192.168.0.11:8001/1:0:19:2B98:3F2:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="MDR Sachsen HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2870:425:1:FFFF0000:0:0:0", MDR Sachsen HD
+http://192.168.0.11:8001/1:0:19:2870:425:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:707:C007:F101:FFFF0000:0:0:0", MTV
+http://192.168.0.11:8001/1:0:1:707:C007:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="MTV HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:CA:14B4:9C:FFFF0000:0:0:0", MTV HD
+http://192.168.0.11:8001/1:0:19:CA:14B4:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:6A4:1FA4:9C:FFFF0000:0:0:0", MTV Live HD
+http://192.168.0.11:8001/1:0:19:6A4:1FA4:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="MyTVPlus" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:1088:D001:F101:FFFF0000:0:0:0", MyTVPlus
+http://192.168.0.11:8001/1:0:16:1088:D001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="n-tv" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:106:C001:F101:FFFF0000:0:0:0", n-tv
+http://192.168.0.11:8001/1:0:1:106:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="N24 DOKU" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:208:C002:F101:FFFF0000:0:0:0", N24 DOKU
+http://192.168.0.11:8001/1:0:1:208:C002:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="NDR FS HH HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2859:401:1:FFFF0000:0:0:0", NDR FS HH HD
+http://192.168.0.11:8001/1:0:19:2859:401:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="NICK/CC+1" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:1A5:1964:9C:FFFF0000:0:0:0", NICK/CC+1
+http://192.168.0.11:8001/1:0:16:1A5:1964:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="NICK/CC+1" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:705:C007:F101:FFFF0000:0:0:0", NICK/CC+1
+http://192.168.0.11:8001/1:0:1:705:C007:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="NICK/CC+1 HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:E9:1644:9C:FFFF0000:0:0:0", NICK/CC+1 HD
+http://192.168.0.11:8001/1:0:19:E9:1644:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="ONE" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:7032:41B:1:FFFF0000:0:0:0", ONE
+http://192.168.0.11:8001/1:0:1:7032:41B:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="ONE HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2888:40F:1:FFFF0000:0:0:0", ONE HD
+http://192.168.0.11:8001/1:0:19:2888:40F:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="phoenix HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:285B:401:1:FFFF0000:0:0:0", phoenix HD
+http://192.168.0.11:8001/1:0:19:285B:401:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Pro7 MAXX" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:306:C003:F101:FFFF0000:0:0:0", Pro7 MAXX
+http://192.168.0.11:8001/1:0:1:306:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="ProSieben" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:302:C003:F101:FFFF0000:0:0:0", ProSieben
+http://192.168.0.11:8001/1:0:1:302:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Radio Bremen HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:288B:40F:1:FFFF0000:0:0:0", Radio Bremen HD
+http://192.168.0.11:8001/1:0:19:288B:40F:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="rbb Berlin HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:286F:425:1:FFFF0000:0:0:0", rbb Berlin HD
+http://192.168.0.11:8001/1:0:19:286F:425:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="RTL Television" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:101:C001:F101:FFFF0000:0:0:0", RTL Television
+http://192.168.0.11:8001/1:0:1:101:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="RTL2" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:102:C001:F101:FFFF0000:0:0:0", RTL2
+http://192.168.0.11:8001/1:0:1:102:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="RTLNITRO" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:105:C001:F101:FFFF0000:0:0:0", RTLNITRO
+http://192.168.0.11:8001/1:0:1:105:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="RTLup" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:107:C001:F101:FFFF0000:0:0:0", RTLup
+http://192.168.0.11:8001/1:0:1:107:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="RTLup HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:CC:14B4:9C:FFFF0000:0:0:0", RTLup HD
+http://192.168.0.11:8001/1:0:19:CC:14B4:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Sachsen Eins HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:107E:D001:F101:FFFF0000:0:0:0", Sachsen Eins HD
+http://192.168.0.11:8001/1:0:19:107E:D001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SAT.1" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:301:C003:F101:FFFF0000:0:0:0", SAT.1
+http://192.168.0.11:8001/1:0:1:301:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SAT.1 emotions HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:4EF6:21FC:9C:FFFF0000:0:0:0", SAT.1 emotions HD
+http://192.168.0.11:8001/1:0:19:4EF6:21FC:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SAT.1 Gold" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:305:C003:F101:FFFF0000:0:0:0", SAT.1 Gold
+http://192.168.0.11:8001/1:0:1:305:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="ServusTV Deutschland" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:708:C007:F101:FFFF0000:0:0:0", ServusTV Deutschland
+http://192.168.0.11:8001/1:0:1:708:C007:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="ServusTV HD Deutschland" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:601:C006:F101:FFFF0000:0:0:0", ServusTV HD Deutschland
+http://192.168.0.11:8001/1:0:19:601:C006:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SF-Leipzig HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:1085:D001:F101:FFFF0000:0:0:0", SF-Leipzig HD
+http://192.168.0.11:8001/1:0:19:1085:D001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SIXX" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:201:C002:F101:FFFF0000:0:0:0", SIXX
+http://192.168.0.11:8001/1:0:1:201:C002:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SONY CHANNEL HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:FAA:1BBC:9C:FFFF0000:0:0:0", SONY CHANNEL HD
+http://192.168.0.11:8001/1:0:19:FAA:1BBC:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SPORT 1 HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:EA:1644:9C:FFFF0000:0:0:0", SPORT 1 HD
+http://192.168.0.11:8001/1:0:19:EA:1644:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SPORT1" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:403:C004:F101:FFFF0000:0:0:0", SPORT1
+http://192.168.0.11:8001/1:0:1:403:C004:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Sport1 US HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:26F:206C:9C:FFFF0000:0:0:0", Sport1 US HD
+http://192.168.0.11:8001/1:0:19:26F:206C:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="sportdigital HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:4EEF:21FC:9C:FFFF0000:0:0:0", sportdigital HD
+http://192.168.0.11:8001/1:0:19:4EEF:21FC:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SR Fernsehen HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:288A:40F:1:FFFF0000:0:0:0", SR Fernsehen HD
+http://192.168.0.11:8001/1:0:19:288A:40F:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SUPER RTL" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:103:C001:F101:FFFF0000:0:0:0", SUPER RTL
+http://192.168.0.11:8001/1:0:1:103:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="SWR RP HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2840:3FB:1:FFFF0000:0:0:0", SWR RP HD
+http://192.168.0.11:8001/1:0:19:2840:3FB:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="tagesschau24 HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2887:40F:1:FFFF0000:0:0:0", tagesschau24 HD
+http://192.168.0.11:8001/1:0:19:2887:40F:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="TELE 5" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:401:C004:F101:FFFF0000:0:0:0", TELE 5
+http://192.168.0.11:8001/1:0:1:401:C004:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:202:C002:F101:FFFF0000:0:0:0", TLC
+http://192.168.0.11:8001/1:0:1:202:C002:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="TOGGO plus" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:108:C001:F101:FFFF0000:0:0:0", TOGGO plus
+http://192.168.0.11:8001/1:0:1:108:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="TOGGO plus HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:CE:14B4:9C:FFFF0000:0:0:0", TOGGO plus HD
+http://192.168.0.11:8001/1:0:19:CE:14B4:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="VOX" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:104:C001:F101:FFFF0000:0:0:0", VOX
+http://192.168.0.11:8001/1:0:1:104:C001:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="VOXup HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:CF:14B4:9C:FFFF0000:0:0:0", VOXup HD
+http://192.168.0.11:8001/1:0:19:CF:14B4:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="VOXup SD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:134:1EDC:9C:FFFF0000:0:0:0", VOXup SD
+http://192.168.0.11:8001/1:0:16:134:1EDC:9C:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="WDR HD Köln" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:6EAC:3FD:1:FFFF0000:0:0:0", WDR HD Köln
+http://192.168.0.11:8001/1:0:19:6EAC:3FD:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="WDR Mediathek (Internet)" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:6ED2:3FD:1:FFFF0000:0:0:0", WDR Mediathek (Internet)
+http://192.168.0.11:8001/1:0:1F:6ED2:3FD:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="WELT" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:304:C003:F101:FFFF0000:0:0:0", WELT
+http://192.168.0.11:8001/1:0:1:304:C003:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="Welt der Wunder" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:709:C007:F101:FFFF0000:0:0:0", Welt der Wunder
+http://192.168.0.11:8001/1:0:1:709:C007:F101:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="ZDF HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2B66:3F3:1:FFFF0000:0:0:0", ZDF HD
+http://192.168.0.11:8001/1:0:19:2B66:3F3:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="zdf_neo HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2B7A:3F3:1:FFFF0000:0:0:0", zdf_neo HD
+http://192.168.0.11:8001/1:0:19:2B7A:3F3:1:FFFF0000:0:0:0
+#EXTINF:-1 tvg-id="" tvg-name="ZDFinfo HD" tvg-logo="" tvg-shift="0" group-title="Kabel test" dvb-reference="4097:0:1:2BA2:3F2:1:FFFF0000:0:0:0", ZDFinfo HD
+http://192.168.0.11:8001/1:0:19:2BA2:3F2:1:FFFF0000:0:0:0
