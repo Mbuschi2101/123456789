@@ -11,7 +11,7 @@ rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv
 #EXTINF:-1,SAT.1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,110,111
-#EXTINF:-1,RTL2
+#EXTINF:-1,RTL II
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,210,212,213
 #EXTINF:-1,ProSieben
@@ -113,7 +113,7 @@ rtsp://192.168.178.254:554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv
 #EXTINF:-1,Eurosport 1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,800,801,802,810,811
-#EXTINF:-1,ServusTV Deutschland
+#EXTINF:-1,ServusTV
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,403,410,411
 #EXTINF:-1,TOGGO plus
