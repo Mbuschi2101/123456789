@@ -50,6 +50,9 @@ rtsp://192.168.178.254:554/?freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv
 #EXTINF:-1,MDR Sachsen
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2901,2902,2903,2904,2171,2870,2876,2905
+#EXTINF:-1,BILD TV
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=570&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,311
 #EXTINF:-1,n-tv
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,800,801,802,803,810,811,813
@@ -71,6 +74,9 @@ rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv
 #EXTINF:-1,TLC
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1700,1701,1702,1710,1711
+#EXTINF:-1,LEIPZIG FERNSEHEN
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,393,394,395,396,397
 #EXTINF:-1,SR Fernsehen
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,800,801,802,803,810,811,812,813
