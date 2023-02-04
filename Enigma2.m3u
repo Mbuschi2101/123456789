@@ -1,99 +1,136 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="daserstehd" group-title="FritzTV" dvb-reference="4097:0:1:3946:4013:EC:0:0:0:0" epg-source="b5avzyyvtda", Das Erste
-rtsp://192.168.178.254:554/?freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5100,5101,5102,5103,5107,5104,5106,1170,1176,2171,5105,5108,5172
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="zdfhd" group-title="FritzTV" dvb-reference="4097:0:1:DD1F:A356:EC:0:0:0:0" epg-source="b5avzyyvtda", ZDF
-rtsp://192.168.178.254:554/?freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6100,6110,6120,6121,6122,6123,6130,6131,6132,6170
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL Television" tvg-logo="rtltelevision" group-title="FritzTV" dvb-reference="4097:0:1:5D4A:EF6:EC:0:0:0:0" epg-source="b5avzyyvtda", RTL Television
+#EXTINF:-1,Das Erste
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,104,106,84,105,1176,2070,2171
+#EXTINF:-1,ZDF
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,110,120,121,122,125,131,84,950,130
+#EXTINF:-1,RTL
+#EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,32,101,102,103,110,112,114,115
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-logo="sat1" group-title="FritzTV" dvb-reference="4097:0:1:AE5B:92B6:EC:0:0:0:0" epg-source="b5avzyyvtda", SAT.1
+#EXTINF:-1,SAT.1
+#EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,110,111
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL2" tvg-logo="rtl2" group-title="FritzTV" dvb-reference="4097:0:1:BC4:E3B2:EC:0:0:0:0" epg-source="b5avzyyvtda", RTL2
+#EXTINF:-1,RTL2
+#EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,210,212,213
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="prosieben" group-title="FritzTV" dvb-reference="4097:0:1:FE04:BE36:EC:0:0:0:0" epg-source="b5avzyyvtda", ProSieben
+#EXTINF:-1,ProSieben
+#EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,203,210,211
-#EXTINF:-1 tvg-id="KabelEins.de" tvg-name="kabel eins" tvg-logo="kabeleins" group-title="FritzTV" dvb-reference="4097:0:1:5E8F:7122:EC:0:0:0:0" epg-source="b5avzyyvtda", kabel eins
+#EXTINF:-1,kabel eins
+#EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,310,311
-#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX" tvg-logo="vox" group-title="FritzTV" dvb-reference="4097:0:1:62BA:ECC9:EC:0:0:0:0" epg-source="b5avzyyvtda", VOX
+#EXTINF:-1,VOX
+#EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,510,512,513,515
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="zdf_neo HD" tvg-logo="zdfneohd" group-title="FritzTV" dvb-reference="4097:0:1:E351:CCA8:EC:0:0:0:0" epg-source="b5avzyyvtda", zdf_neo HD
-rtsp://192.168.178.254:554/?freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6300,6310,6320,6321,6322,6323,6330,6331,6370
-#EXTINF:-1 tvg-id="One.de" tvg-name="ONE HD" tvg-logo="onehd" group-title="FritzTV" dvb-reference="4097:0:1:49AC:468C:EC:0:0:0:0" epg-source="b5avzyyvtda", ONE HD
-rtsp://192.168.178.254:554/?freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5410,5411,5412,5413,5417,5414,5416,276,2171,4170,4172,5415
-#EXTINF:-1 tvg-id="Sixx.de" tvg-name="SIXX" tvg-logo="sixx" group-title="FritzTV" dvb-reference="4097:0:1:A35:1A2F:EC:0:0:0:0" epg-source="b5avzyyvtda", SIXX
-rtsp://192.168.178.254:554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1800,1801,1802,1810,1811
-#EXTINF:-1 tvg-id="MDRFernsehenSachsen.de" tvg-name="MDR" tvg-logo="mdrsachsenhd" group-title="FritzTV" dvb-reference="4097:0:1:7B96:F979:EC:0:0:0:0" epg-source="xoqmlej15ks", MDR
-rtsp://192.168.178.254:554/?freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5320,5331,5332,5333,5334,5336,2171,2876,3670,3672,5335
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="kabel eins Doku" tvg-logo="kabeleinsdoku" group-title="FritzTV" dvb-reference="4097:0:1:F61A:E9E:EC:0:0:0:0" epg-source="b5avzyyvtda", kabel eins Doku
-rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,700,701,702,710,711
-#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 DOKU" tvg-logo="n24doku" group-title="FritzTV" dvb-reference="4097:0:1:A4F3:5076:EC:0:0:0:0" epg-source="b5avzyyvtda", N24 DOKU
-rtsp://192.168.178.254:554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,110
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv" tvg-logo="ntv" group-title="FritzTV" dvb-reference="4097:0:1:9214:C30C:EC:0:0:0:0" epg-source="b5avzyyvtda", n-tv
-rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,800,801,802,803,810,811,813
-#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" tvg-logo="welt" group-title="FritzTV" dvb-reference="4097:0:1:383C:CFBB:EC:0:0:0:0" epg-source="b5avzyyvtda", WELT
-rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,410,411
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="tlc" group-title="FritzTV" dvb-reference="4097:0:1:7A7E:EE1C:EC:0:0:0:0" epg-source="b5avzyyvtda", TLC
-rtsp://192.168.178.254:554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1700,1701,1702,1710,1711
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX" tvg-logo="dmax" group-title="FritzTV" dvb-reference="4097:0:1:61B7:F412:EC:0:0:0:0" epg-source="b5avzyyvtda", DMAX
-rtsp://192.168.178.254:554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,410,411
-#EXTINF:-1 tvg-id="BILD.de" tvg-name="BILD TV" tvg-logo="BILD HD" group-title="FritzTV" dvb-reference="4097:0:1:20FC:982C:EC:0:0:0:0" epg-source="b5avzyyvtda", BILD HD
-rtsp://192.168.178.254:554/?freq=570&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,311
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="Pro7 MAXX" tvg-logo="pro7maxx" group-title="FritzTV" dvb-reference="4097:0:1:448:4F7D:EC:0:0:0:0" epg-source="b5avzyyvtda", Pro7 MAXX
-rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,610,611
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-logo="zdfinfo" group-title="FritzTV" dvb-reference="4097:0:1:68EE:3D33:EC:0:0:0:0" epg-source="b5avzyyvtda", ZDFinfo
-rtsp://192.168.178.254:554/?freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,631,640,620,621,622,625,630
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24 HD" tvg-logo="tagesschau24hd" group-title="FritzTV" dvb-reference="4097:0:1:D31E:D29B:EC:0:0:0:0" epg-source="b5avzyyvtda", tagesschau24 HD
-rtsp://192.168.178.254:554/?freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5400,5401,5402,5403,5407,5404,5406,176,2171,3970,4072
-#EXTINF:-1 tvg-id="ServusHD.de" tvg-name="ServusTV HD Deutschland" tvg-logo="servustvhddeutschland" group-title="FritzTV" dvb-reference="4097:0:1:227C:8F9B:EC:0:0:0:0" epg-source="b5avzyyvtda", ServusTV HD Deutschland
-rtsp://192.168.178.254:554/?freq=554&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,104,110,111
-#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-logo="voxupsd" group-title="FritzTV" dvb-reference="4097:0:1:1728:9821:EC:0:0:0:0" epg-source="b5avzyyvtda", VOXup
+#EXTINF:-1,ONE
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,203,204,206,270,276,2171
+#EXTINF:-1,zdf_neo
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,660,670,671,675,672,681,690,680
+#EXTINF:-1,VOXup
+#EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,700,701,702,710,711,712,713
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="SUPER RTL" tvg-logo="superrtl" group-title="FritzTV" dvb-reference="4097:0:1:1490:B19E:EC:0:0:0:0" epg-source="b5avzyyvtda", SUPER RTL
-rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,410,411,412
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTLNITRO" tvg-logo="rtlnitro" group-title="FritzTV" dvb-reference="4097:0:1:8C76:B22A:EC:0:0:0:0" epg-source="b5avzyyvtda", RTLNITRO
-rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,610,611,613,614
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1 Gold" tvg-logo="sat1gold" group-title="FritzTV" dvb-reference="4097:0:1:2A0E:8EDC:EC:0:0:0:0" epg-source="b5avzyyvtda", SAT.1 Gold
-rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,510,511
-#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTLup HD" tvg-logo="rtlup" group-title="FritzTV" dvb-reference="4097:0:1:C4E4:44DF:EC:0:0:0:0" epg-source="xoqmlej15ks", RTLup HD
+#EXTINF:-1,SIXX
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1800,1801,1802,1810,1811
+#EXTINF:-1,RTLup
+#EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,700,701,702,710,711,713
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="TELE 5" tvg-logo="tele5" group-title="FritzTV" dvb-reference="4097:0:1:A467:1737:EC:0:0:0:0" epg-source="b5avzyyvtda", TELE 5
-rtsp://192.168.178.254:554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,310,311
-#EXTINF:-1 tvg-name="LEIPZIG FERNSEHEN" tvg-logo="LEIPZIG FERNSEHEN" group-title="FritzTV" dvb-reference="4097:0:1:3EEB:3216:EC:0:0:0:0", LEIPZIG FERNSEHEN
-rtsp://192.168.178.254:554/?freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,393,394,395,396,397
-#EXTINF:-1 tvg-name="Sachsen Eins HD" tvg-logo="sachseneinshd" group-title="FritzTV" dvb-reference="4097:0:1:58BF:876:EC:0:0:0:0", Sachsen Eins HD
-rtsp://192.168.178.254:554/?freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,483,484,485,486,487,488
-#EXTINF:-1 tvg-id="ComedyCentralVIVA.de" tvg-name="Comedy Central" tvg-logo="nickccplus1" group-title="FritzTV" dvb-reference="4097:0:1:D099:16E:EC:0:0:0:0" epg-source="b5avzyyvtda", Comedy Central
-rtsp://192.168.178.254:554/?freq=386&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1100,1101,1102,1103,1111
-#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus" tvg-logo="toggoplus" group-title="FritzTV" dvb-reference="4097:0:1:768A:769F:EC:0:0:0:0" epg-source="b5avzyyvtda", TOGGO plus
-rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,312
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-logo="disneychannel" group-title="FritzTV" dvb-reference="4097:0:1:B00E:E711:EC:0:0:0:0" epg-source="b5avzyyvtda", Disney Channel
-rtsp://192.168.178.254:554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1900,1901,1902,1903,1910,1911
-#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SWR/SR" tvg-logo="srfernsehen" group-title="FritzTV" dvb-reference="4097:0:1:6FD5:CD35:EC:0:0:0:0" epg-source="b5avzyyvtda", SWR/SR
+#EXTINF:-1,RTLNITRO
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,610,611,613,614
+#EXTINF:-1,SAT.1 Gold
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,510,511
+#EXTINF:-1,ZDFinfo
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,631,640,620,621,622,625,630
+#EXTINF:-1,MDR Sachsen
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2901,2902,2903,2904,2171,2870,2876,2905
+#EXTINF:-1,n-tv
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,800,801,802,803,810,811,813
+#EXTINF:-1,N24 DOKU
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,110
+#EXTINF:-1,WELT
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,410,411
+#EXTINF:-1,kabel eins Doku
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,700,701,702,710,711
+#EXTINF:-1,DMAX
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,410,411
+#EXTINF:-1,Pro7 MAXX
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,610,611
+#EXTINF:-1,TLC
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1700,1701,1702,1710,1711
+#EXTINF:-1,SR Fernsehen
+#EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,800,801,802,803,810,811,812,813
-#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-logo="sport1" group-title="FritzTV" dvb-reference="4097:0:1:3BF1:B4B3:EC:0:0:0:0" epg-source="b5avzyyvtda", SPORT1
+#EXTINF:-1,Radio Bremen TV
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1000,1001,1202,1210,1211,1212,1213
+#EXTINF:-1,TELE 5
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,310,311
+#EXTINF:-1,3sat
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,210,220,221,225,222,231,250,230
+#EXTINF:-1,hr-fernsehen
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,303,304,2171,2270,2276
+#EXTINF:-1,BR Fernsehen Nord
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,503,504,506,205,1076,2171,2178
+#EXTINF:-1,WDR Köln
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,603,604,605,2171,2370,2376
+#EXTINF:-1,rbb Berlin
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,603,604,670,2171,2176
+#EXTINF:-1,NDR
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2700,2701,2702,2703,2604,2171,2670,2676
+#EXTINF:-1,tagesschau24
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,104,170,176,2171
+#EXTINF:-1,arte
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,403,407,408,404,470,1276
+#EXTINF:-1,phoenix
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,503,504,570,576,2171
+#EXTINF:-1,SPORT1
+#EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,700,701,702,710,711
-#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder" tvg-logo="weltderwunder" group-title="FritzTV" dvb-reference="4097:0:1:8302:27D5:EC:0:0:0:0" epg-source="3b22rx3ccy2", Welt der Wunder
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-id="blueSport8.ch" tvg-name="8Sport" tvg-logo="8sport" group-title="FritzTV" dvb-reference="4097:0:1:79DD:41E9:EC:0:0:0:0" epg-source="e1njkaqn0zv", 8Sport
-rtsp://192.168.178.254:554/?freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,363,364,365,366
-#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD alpha HD" tvg-logo="ardalphahd" group-title="FritzTV" dvb-reference="4097:0:1:F8F9:4D5:EC:0:0:0:0" epg-source="b5avzyyvtda", ARD alpha HD
-rtsp://192.168.178.254:554/?freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5420,5421,5422,5423,5424,5426,1476,2171,4270,4272,5425
-#EXTINF:-1 tvg-id="RadioBremen.de" tvg-name="Radio Bremen HD" tvg-logo="radiobremenhd" group-title="FritzTV" dvb-reference="4097:0:1:DD0E:6C49:EC:0:0:0:0" epg-source="b5avzyyvtda", Radio Bremen HD
-rtsp://192.168.178.254:554/?freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5440,5441,5442,5443,5447,5444,2171,2576,2770,4472,5445
-#EXTINF:-1 tvg-id="ARTE.de" tvg-name="arte HD" tvg-logo="artehd" group-title="FritzTV" dvb-reference="4097:0:1:D6A3:D5AC:EC:0:0:0:0" epg-source="b5avzyyvtda", arte HD
-rtsp://192.168.178.254:554/?freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5110,5111,5112,5113,5116,5117,5114,1270,1276,5115,5118,5119
-#EXTINF:-1, Eurosport 1
+#EXTINF:-1,Eurosport 1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,800,801,802,810,811
-#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb Brandenburg HD" tvg-logo="rbbbrandenburghd" group-title="FritzTV" dvb-reference="4097:0:1:3003:CA73:EC:0:0:0:0" epg-source="b5avzyyvtda", rbb Brandenburg HD
-rtsp://192.168.178.254:554/?freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5300,5301,5302,5303,5307,5304,5306,2171,2176,3770,3772,5305
-#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb Berlin HD" tvg-logo="rbbberlinhd" group-title="FritzTV" dvb-reference="4097:0:1:D042:5533:EC:0:0:0:0" epg-source="b5avzyyvtda", rbb Berlin HD
-rtsp://192.168.178.254:554/?freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5310,5311,5312,5313,5317,5314,5316,2171,2176,3770,3772,5315
-#EXTINF:-1 tvg-id="HRFernsehen.de" tvg-name="HR" tvg-logo="hrfernsehenhd" group-title="FritzTV" dvb-reference="4097:0:1:FE79:264C:EC:0:0:0:0" epg-source="b5avzyyvtda", HR
-rtsp://192.168.178.254:554/?freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5350,5351,5352,5353,5357,5354,5356,2171,2276,3570,3572,5355
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE+" tvg-logo="anixeplus" group-title="FritzTV" dvb-reference="4097:0:1:B36E:9C7F:EC:0:0:0:0" epg-source="b5avzyyvtda", ANIXE+
-rtsp://192.168.178.254:554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,34,1401,1402,1411,1412
-#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR" tvg-logo="wdrhdkoln" group-title="FritzTV" dvb-reference="4097:0:1:D09B:F2CF:EC:0:0:0:0" epg-source="b5avzyyvtda", WDR
-rtsp://192.168.178.254:554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,107,104,106,105,2171,2371,2376,2377
-
-
-
+#EXTINF:-1,ServusTV Deutschland
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,403,410,411
+#EXTINF:-1,TOGGO plus
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,312
+#EXTINF:-1,Disney Channel
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1900,1901,1902,1903,1910,1911
+#EXTINF:-1,KiKA
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,310,320,321,325,330,350,331
+#EXTINF:-1,NICK/CC+1
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,700,701,702,703,711
+#EXTINF:-1,Comedy Central/VIVA
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,511
+#EXTINF:-1,SUPER RTL
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,410,411,412
