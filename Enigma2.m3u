@@ -35,7 +35,7 @@ rtsp://192.168.178.254:554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv
 #EXTINF:-1,SIXX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,1800,1801,1802,1810,1811
-#EXTINF:-1,RTLup
+#EXTINF:-1,RTLplus
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.254:554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,700,701,702,710,711,713
 #EXTINF:-1,NITRO
