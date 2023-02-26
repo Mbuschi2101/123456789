@@ -79,10 +79,10 @@ https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:0,Sachsen Eins HD
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,483,484,485,486,487,488
-#EXTINF:0,Leipzig FERNSEHEN
+#EXTINF:0,LEIPZIG FERNSEHEN
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,393,394,395,396,397
-#EXTINF:0,phoenix
+#EXTINF:0,PHOENIX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5260,5261,5262,5263,5264,576,1870,2171
 #EXTINF:0,tagesschau24
