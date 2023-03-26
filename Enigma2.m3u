@@ -159,9 +159,6 @@ rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:-1 tvg-name="13TH STREET" group-title="Sky" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/13TH.png" tvg-id="13th Street Universal",13TH STREET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/856
-#EXTINF:-1 tvg-name="A&E HD (1)" group-title="Sky",A&E
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.25:5000/6272
 #EXTINF:-1 tvg-name="ATV" group-title="Germany",ATV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/864
