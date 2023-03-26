@@ -225,9 +225,7 @@ http://192.168.178.25:5000/986
 #EXTINF:-1 tvg-name="Sky Crime" group-title="Cine",SKY CINEMA CRIME
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/987
-#EXTINF:-1 tvg-name="SKY CINEMA EMOTION" group-title="Cine",SKY CINEMA EMOTION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.25:5000/988
+
 #EXTINF:-1 tvg-name="Sky Cinema Family" group-title="Cine" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-F.png" tvg-id="Sky Family",SKY CINEMA FAMILY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/989
@@ -242,7 +240,7 @@ http://192.168.178.25:5000/993
 http://192.168.178.25:5000/994
 #EXTINF:-1 tvg-name="Sky Cinema Thriller" group-title="Cine" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKYTH.png" tvg-id="Sky Cinema Thriller",SKY CINEMA THRILLER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.25:5000/995
+http://192.168.178.25:5000/3407
 #EXTINF:-1 tvg-name="Sky Documentaries" group-title="Sky",SKY DOCUMENTARIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/996
