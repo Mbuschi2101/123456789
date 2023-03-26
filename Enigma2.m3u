@@ -385,9 +385,6 @@ http://192.168.178.25:5000/970
 #EXTINF:-1 tvg-name="Eurosport 2" group-title="Sport" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/EURO2.png" tvg-id="Eurosport 2",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/896
-#EXTINF:-1 tvg-name="EUROSPORT 2 XTRA" group-title="Sport",EUROSPORT 2 XTRA
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.25:5000/897
 #EXTINF:-1 tvg-name="SPORT1+" group-title="Sport" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SPORT.png" tvg-id="SPORT1",SPORT1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/1049
