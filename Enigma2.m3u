@@ -159,6 +159,9 @@ rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:-1 tvg-name="13TH STREET" group-title="Sky" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/13TH.png" tvg-id="13th Street Universal",13TH STREET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/856
+#EXTINF:-1 tvg-name="A&E HD (1)" group-title="Sky",A&E
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.25:5000/6272
 #EXTINF:-1 tvg-name="ATV" group-title="Germany",ATV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/864
@@ -265,6 +268,30 @@ http://192.168.178.25:5000/1003
 #EXTINF:-1 tvg-name="SKY POPCORN SELECT 5" group-title="Cine",SKY POPCORN SELECT 5
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/1004
+#EXTINF:-1 tvg-name="EAGLE BOLLYWOOD HD (1)" group-title="Cine" tvg-logo="https://vavoo.to/live2/logo/3208702854.jpeg",EAGLE BOLLYWOOD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.25:5000/6357
+#EXTINF:-1 tvg-name="EAGLE MASHA UND DER B HD (1)" group-title="Cine",EAGLE MASHA UNDR B
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.25:5000/6358
+#EXTINF:-1 tvg-name="EAGLE PEPPA WUTZ HD (1)" group-title="Cine",EAGLE PEPPA WUTZ
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.25:5000/6359
+#EXTINF:-1 tvg-name="EAGLE PJ MASKS HD (1)" group-title="Cine" tvg-logo="https://vavoo.to/live2/logo/4294473659.jpeg",EAGLE PJ MASKS
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.25:5000/6360
+#EXTINF:-1 tvg-name="MAX KINO (1)" group-title="Cine",MAX KINO
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.25:5000/6422
+#EXTINF:-1 tvg-name="MAX KINO 2 (1)" group-title="Cine",MAX KINO 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.25:5000/6423
+#EXTINF:-1 tvg-name="MAX KINO 3 (1)" group-title="Cine" tvg-logo="https://vavoo.to/live2/logo/1570231814.jpeg",MAX KINO 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.25:5000/6424
+#EXTINF:-1 tvg-name="MAX KINO COLLECTION (1)" group-title="Cine",MAX KINO COLLECTION
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.25:5000/6425
 #EXTINF:-1 tvg-name="SKY SELECT 1" group-title="Sky",SKY SELECT 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/1006
