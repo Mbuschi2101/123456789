@@ -206,7 +206,7 @@ http://192.168.178.25:5000/1054
 http://192.168.178.25:5000/1076
 #EXTINF:-1 tvg-name="Warner TV Comedy" group-title="Sky",WARNER COMEDY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.25:5000/1080
+http://192.168.178.25:5000/3473
 #EXTINF:-1 tvg-name="Warner TV Film" group-title="Sky" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-F.png" tvg-id="TNT Film",WARNER TV FILM
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/1081
