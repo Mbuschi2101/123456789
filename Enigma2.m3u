@@ -234,9 +234,6 @@ http://192.168.178.25:5000/989
 #EXTINF:-1 tvg-name="Sky Cinema Fun" group-title="Cine" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-C.png" tvg-id="Sky Cinema Fun",SKY CINEMA FUN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/990
-#EXTINF:-1 tvg-name="SKY CINEMA HITS" group-title="Cine",SKY CINEMA HITS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.25:5000/991
 #EXTINF:-1 tvg-name="Sky Cinema Premieren" group-title="Cine" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/CIN.png" tvg-id="Sky Cinema Premieren",SKY CINEMA PREMIEREN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.25:5000/993
