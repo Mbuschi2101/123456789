@@ -158,7 +158,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 
 #EXTINF:-1 tvg-name="13TH STREET" group-title="Sky" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/13TH.png" tvg-id="13TH STREET",13TH STREET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/856
+http://192.168.178.28:5000/3232
 #EXTINF:-1 tvg-name="ATV" group-title="Germany",ATV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.28:5000/864
@@ -167,227 +167,125 @@ http://192.168.178.28:5000/864
 http://192.168.178.28:5000/865
 #EXTINF:-1 tvg-name="SONY AXN" group-title="Sky" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/AXN.png" tvg-id="AXN",AXN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/867
+http://192.168.178.28:5000/868
 #EXTINF:-1 tvg-name="Crime+Investigation" group-title="Sky",Crime+Investigation; INVESTIGATION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/878
+http://192.168.178.28:5000/3260
 #EXTINF:-1 tvg-name="KINOWELT TV" group-title="Cine" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/KINOW.png" tvg-id="KinoweltTV",KINOWELT TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/912
+http://192.168.178.28:5000/914
 #EXTINF:-1 tvg-name="ORF 1" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/ORF1.png" tvg-id="ORF 1",ORF 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/936
+http://192.168.178.28:5000/939
 #EXTINF:-1 tvg-name="ORF 2" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/ORF2.png" tvg-id="ORF 2",ORF 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/937
+http://192.168.178.28:5000/940
 #EXTINF:-1 tvg-name="ORF SPORT +" group-title="Sport",ORF SPORT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.28:5000/938
 #EXTINF:-1 tvg-name="ProSieben FUN" group-title="Germany",PRO 7 FUN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/942
+http://192.168.178.28:5000/945
 #EXTINF:-1 tvg-name="Silverline" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SILVE.png" tvg-id="Silverline",SILVERLINE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/963
+http://192.168.178.28:5000/6579
 #EXTINF:-1 tvg-name="SKY One" group-title="Sky",SKY 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/965
+http://192.168.178.28:5000/6510
 #EXTINF:-1 tvg-name="Sky Cinema Action" group-title="Sky" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-A.png" tvg-id="Sky Action",SKY ACTION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/966
+http://192.168.178.28:5000/985
 #EXTINF:-1 tvg-name="SkyAtlantic" group-title="Sky",SKYLANTIC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.28:5000/968
 #EXTINF:-1 tvg-name="SYFY" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SCIFI.png" tvg-id="Syfy",SYFY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1054
+http://192.168.178.28:5000/1052
 #EXTINF:-1 tvg-name="Universal TV" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/UNIVE.png" tvg-id="Universal Channel HD",UNIVERSAL CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1076
+http://192.168.178.28:5000/3504
 #EXTINF:-1 tvg-name="Warner TV Comedy" group-title="Sky",WARNER COMEDY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/3473
+http://192.168.178.28:5000/3509
 #EXTINF:-1 tvg-name="Warner TV Film" group-title="Sky" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-F.png" tvg-id="TNT Film",WARNER TV FILM
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1081
+http://192.168.178.28:5000/3510
 #EXTINF:-1 tvg-name="Warner TV Serie" group-title="Sky" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/TNT-S.png" tvg-id="TNT Serie",WARNER TV SERIE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1082
+http://192.168.178.28:5000/3511
 #EXTINF:-1 tvg-name="SONY CHANNEL" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SONY.png" tvg-id="Sony Channel",SONY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1044
+http://192.168.178.28:5000/6676
 #EXTINF:-1 tvg-name="Sky Cinema Best of" group-title="Cine",SKY CINEMA BEST
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/984
+http://192.168.178.28:5000/6596
 #EXTINF:-1 tvg-name="Sky Cinema Classics" group-title="Cine" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-N.png" tvg-id="Sky Cinema Classics",SKY CINEMA CLASSICS
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/986
+http://192.168.178.28:5000/6620
 #EXTINF:-1 tvg-name="Sky Crime" group-title="Cine",SKY CINEMA CRIME
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/987
+http://192.168.178.28:5000/3444
 
 #EXTINF:-1 tvg-name="Sky Cinema Family" group-title="Cine" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-F.png" tvg-id="Sky Family",SKY CINEMA FAMILY
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/989
+http://192.168.178.28:5000/6625
 #EXTINF:-1 tvg-name="Sky Cinema Fun" group-title="Cine" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-C.png" tvg-id="Sky Cinema Fun",SKY CINEMA FUN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/990
+http://192.168.178.28:5000/6626
 #EXTINF:-1 tvg-name="Sky Cinema Premieren" group-title="Cine" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/CIN.png" tvg-id="Sky Cinema Premieren",SKY CINEMA PREMIEREN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/993
+http://192.168.178.28:5000/6632
 #EXTINF:-1 tvg-name="Sky Cinema Special" group-title="Cine" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKYCS.png" tvg-id="Sky Cinema Special HD",SKY CINEMA SPECIAL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/994
+http://192.168.178.28:5000/6661
 #EXTINF:-1 tvg-name="Sky Cinema Thriller" group-title="Cine" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKYTH.png" tvg-id="Sky Cinema Thriller",SKY CINEMA THRILLER
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/3407
+http://192.168.178.28:5000/6672
 #EXTINF:-1 tvg-name="Sky Documentaries" group-title="Sky",SKY DOCUMENTARIES
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/996
+http://192.168.178.28:5000/6622
 #EXTINF:-1 tvg-name="SkyKrimi" group-title="Sky" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SKY-K.png" tvg-id="Sky Krimi",SKY KRIMI
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/997
+http://192.168.178.28:5000/6630
 #EXTINF:-1 tvg-name="Sky Nature" group-title="Sky",SKY NATURE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/998
-#EXTINF:-1 tvg-name="SKY POPCORN SELECT 1" group-title="Cine",SKY POPCORN SELECT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1000
-#EXTINF:-1 tvg-name="SKY POPCORN SELECT 2" group-title="Cine",SKY POPCORN SELECT 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1001
-#EXTINF:-1 tvg-name="SKY POPCORN SELECT 3" group-title="Cine",SKY POPCORN SELECT 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1002
-#EXTINF:-1 tvg-name="SKY POPCORN SELECT 4" group-title="Cine",SKY POPCORN SELECT 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1003
-#EXTINF:-1 tvg-name="SKY POPCORN SELECT 5" group-title="Cine",SKY POPCORN SELECT 5
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1004
-#EXTINF:-1 tvg-name="EAGLE BOLLYWOOD HD (1)" group-title="Cine" tvg-logo="https://vavoo.to/live2/logo/3208702854.jpeg",EAGLE BOLLYWOOD
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/6357
-#EXTINF:-1 tvg-name="EAGLE MASHA UND DER B HD (1)" group-title="Cine",EAGLE MASHA UNDR B
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/6358
-#EXTINF:-1 tvg-name="EAGLE PEPPA WUTZ HD (1)" group-title="Cine",EAGLE PEPPA WUTZ
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/6359
-#EXTINF:-1 tvg-name="EAGLE PJ MASKS HD (1)" group-title="Cine" tvg-logo="https://vavoo.to/live2/logo/4294473659.jpeg",EAGLE PJ MASKS
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/6360
-#EXTINF:-1 tvg-name="MAX KINO (1)" group-title="Cine",MAX KINO
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/6422
-#EXTINF:-1 tvg-name="MAX KINO 2 (1)" group-title="Cine",MAX KINO 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/6423
-#EXTINF:-1 tvg-name="MAX KINO 3 (1)" group-title="Cine" tvg-logo="https://vavoo.to/live2/logo/1570231814.jpeg",MAX KINO 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/6424
-#EXTINF:-1 tvg-name="MAX KINO COLLECTION (1)" group-title="Cine",MAX KINO COLLECTION
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/6425
-#EXTINF:-1 tvg-name="SKY SELECT 1" group-title="Sky",SKY SELECT 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1006
-#EXTINF:-1 tvg-name="SKY SELECT 10" group-title="Sky",SKY SELECT 10
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1007
-#EXTINF:-1 tvg-name="SKY SELECT 2" group-title="Sky",SKY SELECT 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1008
-#EXTINF:-1 tvg-name="SKY SELECT 3" group-title="Sky",SKY SELECT 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1009
-#EXTINF:-1 tvg-name="SKY SELECT 4" group-title="Sky",SKY SELECT 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1010
-#EXTINF:-1 tvg-name="SKY SELECT 5" group-title="Sky",SKY SELECT 5
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1011
-#EXTINF:-1 tvg-name="SKY SELECT 6" group-title="Sky",SKY SELECT 6
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1012
-#EXTINF:-1 tvg-name="SKY SELECT 7" group-title="Sky",SKY SELECT 7
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1013
-#EXTINF:-1 tvg-name="SKY SELECT 8" group-title="Sky",SKY SELECT 8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1014
-#EXTINF:-1 tvg-name="SKY SELECT 9" group-title="Sky",SKY SELECT 9
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1015
+http://192.168.178.28:5000/3447
+
 #EXTINF:-1 tvg-name="GEO Television" group-title="Germany",GEO TELEVISION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/899
+http://192.168.178.28:5000/900
 #EXTINF:-1 tvg-name="MOTORVISION.TV" group-title="Germany",MOTORVISION
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/918
+http://192.168.178.28:5000/920
 #EXTINF:-1 tvg-name="Animal Planet" group-title="Germany",PLANET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/940
+http://192.168.178.28:5000/860
 #EXTINF:-1 tvg-name="National Geographic" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/N-GHD.png" tvg-id="Nat Geo HD",NAT GEO
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/922
+http://192.168.178.28:5000/6496
 #EXTINF:-1 tvg-name="National Geographic Wild" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/N-GW.png" tvg-id="NAT GEO WILD",NAT GEO WILD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/923
+http://192.168.178.28:5000/3343
 #EXTINF:-1 tvg-name="The HISTORY Channel" group-title="Germany",HISTORY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/903
+http://192.168.178.28:5000/6432
 #EXTINF:-1 tvg-name="Spiegel Geschichte" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SP-GE.png" tvg-id="Spiegel Geschichte",SPIEGEL GESCHICHTE
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1045
+http://192.168.178.28:5000/3478
 #EXTINF:-1 tvg-name="Curiosity Channel powered by SPIEGEL" group-title="Germany",Curiosity Channel
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1046
+http://192.168.178.28:5000/3479
 #EXTINF:-1 tvg-name="Discovery Channel" group-title="Germany",DISCOVERY CHANNEL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/884
-#EXTINF:-1 tvg-name="DAZN 1" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/DAZN.png" tvg-id="DAZN",DAZN 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/879
-#EXTINF:-1 tvg-name="DAZN 2" group-title="Germany" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/DAZN.png" tvg-id="DAZN",DAZN 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/880
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1" group-title="Sport",SKY BUNDESLIGA 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/969
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 2" group-title="Sport",SKY BUNDESLIGA 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/971
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3" group-title="Sport",SKY BUNDESLIGA 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/972
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 4" group-title="Sport",SKY BUNDESLIGA 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/973
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 5" group-title="Sport",SKY BUNDESLIGA 5
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/974
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 6" group-title="Sport",SKY BUNDESLIGA 6
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/975
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 7" group-title="Sport",SKY BUNDESLIGA 7
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/976
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 8" group-title="Sport",SKY BUNDESLIGA 8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/977
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 9" group-title="Sport",SKY BUNDESLIGA 9
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/978
-#EXTINF:-1 tvg-name="Sky Sport Bundesliga 10" group-title="Sport",SKY BUNDESLIGA 10
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/970
+http://192.168.178.28:5000/6393
+
+
 #EXTINF:-1 tvg-name="Eurosport 2" group-title="Sport" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/EURO2.png" tvg-id="Eurosport 2",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/896
+http://192.168.178.28:5000/3280
 #EXTINF:-1 tvg-name="SPORT1+" group-title="Sport" tvg-logo="http://live.tvspielfilm.de/static/images/channels/large/SPORT.png" tvg-id="SPORT1",SPORT1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.28:5000/1049
 #EXTINF:-1 tvg-name="SPORTDIGITAL FUSSBALL" group-title="Sport",SPORTDIGITALL FUSSBALL
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.28:5000/1050
+http://192.168.178.28:5000/1048
