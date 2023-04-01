@@ -161,7 +161,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 http://192.168.178.28:5000/3232
 #EXTINF:-1 tvg-name="ATV" group-title="Germany",ATV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-
+http://192.168.178.28:5000
 #EXTINF:-1 tvg-name="ATV II" group-title="Germany",ATV 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 
@@ -182,7 +182,7 @@ http://192.168.178.28:5000/939
 http://192.168.178.28:5000/940
 #EXTINF:-1 tvg-name="ORF SPORT +" group-title="Sport",ORF SPORT
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
-
+http://192.168.178.28:5000/941
 #EXTINF:-1 tvg-name="ProSieben FUN" group-title="Germany",PRO 7 FUN
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.28:5000/945
