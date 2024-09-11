@@ -96,6 +96,8 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=atv&stream_type=LIVE
 plugin://plugin.video.joyn/?mode=play_video&video_id=atv2&stream_type=LIVE
 #EXTINF:-1 tvg-id="AXN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN
 plugin://plugin.video.vavooto/?name=AXN
+#EXTINF:-1 tvg-id="Syfy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/537.png",Syfy
+plugin://plugin.video.vavooto/?name=SYFY
 #EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",13TH Street Universal
 plugin://plugin.video.vavooto/?name=13TH+STREET
 #EXTINF:-1 tvg-id="TNT Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/889.png",TNT Comedy
