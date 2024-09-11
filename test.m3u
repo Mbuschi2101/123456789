@@ -98,17 +98,17 @@ plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
 #EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
 plugin://plugin.video.joyn/?mode=play_video&video_id=atv&stream_type=LIVE
-#EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
+#EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV II
 plugin://plugin.video.joyn/?mode=play_video&video_id=atv2&stream_type=LIVE
 #EXTINF:-1 tvg-id="AXN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN
 plugin://plugin.video.vavooto/?name=AXN
-#EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",13TH Street
+#EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",13TH Street Universal
 plugin://plugin.video.vavooto/?name=13TH+STREET
-#EXTINF:-1 tvg-id="TNT Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/889.png",WarnerTV Comedy
+#EXTINF:-1 tvg-id="TNT Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/889.png",TNT Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
-#EXTINF:-1 tvg-id="TNT Film" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/914.png",WarnerTV Film
+#EXTINF:-1 tvg-id="TNT Film" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/914.png",TNT Film
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
-#EXTINF:-1 tvg-id="TNT Serie" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/479.png",WarnerTV Serie
+#EXTINF:-1 tvg-id="TNT Serie" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/479.png",TNT Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 #EXTINF:-1 tvg-id="KinoweltTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1039.png",Kinowelt
 plugin://plugin.video.vavooto/?name=KINOWELT
