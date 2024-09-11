@@ -80,7 +80,6 @@ rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:0,8Sport
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,50,54,57,104
-
 #EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png",Discovery HD
 plugin://plugin.video.vavooto/?name=DISCOVERY HD
 #EXTINF:-1 tvg-id="History HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History HD
@@ -97,7 +96,6 @@ plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/994.png",Animal Planet
 plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
-
 #EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
 plugin://plugin.video.joyn/?mode=play_video&video_id=atv&stream_type=LIVE
 #EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
@@ -112,7 +110,6 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 #EXTINF:-1 tvg-id="TNT Serie" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/479.png",WarnerTV Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
-
 #EXTINF:-1 tvg-id="KinoweltTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1039.png",Kinowelt
 plugin://plugin.video.vavooto/?name=KINOWELT
 #EXTINF:-1 tvg-id="ProSieben Fun" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png",ProSieben Fun
@@ -145,7 +142,6 @@ plugin://plugin.video.vavooto/?name=SKY+1
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
 #EXTINF:-1 tvg-id="Sky Showcase" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/1465.png",Sky Showcase
 plugin://plugin.video.vavooto/?name=SKY+SHOWCASE
-
 #EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png",Universal Channel
 plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 
