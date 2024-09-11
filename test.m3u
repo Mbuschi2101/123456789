@@ -47,9 +47,6 @@ rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:0,WELT
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,256
-#EXTINF:0,DOKUSAT
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,505,506
 #EXTINF:0,ProSieben MAXX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,355,356
@@ -77,9 +74,6 @@ rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:0,Eurosport 1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207
-#EXTINF:0,8Sport
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,50,54,57,104
 #EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png",Discovery HD
 plugin://plugin.video.vavooto/?name=DISCOVERY HD
 #EXTINF:-1 tvg-id="History HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History HD
