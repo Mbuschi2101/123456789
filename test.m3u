@@ -120,8 +120,6 @@ plugin://plugin.video.vavooto/?name=SKY ACTION
 plugin://plugin.video.vavooto/?name=SKY CINEMA CLASSICS
 #EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/1141.png",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
-#EXTINF:-1 tvg-id="Sky Cinema Highlights" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/506.png",Sky Cinema Highlights
-plugin://plugin.video.vavooto/?name=Sky Cinema Highlights
 #EXTINF:-1 tvg-id="Sky Cinema Premieren" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/473.png",Sky Cinema Premieren
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 #EXTINF:-1 tvg-id="Sky Crime" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1424.png",Sky Crime
@@ -136,8 +134,6 @@ plugin://plugin.video.vavooto/?name=SKY+NATURE
 plugin://plugin.video.vavooto/?name=SKY+1
 #EXTINF:-1 tvg-id="Sky Replay" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1366.png",Sky Replay
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
-#EXTINF:-1 tvg-id="Sky Showcase" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/1465.png",Sky Showcase
-plugin://plugin.video.vavooto/?name=SKY SHOWCASE
 #EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png",Universal Channel HD
 plugin://plugin.video.vavooto/?name=Universal Channel HD
 
