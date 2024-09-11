@@ -145,20 +145,8 @@ plugin://plugin.video.vavooto/?name=SKY+1
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
 #EXTINF:-1 tvg-id="Sky Showcase" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/1465.png",Sky Showcase
 plugin://plugin.video.vavooto/?name=SKY+SHOWCASE
-#EXTINF:-1 tvg-id="Sony Channel" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/961.png",Sony Channel
-plugin://plugin.video.vavooto/?name=SONY+TV
+
 #EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png",Universal Channel
 plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 
-#EXTINF:-1 tvg-id="PULS 4" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1052.png",PULS 4
-plugin://plugin.video.joyn/?mode=play_video&video_id=puls4-at&stream_type=LIVE
-#EXTINF:-1 tvg-id="PULS24" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1403.png",PULS 24
-plugin://plugin.video.joyn/?mode=play_video&video_id=puls24-at-hd&stream_type=LIVE
-#EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/996.png",ORF 1
-plugin://plugin.video.joyn/?mode=play_video&video_id=orf1-at&stream_type=LIVE
-#EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
-plugin://plugin.video.joyn/?mode=play_video&video_id=orf2-at&stream_type=LIVE
-#EXTINF:-1 tvg-id="ORF III" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1058.png",ORF 3
-plugin://plugin.video.joyn/?mode=play_video&video_id=orf3-at&stream_type=LIVE
-#EXTINF:-1 tvg-id="ORF SPORT +" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1051.png",ORF Sport
-plugin://plugin.video.joyn/?mode=play_video&video_id=orf-sport-plus-at&stream_type=LIVE
+
