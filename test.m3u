@@ -75,9 +75,9 @@ rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207
 #EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png",Discovery HD
-plugin://plugin.video.vavooto/?name=DISCOVERY HD
+plugin://plugin.video.vavooto/?name=DISCOVERY
 #EXTINF:-1 tvg-id="History HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History HD
-plugin://plugin.video.vavooto/?name=HISTORY HD
+plugin://plugin.video.vavooto/?name=HISTORY
 #EXTINF:-1 tvg-id="NAT GEO WILD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1170.png",Nat Geo Wild
 plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
 #EXTINF:-1 tvg-id="Nat Geo HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/765.png",Nat Geo HD
