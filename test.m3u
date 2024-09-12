@@ -113,9 +113,9 @@ plugin://plugin.video.vavooto/?name=PRO+7+FUN
 #EXTINF:-1 tvg-id="Silverline" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/SILVERLINE/logosamsungsd.png?width=256&height=256",Silverline
 plugin://plugin.video.vavooto/?name=SILVERLINE
 #EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/529.png",Sky Atlantic HD
-plugin://plugin.video.vavooto/?name=Sky Atlantic HD
+plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/456.png",Sky Action
-plugin://plugin.video.vavooto/?name=SKY ACTION
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 #EXTINF:-1 tvg-id="Sky Cinema Classics" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/483.png",Sky Cinema Classics
 plugin://plugin.video.vavooto/?name=SKY CINEMA CLASSICS
 #EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/320x39/1141.png",Sky Cinema Family
@@ -131,10 +131,10 @@ plugin://plugin.video.vavooto/?name=SKY KRIMI
 #EXTINF:-1 tvg-id="Sky Nature" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1440.png",Sky Nature
 plugin://plugin.video.vavooto/?name=SKY+NATURE
 #EXTINF:-1 tvg-id="Sky One" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1158.png",Sky One
-plugin://plugin.video.vavooto/?name=SKY One
+plugin://plugin.video.vavooto/?name=SKY+1
 #EXTINF:-1 tvg-id="Sky Replay" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/lightbg/320x39/1366.png",Sky Replay
 plugin://plugin.video.vavooto/?name=SKY REPLAY
 #EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png",Universal Channel HD
-plugin://plugin.video.vavooto/?name=Universal Channel HD
+plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 
 
