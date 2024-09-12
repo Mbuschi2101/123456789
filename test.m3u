@@ -83,7 +83,7 @@ plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
 #EXTINF:-1 tvg-id="Nat Geo HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/765.png",Nat Geo HD
 plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 #EXTINF:-1 tvg-id="GEO Television" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/60x60/1448.png",GEO Television
-plugin://plugin.video.vavooto/?name=GEO
+plugin://plugin.video.vavooto/?name=GEO+TV
 #EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/486.png",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 #EXTINF:-1 tvg-id="Spiegel TV Wissen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Spiegel TV Wissen
