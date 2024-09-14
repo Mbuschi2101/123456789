@@ -88,18 +88,10 @@ plugin://plugin.video.vavooto/?name=GEO+TV
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 #EXTINF:-1 tvg-id="Curiosity" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Curiosity
 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
-#EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/996.png",ORF 1
-plugin://plugin.video.joyn/?mode=play_video&video_id=orf1-at&stream_type=LIVE
-#EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
-plugin://plugin.video.joyn/?mode=play_video&video_id=orf2-at&stream_type=LIVE
-#EXTINF:-1 tvg-id="ORF III" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1058.png",ORF 3
-plugin://plugin.video.joyn/?mode=play_video&video_id=orf3-at&stream_type=LIVE
-#EXTINF:-1 tvg-id="ORF SPORT +" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1051.png",ORF Sport
-plugin://plugin.video.joyn/?mode=play_video&video_id=orf-sport-plus-at&stream_type=LIVE
 #EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
 plugin://plugin.video.joyn/?mode=play_video&video_id=atv&stream_type=LIVE
 #EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV II
-plugin://plugin://plugin.video.vavooto/?name=ATV+2
+plugin://plugin.video.vavooto/?name=ATV+2
 #EXTINF:-1 tvg-id="AXN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN
 plugin://plugin.video.vavooto/?name=AXN
 #EXTINF:-1 tvg-id="Syfy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/537.png",Syfy
