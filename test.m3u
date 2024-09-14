@@ -95,7 +95,7 @@ plugin://plugin.video.vavooto/?name=AXN+WHITE
 #EXTINF:-1 tvg-id="AXN Black" group-title="Standart" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw1072_sh603_sx4_sy238_sr16x9_nu2/picture/original/2024/06/axn-black-sender-logo-407205.jpeg",AXN Black
 plugin://plugin.video.vavooto/?name=AXN+BLACK
 #EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
-plugin://plugin.video.joyn/?mode=play_video&video_id=atv&stream_type=LIVE
+plugin://plugin.video.vavooto/?name=ORF+1
 #EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV II
 plugin://plugin.video.vavooto/?name=ATV+2
 #EXTINF:-1 tvg-id="AXN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN
