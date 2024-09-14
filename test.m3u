@@ -99,7 +99,7 @@ plugin://plugin.video.joyn/?mode=play_video&video_id=orf-sport-plus-at&stream_ty
 #EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
 plugin://plugin.video.joyn/?mode=play_video&video_id=atv&stream_type=LIVE
 #EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV II
-plugin://plugin.video.joyn/?mode=play_video&video_id=atv2&stream_type=LIVE
+plugin://plugin://plugin.video.vavooto/?name=ATV+2
 #EXTINF:-1 tvg-id="AXN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/539.png",AXN
 plugin://plugin.video.vavooto/?name=AXN
 #EXTINF:-1 tvg-id="Syfy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/537.png",Syfy
