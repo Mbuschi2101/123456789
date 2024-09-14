@@ -150,5 +150,3 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 plugin://plugin.video.vavooto/?name=BLUETV+4K+FANTASY
 #EXTINF:-1 tvg-id="BlueTV4K Science Fiction" group-title="Standart" tvg-logo="",BlueTV4K Science Fiction
 plugin://plugin.video.vavooto/?name=BLUETV+4K+SCI-FI
-#EXTINF:-1 tvg-id="Sky Box Docu" group-title="Standart" tvg-logo="",Sky Box Docu
-plugin://plugin.video.vavooto/?name=SKY+BOX+DOCU
