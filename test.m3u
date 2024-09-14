@@ -17,7 +17,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x60/1056.png",RTL II
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158,159
-#EXTINF:-1 tvg-id="Kabel eins" group-title="Standart" tvg-logo="",Kabel eins
+#EXTINF:-1 tvg-id="Kabel eins" group-title="Standart" tvg-logo="https://w7.pngwing.com/pngs/24/928/png-transparent-kabel-eins-2015-hd-logo.png",Kabel eins
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,205,206
 #EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x60/1057.png",VOX
