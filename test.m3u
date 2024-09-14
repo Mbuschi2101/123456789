@@ -8,70 +8,70 @@ rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x60/1496.png",RTL
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
-#EXTINF:0,SAT.1
+#EXTINF:-1 tvg-id="Sat.1" group-title="Standart" tvg-logo="",Sat.1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106
-#EXTINF:0,ProSieben
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="",ProSieben
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,153,155,156
-#EXTINF:0,RTL II
+#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="",RTL II
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158,159
-#EXTINF:0,kabel eins
+#EXTINF:-1 tvg-id="Kabel eins" group-title="Standart" tvg-logo="",Kabel eins
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,205,206
-#EXTINF:0,VOX
+#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="",VOX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,255,256,257,258,259
-#EXTINF:0,MDR
+#EXTINF:-1 tvg-id="MDR" group-title="Standart" tvg-logo="",MDR
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2901,2171,2870,2876,2902,2903,2904,2905
-#EXTINF:0,ZDFinfo
+#EXTINF:-1 tvg-id="ZDFinfo" group-title="Standart" tvg-logo="",ZDFinfo
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640,641,642
-#EXTINF:0,N24 DOKU
+#EXTINF:-1 tvg-id="N24 DOKU" group-title="Standart" tvg-logo="",N24 DOKU
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452,456
-#EXTINF:0,kabel eins Doku
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="",Kabel eins Doku
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406
-#EXTINF:0,DMAX
+#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="",DMAX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
-#EXTINF:0,TLC
+#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="",TLC
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
-#EXTINF:0,n-tv
+#EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="",N-TV
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,353,355,356,357,358
-#EXTINF:0,WELT
+#EXTINF:-1 tvg-id="Welt" group-title="Standart" tvg-logo="",Welt
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,256
-#EXTINF:0,ProSieben MAXX
+#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="",ProSieben MAXX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,355,356
-#EXTINF:0,VOXup
+#EXTINF:-1 tvg-id="VOXup" group-title="Standart" tvg-logo="",VOXup
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
-#EXTINF:0,RTLplus
+#EXTINF:-1 tvg-id="RTLplus" group-title="Standart" tvg-logo="",RTLplus
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406,407,408
-#EXTINF:0,SAT.1 Gold
+#EXTINF:-1 tvg-id="Sat.1 Gold" group-title="Standart" tvg-logo="",Sat.1 Gold
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306
-#EXTINF:0,TELE 5
+#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="",Tele 5
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,105,106,107,108,109
-#EXTINF:0,sixx
+#EXTINF:-1 tvg-id="Sixx" group-title="Standart" tvg-logo="",Sixx
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,550,551,38,552,558
-#EXTINF:0,NITRO
+#EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="",RTL NITRO
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306,307,308,309
-#EXTINF:0,SPORT1
+#EXTINF:-1 tvg-id="Sport1" group-title="Standart" tvg-logo="",Sport1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207,5010,5011
-#EXTINF:0,Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="",Eurosport 1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207
 #EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png",Discovery HD
