@@ -138,5 +138,7 @@ plugin://plugin.video.vavooto/?name=SKY+1
 plugin://plugin.video.vavooto/?name=SKY REPLAY
 #EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png",Universal Channel HD
 plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
+#EXTINF:-1 tvg-id="BlueTV4K"Fantasy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png",BlueTV4K Fantasy
+plugin://plugin.video.vavooto/?name=BLUETV+4K+FANTASY
 
 
