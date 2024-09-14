@@ -100,7 +100,7 @@ plugin://plugin.video.vavooto/?name=AXN+BLACK
 plugin://plugin.video.vavooto/?name=ATV+2
 #EXTINF:-1 tvg-id="ORF 1"group-title="Standart" tvg-logo="https://epggw.a1.net/img/station/darkbg/100x60/1098.png",ORF 1
 plugin://plugin.video.vavooto/?name=ORF+1
-#EXTINF:-1 tvg-id="ORF 2"group-title="Standart" tvg-logo="https://epggw.a1.net/img/station/darkbg/100x60/930.png",ORF 2
+#EXTINF:-1 tvg-id="ORF 2"group-title="Standart" tvg-logo="https://epggw.a1.net/img/station/darkbg/100x60/1095.png",ORF 2
 plugin://plugin.video.vavooto/?name=ORF+2
 #EXTINF:-1 tvg-id="Puls 4"group-title="Standart" tvg-logo="https://epggw.a1.net/img/station/darkbg/100x60/1052.png",Puls 4
 plugin://plugin.video.vavooto/?name=PULS+4
