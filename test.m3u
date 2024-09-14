@@ -53,7 +53,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:-1 tvg-id="VOXup" group-title="Standart" tvg-logo="https://www.dvbviewer.tv/forum/uploads/monthly_2019_12/Voxup.png.622a1f0cea251f08fd9b45b83bcefc5d.png",VOXup
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
-#EXTINF:-1 tvg-id="RTLplus" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/23/RTL_UP_Logo_2021.png",RTLplus
+#EXTINF:-1 tvg-id="RTLup" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/23/RTL_UP_Logo_2021.png",RTLup
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406,407,408
 #EXTINF:-1 tvg-id="Sat.1 Gold" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x60/956.png",Sat.1 Gold
@@ -86,7 +86,7 @@ plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 plugin://plugin.video.vavooto/?name=GEO+TV
 #EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/486.png",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
-#EXTINF:-1 tvg-id="Spiegel TV Wissen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Spiegel TV Wissen
+#EXTINF:-1 tvg-id="Curiosity" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Curiosity
 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/994.png",Animal Planet
 plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
