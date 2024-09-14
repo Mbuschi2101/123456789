@@ -88,6 +88,8 @@ plugin://plugin.video.vavooto/?name=GEO+TV
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 #EXTINF:-1 tvg-id="Curiosity" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Curiosity
 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
+#EXTINF:-1 tvg-id="Curiosity" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Curiosity
+plugin://plugin.video.vavooto/?name=AXN+BLACK
 #EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
 plugin://plugin.video.joyn/?mode=play_video&video_id=atv&stream_type=LIVE
 #EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV II
