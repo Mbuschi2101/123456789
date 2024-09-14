@@ -74,6 +74,8 @@ rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x60/890.png",Eurosport 1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
+plugin://plugin.video.dazn/?mode=play&title=Eurosport+2&id=1glc8nr85cpa21r4ahv8074dqs&params=f5lgatefogdowhxxv80ndf3ve&verify_age=False
 #EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/543.png",Discovery HD
 plugin://plugin.video.vavooto/?name=DISCOVERY
 #EXTINF:-1 tvg-id="History HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History HD
