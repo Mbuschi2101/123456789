@@ -38,7 +38,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",DMAX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
-#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="",TLC
+#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png",TLC
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
 #EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x60/1004.png",N-TV
@@ -50,10 +50,10 @@ rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x60/955.png",ProSieben MAXX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,355,356
-#EXTINF:-1 tvg-id="VOXup" group-title="Standart" tvg-logo="",VOXup
+#EXTINF:-1 tvg-id="VOXup" group-title="Standart" tvg-logo="https://www.dvbviewer.tv/forum/uploads/monthly_2019_12/Voxup.png.622a1f0cea251f08fd9b45b83bcefc5d.png",VOXup
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
-#EXTINF:-1 tvg-id="RTLplus" group-title="Standart" tvg-logo="",RTLplus
+#EXTINF:-1 tvg-id="RTLplus" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/23/RTL_UP_Logo_2021.png",RTLplus
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406,407,408
 #EXTINF:-1 tvg-id="Sat.1 Gold" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x60/956.png",Sat.1 Gold
