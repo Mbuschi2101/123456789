@@ -164,14 +164,14 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 
 
 
-#EXTINF:-1 tvg-id="BlueTV4K Fantasy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",BlueTV4K Fantasy
+#EXTINF:-1 tvg-id="BlueTV4K Fantasy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TV.jpeg",BlueTV4K Fantasy
 plugin://plugin.video.vavooto/?name=BLUETV+4K+FANTASY
 
-#EXTINF:-1 tvg-id="BlueTV4K Horror" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",BlueTV4K Horror
-plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
-
-#EXTINF:-1 tvg-id="BlueTV Fantasy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",BlueTV Fantasy
+#EXTINF:-1 tvg-id="BlueTV Fantasy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TV.jpeg",BlueTV Fantasy
 plugin://plugin.video.vavooto/?name=BLUETV+FANTASY+%CA%9C%E1%B4%85
 
-#EXTINF:-1 tvg-id="SKY BOX FANTASY" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",SKY BOX FANTASY
+#EXTINF:-1 tvg-id="SKY BOX FANTASY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TV.jpeg",SKY BOX FANTASY
 plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
+
+#EXTINF:-1 tvg-id="BlueTV4K Horror" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TV.jpeg",BlueTV4K Horror
+plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
