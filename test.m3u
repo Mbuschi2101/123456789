@@ -41,19 +41,19 @@ plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="ProSiebenMAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/prosieben%20maxx%20hd.png",ProSiebenMAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
 
-#EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",ORF 1
+#EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Orf1_HD.png",ORF 1
 plugin://plugin.video.vavooto/?name=ORF+1
 
-#EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",ORF 2
+#EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/ORF2_HD.png",ORF 2
 plugin://plugin.video.vavooto/?name=ORF+2
 
-#EXTINF:-1 tvg-id="TNT Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",TNT Comedy
+#EXTINF:-1 tvg-id="TNT Comedy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TNT_Comedy_HD.png",TNT Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 
-#EXTINF:-1 tvg-id="TNT Film" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",TNT Film
+#EXTINF:-1 tvg-id="TNT Film" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TNT_Film_HD.png",TNT Film
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 
-#EXTINF:-1 tvg-id="TNT Serie" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",TNT Serie
+#EXTINF:-1 tvg-id="TNT Serie" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TNT_Serie_HD.png",TNT Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 
 #EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Sky Cinema
