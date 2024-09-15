@@ -131,9 +131,6 @@ plugin://plugin.video.vavooto/?name=PLANET
 #EXTINF:-1 tvg-id="GEO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/geo%20television.png",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
 
-#EXTINF:-1 tvg-id="OTVA" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/OTVA.jpeg",OTVA
-plugin://plugin.video.vavooto/?name=OTVA
-
 #EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/MOTORSPORT%20TV.png",Auto Motor Sport
 plugin://plugin.video.vavooto/?name=MOTORSPORT+TV
 
