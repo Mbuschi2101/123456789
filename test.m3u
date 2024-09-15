@@ -59,19 +59,19 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 #EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sky%20cinema%20hd.png",Sky Cinema
 plugin://plugin.video.vavooto/?name=SKY+CINEMA
 
-#EXTINF:-1 tvg-id="Sky Cinema PREMIEREN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Sky Cinema PREMIEREN
+#EXTINF:-1 tvg-id="Sky Cinema PREMIEREN" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/SkyCinemaPremieren.jpeg",Sky Cinema PREMIEREN
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 
-#EXTINF:-1 tvg-id="Sky FAMILY" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Sky FAMILY
+#EXTINF:-1 tvg-id="Sky FAMILY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sky%20cinema%20family.png",Sky FAMILY
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 
-#EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Sky Aktion
+#EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sky%20cinema%20action.png",Sky Aktion
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 
-#EXTINF:-1 tvg-id="SKY 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",SKY 1
+#EXTINF:-1 tvg-id="SKY 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sky%201.png",SKY 1
 plugin://plugin.video.vavooto/?name=SKY+1
 
-#EXTINF:-1 tvg-id="SKY ATLANTIC" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",SKY ATLANTIC
+#EXTINF:-1 tvg-id="SKY ATLANTIC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sky%20atlantic.png",SKY ATLANTIC
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 
 #EXTINF:-1 tvg-id="SKY DOCUMENTARIES" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",SKY DOCUMENTARIES
