@@ -161,8 +161,8 @@ plugin://plugin.video.vavooto/?name=PRO+7+FUN
 #EXTINF:-1 tvg-id="Universal TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/universal%20tv%20%20hd.png",Universal TV
 plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 
-
-
+#EXTINF:-1 tvg-id="SyFy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sci%20fi%20channel.png",SyFy
+plugin://plugin.video.vavooto/?name=SYFY
 
 #EXTINF:-1 tvg-id="BlueTV4K Fantasy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TV.jpeg",BlueTV4K Fantasy
 plugin://plugin.video.vavooto/?name=BLUETV+4K+FANTASY
