@@ -8,25 +8,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,110,84,120,121,122,125,130,131,950,951,952
 
-#EXTINF:0,RTLup
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406,407,408
-
-#EXTINF:0,SAT.1 Gold
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306
-
-#EXTINF:0,N24 DOKU
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452,456
-
-#EXTINF:0,kabel eins Doku
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406
-
-
-
-#EXTINF:0,RTL Television
+#EXTINF:0,RTL 
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
 
@@ -34,25 +16,25 @@ rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106
 
-#EXTINF:0,ProSieben
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,153,155,156
-
-#EXTINF:0,VOX
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,255,256,257,258,259
-
 #EXTINF:0,RTL2
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158,159
+
+#EXTINF:0,ProSieben
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,153,155,156
 
 #EXTINF:0,kabel eins
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,205,206
 
-#EXTINF:0,DMAX
+#EXTINF:0,VOX
 #EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,255,256,257,258,259
+
+#EXTINF:0,MDR Sachsen
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2901,2171,2870,2876,2902,2903,2904,2905
 
 #EXTINF:0,TELE 5
 #EXTVLCOPT:network-caching=1000
@@ -62,9 +44,61 @@ rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,550,551,38,552,558
 
+#EXTINF:0,RTLup
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406,407,408
+
+#EXTINF:0,SAT.1 Gold
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306
+
+#EXTINF:0,ZDFinfo
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640,641,642
+
+#EXTINF:0,N24 DOKU
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452,456
+
+#EXTINF:0,kabel eins Doku
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406
+
+#EXTINF:0,DMAX
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
+
 #EXTINF:0,TLC
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
+
+#EXTINF:0,n-tv
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,353,355,356,357,358
+
+#EXTINF:0,WELT
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,256
+
+#EXTINF:0,DOKUSAT
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,505,506
+
+#EXTINF:0,DF 1
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452
+
+#EXTINF:0,VOXup SD
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
+
+#EXTINF:0,zdf_neo
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690,691,692
+
+
+
+
 
 #EXTINF:0,RTLNITRO
 #EXTVLCOPT:network-caching=1000
@@ -74,17 +108,13 @@ rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,355,356
 
-#EXTINF:0,DF 1
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452
+
 
 #EXTINF:0,rbb Berlin
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,603,604,670,2171,2176
 
-#EXTINF:0,MDR Sachsen
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2901,2171,2870,2876,2902,2903,2904,2905
+
 
 #EXTINF:0,WDR Köln
 #EXTVLCOPT:network-caching=1000
@@ -110,13 +140,9 @@ rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,303,304,2171,2270,2276
 
-#EXTINF:0,zdf_neo
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690,691,692
 
-#EXTINF:0,ZDFinfo
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640,641,642
+
+
 
 #EXTINF:0,3sat
 #EXTVLCOPT:network-caching=1000
@@ -130,18 +156,6 @@ rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207
 
-#EXTINF:0,n-tv
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,353,355,356,357,358
 
-#EXTINF:0,WELT
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,256
 
-#EXTINF:0,DOKUSAT
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,505,506
 
-#EXTINF:0,VOXup SD
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
