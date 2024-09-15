@@ -17,6 +17,9 @@ plugin://plugin.video.vavooto/?name=PRO+7
 #EXTINF:-1 tvg-id="KABEL 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",KABEL 1
 plugin://plugin.video.vavooto/?name=KABEL+1
 
+#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",VOX
+plugin://plugin.video.vavooto/?name=VOX
+
 #EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",ONE
 plugin://plugin.video.vavooto/?name=ONE
 
@@ -26,6 +29,9 @@ plugin://plugin.video.vavooto/?name=PULS+4
 #EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",RTL NITRO
 plugin://plugin.video.vavooto/?name=RTL+NITRO
 
+#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Tele 5
+plugin://plugin.video.vavooto/?name=TELE+5
+
 #EXTINF:-1 tvg-id="ProSiebenMAXX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",ProSiebenMAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
 
@@ -34,6 +40,15 @@ plugin://plugin.video.vavooto/?name=ORF+1
 
 #EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",ORF 2
 plugin://plugin.video.vavooto/?name=ORF+2
+
+#EXTINF:-1 tvg-id="TNT Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",TNT Comedy
+plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
+
+#EXTINF:-1 tvg-id="TNT Film" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",TNT Film
+plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
+
+#EXTINF:-1 tvg-id="TNT Serie" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",TNT Serie
+plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 
 #EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Sky Cinema
 plugin://plugin.video.vavooto/?name=SKY+CINEMA
@@ -65,11 +80,17 @@ plugin://plugin.video.vavooto/?name=MDR
 #EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",N-TV
 plugin://plugin.video.vavooto/?name=N-TV
 
+#EXTINF:-1 tvg-id="Welt" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Welt
+plugin://plugin.video.vavooto/?name=WELT
+
 #EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",N24 Doku
 plugin://plugin.video.vavooto/?name=N24+DOCU
 
 #EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
+
+#EXTINF:-1 tvg-id="WELT DER WUNDER" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",WELT DER WUNDER
+plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
 
 #EXTINF:-1 tvg-id="SKY Nature" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",SKY Nature
 plugin://plugin.video.vavooto/?name=SKY+NATURE
@@ -85,6 +106,12 @@ plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
 
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",NATIONAL GEOGRAPHIC
 plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
+
+#EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Spiegel Geschichte
+plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
+
+#EXTINF:-1 tvg-id="Curiosity" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Curiosity
+plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
 
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
@@ -122,9 +149,8 @@ plugin://plugin.video.vavooto/?name=SILVERLINE
 #EXTINF:-1 tvg-id="PRO 7 FUN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",PRO 7 FUN
 plugin://plugin.video.vavooto/?name=PRO+7+FUN
 
-#EXTINF:-1 tvg-id="EUROSPORT 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",EUROSPORT 1
-plugin://plugin.video.vavooto/?name=EUROSPORT+1
-
+#EXTINF:-1 tvg-id="Universal TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Universal TV
+plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 
 
 
