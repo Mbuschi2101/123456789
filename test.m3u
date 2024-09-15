@@ -56,7 +56,7 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 #EXTINF:-1 tvg-id="TNT Serie" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TNT_Serie_HD.png",TNT Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 
-#EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Sky Cinema
+#EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sky%20cinema%20hd.png",Sky Cinema
 plugin://plugin.video.vavooto/?name=SKY+CINEMA
 
 #EXTINF:-1 tvg-id="Sky Cinema PREMIEREN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Sky Cinema PREMIEREN
