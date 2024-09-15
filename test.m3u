@@ -116,25 +116,25 @@ plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
 #EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/natgeo%20hd.png",NATIONAL GEOGRAPHIC
 plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 
-#EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Spiegel Geschichte
+#EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Spiegel%20Geschichte.jpg",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 
-#EXTINF:-1 tvg-id="Curiosity" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Curiosity
+#EXTINF:-1 tvg-id="Curiosity" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Curiosity.png",Curiosity
 plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
 
-#EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/animal%20planet%20hd.png",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
 
-#EXTINF:-1 tvg-id="GEO" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Geo
+#EXTINF:-1 tvg-id="GEO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/geo%20television.png",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
 
-#EXTINF:-1 tvg-id="OTVA" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",OTVA
+#EXTINF:-1 tvg-id="OTVA" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/OTVA.jpeg",OTVA
 plugin://plugin.video.vavooto/?name=OTVA
 
-#EXTINF:-1 tvg-id="MOTORSPORT TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",MOTORSPORT TV
+#EXTINF:-1 tvg-id="MOTORSPORT TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/MOTORSPORT%20TV.png",MOTORSPORT TV
 plugin://plugin.video.vavooto/?name=MOTORSPORT+TV
 
-#EXTINF:-1 tvg-id="MOTORVISION" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",MOTORVISION
+#EXTINF:-1 tvg-id="MOTORVISION" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/MOTORVISION.png",MOTORVISION
 plugin://plugin.video.vavooto/?name=MOTORVISION
 
 #EXTINF:-1 tvg-id="ATV2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",ATV2
@@ -146,10 +146,10 @@ plugin://plugin.video.vavooto/?name=KINOWELT
 #EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",13TH Street Universal
 plugin://plugin.video.vavooto/?name=13TH+STREET
 
-#EXTINF:-1 tvg-id="AXN white" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",AXN white
+#EXTINF:-1 tvg-id="AXN white" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/AXN%20white.png",AXN white
 plugin://plugin.video.vavooto/?name=AXN+WHITE
 
-#EXTINF:-1 tvg-id="AXN black" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",AXN black
+#EXTINF:-1 tvg-id="AXN black" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/AXN%20black.jpeg",AXN black
 plugin://plugin.video.vavooto/?name=AXN+BLACK
 
 #EXTINF:-1 tvg-id="SILVERLINE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",SILVERLINE
