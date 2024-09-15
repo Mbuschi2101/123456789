@@ -38,7 +38,7 @@ plugin://plugin.video.vavooto/?name=TELE+5
 #EXTINF:-1 tvg-id="ZDF NEO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/zdf_neo%20hd.png",ZDF NEO
 plugin://plugin.video.vavooto/?name=ZDF+NEO
 
-#EXTINF:-1 tvg-id="ProSiebenMAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/prosieben%20maxx%20hd.png",ProSiebenMAXX
+#EXTINF:-1 tvg-id="ProSiebenMAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Pro7maxxHD.jpeg",ProSiebenMAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
 
 #EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Orf1_HD.png",ORF 1
