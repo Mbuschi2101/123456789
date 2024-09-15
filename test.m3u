@@ -116,7 +116,7 @@ plugin://plugin.video.vavooto/?name=HISTORY
 #EXTINF:-1 tvg-id="NAT GEO WILD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/nat%20geo%20wild%20hd.png",NAT GEO WILD
 plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
 
-#EXTINF:-1 tvg-id="NAT GEO HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/natgeo%20hd.png",NAT GEE HD
+#EXTINF:-1 tvg-id="NAT GEO HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/natgeo%20hd.png",NAT GEO HD
 plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 
 #EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Spiegel%20Geschichte.jpg",Spiegel Geschichte
