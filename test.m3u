@@ -1,4 +1,4 @@
-ns#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 
