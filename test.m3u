@@ -20,25 +20,25 @@ plugin://plugin.video.vavooto/?name=PRO+7
 #EXTINF:-1 tvg-id="KABEL 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/kabel%20eins%20hd.png",KABEL 1
 plugin://plugin.video.vavooto/?name=KABEL+1
 
-#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",VOX
+#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/vox%20hd.png",VOX
 plugin://plugin.video.vavooto/?name=VOX
 
-#EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",ONE
+#EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/one%20hd.png",ONE
 plugin://plugin.video.vavooto/?name=ONE
 
-#EXTINF:-1 tvg-id="Puls 4" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Puls 4
+#EXTINF:-1 tvg-id="Puls 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/puls%204%20hd%20austria.png",Puls 4
 plugin://plugin.video.vavooto/?name=PULS+4
 
-#EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",RTL NITRO
+#EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl%20nitro%20hd.png",RTL NITRO
 plugin://plugin.video.vavooto/?name=RTL+NITRO
 
-#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",Tele 5
+#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/tele%205%20hd.png",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
 
-#EXTINF:-1 tvg-id="ZDF NEO" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",ZDF NEO
+#EXTINF:-1 tvg-id="ZDF NEO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/zdf_neo%20hd.png",ZDF NEO
 plugin://plugin.video.vavooto/?name=ZDF+NEO
 
-#EXTINF:-1 tvg-id="ProSiebenMAXX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",ProSiebenMAXX
+#EXTINF:-1 tvg-id="ProSiebenMAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/prosieben%20maxx%20hd.png",ProSiebenMAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
 
 #EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/442.png",ORF 1
