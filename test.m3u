@@ -11,7 +11,7 @@ plugin://plugin.video.vavooto/?name=RTL
 #EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sat.1%20hd.png",SAT.1
 plugin://plugin.video.vavooto/?name=SAT+1
 
-#EXTINF:-1 tvg-id="RTL 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl2%20hd.png",RTL 2
+#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl2%20hd.png",RTL II
 plugin://plugin.video.vavooto/?name=RTL+2
 
 #EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/pro%207%20hd.png",ProSieben
