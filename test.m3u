@@ -98,6 +98,9 @@ plugin://plugin.video.vavooto/?name=N24+DOCU
 #EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/dmax%20hd.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
 
+#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/dmax%20hd.png",TLC
+plugin://plugin.video.vavooto/?name=TLC
+
 #EXTINF:-1 tvg-id="WELT DER WUNDER" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/welt%20der%20wunder.png",WELT DER WUNDER
 plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
 
