@@ -36,7 +36,7 @@ plugin://plugin.video.vavooto/?name=RTL+NITRO
 plugin://plugin.video.vavooto/?name=TELE+5
 
 #EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/zdf_neo%20hd.png",ZDFneo
-plugin://plugin.video.vavooto/?name=ZDF+NEO
+http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 
 #EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Pro7maxxHD.jpeg",ProSieben MAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
@@ -78,13 +78,13 @@ plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+DOCUMENTARIES
 
 #EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/ZDFInfoHD.png",ZDF Info
-plugin://plugin.video.vavooto/?name=ZDF+INFO
+http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 
 #EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/kabel%20eins%20doku.png",Kabel eins Doku
 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 
 #EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/mdr%20fernsehen%20hd.png",MDR Sachsen
-plugin://plugin.video.vavooto/?name=MDR
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 
 #EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/NTV.png",N-TV
 plugin://plugin.video.vavooto/?name=N-TV
@@ -172,6 +172,15 @@ plugin://plugin.video.vavooto/?name=BLUETV+FANTASY+%CA%9C%E1%B4%85
 
 #EXTINF:-1 tvg-id="SKY BOX FANTASY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TV.jpeg",SKY BOX FANTASY
 plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
+
+
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1,ORF-2
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1,ORF-3
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1,ORF-Sport
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 
 #EXTINF:-1 tvg-id="BlueTV4K Horror" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TV.jpeg",BlueTV4K Horror
 plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
