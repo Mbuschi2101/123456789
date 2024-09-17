@@ -173,14 +173,5 @@ plugin://plugin.video.vavooto/?name=BLUETV+FANTASY+%CA%9C%E1%B4%85
 #EXTINF:-1 tvg-id="SKY BOX FANTASY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TV.jpeg",SKY BOX FANTASY
 plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
 
-
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
-#EXTINF:-1,ORF-2
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
-#EXTINF:-1,ORF-3
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
-#EXTINF:-1,ORF-Sport
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-
 #EXTINF:-1 tvg-id="BlueTV4K Horror" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TV.jpeg",BlueTV4K Horror
 plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
