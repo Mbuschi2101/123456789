@@ -18,7 +18,7 @@ plugin://plugin.video.vavooto/?name=DAZN+SPORT+1
 #EXTINF:-1 tvg-id="DAZN SPORT 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN SPORT 2
 plugin://plugin.video.vavooto/?name=DAZN+SPORT+2
 
-#EXTINF:-1 tvg-id="MAGENTA 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",MAGENTA 1
+#EXTINF:-1 tvg-id="MAGENTA Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",MAGENTA Sport
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
 
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA
