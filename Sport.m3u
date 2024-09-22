@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN 1
+plugin://plugin.video.vavooto/?name=DAZN+1
+
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN 2
+plugin://plugin.video.vavooto/?name=DAZN+2
+
+#EXTINF:-1 tvg-id="DAZN 2 BAR" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN 2 BAR
+plugin://plugin.video.vavooto/?name=DAZN+2+BAR
+
+#EXTINF:-1 tvg-id="DAZN FAST BAR" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN FAST BAR
+plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
+
+#EXTINF:-1 tvg-id="DAZN SPORT 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN SPORT 1
+plugin://plugin.video.vavooto/?name=DAZN+SPORT+1
+
+#EXTINF:-1 tvg-id="DAZN SPORT 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN SPORT 2
+plugin://plugin.video.vavooto/?name=DAZN+SPORT+2
+
+#EXTINF:-1 tvg-id="MAGENTA 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",MAGENTA 1
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
+
+#EXTINF:-1 tvg-id="SKY BUNDESLIGA" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY BUNDESLIGA
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA
+
+
