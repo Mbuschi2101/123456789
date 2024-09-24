@@ -8,7 +8,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,110,84,120,121,122,125,130,131,950,951,952
 
-#EXTINF:0,RTL 
+#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl%20hd.png",RTL
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
 
