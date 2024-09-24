@@ -12,31 +12,31 @@ rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
 
-#EXTINF:0,SAT.1
+#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sat.1%20hd.png",SAT.1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106
 
-#EXTINF:0,RTL2
+#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl2%20hd.png",RTL II
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158,159
 
-#EXTINF:0,ProSieben
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/pro%207%20hd.png",ProSieben
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,153,155,156
 
-#EXTINF:0,kabel eins
+#EXTINF:-1 tvg-id="KABEL eins" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/kabel%20eins%20hd.png",KABEL eins
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,205,206
 
-#EXTINF:0,VOX
+#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/vox%20hd.png",VOX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,255,256,257,258,259
 
-#EXTINF:0,MDR Sachsen
+#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/mdr%20fernsehen%20hd.png",MDR Sachsen
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2901,2171,2870,2876,2902,2903,2904,2905
 
-#EXTINF:0,TELE 5
+#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/tele%205%20hd.png",Tele 5
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,105,106,107,108,109
 
