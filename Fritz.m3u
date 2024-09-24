@@ -52,31 +52,31 @@ rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306
 
-#EXTINF:0,ZDFinfo
+#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/ZDFInfoHD.png",ZDF Info
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640,641,642
 
-#EXTINF:0,N24 DOKU
+#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/n24%20hd.png",N24 Doku
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452,456
 
-#EXTINF:0,kabel eins Doku
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/kabel%20eins%20doku.png",Kabel eins Doku
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406
 
-#EXTINF:0,DMAX
+#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/dmax%20hd.png",DMAX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
 
-#EXTINF:0,TLC
+#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/tlc.png",TLC
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
 
-#EXTINF:0,n-tv
+#EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/NTV.png",N-TV
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,353,355,356,357,358
 
-#EXTINF:0,WELT
+#EXTINF:-1 tvg-id="Welt" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/welt%20hd.png",Welt
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,256
 
@@ -84,69 +84,21 @@ rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,505,506
 
-#EXTINF:0,DF 1
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452
-
 #EXTINF:0,VOXup SD
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
 
-#EXTINF:0,zdf_neo
+#EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/zdf_neo%20hd.png",ZDFneo
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690,691,692
 
-
-
-
-
-#EXTINF:0,RTLNITRO
+#EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl%20nitro%20hd.png",RTL NITRO
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306,307,308,309
 
-#EXTINF:0,Pro7 MAXX
+#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Pro7maxxHD.jpeg",ProSieben MAXX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,355,356
-
-
-
-#EXTINF:0,rbb Berlin
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,603,604,670,2171,2176
-
-
-
-#EXTINF:0,WDR Köln
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,603,604,605,2171,2370,2376
-
-#EXTINF:0,NDR FS NDS
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2600,2601,2171,2602,2603,2604,2670,2676
-
-#EXTINF:0,BR Fernsehen Nord
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,205,502,503,504,506,1076,2171,2178
-
-#EXTINF:0,SWR Fernsehen RP
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,3100,3101,2171,2470,2476,3102,3103,3104,3106
-
-#EXTINF:0,Radio Bremen TV
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,506,507,508,1204
-
-#EXTINF:0,hr-fernsehen
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,303,304,2171,2270,2276
-
-
-
-
-
-#EXTINF:0,3sat
-#EXTVLCOPT:network-caching=1000
-rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,210,220,221,222,225,230,231,250
 
 #EXTINF:0,SPORT1
 #EXTVLCOPT:network-caching=1000
