@@ -219,3 +219,110 @@ plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
 #EXTINF:-1 tvg-id="BlueTV4K Horror" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV.jpg",BlueTV4K Horror
 plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
 
+#EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,84,102,103,104,105,106,1176,2070,2171
+
+#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,110,84,120,121,122,125,130,131,950,951,952
+
+#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
+
+#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106
+
+#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158,159
+
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,153,155,156
+
+#EXTINF:-1 tvg-id="KABEL eins" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL eins
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,205,206
+
+#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,255,256,257,258,259
+
+#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2901,2171,2870,2876,2902,2903,2904,2905
+
+#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,105,106,107,108,109
+
+#EXTINF:-1 tvg-id="Sixx" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",Sixx
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,550,551,38,552,558
+
+#EXTINF:-1 tvg-id="RTLup" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLup.jpeg",RTLup
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406,407,408
+
+#EXTINF:-1 tvg-id="Sat.1 Gold" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sat.1%20Gold.png",Sat.1 Gold
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306
+
+#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDF Info
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640,641,642
+
+#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452,456
+
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406
+
+#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
+
+#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
+
+#EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,353,355,356,357,358
+
+#EXTINF:-1 tvg-id="Welt" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,256
+
+#EXTINF:-1 tvg-id="DOKUSAT" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DokuSat%20HD.png",DOKUSAT
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,505,506
+
+#EXTINF:-1 tvg-id="VOXup" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOXup.png",VOXup
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
+
+#EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690,691,692
+
+#EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLNitro.jpeg",RTL NITRO
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306,307,308,309
+
+#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,355,356
+
+#EXTINF:-1 tvg-id="Sport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport 1
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207,5010,5011
+
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%201.png",Eurosport 1
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207
