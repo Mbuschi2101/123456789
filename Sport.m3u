@@ -44,3 +44,12 @@ plugin://plugin.video.vavooto/?name=DB+LIGA+10
 
 #EXTINF:-1 tvg-id="Sportdigital" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital
 plugin://plugin.video.vavooto/?name=SPORTDIGITAL+FUSSBALL
+
+#EXTINF:-1 tvg-id="Sport1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sport1
+plugin://plugin.video.vavooto/?name=SPORT+1
+
+#EXTINF:-1 tvg-id="Sport1+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sport1+
+plugin://plugin.video.vavooto/?name=SPORT+1%2B
+
+
+
