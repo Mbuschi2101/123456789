@@ -15,6 +15,33 @@ plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA
 plugin://plugin.video.vavooto/?name=DB+LIGA+1
 
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 1
+plugin://plugin.video.vavooto/?name=DB+LIGA+2
+
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 2
+plugin://plugin.video.vavooto/?name=DB+LIGA+3
+
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 3" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 3
+plugin://plugin.video.vavooto/?name=DB+LIGA+4
+
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 4
+plugin://plugin.video.vavooto/?name=DB+LIGA+5
+
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 5
+plugin://plugin.video.vavooto/?name=DB+LIGA+6
+
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 6" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 6
+plugin://plugin.video.vavooto/?name=DB+LIGA+7
+
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 7" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 7
+plugin://plugin.video.vavooto/?name=DB+LIGA+8
+
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 8" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 8
+plugin://plugin.video.vavooto/?name=DB+LIGA+9
+
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 9" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 9
+plugin://plugin.video.vavooto/?name=DB+LIGA+10
+
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 
