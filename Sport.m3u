@@ -51,5 +51,8 @@ plugin://plugin.video.vavooto/?name=SPORT+1
 #EXTINF:-1 tvg-id="Sport1+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sport1+
 plugin://plugin.video.vavooto/?name=SPORT+1%2B
 
+#EXTINF:-1 tvg-id="Eurosport1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Eurosport1
+plugin://plugin.video.vavooto/?name=EUROSPORT+1
 
-
+#EXTINF:-1 tvg-id="Eurosport2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Eurosport2
+plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
