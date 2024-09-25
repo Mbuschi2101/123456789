@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="DAZN 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN 1
 plugin://plugin.video.vavooto/?name=DAZN+1
 
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN 2
+plugin://plugin.video.vavooto/?name=DAZN+2
+
 #EXTINF:-1 tvg-id="DAZN FAST" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN FAST
 plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
 
