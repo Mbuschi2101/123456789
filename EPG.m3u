@@ -1,317 +1,328 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="DAZN 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN 1
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN1.png",DAZN 1
 plugin://plugin.video.vavooto/?name=DAZN+1
 
-#EXTINF:-1 tvg-id="DAZN 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN 2
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN2.png",DAZN 2
 plugin://plugin.video.vavooto/?name=DAZN+2
 
-#EXTINF:-1 tvg-id="DAZN FAST" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",DAZN FAST
+#EXTINF:-1 tvg-id="DAZN FAST" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN_FAST.png",DAZN FAST
 plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
 
-#EXTINF:-1 tvg-id="MAGENTA Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",MAGENTA Sport
+#EXTINF:-1 tvg-id="MAGENTA Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport.png",SKY SPORT BUNDESLIGA
 plugin://plugin.video.vavooto/?name=DB+LIGA+1
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 1
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_1.png",SKY SPORT BUNDESLIGA 1
 plugin://plugin.video.vavooto/?name=DB+LIGA+2
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 2
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_2.png",SKY SPORT BUNDESLIGA 2
 plugin://plugin.video.vavooto/?name=DB+LIGA+3
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 3" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 3
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 3" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_3.png",SKY SPORT BUNDESLIGA 3
 plugin://plugin.video.vavooto/?name=DB+LIGA+4
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 4
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_4.png",SKY SPORT BUNDESLIGA 4
 plugin://plugin.video.vavooto/?name=DB+LIGA+5
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 5
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_5.png",SKY SPORT BUNDESLIGA 5
 plugin://plugin.video.vavooto/?name=DB+LIGA+6
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 6" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 6
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 6" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_6.png",SKY SPORT BUNDESLIGA 6
 plugin://plugin.video.vavooto/?name=DB+LIGA+7
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 7" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 7
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 7" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_7.png",SKY SPORT BUNDESLIGA 7
 plugin://plugin.video.vavooto/?name=DB+LIGA+8
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 8" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 8
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 8" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_8.png",SKY SPORT BUNDESLIGA 8
 plugin://plugin.video.vavooto/?name=DB+LIGA+9
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 9" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SKY SPORT BUNDESLIGA 9
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 9" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_9.png",SKY SPORT BUNDESLIGA 9
 plugin://plugin.video.vavooto/?name=DB+LIGA+10
 
-#EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",Das Erste
+#EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 
-#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/zdf%20hd.png",ZDF
+#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
 
-#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl%20hd.png",RTL
+#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
 plugin://plugin.video.vavooto/?name=RTL
 
-#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sat.1%20hd.png",SAT.1
+#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
 plugin://plugin.video.vavooto/?name=SAT+1
 
-#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl2%20hd.png",RTL II
+#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
 plugin://plugin.video.vavooto/?name=RTL+2
 
-#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/pro%207%20hd.png",ProSieben
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
 plugin://plugin.video.vavooto/?name=PRO+7
 
-#EXTINF:-1 tvg-id="KABEL eins" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/kabel%20eins%20hd.png",KABEL eins
+#EXTINF:-1 tvg-id="KABEL eins" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL eins
 plugin://plugin.video.vavooto/?name=KABEL+1
 
-#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/vox%20hd.png",VOX
+#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
 plugin://plugin.video.vavooto/?name=VOX
 
-#EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/one%20hd.png",ONE
+#EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
 plugin://plugin.video.vavooto/?name=ONE
 
-#EXTINF:-1 tvg-id="Puls 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/puls%204%20hd%20austria.png",Puls 4
+#EXTINF:-1 tvg-id="Puls 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
 plugin://plugin.video.vavooto/?name=PULS+4
 
-#EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl%20nitro%20hd.png",RTL NITRO
+#EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLNitro.jpeg",RTL NITRO
 plugin://plugin.video.vavooto/?name=RTL+NITRO
 
-#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/tele%205%20hd.png",Tele 5
+#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
 
-#EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/zdf_neo%20hd.png",ZDFneo
+#EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
 plugin://plugin.video.vavooto/?name=ZDF+NEO
 
-#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Pro7maxxHD.jpeg",ProSieben MAXX
+#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
 
-#EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Orf1_HD.png",ORF 1
+#EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF%201.png",ORF 1
 plugin://plugin.video.vavooto/?name=ORF+1
 
-#EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/ORF2_HD.png",ORF 2
+#EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF%202%20HD.png",ORF 2
 plugin://plugin.video.vavooto/?name=ORF+2
 
-#EXTINF:-1 tvg-id="Warner Comedy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TNT_Comedy_HD.png",Warner Comedy
+#EXTINF:-1 tvg-id="Warner Comedy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerComedy.png",Warner Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 
-#EXTINF:-1 tvg-id="Warner Film" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TNT_Film_HD.png",Warner Film
+#EXTINF:-1 tvg-id="Warner Film" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerFilm.png",Warner Film
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 
-#EXTINF:-1 tvg-id="Warner Serie" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/TNT_Serie_HD.png",Warner Serie
+#EXTINF:-1 tvg-id="Warner Serie" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerSerie.png",Warner Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 
-#EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sky%20cinema%20hd.png",Sky Cinema
+#EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinema.jpeg",Sky Cinema
 plugin://plugin.video.vavooto/?name=SKY+CINEMA
 
-#EXTINF:-1 tvg-id="Sky Cinema PREMIEREN" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/SkyCinemaPremieren.jpeg",Sky Cinema PREMIEREN
+#EXTINF:-1 tvg-id="Sky Cinema PREMIEREN" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Premiere.png",Sky Cinema PREMIEREN
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 
-#EXTINF:-1 tvg-id="Sky Cinema FAMILY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sky%20cinema%20family.png",Sky Cinema FAMILY
+#EXTINF:-1 tvg-id="Sky Cinema FAMILY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaFamily.png",Sky Cinema FAMILY
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 
-#EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sky%20cinema%20action.png",Sky Action
+#EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaAction.jpeg",Sky Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 
-#EXTINF:-1 tvg-id="Sky One" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sky%201.png",Sky One
+#EXTINF:-1 tvg-id="Sky One" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky One
 plugin://plugin.video.vavooto/?name=SKY+1
 
-#EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sky%20atlantic.png",Sky Atlantic HD
+#EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Atlantic%20HD.png",Sky Atlantic HD
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 
-#EXTINF:-1 tvg-id="SKY DOCUMENTARIES" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/SKYDOCUMENTARIES.jpeg",SKY DOCUMENTARIES
+#EXTINF:-1 tvg-id="SKY DOCUMENTARIES" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Documentaries%20HD.png",SKY DOCUMENTARIES
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+DOCUMENTARIES
 
-#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/ZDFInfoHD.png",ZDF Info
+#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDF Info
 plugin://plugin.video.vavooto/?name=ZDF+INFO
 
-#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/kabel%20eins%20doku.png",Kabel eins Doku
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 
-#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/mdr%20fernsehen%20hd.png",MDR Sachsen
+#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
 plugin://plugin.video.vavooto/?name=MDR
 
-#EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/NTV.png",N-TV
+#EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
 plugin://plugin.video.vavooto/?name=N-TV
 
-#EXTINF:-1 tvg-id="Welt" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/welt%20hd.png",Welt
+#EXTINF:-1 tvg-id="Welt" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
 plugin://plugin.video.vavooto/?name=WELT
 
-#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/n24%20hd.png",N24 Doku
+#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
 plugin://plugin.video.vavooto/?name=N24+DOCU
 
-#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/dmax%20hd.png",DMAX
+#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
 
-#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/tlc.png",TLC
+#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
 plugin://plugin.video.vavooto/?name=TLC
 
-#EXTINF:-1 tvg-id="Welt der Wunder TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/welt%20der%20wunder.png",Welt der Wunder TV
+#EXTINF:-1 tvg-id="Welt der Wunder TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png",Welt der Wunder TV
 plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
 
-#EXTINF:-1 tvg-id="SKY Nature" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/SKY%20Nature.jpeg",SKY Nature
+#EXTINF:-1 tvg-id="SKY Nature" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Nature%20HD.png",SKY Nature
 plugin://plugin.video.vavooto/?name=SKY+NATURE
 
-#EXTINF:-1 tvg-id="DISCOVERY Channel" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/discovery%20channel%20hd.png",DISCOVERY Channel
+#EXTINF:-1 tvg-id="DISCOVERY Channel" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Discovery%20Channel.png",DISCOVERY Channel
 plugin://plugin.video.vavooto/?name=DISCOVERY
 
-#EXTINF:-1 tvg-id="HISTORY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/history.png",HISTORY
+#EXTINF:-1 tvg-id="HISTORY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HISTORY.png",HISTORY
 plugin://plugin.video.vavooto/?name=HISTORY
 
-#EXTINF:-1 tvg-id="National Geographic Wild" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/nat%20geo%20wild%20hd.png",National Geographic Wild
+#EXTINF:-1 tvg-id="National Geographic Wild" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/National%20Geographic%20Wild.png",National Geographic Wild
 plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
 
-#EXTINF:-1 tvg-id="National Geographic" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/natgeo%20hd.png",National Geographic
+#EXTINF:-1 tvg-id="National Geographic" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/National%20Geographic.png",National Geographic
 plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 
-#EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Spiegel%20Geschichte.jpg",Spiegel Geschichte
+#EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Spiegel%20Geschichte.png",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 
-#EXTINF:-1 tvg-id="Curiosity Channel" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Curiosity.png",Curiosity Channel
+#EXTINF:-1 tvg-id="Curiosity Channel" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Curiosity%20Channel.png",Curiosity Channel
 plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
 
-#EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/animal%20planet%20hd.png",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
 
-#EXTINF:-1 tvg-id="GEO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/geo%20television.png",Geo
+#EXTINF:-1 tvg-id="GEO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
 
-#EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/MOTORSPORT%20TV.png",Auto Motor Sport
+#EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor Sport
 plugin://plugin.video.vavooto/?name=MOTORSPORT+TV
 
-#EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/MOTORVISION.png",Motorvision TV
+#EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision%20TV.png",Motorvision TV
 plugin://plugin.video.vavooto/?name=MOTORVISION
 
-#EXTINF:-1 tvg-id="ATV2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/ATV2.jpeg",ATV2
+#EXTINF:-1 tvg-id="ATV2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV2
 plugin://plugin.video.vavooto/?name=ATV+2
 
-#EXTINF:-1 tvg-id="KinoweltTV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/kinowelt%20hd.png",KinoweltTV
+#EXTINF:-1 tvg-id="KinoweltTV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/KinoweltTV.png",KinoweltTV
 plugin://plugin.video.vavooto/?name=KINOWELT
 
-#EXTINF:-1 tvg-id="13th Street" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/13th%20street%20hd.png",13TH Street
+#EXTINF:-1 tvg-id="13th Street" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
 
-#EXTINF:-1 tvg-id="AXN white" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/AXN%20white.png",AXN white
+#EXTINF:-1 tvg-id="AXN White" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png",AXN White
 plugin://plugin.video.vavooto/?name=AXN+WHITE
 
-#EXTINF:-1 tvg-id="AXN black" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/AXN%20black.jpeg",AXN black
+#EXTINF:-1 tvg-id="AXN Black" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20Black.png",AXN Black
 plugin://plugin.video.vavooto/?name=AXN+BLACK
 
-#EXTINF:-1 tvg-id="SILVERLINE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/silverline.png",SILVERLINE
+#EXTINF:-1 tvg-id="SILVERLINE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SILVERLINE.png",SILVERLINE
 plugin://plugin.video.vavooto/?name=SILVERLINE
 
-#EXTINF:-1 tvg-id="ProSieben Fun" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/pro7%20fun%20hd.png",ProSieben Fun
+#EXTINF:-1 tvg-id="ProSieben Fun" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20Fun%20HD.png",ProSieben Fun
 plugin://plugin.video.vavooto/?name=PRO+7+FUN
 
-#EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/universal%20tv%20%20hd.png",Universal Channel HD
+#EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Universal%20Channel%20HD.png",Universal Channel HD
 plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 
-#EXTINF:-1 tvg-id="SyFy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sci%20fi%20channel.png",SyFy
+#EXTINF:-1 tvg-id="SyFy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
 
+#EXTINF:-1 tvg-id="BlueTV4K Fantasy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV.jpg",BlueTV4K Fantasy
+plugin://plugin.video.vavooto/?name=BLUETV+4K+FANTASY
 
-#EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",Das Erste
+#EXTINF:-1 tvg-id="BlueTV Fantasy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV.jpg",BlueTV Fantasy
+plugin://plugin.video.vavooto/?name=BLUETV+FANTASY+%CA%9C%E1%B4%85
+
+#EXTINF:-1 tvg-id="SKY BOX FANTASY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV.jpg",SKY BOX FANTASY
+plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
+
+#EXTINF:-1 tvg-id="BlueTV4K Horror" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV.jpg",BlueTV4K Horror
+plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
+
+#EXTINF:-1 tvg-id="Das Erste" group-title="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,84,102,103,104,105,106,1176,2070,2171
 
-#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/zdf%20hd.png",ZDF
+#EXTINF:-1 tvg-id="ZDF" group-title="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,110,84,120,121,122,125,130,131,950,951,952
 
-#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl%20hd.png",RTL
+#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
 
-#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sat.1%20hd.png",SAT.1
+#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106
 
-#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl2%20hd.png",RTL II
+#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158,159
 
-#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/pro%207%20hd.png",ProSieben
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,153,155,156
 
-#EXTINF:-1 tvg-id="KABEL eins" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/kabel%20eins%20hd.png",KABEL eins
+#EXTINF:-1 tvg-id="KABEL eins" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL eins
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,205,206
 
-#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/vox%20hd.png",VOX
+#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,255,256,257,258,259
 
-#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/mdr%20fernsehen%20hd.png",MDR Sachsen
+#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=530&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2901,2171,2870,2876,2902,2903,2904,2905
 
-#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/tele%205%20hd.png",Tele 5
+#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,105,106,107,108,109
 
-#EXTINF:-1 tvg-id="Sixx" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Logo/sixx.png",Sixx
+#EXTINF:-1 tvg-id="Sixx" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",Sixx
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,550,551,38,552,558
 
-#EXTINF:-1 tvg-id="RTLup" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Logo/RTLup.png",RTLup
+#EXTINF:-1 tvg-id="RTLup" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLup.jpeg",RTLup
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406,407,408
 
-#EXTINF:-1 tvg-id="Sat.1 Gold" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Logo/sat.1%20gold.png",Sat.1 Gold
+#EXTINF:-1 tvg-id="Sat.1 Gold" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sat.1%20Gold.png",Sat.1 Gold
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306
 
-#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/ZDFInfoHD.png",ZDF Info
+#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDF Info
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,640,641,642
 
-#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/n24%20hd.png",N24 Doku
+#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452,456
 
-#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/kabel%20eins%20doku.png",Kabel eins Doku
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406
 
-#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/dmax%20hd.png",DMAX
+#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
 
-#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/tlc.png",TLC
+#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
 
-#EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/NTV.png",N-TV
+#EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,353,355,356,357,358
 
-#EXTINF:-1 tvg-id="Welt" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/welt%20hd.png",Welt
+#EXTINF:-1 tvg-id="Welt" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,256
 
-#EXTINF:-1 tvg-id="DOKUSAT" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Logo/Dokusat.png",DOKUSAT
+#EXTINF:-1 tvg-id="DOKUSAT" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DokuSat%20HD.png",DOKUSAT
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,505,506
 
-#EXTINF:-1 tvg-id="VOXup" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Logo/Voxup.jpeg",VOXup
+#EXTINF:-1 tvg-id="VOXup" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOXup.png",VOXup
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
 
-#EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/zdf_neo%20hd.png",ZDFneo
+#EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=514&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,690,691,692
 
-#EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl%20nitro%20hd.png",RTL NITRO
+#EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLNitro.jpeg",RTL NITRO
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306,307,308,309
 
-#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Pro7maxxHD.jpeg",ProSieben MAXX
+#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,355,356
 
-#EXTINF:-1 tvg-id="Sport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Logo/sport1.png",Sport 1
+#EXTINF:-1 tvg-id="Sport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport 1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207,5010,5011
 
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Logo/eurosport%201.png",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%201.png",Eurosport 1
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207
