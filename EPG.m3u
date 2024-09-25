@@ -42,6 +42,21 @@ plugin://plugin.video.vavooto/?name=DB+LIGA+9
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 9" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_9.png",SKY SPORT BUNDESLIGA 9
 plugin://plugin.video.vavooto/?name=DB+LIGA+10
 
+#EXTINF:-1 tvg-id="Sportdigital" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital
+plugin://plugin.video.vavooto/?name=SPORTDIGITAL+FUSSBALL
+
+#EXTINF:-1 tvg-id="Sport1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport1
+plugin://plugin.video.vavooto/?name=SPORT+1
+
+#EXTINF:-1 tvg-id="SPORT1+ HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1%2B%20HD.png",SPORT1+ HD
+plugin://plugin.video.vavooto/?name=SPORT+1%2B
+
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%201.png",Eurosport 1
+plugin://plugin.video.vavooto/?name=EUROSPORT+1
+
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%202.png",Eurosport 2
+plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
+
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 
