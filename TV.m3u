@@ -1,26 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",Das Erste
+#EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 
-#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/zdf%20hd.png",ZDF
+#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
 
-#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl%20hd.png",RTL
+#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
 plugin://plugin.video.vavooto/?name=RTL
 
-#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/sat.1%20hd.png",SAT.1
+#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
 plugin://plugin.video.vavooto/?name=SAT+1
 
-#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl2%20hd.png",RTL II
+#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
 plugin://plugin.video.vavooto/?name=RTL+2
 
-#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/pro%207%20hd.png",ProSieben
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
 plugin://plugin.video.vavooto/?name=PRO+7
 
-#EXTINF:-1 tvg-id="KABEL eins" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/kabel%20eins%20hd.png",KABEL eins
+#EXTINF:-1 tvg-id="KABEL eins" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL eins
 plugin://plugin.video.vavooto/?name=KABEL+1
 
-#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/vox%20hd.png",VOX
+#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
 plugin://plugin.video.vavooto/?name=VOX
 
 #EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/one%20hd.png",ONE
@@ -29,16 +29,16 @@ plugin://plugin.video.vavooto/?name=ONE
 #EXTINF:-1 tvg-id="Puls 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/puls%204%20hd%20austria.png",Puls 4
 plugin://plugin.video.vavooto/?name=PULS+4
 
-#EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/rtl%20nitro%20hd.png",RTL NITRO
+#EXTINF:-1 tvg-id="RTL NITRO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLNitro.jpeg",RTL NITRO
 plugin://plugin.video.vavooto/?name=RTL+NITRO
 
-#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/tele%205%20hd.png",Tele 5
+#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
 
-#EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/zdf_neo%20hd.png",ZDFneo
+#EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
 plugin://plugin.video.vavooto/?name=ZDF+NEO
 
-#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Pro7maxxHD.jpeg",ProSieben MAXX
+#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
 
 #EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/Orf1_HD.png",ORF 1
@@ -77,28 +77,28 @@ plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="SKY DOCUMENTARIES" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/SKYDOCUMENTARIES.jpeg",SKY DOCUMENTARIES
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+DOCUMENTARIES
 
-#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/ZDFInfoHD.png",ZDF Info
+#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDF Info
 plugin://plugin.video.vavooto/?name=ZDF+INFO
 
-#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/kabel%20eins%20doku.png",Kabel eins Doku
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 
-#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/mdr%20fernsehen%20hd.png",MDR Sachsen
+#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
 plugin://plugin.video.vavooto/?name=MDR
 
-#EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/NTV.png",N-TV
+#EXTINF:-1 tvg-id="N-TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
 plugin://plugin.video.vavooto/?name=N-TV
 
-#EXTINF:-1 tvg-id="Welt" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/welt%20hd.png",Welt
+#EXTINF:-1 tvg-id="Welt" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
 plugin://plugin.video.vavooto/?name=WELT
 
-#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/n24%20hd.png",N24 Doku
+#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
 plugin://plugin.video.vavooto/?name=N24+DOCU
 
-#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/dmax%20hd.png",DMAX
+#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
 
-#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/tlc.png",TLC
+#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
 plugin://plugin.video.vavooto/?name=TLC
 
 #EXTINF:-1 tvg-id="Welt der Wunder TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/welt%20der%20wunder.png",Welt der Wunder TV
