@@ -19,7 +19,7 @@ plugin://plugin.video.vavooto/?name=DB+LIGA+1
 plugin://plugin.video.vavooto/?name=DB+LIGA+2
 
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_2.png",SKY SPORT BUNDESLIGA 2
-plugin://plugin.video.vavooto/?name=DB+LIGA+3
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2+%5BLIVE+DURING+EVENTS+ONLY%5D
 
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 3" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_3.png",SKY SPORT BUNDESLIGA 3
 plugin://plugin.video.vavooto/?name=DB+LIGA+4
