@@ -22,13 +22,13 @@ plugin://plugin.video.vavooto/?name=DB+LIGA+2
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2+%5BLIVE+DURING+EVENTS+ONLY%5D
 
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 3" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_3.png",SKY SPORT BUNDESLIGA 3
-plugin://plugin.video.vavooto/?name=DB+LIGA+4
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+3
 
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_4.png",SKY SPORT BUNDESLIGA 4
-plugin://plugin.video.vavooto/?name=DB+LIGA+5
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+4
 
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_5.png",SKY SPORT BUNDESLIGA 5
-plugin://plugin.video.vavooto/?name=DB+LIGA+6
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+5
 
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 6" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_6.png",SKY SPORT BUNDESLIGA 6
 plugin://plugin.video.vavooto/?name=DB+LIGA+7
