@@ -75,7 +75,7 @@ plugin://plugin.video.vavooto/?name=SKY+1
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 
 #EXTINF:-1 tvg-id="SKY DOCUMENTARIES" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Documentaries%20HD.png",SKY DOCUMENTARIES
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+DOCUMENTARIES
+plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
 
 #EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDF Info
 plugin://plugin.video.vavooto/?name=ZDF+INFO
@@ -132,7 +132,7 @@ plugin://plugin.video.vavooto/?name=PLANET
 plugin://plugin.video.vavooto/?name=GEO+TV
 
 #EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor Sport
-plugin://plugin.video.vavooto/?name=MOTORSPORT+TV
+plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 
 #EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision%20TV.png",Motorvision TV
 plugin://plugin.video.vavooto/?name=MOTORVISION
