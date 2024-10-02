@@ -27,6 +27,15 @@ plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
 #EXTINF:-1 tvg-id="MAGENTA Sport 6" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 6
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
 
+#EXTINF:-1 tvg-id="MAGENTA Sport 7" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 7
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
+
+#EXTINF:-1 tvg-id="MAGENTA Sport 8" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 8
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
+
+#EXTINF:-1 tvg-id="MAGENTA Sport 9" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 9
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
+
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport.png",SKY SPORT BUNDESLIGA
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA
 
