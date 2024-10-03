@@ -1,8 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="SRF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SRF1
+https://zh4-10-dash-live.zahs.tv/HD_sf1/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCN2GIIYTKQSFGYYTMQZXGQ3TQLJWINCUENSBIEYUCNBXGQ2TCQJYEZWWC6DSMF2GKPJTGAYDEJTNNFXHEYLUMU6TMMBQEZYHEZLGMVZHEZLEL5WGC3THOVQWOZJ5MRSSM43JM46TQXZWHA3TANBYMMZWIM3EHBTDONJYHAZWCNZVGM4DKZRRGM4TCZBZMYTHI2LNMVZWQ2LGOQ6TQMBGOVZWK4S7NFSD2MZTGU2DMNRVGITHMPJQ
 
-#EXTINF:-1 tvg-id="5+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",5+
-https://zh4-4-dash-live.zahs.tv/5plus_ch/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCN2GIIYTKMRUIMZDENBVGFBDCLJVIIYEINZYGE2UERKCHFBECNKDEZWWC6DSMF2GKPJRGUYDCJTNNFXHEYLUMU6TMMBQEZZWSZZ5GEYF6NJUGU4GIZRTGBRGCYJWHBRDANJUHA3TMOLFMIZDEMJZGJTGMYTBEZ2GS3
+#EXTINF:-1 tvg-id="SRF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",SRF1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=srf1-ch-hd&stream_type=LIVE&fav_type=&title=%5BB%5DSRF+1+HD%5B%2FB%5D+-+SRF+DOK&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22srf1-ch-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="5+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/main/Logo/Logo/das%20erste%20hd.png",5+
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=5plus-ch-hd&stream_type=LIVE&fav_type=&title=%5BB%5D5%2B+HD%5B%2FB%5D+-+King+of+Queens&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%225plus-ch-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
