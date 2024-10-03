@@ -75,6 +75,9 @@ plugin://plugin.video.vavooto/?name=DB+LIGA+10
 #EXTINF:-1 tvg-id="SKY SPORT AUSTRIA" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyAustria.png",SKY SPORT AUSTRIA
 plugin://plugin.video.vavooto/?name=SKY+SPORT+1
 
+#EXTINF:-1 tvg-id="Sky Sport Premier League" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyAustria.png",Sky Sport Premier League
+plugin://plugin.video.vavooto/?name=SKY+SPORT+PREMIER+LEAGUE
+
 #EXTINF:-1 tvg-id="Sportdigital" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital
 plugin://plugin.video.vavooto/?name=SPORTDIGITAL+FUSSBALL
 
