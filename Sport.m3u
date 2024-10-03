@@ -69,7 +69,7 @@ plugin://plugin.video.vavooto/?name=DB+LIGA+9
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 9" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_9.png",SKY SPORT BUNDESLIGA 9
 plugin://plugin.video.vavooto/?name=DB+LIGA+10
 
-#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN1.png",SKY SPORT AUSTRIA
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyAustria.png",SKY SPORT AUSTRIA
 plugin://plugin.video.vavooto/?name=SKY+SPORT+1
 
 #EXTINF:-1 tvg-id="Sportdigital" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital
