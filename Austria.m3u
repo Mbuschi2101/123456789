@@ -1,42 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ORF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png",ORF1
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=c_ph7orkkz73a&teaser_id=&video_id=a_p1e962u47k3&stream_type=VOD&fav_type=&title=ABC+B%C3%A4r+vom+06.06.2024&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+%22a_p1e962u47k3%22%2C+%22npa%22%3A+false%2C+%22duration%22%3A+809000%2C+%22tvShowId%22%3A+%22d_ph77u0lplxz%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=%2Fserien%2Fabc-baer
-
-#EXTINF:-1 tvg-id="ORF2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png",ORF2
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=c_ph7orkkz73a&teaser_id=&video_id=a_pn9vjhvnuds&stream_type=VOD&fav_type=&title=ABC+B%C3%A4r+vom+03.10.2024&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+%22a_pn9vjhvnuds%22%2C+%22npa%22%3A+false%2C+%22duration%22%3A+796000%2C+%22tvShowId%22%3A+%22d_ph77u0lplxz%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=%2Fserien%2Fabc-baer
-
-#EXTINF:-1 tvg-id="ATV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png",ATV
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=c_pdm6or32y79&teaser_id=&video_id=a_pdpba8t7r14&stream_type=VOD&fav_type=&title=ABBA+Forever&client_data=%7B%22genre%22%3A+%5B%22Spezial%22%2C+%22Dokumentation%22%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+%22a_pdpba8t7r14%22%2C+%22npa%22%3A+false%2C+%22duration%22%3A+3042000%2C+%22tvShowId%22%3A+%22d_pdlhs92hvec%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=%2Fserien%2Fabba-forever
-
-#EXTINF:-1 tvg-id="ATV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png",ATV
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf1-at&stream_type=LIVE&fav_type=&title=%5BB%5DORF1+HD%5B%2FB%5D+-+Gefragt+-+Gejagt&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22orf1-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="ORF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png",ORF1
 
 
 
