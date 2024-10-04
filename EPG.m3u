@@ -1,5 +1,36 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="DAZN FAST" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN_FAST.png",DAZN FAST
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dazn-fast-hd&stream_type=LIVE&fav_type=&title=%5BB%5DDAZN+FAST%5B%2FB%5D+-+Serie+A&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22dazn-fast-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="DAZN RISE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZNRise.png",DAZN RISE
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dazn-rise-hd&stream_type=LIVE&fav_type=&title=%5BB%5DDAZN+RISE%5B%2FB%5D+-+UEFA+Women%27s+Champions+League&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22dazn-rise-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ORF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf1-at&stream_type=LIVE&fav_type=&title=%5BB%5DORF1+HD%5B%2FB%5D+-+Gefragt+-+Gejagt&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22orf1-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ORF2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png",ORF2
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf2-at&stream_type=LIVE&fav_type=&title=%5BB%5DORF2+HD%5B%2FB%5D+-+Dolce+Vita+%26+Co&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22orf2-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ORF 3" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png",ORF 3
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf3-at&stream_type=LIVE&fav_type=&title=%5BB%5DORF+III+HD%5B%2FB%5D+-+ORF+III+aktuell&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22orf3-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ORF Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORFSport.png",ORF Sport
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf-sport-plus-at&stream_type=LIVE&fav_type=&title=%5BB%5DORF+SPORT+%2B+HD%5B%2FB%5D+-+Airpower+2024%2C+Highlights+aus+Zeltweg&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22orf-sport-plus-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ATV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=atv&stream_type=LIVE&fav_type=&title=%5BB%5DATV+HD%5B%2FB%5D+-+MediaShop+-+Immer+etwas+Neues&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22atv%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ATV 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV 2
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=atv2&stream_type=LIVE&fav_type=&title=%5BB%5DATV+2%5B%2FB%5D+-+MediaShop+-+Immer+etwas+Neues&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22atv2%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="Puls 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=puls4-at&stream_type=LIVE&fav_type=&title=%5BB%5DPULS+4%5B%2FB%5D+-+Caf%C3%A9+PULS+mit+PULS+4+Aktuell&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22puls4-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="Puls 24" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls 24
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=puls24-at-hd&stream_type=LIVE&fav_type=&title=%5BB%5DPULS+24+HD%5B%2FB%5D+-+PULS+24+Live+am+Vormittag&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22puls24-at-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+
 #EXTINF:-1 tvg-id="SRF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png",SRF1
 https://zba6-2-dash-live.zahs.tv/HD_sf1/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCN2GIIYTONZVGRBEERRQGQ2DQLJTG4ZUKNJRIU4UEM2GIJDDCMRGNVQXQ4TBORST2MZQGAZCM3LJNZZGC5DFHU3DAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLEMUTHG2LHHU4F6MBWMZTDKZRYG5SWCN3EHFQWCMDCMIYTEOJQG5RGGYTFGBRWEYRQEZ2GS3LFONUGSZTUHU4DAJTVONSXEX3JMQ6TGMZVGQ3DMNJSEZ3D2MA
 
