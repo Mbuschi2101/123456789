@@ -179,24 +179,24 @@ plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
 #EXTINF:-1 tvg-id="BlueTV4K Horror" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV.jpg",BlueTV4K Horror
 plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
 
-#EXTINF:-1,ARD
+#EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
-#EXTINF:-1,ONE
+#EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 
-#EXTINF:-1,ARD Tagesschau
+#EXTINF:-1 tvg-id="ARD Tagesschau" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ARD Tagesschau
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-#EXTINF:-1,ZDF
+#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
-#EXTINF:-1,ZDF neo
+#EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
 http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 
-#EXTINF:-1,ZDF info
+#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDF Info
 http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 
-#EXTINF:-1,MDR Sachsen
+#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 
