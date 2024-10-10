@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ARD Tagesschau" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",ARD Tagesschau
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 
