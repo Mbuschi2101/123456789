@@ -186,17 +186,17 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="ARD Tagesschau" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",ARD Tagesschau
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master720p3200.m3u8
 
 #EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
 http://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
 #EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
-http://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/23ce7d09760ca6fef4b6d59aee85b3c1/8/8.m3u8
 
 #EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDF Info
 http://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 
 #EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_960x540.m3u8
 
