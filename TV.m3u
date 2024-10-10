@@ -80,7 +80,7 @@ plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
 #EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDF Info
 plugin://plugin.video.vavooto/?name=ZDF+INFO
 
-#EXTINF:-1 tvg-id="Bild TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",Bild TV
+#EXTINF:-1 tvg-id="Bild TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
 https://stream.best-of-bild.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/best-of-bild-prod/cb01a04e-8978-4aab-9918-6be6e904a1cc/2.m3u8
 
 #EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
