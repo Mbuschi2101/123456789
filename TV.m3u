@@ -180,7 +180,7 @@ plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
 plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
 
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
-https://mcdn.daserste.de/daserste/de/master.m3u8
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
