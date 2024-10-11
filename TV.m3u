@@ -198,5 +198,5 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/e3e26a73562c5e5b47062d93100
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/884e5b2ed232749386d7ae54178641c7/8/8.m3u8
 
 #EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_960x540.m3u8
+https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/MDR.m3u8
 
