@@ -192,7 +192,7 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master720p3200.m3u8
 https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/ZDF.m3u8
 
 #EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/e3e26a73562c5e5b47062d9310079fcf/3/3.m3u8
+https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/ZDFneo.m3u8
 
 #EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDF Info
 https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/ZDFinfo.m3u8
