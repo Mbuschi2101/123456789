@@ -12,7 +12,7 @@ plugin://plugin.video.vavooto/?name=DAZN+2
 #EXTINF:-1 tvg-id="DAZN FAST" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN_FAST.png",DAZN FAST
 plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
 
-#EXTINF:-1 tvg-id="MAGENTA Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport
+#EXTINF:-1 tvg-id="MAGENTA Sport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
 
 #EXTINF:-1 tvg-id="MAGENTA Sport 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 2
