@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="13th Street" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
-plugin://plugin.video.vavooto/?action=live&group=Germany&name=DISCOVERY
-
-#EXTINF:-1 tvg-id="13th Street" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
-plugin://plugin.video.vavooto/?action=live&group=Germany&name=DISCOVERY+CHANNEL
-
-#EXTINF:-1 tvg-id="13th Street" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
-plugin://plugin.video.vavooto/?action=live&group=Germany&name=DISCOVERY+HD%2B
-
-#EXTINF:-1 tvg-id="13th Street" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
-plugin://plugin.video.vavooto/?action=live&group=Germany&name=DISCOVERY+WORLD
-
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 
