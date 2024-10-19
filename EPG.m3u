@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ORF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",ORF1
+
 #EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_1.png",SKY SPORT BUNDESLIGA 1
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+1
 
