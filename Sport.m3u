@@ -79,7 +79,7 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+PREMIER+LEAGUE
 
 #EXTINF:-1 tvg-id="Sportdigital" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital
-plugin://plugin.video.vavooto/?name=SPORTDIGITAL+FUSSBALL
+plugin://plugin.video.vavooto/?action=live&group=Germany&name=SPORTDIGITALL+FUSSBALL
 
 #EXTINF:-1 tvg-id="Sport1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport1
 plugin://plugin.video.vavooto/?name=SPORT+1
