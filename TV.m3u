@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Österreich" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Österreich
+
+#EXTINF:-1 tvg-id="ORF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",ORF1
+
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 
@@ -168,36 +172,4 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="SyFy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
 
-#EXTINF:-1 tvg-id="BlueTV4K Fantasy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV.jpg",BlueTV4K Fantasy
-plugin://plugin.video.vavooto/?name=BLUETV+4K+FANTASY
-
-#EXTINF:-1 tvg-id="BlueTV Fantasy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV.jpg",BlueTV Fantasy
-plugin://plugin.video.vavooto/?name=BLUETV+FANTASY+%CA%9C%E1%B4%85
-
-#EXTINF:-1 tvg-id="SKY BOX FANTASY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV.jpg",SKY BOX FANTASY
-plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
-
-#EXTINF:-1 tvg-id="BlueTV4K Horror" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV.jpg",BlueTV4K Horror
-plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
-
-#EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-
-#EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
-
-#EXTINF:-1 tvg-id="ARD Tagesschau" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",ARD Tagesschau
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master720p3200.m3u8
-
-#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
-https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/ZDF.m3u8
-
-#EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
-https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/ZDFneo.m3u8
-
-#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDF Info
-https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/ZDFinfo.m3u8
-
-#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
-https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/MDR.m3u8
 
