@@ -78,13 +78,13 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+1
 #EXTINF:-1 tvg-id="Sky Sport Premier League" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyAustria.png",Sky Sport Premier League
 plugin://plugin.video.vavooto/?name=SKY+SPORT+PREMIER+LEAGUE
 
-#EXTINF:-1 tvg-id="Sportdigital" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital
+#EXTINF:-1 tvg-id="Sportdigital" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital Fussball
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=SPORTDIGITALL+FUSSBALL
 
 #EXTINF:-1 tvg-id="Sport1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport1
 plugin://plugin.video.vavooto/?name=SPORT+1
 
-#EXTINF:-1 tvg-id="SPORT1+ HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1%2B%20HD.png",SPORT1+ HD
+#EXTINF:-1 tvg-id="SPORT1+ HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1%2B%20HD.png",SPORT1+
 plugin://plugin.video.vavooto/?name=SPORT+1%2B
 
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%201.png",Eurosport 1
