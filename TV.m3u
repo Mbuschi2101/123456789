@@ -57,16 +57,16 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 #EXTINF:-1 tvg-id="Warner Serie" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerSerie.png",Warner TV Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 
-#EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinema.jpeg",Sky Cinema Premieren
+#EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinema.jpeg",Sky Cinema Premiere
 plugin://plugin.video.vavooto/?name=SKY+CINEMA
 
-#EXTINF:-1 tvg-id="Sky Cinema PREMIEREN" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Premiere.png",Sky Cinema PREMIEREN
+#EXTINF:-1 tvg-id="Sky Cinema PREMIEREN" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Premiere.png",Sky Cinema PREMIERE
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 
 #EXTINF:-1 tvg-id="Sky Cinema FAMILY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaFamily.png",Sky Cinema FAMILY
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 
-#EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaAction.jpeg",Sky Action
+#EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaAction.jpeg",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 
 #EXTINF:-1 tvg-id="Sky One" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky One
