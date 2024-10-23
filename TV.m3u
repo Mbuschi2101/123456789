@@ -138,7 +138,7 @@ plugin://plugin.video.vavooto/?name=GEO+TV
 #EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor und Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 
-#EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision%20TV.png",Motorvision TV
+#EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision%20TV.png",Motorvision+
 plugin://plugin.video.vavooto/?name=MOTORVISION
 
 #EXTINF:-1 tvg-id="ATV2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV II
