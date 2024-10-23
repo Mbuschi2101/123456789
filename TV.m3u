@@ -48,16 +48,16 @@ plugin://plugin.video.vavooto/?name=ORF+1
 #EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF%202%20HD.png",ORF 2
 plugin://plugin.video.vavooto/?name=ORF+2
 
-#EXTINF:-1 tvg-id="Warner Comedy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerComedy.png",Warner Comedy
+#EXTINF:-1 tvg-id="Warner Comedy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerComedy.png",Warner TV Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 
-#EXTINF:-1 tvg-id="Warner Film" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerFilm.png",Warner Film
+#EXTINF:-1 tvg-id="Warner Film" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerFilm.png",Warner TV Film
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 
-#EXTINF:-1 tvg-id="Warner Serie" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerSerie.png",Warner Serie
+#EXTINF:-1 tvg-id="Warner Serie" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerSerie.png",Warner TV Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 
-#EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinema.jpeg",Sky Cinema
+#EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinema.jpeg",Sky Cinema Premiere
 plugin://plugin.video.vavooto/?name=SKY+CINEMA
 
 #EXTINF:-1 tvg-id="Sky Cinema PREMIEREN" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Premiere.png",Sky Cinema PREMIEREN
@@ -72,13 +72,13 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 #EXTINF:-1 tvg-id="Sky One" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky One
 plugin://plugin.video.vavooto/?name=SKY+1
 
-#EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Atlantic%20HD.png",Sky Atlantic HD
+#EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Atlantic%20HD.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 
 #EXTINF:-1 tvg-id="SKY DOCUMENTARIES" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Documentaries%20HD.png",SKY DOCUMENTARIES
 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
 
-#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDF Info
+#EXTINF:-1 tvg-id="ZDF Info" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
 plugin://plugin.video.vavooto/?name=ZDF+INFO
 
 #EXTINF:-1 tvg-id="Bild TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
@@ -105,7 +105,7 @@ plugin://plugin.video.vavooto/?name=DMAX
 #EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
 plugin://plugin.video.vavooto/?name=TLC
 
-#EXTINF:-1 tvg-id="Welt der Wunder TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png",Welt der Wunder TV
+#EXTINF:-1 tvg-id="Welt der Wunder TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png",Welt der Wunder
 plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
 
 #EXTINF:-1 tvg-id="SKY Nature" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Nature%20HD.png",SKY Nature
@@ -114,7 +114,7 @@ plugin://plugin.video.vavooto/?name=SKY+NATURE
 #EXTINF:-1 tvg-id="DISCOVERY Channel" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Discovery%20Channel.png",DISCOVERY Channel
 plugin://plugin.video.vavooto/?name=DISCOVERY
 
-#EXTINF:-1 tvg-id="HISTORY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HISTORY.png",HISTORY
+#EXTINF:-1 tvg-id="HISTORY" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HISTORY.png",The HISTORY Channel
 plugin://plugin.video.vavooto/?name=HISTORY
 
 #EXTINF:-1 tvg-id="National Geographic Wild" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/National%20Geographic%20Wild.png",National Geographic Wild
@@ -132,16 +132,16 @@ plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
 
-#EXTINF:-1 tvg-id="GEO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo
+#EXTINF:-1 tvg-id="GEO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo Television
 plugin://plugin.video.vavooto/?name=GEO+TV
 
-#EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor Sport
+#EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor und Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 
-#EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision%20TV.png",Motorvision TV
+#EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision%20TV.png",Motorvision+
 plugin://plugin.video.vavooto/?name=MOTORVISION
 
-#EXTINF:-1 tvg-id="ATV2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV2
+#EXTINF:-1 tvg-id="ATV2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV II
 plugin://plugin.video.vavooto/?name=ATV+2
 
 #EXTINF:-1 tvg-id="KinoweltTV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/KinoweltTV.png",KinoweltTV
@@ -162,7 +162,7 @@ plugin://plugin.video.vavooto/?name=SILVERLINE
 #EXTINF:-1 tvg-id="ProSieben Fun" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20Fun%20HD.png",ProSieben Fun
 plugin://plugin.video.vavooto/?name=PRO+7+FUN
 
-#EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Universal%20Channel%20HD.png",Universal Channel HD
+#EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Universal%20Channel%20HD.png",Universal TV
 plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 
 #EXTINF:-1 tvg-id="SyFy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
@@ -171,25 +171,25 @@ plugin://plugin.video.vavooto/?name=SYFY
 #EXTINF:-1 tvg-id="Österreich" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Austria.jpg",Österreich
 https://
 
-#EXTINF:-1 tvg-id="ORF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF1
+#EXTINF:-1 tvg-id="ORF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
 https://
 
-#EXTINF:-1 tvg-id="ORF2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF%202%20HD.png",ORF2
+#EXTINF:-1 tvg-id="ORF2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF%202%20HD.png",ORF 2
 https://
 
-#EXTINF:-1 tvg-id="ORF3" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png",ORF3
+#EXTINF:-1 tvg-id="ORF3" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png",ORF III
 https://
 
-#EXTINF:-1 tvg-id="ORF Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORFSport.png",ORF Sport
+#EXTINF:-1 tvg-id="ORF Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORFSport.png",ORF Sport +
 https://
 
 #EXTINF:-1 tvg-id="ATV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
 https://
 
-#EXTINF:-1 tvg-id="ATV2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV2
+#EXTINF:-1 tvg-id="ATV2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV2 II
 https://
 
-#EXTINF:-1 tvg-id="Puls4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls4
+#EXTINF:-1 tvg-id="Puls4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
 https://
 
 #EXTINF:-1 tvg-id="Puls24" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls24
@@ -198,10 +198,10 @@ https://
 #EXTINF:-1 tvg-id="Schweiz" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Schweiz.png",Schweiz
 https://
 
-#EXTINF:-1 tvg-id="SRF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png",SRF1
+#EXTINF:-1 tvg-id="SRF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png",SRF 1
 https://
 
-#EXTINF:-1 tvg-id="SRF2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF2.png",SRF2
+#EXTINF:-1 tvg-id="SRF2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF2.png",SRF zwei
 https://
 
 #EXTINF:-1 tvg-id="SRFinfo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFInfo.png",SRFinfo
@@ -219,7 +219,7 @@ https://
 #EXTINF:-1 tvg-id="6+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/6%2B.jpeg",6+
 https://
 
-#EXTINF:-1 tvg-id="Puls8" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls8.png",Puls8
+#EXTINF:-1 tvg-id="Puls8" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls8.png",Puls acht
 https://
 
 #EXTINF:-1 tvg-id="TV24" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV24.png",TV24
