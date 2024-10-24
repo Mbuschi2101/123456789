@@ -1,0 +1,950 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv date="20241024080002 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_DE.xml">
+  <channel id="10620">
+    <display-name lang="DE">Sky Documentaries</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10634">
+    <display-name lang="DE">Sky Sport Tennis</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10635">
+    <display-name lang="DE">sky replay</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10640">
+    <display-name lang="DE">Sky Nature</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10645">
+    <display-name lang="DE">Sky Sport Golf</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10650">
+    <display-name lang="DE">Sky Family</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10652">
+    <display-name lang="DE">Sky Sport Austria</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10653">
+    <display-name lang="DE">Sony Channel</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10675">
+    <display-name lang="DE">Sky Sport Top Event</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10781">
+    <display-name lang="DE">SKY Sport F1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10785">
+    <display-name lang="DE">Sky Sport Mix</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10817">
+    <display-name lang="DE">Sky Cinema Premieren</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10837">
+    <display-name lang="DE">Sky 1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10838">
+    <display-name lang="DE">eoTV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10880">
+    <display-name lang="DE">Sky Sport Premier Leaque</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10908">
+    <display-name lang="DE">Sky Crime</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10917">
+    <display-name lang="DE">Sky Cinema Classics</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="10918">
+    <display-name lang="DE">sky showcase</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76614">
+    <display-name lang="DE">sixx</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76615">
+    <display-name lang="DE">Jukebox</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76616">
+    <display-name lang="DE">ORF 2</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76617">
+    <display-name lang="DE">ARD-alpha</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76618">
+    <display-name lang="DE">QVC2</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76619">
+    <display-name lang="DE">Eurosport 1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76622">
+    <display-name lang="DE">Nick Jr.</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76623">
+    <display-name lang="DE">Club MTV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76624">
+    <display-name lang="DE">Romance TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76625">
+    <display-name lang="DE">Welt der Wunder</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76626">
+    <display-name lang="DE">Servus TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76627">
+    <display-name lang="DE">ZDF</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76628">
+    <display-name lang="DE">Nat Geo HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76629">
+    <display-name lang="DE">TV5 Monde</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76630">
+    <display-name lang="DE">Motorvision TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76631">
+    <display-name lang="DE">Silverline</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76632">
+    <display-name lang="DE">DAZN</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76633">
+    <display-name lang="DE">CNN Türk</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76634">
+    <display-name lang="DE">HISTORY HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76635">
+    <display-name lang="DE">rheinmain tv</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76636">
+    <display-name lang="DE">N24 Doku</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76638">
+    <display-name lang="DE">ATV II</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76639">
+    <display-name lang="DE">Bloomberg Europe TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76640">
+    <display-name lang="DE">n-tv</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76641">
+    <display-name lang="DE">ARTE</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76642">
+    <display-name lang="DE">Beate-Uhse.TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76643">
+    <display-name lang="DE">France 3</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76645">
+    <display-name lang="DE">Warner TV Film</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76646">
+    <display-name lang="DE">Curiosity Channel</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76647">
+    <display-name lang="DE">CNBC</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76648">
+    <display-name lang="DE">HR</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76649">
+    <display-name lang="DE">PHOENIX</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76650">
+    <display-name lang="DE">BBC News</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76651">
+    <display-name lang="DE">Home &amp;amp; Garden TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76652">
+    <display-name lang="DE">Trace TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76654">
+    <display-name lang="DE">Canale 5</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76655">
+    <display-name lang="DE">Canal+</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76657">
+    <display-name lang="DE">BBC One</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76658">
+    <display-name lang="DE">STAR TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76659">
+    <display-name lang="DE">SPORT1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76660">
+    <display-name lang="DE">Playboy TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76661">
+    <display-name lang="DE">HSE</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76662">
+    <display-name lang="DE">Universal Channel HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76663">
+    <display-name lang="DE">Sky Krimi</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76664">
+    <display-name lang="DE">SAT.1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76665">
+    <display-name lang="DE">Deutsches Musik Ferns.</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76666">
+    <display-name lang="DE">münchen.tv</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76667">
+    <display-name lang="DE">Crime + Investigation</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76669">
+    <display-name lang="DE">Sky Action</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76670">
+    <display-name lang="DE">3+</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76673">
+    <display-name lang="DE">RTL Living</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76674">
+    <display-name lang="DE">Das Erste</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76675">
+    <display-name lang="DE">Heimatkanal</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76677">
+    <display-name lang="DE">Rhein-Neckar Fernsehen</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76678">
+    <display-name lang="DE">France 5</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76679">
+    <display-name lang="DE">Warner TV Comedy</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76680">
+    <display-name lang="DE">KiKA</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76681">
+    <display-name lang="DE">NHK WORLD TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76682">
+    <display-name lang="DE">3sat</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76683">
+    <display-name lang="DE">Fix &amp;amp; Foxi</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76684">
+    <display-name lang="DE">WDR</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76685">
+    <display-name lang="DE">Adult Channel</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76686">
+    <display-name lang="DE">Discovery HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76687">
+    <display-name lang="DE">travelxp 4K</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76688">
+    <display-name lang="DE">Bergblick</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76690">
+    <display-name lang="DE">EXTREME SPORTS</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76691">
+    <display-name lang="DE">France 2</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76692">
+    <display-name lang="DE">DMAX</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76693">
+    <display-name lang="DE">SWR/SR</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76694">
+    <display-name lang="DE">NOW US</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76696">
+    <display-name lang="DE">tagesschau24</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76697">
+    <display-name lang="DE">QVC</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76698">
+    <display-name lang="DE">France 24 (franz.)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76699">
+    <display-name lang="DE">TLC</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76700">
+    <display-name lang="DE">RTL Crime</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76701">
+    <display-name lang="DE">Hamburg 1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76702">
+    <display-name lang="DE">ProSieben MAXX</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76703">
+    <display-name lang="DE">Belgien 1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76704">
+    <display-name lang="DE">VOX</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76705">
+    <display-name lang="DE">sportdigital</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76706">
+    <display-name lang="DE">ORF eins</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76707">
+    <display-name lang="DE">eSports1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76708">
+    <display-name lang="DE">TELE 5</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76710">
+    <display-name lang="DE">Leipzig Fernsehen</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76711">
+    <display-name lang="DE">Euro Star</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76712">
+    <display-name lang="DE">BR</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76713">
+    <display-name lang="DE">LUST PUR</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76714">
+    <display-name lang="DE">SPIEGEL Geschichte</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76715">
+    <display-name lang="DE">kabel eins Doku</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76716">
+    <display-name lang="DE">SAT.1 Gold</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76718">
+    <display-name lang="DE">ZDFinfo</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76719">
+    <display-name lang="DE">Auto Motor Sport Ch.</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76721">
+    <display-name lang="DE">Nautical Channel</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76722">
+    <display-name lang="DE">RTLup</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76723">
+    <display-name lang="DE">Classica</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76724">
+    <display-name lang="DE">MTV Base</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76725">
+    <display-name lang="DE">kabel eins CLASSICS</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76726">
+    <display-name lang="DE">UHD1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76728">
+    <display-name lang="DE">MTV 80s</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76729">
+    <display-name lang="DE">Bundesliga HD 1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76730">
+    <display-name lang="DE">MDR</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76731">
+    <display-name lang="DE">RiC</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76732">
+    <display-name lang="DE">PULS 4</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76733">
+    <display-name lang="DE">Sky Sport News</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76734">
+    <display-name lang="DE">ORF III</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76735">
+    <display-name lang="DE">Al Jazeera</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76736">
+    <display-name lang="DE">Nicktoons</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76737">
+    <display-name lang="DE">HSE Extra</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76738">
+    <display-name lang="DE">ONE</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76739">
+    <display-name lang="DE">ZDFneo</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76740">
+    <display-name lang="DE">RTL</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76741">
+    <display-name lang="DE">Euro D</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76742">
+    <display-name lang="DE">COMEDY CENTRAL</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76744">
+    <display-name lang="DE">Eurosport 2</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76745">
+    <display-name lang="DE">ANIXE</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76746">
+    <display-name lang="DE">BonGusto</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76747">
+    <display-name lang="DE">France 4</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76748">
+    <display-name lang="DE">NDR</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76749">
+    <display-name lang="DE">ProSieben Fun</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76750">
+    <display-name lang="DE">Canal+Cinéma</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76751">
+    <display-name lang="DE">RBB</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76752">
+    <display-name lang="DE">Mezzo</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76753">
+    <display-name lang="DE">SONY AXN</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76754">
+    <display-name lang="DE">SPORT1+</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76755">
+    <display-name lang="DE">RTL II</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76756">
+    <display-name lang="DE">ORF SPORT +</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76757">
+    <display-name lang="DE">BBC Two</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76758">
+    <display-name lang="DE">Gute Laune TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76759">
+    <display-name lang="DE">Animal Planet</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76760">
+    <display-name lang="DE">Turkmax Gurme</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76761">
+    <display-name lang="DE">BBC four</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76762">
+    <display-name lang="DE">ProSieben</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76763">
+    <display-name lang="DE">Cartoon Network</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76764">
+    <display-name lang="DE">Syfy</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76765">
+    <display-name lang="DE">More than Sports TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76766">
+    <display-name lang="DE">13TH STREET</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76767">
+    <display-name lang="DE">SUPER RTL</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76768">
+    <display-name lang="DE">euronews</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76769">
+    <display-name lang="DE">SAT.1 emotions</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76770">
+    <display-name lang="DE">KinoweltTV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76771">
+    <display-name lang="DE">BBC World News</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76772">
+    <display-name lang="DE">SRF zwei</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76773">
+    <display-name lang="DE">123.tv</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76774">
+    <display-name lang="DE">Sky Atlantic HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76775">
+    <display-name lang="DE">Fashion TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76776">
+    <display-name lang="DE">Marco Polo TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76777">
+    <display-name lang="DE">MTV Live HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76778">
+    <display-name lang="DE">nick/MTV+</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76779">
+    <display-name lang="DE">Show Turk</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76780">
+    <display-name lang="DE">MTV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76781">
+    <display-name lang="DE">sonnenklar.TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76783">
+    <display-name lang="DE">NAT GEO WILD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76784">
+    <display-name lang="DE">SRF 1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76785">
+    <display-name lang="DE">Canal+ Sport</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76786">
+    <display-name lang="DE">Disney Channel</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76787">
+    <display-name lang="DE">NITRO</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76789">
+    <display-name lang="DE">TOGGO plus</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76792">
+    <display-name lang="DE">kabel eins</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76793">
+    <display-name lang="DE">MTV Hits</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76794">
+    <display-name lang="DE">Bibel TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76795">
+    <display-name lang="DE">WELT</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76796">
+    <display-name lang="DE">VOXup</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76797">
+    <display-name lang="DE">CNN International</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76800">
+    <display-name lang="DE">GEO Television</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76803">
+    <display-name lang="DE">GoldStar TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76804">
+    <display-name lang="DE">RTL Passion</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76805">
+    <display-name lang="DE">K-TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76806">
+    <display-name lang="DE">Warner TV Serie</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76807">
+    <display-name lang="DE">France 24 (engl.)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76808">
+    <display-name lang="DE">PULS acht</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76809">
+    <display-name lang="DE">DELUXE MUSIC</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76810">
+    <display-name lang="DE">ATV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="100304">
+    <display-name lang="DE">oe24.TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="182674">
+    <display-name lang="DE">DF1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="186510">
+    <display-name lang="DE">Health TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="197536">
+    <display-name lang="DE">Sky Sport Austria 1 HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="197537">
+    <display-name lang="DE">Motorvision+</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="197540">
+    <display-name lang="DE">Cartoonito</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212809">
+    <display-name lang="DE">Sky Sport 2</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212810">
+    <display-name lang="DE">Sky Sport 9</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212812">
+    <display-name lang="DE">Sky Sport 1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212813">
+    <display-name lang="DE">Sky Sport Bundesliga 1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212814">
+    <display-name lang="DE">Sky Sport Bundesliga 9</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212815">
+    <display-name lang="DE">Sky Sport 6</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212816">
+    <display-name lang="DE">Sky Sport Bundesliga 2</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212817">
+    <display-name lang="DE">Sky Sport Bundesliga 10</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212818">
+    <display-name lang="DE">Sky Sport 8</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212820">
+    <display-name lang="DE">Sky Sport 7</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212821">
+    <display-name lang="DE">Sky Sport Bundesliga</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212822">
+    <display-name lang="DE">Sky Sport Bundesliga 8</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212824">
+    <display-name lang="DE">Sky Sport 5</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212825">
+    <display-name lang="DE">Sky Sport Bundesliga 7</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212828">
+    <display-name lang="DE">DAZN 1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212831">
+    <display-name lang="DE">Sky Sport 10</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212832">
+    <display-name lang="DE">Cartoonito (Sky)</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212833">
+    <display-name lang="DE">Sky Sport Bundesliga 6</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212835">
+    <display-name lang="DE">Sky Sport Bundesliga 5</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212836">
+    <display-name lang="DE">Sky Sport 3</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212837">
+    <display-name lang="DE">Sky One</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212838">
+    <display-name lang="DE">Sky Sport 4</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212840">
+    <display-name lang="DE">DAZN 2</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212841">
+    <display-name lang="DE">Sky Sport Bundesliga 4</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="212845">
+    <display-name lang="DE">Sky Sport Bundesliga 3</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="266500">
+    <display-name lang="DE">Channel21</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="321554">
+    <display-name lang="DE">Sky Cinema Highlights HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="379181">
+    <display-name lang="DE">DOKUSAT</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="383594">
+    <display-name lang="DE">tv.berlin</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="392174">
+    <display-name lang="DE">Sky Sport Bundesliga UHD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="392175">
+    <display-name lang="DE">Sky Sport UHD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="393673">
+    <display-name lang="DE">Rocket Beans TV</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="397441">
+    <display-name lang="DE">Sky Sport Austria 3 HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76653">
+    <display-name lang="DE">TV2</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="76799">
+    <display-name lang="DE">DR1</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="397440">
+    <display-name lang="DE">Sky Sport Austria 4 HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="397442">
+    <display-name lang="DE">Sky Sport Austria 2 HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="398035">
+    <display-name lang="DE">Sky Sport Austria 6 HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="398036">
+    <display-name lang="DE">Sky Sport Austria 5 HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="398037">
+    <display-name lang="DE">Sky Sport Austria 8 HD</display-name>
+    <icon src="" />
+  </channel>
+  <channel id="398038">
+    <display-name lang="DE">Sky Sport Austria 7 HD</display-name>
+    <icon src="" />
+  </channel>
