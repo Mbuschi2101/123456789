@@ -15,28 +15,28 @@ plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
 #EXTINF:-1 tvg-id="MAGENTA Sport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",Sport 2 - myTeamTV
+#EXTINF:-1 tvg-id="MAGENTA Sport 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 2
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 3" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",Sport 3 - myTeamTV
+#EXTINF:-1 tvg-id="MAGENTA Sport 3" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 3
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",Sport 4 - myTeamTV
+#EXTINF:-1 tvg-id="MAGENTA Sport 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 4
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",Sport 5 - myTeamTV
+#EXTINF:-1 tvg-id="MAGENTA Sport 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 5
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 6" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",Sport 6 - myTeamTV
+#EXTINF:-1 tvg-id="MAGENTA Sport 6" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 6
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 7" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",Sport 7 - myTeamTV
+#EXTINF:-1 tvg-id="MAGENTA Sport 7" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 7
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 8" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",Sport 8 - myTeamTV
+#EXTINF:-1 tvg-id="MAGENTA Sport 8" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 8
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 9" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",Sport 9 - myTeamTV
+#EXTINF:-1 tvg-id="MAGENTA Sport 9" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta_Sport.png",MAGENTA Sport 9
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
 
 #EXTINF:-1 tvg-id="Sky Sport F1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Skyf1.png",Sky Sport F1
