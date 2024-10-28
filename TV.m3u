@@ -135,7 +135,7 @@ plugin://plugin.video.vavooto/?name=MOTORVISION
 #EXTINF:-1 tvg-id="ATV2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV II
 plugin://plugin.video.vavooto/?name=ATV+2
 
-#EXTINF:-1 tvg-id="KinoweltTV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/KinoweltTV.png",Kinowelt TV
+#EXTINF:-1 tvg-id="KinoweltTV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/KinoweltTV.png",Kinowelt
 plugin://plugin.video.vavooto/?name=KINOWELT
 
 #EXTINF:-1 tvg-id="13th Street" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
