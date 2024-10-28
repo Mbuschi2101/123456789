@@ -117,13 +117,13 @@ plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 #EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Spiegel%20Geschichte.png",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 
-#EXTINF:-1 tvg-id="Curiosity Channel" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Curiosity%20Channel.png",Curiosity Channel
+#EXTINF:-1 tvg-id="Curiosity Channel" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Curiosity%20Channel.png",Curiosity
 plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
 
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
 
-#EXTINF:-1 tvg-id="GEO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo Television
+#EXTINF:-1 tvg-id="GEO" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
 
 #EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor und Sport
