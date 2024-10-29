@@ -279,9 +279,6 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="SyFy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
 
-#EXTINF:-1 tvg-id="Österreich" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Austria.jpg",Österreich
-https://bild
-
 #EXTINF:-1 tvg-id="ORF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",ORF1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf1-at&stream_type=LIVE&fav_type=&title=%5BB%5DORF1+HD%5B%2FB%5D+-+UEFA+EURO+2025+Frauen+Qualifikation&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22orf1-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
@@ -311,9 +308,6 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 
 #EXTINF:-1 tvg-id="DAZN RISE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",DAZN RISE
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dazn-rise-hd&stream_type=LIVE&fav_type=&title=%5BB%5DDAZN+RISE%5B%2FB%5D+-+UEFA+Women%27s+Champions+League&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22dazn-rise-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="Schweiz" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Schweiz.png",Schweiz
-plugin://plugin.video.vavooto/?name=UNIVERSAL9
 
 #EXTINF:-1 tvg-id="ORF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",ORF1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf1-at&stream_type=LIVE&fav_type=&title=%5BB%5DORF1+HD%5B%2FB%5D+-+UEFA+EURO+2025+Frauen+Qualifikation&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22orf1-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
