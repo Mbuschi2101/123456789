@@ -156,6 +156,38 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="SyFy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
 
+#EXTINF:-1 tvg-id="Schweiz" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Schweiz.png",Schweiz
+plugin://plugin.video.vavooto/?name=UNIVERSAL9
+
+#EXTINF:-1 tvg-id="SRF1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png",SRF 1
+pvr://channels/tv/German@5/0@pvr.zattoo_4245367.pvr
+
+#EXTINF:-1 tvg-id="SRF2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF2.png",SRF 2
+plugin://plugin.video.vavooto/?name=UNIVERSAL11
+
+#EXTINF:-1 tvg-id="SRFinfo" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFInfo.png",SRF info
+plugin://plugin.video.vavooto/?name=UNIVERSAL12
+
+#EXTINF:-1 tvg-id="3+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3%2B.png",3+
+plugin://plugin.video.vavooto/?name=UNIVERSAL13
+
+#EXTINF:-1 tvg-id="4+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/4%2B.png",4+
+plugin://plugin.video.vavooto/?name=UNIVERSAL14
+
+#EXTINF:-1 tvg-id="5+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/5%2B.jpeg",5+
+plugin://plugin.video.vavooto/?name=UNIVERSAL15
+
+#EXTINF:-1 tvg-id="6+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/6%2B.jpeg",6+
+plugin://plugin.video.vavooto/?name=UNIVERSAL16
+
+#EXTINF:-1 tvg-id="Puls8" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls8.png",Puls 8
+plugin://plugin.video.vavooto/?name=UNIVERSAL17
+
+#EXTINF:-1 tvg-id="TV24" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV24.png",TV24
+plugin://plugin.video.vavooto/?name=UNIVERSAL18
+
+#EXTINF:-1 tvg-id="TV25" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV25.png",TV25
+
 #EXTINF:-1 tvg-id="Österreich" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Austria.jpg",Österreich
 https://bild
 
