@@ -27,34 +27,34 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 #EXTINF:-1 tvg-id="ATV 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV 2
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=atv2&stream_type=LIVE&fav_type=&title=%5BB%5DATV+2%5B%2FB%5D+-+Charmed+-+Zauberhafte+Hexen&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22atv2%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="Puls 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Puls 4
+#EXTINF:-1 tvg-id="Puls 4" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=puls4-at&stream_type=LIVE&fav_type=&title=%5BB%5DPULS+4%5B%2FB%5D+-+Two+and+a+Half+Men&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22puls4-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="Puls 24" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Puls 24
+#EXTINF:-1 tvg-id="Puls 24" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls 24
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=puls24-at-hd&stream_type=LIVE&fav_type=&title=%5BB%5DPULS+24+HD%5B%2FB%5D+-+PULS+24+Live&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22puls24-at-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="Servus TV" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Servus TV
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=servustv-at&stream_type=LIVE&fav_type=&title=%5BB%5DServusTV+HD%5B%2FB%5D+-+Quizmaster&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22servustv-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",ProSieben
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosieben-at&stream_type=LIVE&fav_type=&title=%5BB%5DProSieben%5B%2FB%5D+-+Galileo&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22prosieben-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="Sat.1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Sat.1
+#EXTINF:-1 tvg-id="Sat.1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",Sat.1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-at&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1%5B%2FB%5D+-+Die+Spreewaldklinik&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="Kabel 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Kabel 1
+#EXTINF:-1 tvg-id="Kabel 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",Kabel 1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleins-at&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins%5B%2FB%5D+-+Achtung+Kontrolle%21+Wir+k%C3%BCmmern+uns+drum&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleins-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="SIXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",SIXX
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sixx-at&stream_type=LIVE&fav_type=&title=%5BB%5Dsixx%5B%2FB%5D+-+Charmed+-+Zauberhafte+Hexen&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sixx-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",ProSieben MAXX
+#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenmaxx-at&stream_type=LIVE&fav_type=&title=%5BB%5DProSieben+MAXX%5B%2FB%5D+-+Family+Guy&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22prosiebenmaxx-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="Sat.1 Gold" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Sat.1 Gold
+#EXTINF:-1 tvg-id="Sat.1 Gold" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sat.1%20Gold.png",Sat.1 Gold
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-at&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1+Gold%5B%2FB%5D+-+K11+-+Kommissare+im+Einsatz&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1gold-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Kabel eins Doku
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-at&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins+Doku%5B%2FB%5D+-+Pawn+Stars+-+Die+drei+vom+Pfandhaus&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleinsdoku-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 
