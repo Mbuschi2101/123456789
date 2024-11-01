@@ -78,7 +78,7 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+1
 #EXTINF:-1 tvg-id="Sky Sport Premier League" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyPremi.png",Sky Sport Premier League
 plugin://plugin.video.vavooto/?name=SKY+SPORT+PREMIER+LEAGUE
 
-#EXTINF:-1 tvg-id="Sky Sport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport1.jpg",Sky Sport 1
+#EXTINF:-1 tvg-id="Sky Sport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport1.png",Sky Sport 1
 https://vavoo.to/live2/play/173311091.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3MzAzMDc3MTE3ODgsXCJ2YWxpZFVudGlsXCI6MTczMDMwODkxMTc4OCxcInV1aWRcIjpcIk1vQ0pNczVoTExkVVh6RTE1eXZMc0RQZ2J0QUNnUlcyRlFTWXg5T20vckU9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjc3LjY0LjE0Ni41NlwiXSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJsaW51eFwiLFwidmVyc2lvblwiOlwiMi4yXCIsXCJzZXJ2aWNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX19Iiwic2lnbmF0dXJlIjoiWEo5NUs3NDZCanJiMXA4OUxzZElWWW4zazlMTWpLSUd6ZFBZWTQya0Z0enMyeFJ6eHpZNDBaNkU5RXBMMmlreDk5S0dvYzBiRVM0bzBvWm84VzNyd2VNS0pEcGJ0bTV6VU1PakFEbnFRK0kydkN4WUFXbkNoZnVTVW9Nc1R0MjBQZm1GYnRqTjB4RGNOMW9aZ3ovL0wzSU5rdWdVT3hiVTlESk1RZWozMWpvPSJ9|User-Agent=VAVOO/2.6':
 
 #EXTINF:-1 tvg-id="Sky Sport 2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport2.png",Sky Sport 2
