@@ -27,7 +27,7 @@ plugin://plugin.video.vavooto/?name=VOX
 #EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
 plugin://plugin.video.vavooto/?name=ONE
 
-#EXTINF:-1 tvg-id="RTL Nitro" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLNitro.jpeg",RTL Nitro
+#EXTINF:-1 tvg-id="RTL Nitro" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
 plugin://plugin.video.vavooto/?name=RTL+NITRO
 
 #EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
@@ -54,10 +54,10 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 #EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaFamily.png",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 
-#EXTINF:-1 tvg-id="Sky Cinema Highlights" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Highlights.jpeg",Sky Cinema Highlights
+#EXTINF:-1 tvg-id="Sky Cinema Highlights" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Highlights.png",Sky Cinema Highlights
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHT
 
-#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaAction.jpeg",Sky Cinema Action
+#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Action%20HD.png",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 
 #EXTINF:-1 tvg-id="Sky One" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky One
@@ -129,7 +129,7 @@ plugin://plugin.video.vavooto/?name=GEO+TV
 #EXTINF:-1 tvg-id="Auto Motor und Sport" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor und Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 
-#EXTINF:-1 tvg-id="Motorvision+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision%2B.png",Motorvision+
+#EXTINF:-1 tvg-id="Motorvision+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision.png",Motorvision+
 plugin://plugin.video.vavooto/?name=MOTORVISION
 
 #EXTINF:-1 tvg-id="Kinowelt" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/KinoweltTV.png",Kinowelt
