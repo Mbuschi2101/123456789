@@ -57,6 +57,11 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 #EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-at&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins+Doku%5B%2FB%5D+-+Pawn+Stars+-+Die+drei+vom+Pfandhaus&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleinsdoku-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
+#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",DMAX
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dmax-at&stream_type=LIVE&fav_type=&title=%5BB%5DDMAX%5B%2FB%5D+-+Helden+der+Baustelle&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22dmax-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="WELT" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",WELT
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=welt-de&stream_type=LIVE&fav_type=&title=%5BB%5DWELT%5B%2FB%5D+-+WELT+Newsroom&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22welt-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 
 
