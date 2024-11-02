@@ -332,3 +332,21 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 
 #EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-at&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins+Doku%5B%2FB%5D+-+Pawn+Stars+-+Die+drei+vom+Pfandhaus&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleinsdoku-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",DMAX
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dmax-at&stream_type=LIVE&fav_type=&title=%5BB%5DDMAX%5B%2FB%5D+-+Helden+der+Baustelle&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22dmax-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="WELT" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",WELT
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=welt-de&stream_type=LIVE&fav_type=&title=%5BB%5DWELT%5B%2FB%5D+-+WELT+Newsroom&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22welt-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=n24-de&stream_type=LIVE&fav_type=&title=%5BB%5DN24+Doku%5B%2FB%5D+-+Strangest+Things&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22n24-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="Motorvision+" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision.png",Motorvision+
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=motorvision-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DMotorvision+%5B%2FB%5D+-+Motorvision.TV+-+spotted&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22motorvision-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="Motorvision Classic" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision.png",Motorvision Classic
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=motorvision-classic-hd&stream_type=LIVE&fav_type=&title=%5BB%5DMotorvision+Classic%5B%2FB%5D+-+Nordschleife&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22motorvision-classic-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tlc-at&stream_type=LIVE&fav_type=&title=%5BB%5DTLC%5B%2FB%5D+-+Judge+Judy&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tlc-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
