@@ -155,3 +155,65 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 
 #EXTINF:-1 tvg-id="SyFy" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
+
+
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+
+#EXTINF:-1 tvg-name="DF1 HD" tvg-id="DF1.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png",DF1 HD
+https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
+
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltderWunder.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+https://welt.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
+https://bild.personalstream.tv/v1/master.m3u8
+
+#EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV
+https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-id="" group-title="International;Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/redbulltv.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-name="Dokusat" tvg-id="Dokusat.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dokusat.png",Dokusat
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SportBild" tvg-id="SPORTBILD.de" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sportbildtv.png",SPORT BILD TV
+https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
+
+#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+
+
+
+
