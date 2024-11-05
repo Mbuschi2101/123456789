@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:mspr="urn:microsoft:playready" xmlns:cenc="urn:mpeg:cenc:2013" profiles="urn:dvb:dash:profile:dvb-dash:2014,urn:hbbtv:dash:profile:isoff-live:2012,urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="2024-10-01T04:00:00Z" minimumUpdatePeriod="PT2.000S" publishTime="2024-11-05T09:55:19Z" timeShiftBufferDepth="PT3H0.000S" minBufferTime="PT2.000S">
-  <BaseURL>https://zdf-dash-15.akamaized.net/dash/live/2016508/de/</BaseURL>
-  <BaseURL>https://zdf-dash-15.akamaized.net/dash/live/2016508-b/de/</BaseURL>
+  <BaseURL>https://pntvlive-a.akamaized.net/live/ntvhome/dash/ntvhome.mpd</BaseURL>
+  <BaseURL>https://pntvlive-a.akamaized.net/live/ntvhome/dash/ntvhome.mpd</BaseURL>
   <Period id="0" start="PT0S">
     <!--Video-->
     <AdaptationSet id="0" maxWidth="1280" maxHeight="720" maxFrameRate="50/1" par="16:9" segmentAlignment="true">
