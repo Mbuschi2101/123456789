@@ -1,26 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="DasErste.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
+#EXTINF:-1 tvg-name="ZDF" tvg-id="ZDF.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
 #EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE
 https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
 
 #EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+#EXTINF:-1 tvg-name="one" tvg-id="One.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one
 https://mcdn.one.ard.de/ardone/hls/master.m3u8
 
-#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
+#EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 
 #EXTINF:-1 tvg-name="Welt der Wunder" tvg-id="WeltderWunder.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/weltderwunder.png",Welt der Wunder
@@ -50,7 +50,7 @@ https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-name="SportBild" tvg-id="SPORTBILD.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/sportbildtv.png",SPORT BILD TV
 https://sport-bild.personalstream.tv/v1/bildde/master.m3u8
 
-#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
+#EXTINF:-1 tvg-name="MDR Sachsen" tvg-id="MDRSachsen.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 
 
