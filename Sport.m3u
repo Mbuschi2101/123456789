@@ -9,9 +9,6 @@ plugin://plugin.video.vavooto/?name=DAZN+1
 #EXTINF:-1 tvg-id="DAZN 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN2.png",DAZN 2
 plugin://plugin.video.vavooto/?name=DAZN+2
 
-#EXTINF:-1 tvg-id="DAZN FAST+" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZNFast%2B.png",DAZN FAST+
-plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
-
 #EXTINF:-1 tvg-id="MAGENTA Sport 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
 
