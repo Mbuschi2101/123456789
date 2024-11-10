@@ -82,7 +82,7 @@ plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 plugin://plugin.video.vavooto/?name=MDR
 
 #EXTINF:-1 tvg-id="N-TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
-plugin://plugin.video.vavooto/?name=N-TV
+plugin://plugin.video.vavooto/?name=NTV
 
 #EXTINF:-1 tvg-id="Welt" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
 plugin://plugin.video.vavooto/?name=WELT
