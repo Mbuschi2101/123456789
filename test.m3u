@@ -1,39 +1,72 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ORF 1 HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/orf1logo2.png" group-title="AT ⋅ ÖSTERREICH",ORF 1 HD
+#EXTINF:-1 tvg-id="Das Erste" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505447&extension=ts
+
+#EXTINF:-1 tvg-id="ZDF" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505448&extension=ts
+
+#EXTINF:-1 tvg-id="RTL" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505449&extension=ts
+
+#EXTINF:-1 tvg-id="RTL II" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505450&extension=ts
+
+#EXTINF:-1 tvg-id="ProSieben" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505451&extension=ts
+
+#EXTINF:-1 tvg-id="SAT.1" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505452&extension=ts
+
+#EXTINF:-1 tvg-id="VOX" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505453&extension=ts
+
+#EXTINF:-1 tvg-id="KABEL 1" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505454&extension=ts
+
+#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505455&extension=ts
+
+#EXTINF:-1 tvg-id="ProSieben Fun" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20Fun%20HD.png",ProSieben Fun
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505456&extension=ts
+
+#EXTINF:-1 tvg-id="RTL Nitro" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505457&extension=ts
+
+#EXTINF:-1 tvg-id="ORF 1" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=6761&extension=ts
 
-#EXTINF:-1 tvg-name="ORF 2 HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/orf2logo3.png" group-title="AT ⋅ ÖSTERREICH",ORF 2 HD
+#EXTINF:-1 tvg-id="ORF 2" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png",ORF 2
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490558&extension=ts
 
-#EXTINF:-1 tvg-name="ORF III HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/orf3logo2.png" group-title="AT ⋅ ÖSTERREICH",ORF III HD
+#EXTINF:-1 tvg-id="ORF 3" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png",ORF 3
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=6615&extension=ts
 
-#EXTINF:-1 tvg-name="ORF SPORT HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/orf-sport.png" group-title="AT ⋅ ÖSTERREICH SPORT",ORF SPORT HD
+#EXTINF:-1 tvg-id="ORF Sport+" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORFSport.png",ORF Sport+
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:24:4F:E8&stream=489280&extension=ts
 
-#EXTINF:-1 tvg-name="ORF SPORT FHD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/orf-sport.png" group-title="AT ⋅ ÖSTERREICH SPORT",ORF SPORT FHD
+#EXTINF:-1 tvg-id="ORF Sport+" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORFSport.png",ORF Sport+
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:24:4F:E8&stream=6616&extension=ts
 
-#EXTINF:-1 tvg-name="ATV FULL HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/atvhdlogo.png" group-title="AT ⋅ ÖSTERREICH",ATV FULL HD
+#EXTINF:-1 tvg-id="ATV" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490560&extension=ts
 
-#EXTINF:-1 tvg-name="ATV HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/atvhdlogo.png" group-title="AT ⋅ ÖSTERREICH",ATV HD
+#EXTINF:-1 tvg-id="ATV" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=607055&extension=ts
 
-#EXTINF:-1 tvg-name="ATV II HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/atv-2.png" group-title="AT ⋅ ÖSTERREICH",ATV II HD
+#EXTINF:-1 tvg-id="ATV 2" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV 2
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=414140&extension=ts
 
-#EXTINF:-1 tvg-name="ATV II" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/atv-2.png" group-title="AT ⋅ ÖSTERREICH",ATV II
+#EXTINF:-1 tvg-id="ATV 2" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV 2
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490565&extension=ts
 
-#EXTINF:-1 tvg-name="PULS 4 FULL HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/puls4.png" group-title="AT ⋅ ÖSTERREICH",PULS 4 FULL HD
+#EXTINF:-1 tvg-id="Puls 4" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=6617&extension=ts
 
-#EXTINF:-1 tvg-name="PULS 4 HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/puls4.png" group-title="AT ⋅ ÖSTERREICH",PULS 4 HD
+#EXTINF:-1 tvg-id="Puls 4" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490561&extension=ts
 
-#EXTINF:-1 tvg-name="PULS 24 FULL HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/puls24.png" group-title="AT ⋅ ÖSTERREICH",PULS 24 FULL HD
+#EXTINF:-1 tvg-id="Puls 24" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls 24
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=223601&extension=ts
 
-#EXTINF:-1 tvg-name="PULS 24 HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/puls24.png" group-title="AT ⋅ ÖSTERREICH",PULS 24 HD
+#EXTINF:-1 tvg-id="Puls 24" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls 24
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490562&extension=ts
