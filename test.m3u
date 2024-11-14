@@ -1,23 +1,33 @@
 #EXTM3U
-#EXTINF:0,ORF 1 HD
+#EXTINF:-1 tvg-name="ORF 1 HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/orf1logo2.png" group-title="AT ⋅ ÖSTERREICH",ORF 1 HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=6761&extension=ts
-#EXTINF:0,ORF 2 HD
+
+#EXTINF:-1 tvg-name="ORF 2 HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/orf2logo3.png" group-title="AT ⋅ ÖSTERREICH",ORF 2 HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490558&extension=ts
-#EXTINF:0,ORF III HD
+
+#EXTINF:-1 tvg-name="ORF III HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/orf3logo2.png" group-title="AT ⋅ ÖSTERREICH",ORF III HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=6615&extension=ts
-#EXTINF:0,ATV FULL HD
+
+#EXTINF:-1 tvg-name="ATV FULL HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/atvhdlogo.png" group-title="AT ⋅ ÖSTERREICH",ATV FULL HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490560&extension=ts
-#EXTINF:0,ATV HD
+
+#EXTINF:-1 tvg-name="ATV HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/atvhdlogo.png" group-title="AT ⋅ ÖSTERREICH",ATV HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=607055&extension=ts
-#EXTINF:0,ATV II HD
+
+#EXTINF:-1 tvg-name="ATV II HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/atv-2.png" group-title="AT ⋅ ÖSTERREICH",ATV II HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=414140&extension=ts
-#EXTINF:0,ATV II
+
+#EXTINF:-1 tvg-name="ATV II" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/atv-2.png" group-title="AT ⋅ ÖSTERREICH",ATV II
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490565&extension=ts
-#EXTINF:0,PULS 4 FULL HD
+
+#EXTINF:-1 tvg-name="PULS 4 FULL HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/puls4.png" group-title="AT ⋅ ÖSTERREICH",PULS 4 FULL HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=6617&extension=ts
-#EXTINF:0,PULS 4 HD
+
+#EXTINF:-1 tvg-name="PULS 4 HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/puls4.png" group-title="AT ⋅ ÖSTERREICH",PULS 4 HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490561&extension=ts
-#EXTINF:0,PULS 24 FULL HD
+
+#EXTINF:-1 tvg-name="PULS 24 FULL HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/puls24.png" group-title="AT ⋅ ÖSTERREICH",PULS 24 FULL HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=223601&extension=ts
-#EXTINF:0,PULS 24 HD
+
+#EXTINF:-1 tvg-name="PULS 24 HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/puls24.png" group-title="AT ⋅ ÖSTERREICH",PULS 24 HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490562&extension=ts
