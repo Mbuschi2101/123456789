@@ -23,14 +23,236 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505453&exten
 #EXTINF:-1 tvg-id="KABEL 1" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505454&extension=ts
 
+#EXTINF:-1 tvg-id="RTL Nitro" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505457&extension=ts
+
 #EXTINF:-1 tvg-id="ProSieben MAXX" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505455&extension=ts
 
 #EXTINF:-1 tvg-id="ProSieben Fun" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20Fun%20HD.png",ProSieben Fun
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505456&extension=ts
 
-#EXTINF:-1 tvg-id="RTL Nitro" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505457&extension=ts
+#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505519&extension=ts
+
+#EXTINF:-1 tvg-id="Tagesschau 24" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",Tagesschau 24
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505560&extension=ts
+
+#EXTINF:-1 tvg-id="Welt" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505486&extension=ts
+
+#EXTINF:-1 tvg-id="N-TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505485&extension=ts
+
+#EXTINF:-1 tvg-id="Bild TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505484&extension=ts
+
+#EXTINF:-1 tvg-id="DMAX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505488&extension=ts
+
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505494&extension=ts
+
+#EXTINF:-1 tvg-id="National Geographic" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/National%20Geographic.png",National Geographic
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505492&extension=ts
+
+#EXTINF:-1 tvg-id="National Geographic Wild" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/National%20Geographic%20Wild.png",National Geographic Wild
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505493&extension=ts
+
+#EXTINF:-1 tvg-id="DISCOVERY" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Discovery%20Channel.png",DISCOVERY
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505500&extension=ts
+
+#EXTINF:-1 tvg-id="SKY Nature" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Nature%20HD.png",SKY Nature
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505495&extension=ts
+
+#EXTINF:-1 tvg-id="SKY DOCUMENTARIES" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Documentaries%20HD.png",Sky Documentaries
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505496&extension=ts
+
+#EXTINF:-1 tvg-id="HISTORY" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HISTORY.png",HISTORY
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505491&extension=ts
+
+#EXTINF:-1 tvg-id="WAIDWERK" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HISTORY.png",WAIDWERK
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505502&extension=ts
+
+#EXTINF:-1 tvg-id="GEO" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505497&extension=ts
+
+#EXTINF:-1 tvg-id="ZDFinfo" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505489&extension=ts
+
+#EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Spiegel%20Geschichte.png",Spiegel Geschichte
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505487&extension=ts
+
+#EXTINF:-1 tvg-id="N24 Doku" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505501&extension=ts
+
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505498&extension=ts
+
+#EXTINF:-1 tvg-id="TLC" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505499&extension=ts
+
+#EXTINF:-1 tvg-id="Sky Cinema Highlights" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Highlights.png",Sky Cinema Highlights
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=826927&extension=ts
+
+#EXTINF:-1 tvg-id="Sky Atlantic" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Atlantic%20HD.png",Sky Atlantic
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=455010&extension=ts
+
+#EXTINF:-1 tvg-id="Sky One" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky One
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505461&extension=ts
+
+#EXTINF:0,Sky Cinema Special Full HD
+#EXTINF:-1 tvg-id="Sky Cinema Special" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky Cinema Special
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505468&extension=ts
+
+#EXTINF:-1 tvg-id="Sky Cinema Premiere" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Premiere.png",Sky Cinema Premiere
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505463&extension=ts
+
+#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Action%20HD.png",Sky Cinema Action
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505465&extension=ts
+
+#EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaFamily.png",Sky Cinema Family
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=455027&extension=ts
+
+#EXTINF:-1 tvg-id="Warner TV Comedy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerFilm.png",Warner TV Film
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505475&extension=ts
+
+#EXTINF:-1 tvg-id="Warner Comedy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerComedy.png",Warner TV Comedy
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505474&extension=ts
+
+#EXTINF:-1 tvg-id="Warner TV Serie" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerSerie.png",Warner TV Serie
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505476&extension=ts
+
+#EXTINF:-1 tvg-id="Sony Channel" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerSerie.png",Sony Channel
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=455029&extension=ts
+
+#EXTINF:-1 tvg-id="Sony AXN" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerSerie.png",Sony AXN
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=960&extension=ts
+
+#EXTINF:-1 tvg-id="AXN White" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png",AXN White
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=728542&extension=ts
+
+#EXTINF:-1 tvg-id="AXN Black" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20Black.png",AXN Black
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=728540&extension=ts
+
+#EXTINF:-1 tvg-id="Kinowelt" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/KinoweltTV.png",Kinowelt
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505477&extension=ts
+
+#EXTINF:-1 tvg-id="13th Street" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505478&extension=ts
+
+#EXTINF:-1 tvg-id="SyFy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505479&extension=ts
+
+#EXTINF:-1 tvg-id="Universal TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Universal%20Channel%20HD.png",Universal TV
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=726231&extension=ts
+
+#EXTINF:-1 tvg-id="SILVERLINE" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SILVERLINE.png",SILVERLINE
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=905&extension=ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ORF 1" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=6761&extension=ts
