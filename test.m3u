@@ -36,7 +36,7 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505456&exten
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505519&extension=ts
 
 #EXTINF:-1 tvg-id="Tagesschau 24" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",Tagesschau 24
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505560&extension=ts
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505561&extension=ts
 
 #EXTINF:-1 tvg-id="Welt" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505486&extension=ts
