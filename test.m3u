@@ -8,6 +8,12 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490558&exten
 #EXTINF:-1 tvg-name="ORF III HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/orf3logo2.png" group-title="AT ⋅ ÖSTERREICH",ORF III HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=6615&extension=ts
 
+#EXTINF:-1 tvg-name="ORF SPORT HD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/orf-sport.png" group-title="AT ⋅ ÖSTERREICH SPORT",ORF SPORT HD
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:24:4F:E8&stream=489280&extension=ts
+
+#EXTINF:-1 tvg-name="ORF SPORT FHD" tvg-logo="http://onecentcdn.com/newpicon/austria-yeni/orf-sport.png" group-title="AT ⋅ ÖSTERREICH SPORT",ORF SPORT FHD
+http://89.45.13.220:8080/play/live.php?mac=00:1A:79:24:4F:E8&stream=6616&extension=ts
+
 #EXTINF:-1 tvg-name="ATV FULL HD" tvg-logo="http://onecentcdn.com/newpicon/austria_logo/atvhdlogo.png" group-title="AT ⋅ ÖSTERREICH",ATV FULL HD
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=490560&extension=ts
 
