@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Das Erste" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.37:8080/channel/867
 
 #EXTINF:-1 tvg-id="ZDF" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
