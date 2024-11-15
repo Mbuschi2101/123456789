@@ -122,3 +122,67 @@ http://192.168.178.37:8080/channel/980
 #EXTINF:-1 tvg-id="TLC" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.37:8080/channel/1128
+
+#EXTINF:-1 tvg-id="Sky Atlantic" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Atlantic%20HD.png",Sky Atlantic
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/3526
+
+#EXTINF:-1 tvg-id="Sky One" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky One
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/6963
+
+#EXTINF:-1 tvg-id="Sky Cinema Special" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky Cinema Special
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/6974
+
+#EXTINF:-1 tvg-id="Sky Cinema Premiere" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Premiere.png",Sky Cinema Premiere
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/7030
+
+#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Action%20HD.png",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/1021
+
+#EXTINF:-1 tvg-id="Sky Cinema Family" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaFamily.png",Sky Cinema Family
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/1044
+
+#EXTINF:-1 tvg-id="Warner TV Comedy" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerFilm.png",Warner TV Film
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/1137
+
+#EXTINF:-1 tvg-id="Warner TV Film" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerComedy.png",Warner TV Film
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/1139
+
+#EXTINF:-1 tvg-id="Warner TV Serie" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerSerie.png",Warner TV Serie
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/1140
+
+#EXTINF:-1 tvg-id="AXN White" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png",AXN White
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/3343
+
+#EXTINF:-1 tvg-id="AXN Black" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20Black.png",AXN Black
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/3589
+
+#EXTINF:-1 tvg-id="Kinowelt" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/KinoweltTV.png",Kinowelt
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/6826
+
+#EXTINF:-1 tvg-id="13th Street" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/868
+
+#EXTINF:-1 tvg-id="SyFy" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/1117
+
+#EXTINF:-1 tvg-id="Universal TV" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Universal%20Channel%20HD.png",Universal TV
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/1133
+
+#EXTINF:-1 tvg-id="SILVERLINE" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SILVERLINE.png",SILVERLINE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/3523
