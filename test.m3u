@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ORF 1" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
+http://192.168.178.24:8080/hls/3462
+
+#EXTINF:-1 tvg-id="ORF 2" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png",ORF 2
+http://192.168.178.24:8080/hls/971
+
+#EXTINF:-1 tvg-id="Puls 4" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
+http://192.168.178.24:8080/hls/979
 
 #EXTINF:0 tvg-id="Das Erste" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 http://192.168.178.24:8080/hls/870
@@ -156,6 +164,14 @@ http://192.168.178.24:8080/hls/7133
 #EXTINF:-1 tvg-id="SyFy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 http://192.168.178.24:8080/hls/7092
 
+#EXTINF:-1 tvg-id="Sky Sport News" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySortNews.png",Sky Sport News
+http://192.168.178.24:8080/hls/6936
+
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN1.png",DAZN 1
+http://192.168.178.24:8080/hls/6715
+
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN2.png",DAZN 2
+http://192.168.178.24:8080/hls/6727
 
 
 
