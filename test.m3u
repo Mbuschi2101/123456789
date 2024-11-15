@@ -18,3 +18,36 @@ http://192.168.178.24:8080/channel/6942
 #EXTINF:-1 tvg-id="RTL II" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.24:8080/channel/3503
+
+#EXTINF:-1 tvg-id="ProSieben" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.24:8080/channel/976
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
