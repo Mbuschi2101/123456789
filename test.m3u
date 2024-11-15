@@ -75,7 +75,7 @@ http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505491&exten
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505502&extension=ts
 
 #EXTINF:-1 tvg-id="GEO" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505497&extension=ts
+http:\\89.45.13.220:8080\play\live.php?mac=00:1A:79:07:BB:0C&stream=484261&extension=ts
 
 #EXTINF:-1 tvg-id="ZDFinfo" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505489&extension=ts
