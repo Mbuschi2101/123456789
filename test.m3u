@@ -1,28 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Das Erste" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.24:8080/channel/870
 
-#EXTINF:-1 tvg-id="ZDF" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.24:8080/channel/1139
+#EXTINF:0 tvg-id="Das Erste" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
+http://192.168.178.24:8080/hls/870
 
-#EXTINF:-1 tvg-id="RTL" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.24:8080/channel/6895
-
-#EXTINF:-1 tvg-id="SAT.1" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.24:8080/channel/6942
-
-#EXTINF:-1 tvg-id="RTL II" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.24:8080/channel/3503
-
-#EXTINF:-1 tvg-id="ProSieben" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.24:8080/channel/976
-
+#EXTINF:-1 tvg-id="ZDF" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
+http://192.168.178.24:8080/hls/7161
 
 
 
