@@ -3,7 +3,7 @@
 http://192.168.178.37:8080/channel/867
 
 #EXTINF:-1 tvg-id="ZDF" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
-http://192.168.178.133:8080/channel/1137
+http://192.168.178.37:8080/channel/867
 
 #EXTINF:-1 tvg-id="RTL" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=455078&extension=ts
