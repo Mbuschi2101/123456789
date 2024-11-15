@@ -60,8 +60,7 @@ http://192.168.178.37:8080/channel/7168
 http://192.168.178.37:8080/channel/956
 
 #EXTINF:-1 tvg-id="Bild TV" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.37:8080/channel/883
+https://bild.personalstream.tv/v1/master.m3u8?devtype=tv&ads.country=de&ads.uid=bildde&ads.pf=bildchannel-bestofbild&ads.cpid=bild&&ads.generic=%2526eids%253Dmediaimpact.de%252C17263490576238822770956305762324%257Cexternal.mediaimpact.de%252C521006481933584253340074214620092011047&ads.referer=undefined&ads.tcf=CQE8DQAQE8DQAFZABCENBHFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBgACGQAAoRJBIAAECAAECUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIwAAREAAAmRgIAcLkGEBAxAAAIAAQAAABAAAAAgMAAAgIAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRgALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4IB44EiggBEABwAGwASABHAE4AQcAjgBKQCaAE7AOqAf0BKwCxAF_gMhAbQIAAgAkFAAQDqjAAIB1R0CsABYAFQAOAAggBkAGgAPAAiABMACrAFwAXQAxABvAD9AIYAiABLACcAFGAMMAZQA0QB7QD8AP0AiwBHQCSgFiALmAXoAxQBuADiAHUAReAkQBOwChwF5gL6AZOAywBqoDxwJFDgDUADgAPAAuACQAHIARwAoAB8AEcAM2Ag4CEAERAI4ASkAmgBOwDpAHVAP6AlYBXYCxAF_gMEAZCAyYBtBCAcAAsAKoAXAAxABvAEcASkAuYBigDqAMnAaqA8cCRRAAOAA8AjgBYgDqgLEAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAPHAhyBIooAXAAUABcAEgAMgAcgBHAC2AG0APgAjgBOAEHAI4ASkAsQBdQDXgHVAV2AwQBkwDPAHBFoAYBegFDgPHLAAQCOAAA.YAAAAAAAAAAA
 
 #EXTINF:-1 tvg-id="DMAX" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -147,7 +146,7 @@ http://192.168.178.37:8080/channel/1021
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.37:8080/channel/1044
 
-#EXTINF:-1 tvg-id="Warner TV Comedy" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerFilm.png",Warner TV Film
+#EXTINF:-1 tvg-id="Warner TV Comedy" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerFilm.png",Warner TV Comedy
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.37:8080/channel/1137
 
