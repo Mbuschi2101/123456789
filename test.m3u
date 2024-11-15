@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="1.2.3 TV (7)" group-title="Germany" tvg-logo="http://ngiss.t-online.de/cm1s/media/ca0c611992e1d587d76fab310e74ca4e32ff69ab.png" tvg-id="123.tv.de",1-2-3.tv
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://192.168.178.37:8080/channel/867
-
-
 #EXTINF:-1 tvg-id="Das Erste" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://192.168.178.37:8080/channel/867
 
 #EXTINF:-1 tvg-id="ZDF" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
