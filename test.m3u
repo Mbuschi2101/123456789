@@ -164,13 +164,13 @@ http://192.168.178.24:8080/hls/7133
 #EXTINF:-1 tvg-id="SyFy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 http://192.168.178.24:8080/hls/7092
 
-#EXTINF:-1 tvg-id="Sky Sport News" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySortNews.png",Sky Sport News
+#EXTINF:-1 tvg-id="Sky Sport News" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySortNews.png",Sky Sport News
 http://192.168.178.24:8080/hls/6936
 
-#EXTINF:-1 tvg-id="DAZN 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN1.png",DAZN 1
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN1.png",DAZN 1
 http://192.168.178.24:8080/hls/6715
 
-#EXTINF:-1 tvg-id="DAZN 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN2.png",DAZN 2
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN2.png",DAZN 2
 http://192.168.178.24:8080/hls/6727
 
 
