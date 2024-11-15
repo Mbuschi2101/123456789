@@ -42,7 +42,7 @@ plugin://plugin.video.vavooto/?name=PRO+7+MAXX
 #EXTINF:-1 tvg-id="Warner Comedy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerComedy.png",Warner TV Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 
-#EXTINF:-1 tvg-id="Warner TV Comedy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerFilm.png",Warner TV Film
+#EXTINF:-1 tvg-id="Warner TV Film" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerFilm.png",Warner TV Film
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 
 #EXTINF:-1 tvg-id="Warner TV Serie" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerSerie.png",Warner TV Serie
