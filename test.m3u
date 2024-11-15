@@ -1,12 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Das Erste" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
-http://192.168.178.37:8080/channel/867
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/874
 
 #EXTINF:-1 tvg-id="ZDF" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
-http://192.168.178.37:8080/channel/867
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/1145
 
 #EXTINF:-1 tvg-id="RTL" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
-http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=455078&extension=ts
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.37:8080/channel/3498
 
 #EXTINF:-1 tvg-id="SAT.1" group-title="test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
 http://89.45.13.220:8080/play/live.php?mac=00:1A:79:07:BB:0C&stream=505452&extension=ts
