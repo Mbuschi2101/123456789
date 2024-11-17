@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="SKY SHOWCASE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skyshowcase.png"group-title="Deutschland",SKY SHOWCASE
+http://192.168.178.24:8080/hls/3568
+
 #EXTINF:-1 tvg-id="MS Sport"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MS_Sport.png"group-title="Deutschland",MS Sport
 http://192.168.178.24:8080/hls/7097
 
