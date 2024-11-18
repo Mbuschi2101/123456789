@@ -1,201 +1,105 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="ORF 1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
-http://192.168.178.24:8080/hls/3462
-
-#EXTINF:-1 tvg-id="ORF 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png",ORF 2
-http://192.168.178.24:8080/hls/971
-
-#EXTINF:-1 tvg-id="Puls 4" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
-http://192.168.178.24:8080/hls/979
-
-#EXTINF:0 tvg-id="Das Erste" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
-http://192.168.178.24:8080/hls/870
-
-#EXTINF:-1 tvg-id="ZDF" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
-http://192.168.178.24:8080/hls/7161
-
-#EXTINF:-1 tvg-id="RTL" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
-http://192.168.178.24:8080/hls/6895
-
-#EXTINF:-1 tvg-id="SAT.1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
-http://192.168.178.24:8080/hls/6942
-
-#EXTINF:-1 tvg-id="RTL II" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
-http://192.168.178.24:8080/hls/6891
-
-#EXTINF:-1 tvg-id="ProSieben" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
-http://192.168.178.24:8080/hls/6879
-
-#EXTINF:-1 tvg-id="KABEL 1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
-http://192.168.178.24:8080/hls/6813
-
-#EXTINF:-1 tvg-id="VOX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
-http://192.168.178.24:8080/hls/7144
-
-#EXTINF:-1 tvg-id="ONE" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
-http://192.168.178.24:8080/hls/3461
-
-#EXTINF:-1 tvg-id="RTL Nitro" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
-http://192.168.178.24:8080/hls/3446
-
-#EXTINF:-1 tvg-id="Tele 5" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
-http://192.168.178.24:8080/hls/7096
-
-#EXTINF:-1 tvg-id="ZDFneo" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
-http://192.168.178.24:8080/hls/7164
-
-#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
-http://192.168.178.24:8080/hls/978
-
-#EXTINF:-1 tvg-id="Warner Comedy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerComedy.png",Warner TV Comedy
-http://192.168.178.24:8080/hls/7107
-
-#EXTINF:-1 tvg-id="Warner TV Film" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerFilm.png",Warner TV Film
-http://192.168.178.24:8080/hls/7110
-
-#EXTINF:-1 tvg-id="Warner TV Serie" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerSerie.png",Warner TV Serie
-http://192.168.178.24:8080/hls/7111
-
-#EXTINF:-1 tvg-id="Sky Cinema Premiere" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Premiere.png",Sky Cinema Premiere
-http://192.168.178.24:8080/hls/7040
-
-#EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaFamily.png",Sky Cinema Family
-http://192.168.178.24:8080/hls/3542
-
-#EXTINF:-1 tvg-id="Sky Cinema Highlights" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Highlights.png",Sky Cinema Highlights
-http://192.168.178.24:8080/hls/3543
-
-#EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Action%20HD.png",Sky Cinema Action
-http://192.168.178.24:8080/hls/6955
-
-#EXTINF:-1 tvg-id="Sky One" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky One
-http://192.168.178.24:8080/hls/6873
-
-#EXTINF:-1 tvg-id="Sky Atlantic" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Atlantic%20HD.png",Sky Atlantic
-http://192.168.178.24:8080/hls/6957
-
-#EXTINF:-1 tvg-id="SKY DOCUMENTARIES" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Documentaries%20HD.png",Sky Documentaries
-http://192.168.178.24:8080/hls/7025
-
-#EXTINF:-1 tvg-id="ZDFinfo" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
-http://192.168.178.24:8080/hls/7163
-
-#EXTINF:-1 tvg-id="Bild TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png"group-title="Deutschland",Das Erste
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:B5:9D:C7&stream=231072&extension=ts
+#EXTINF:-1 tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png"group-title="Deutschland",ZDF
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:B5:9D:C7&stream=58144&extension=ts
+#EXTINF:-1 tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png"group-title="Deutschland",RTL
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:B5:9D:C7&stream=58145&extension=ts
+#EXTINF:-1 tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png"group-title="Deutschland",SAT.1
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:B5:9D:C7&stream=231070&extension=ts
+#EXTINF:-1 tvg-id="RTL II"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg"group-title="Deutschland",RTL II
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:B5:9D:C7&stream=58146&extension=ts
+#EXTINF:-1 tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png"group-title="Deutschland",ProSieben
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:B5:9D:C7&stream=58150&extension=ts
+#EXTINF:-1 tvg-id="KABEL 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png"group-title="Deutschland",KABEL 1
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:B5:9D:C7&stream=58156&extension=ts
+#EXTINF:-1 tvg-id="VOX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png"group-title="Deutschland",VOX
+http://vpn.iplay-tv.co:8080/play/live.php?mac=00:1A:79:B5:9D:C7&stream=58154&extension=ts
+#EXTINF:-1 tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png"group-title="Deutschland",ONE
+plugin://plugin.video.vavooto/?name=ONE
+#EXTINF:-1 tvg-id="RTL Nitro"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png"group-title="Deutschland",RTL Nitro
+plugin://plugin.video.vavooto/?name=RTL+NITRO
+#EXTINF:-1 tvg-id="Tele 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png"group-title="Deutschland",Tele 5
+plugin://plugin.video.vavooto/?name=TELE+5
+#EXTINF:-1 tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png"group-title="Deutschland",ZDFneo
+plugin://plugin.video.vavooto/?name=ZDF+NEO
+#EXTINF:-1 tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png"group-title="Deutschland",ProSieben MAXX
+plugin://plugin.video.vavooto/?name=PRO+7+MAXX
+#EXTINF:-1 tvg-id="Warner Comedy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerComedy.png"group-title="Deutschland",Warner TV Comedy
+plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
+#EXTINF:-1 tvg-id="Warner TV Film"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerFilm.png"group-title="Deutschland",Warner TV Film
+plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
+#EXTINF:-1 tvg-id="Warner TV Serie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerSerie.png"group-title="Deutschland",Warner TV Serie
+plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
+#EXTINF:-1 tvg-id="Sky Cinema Premiere"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Premiere.png"group-title="Deutschland",Sky Cinema Premiere
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
+#EXTINF:-1 tvg-id="Sky Cinema Family"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaFamily.png"group-title="Deutschland",Sky Cinema Family
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+#EXTINF:-1 tvg-id="Sky Cinema Highlights"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Highlights.png"group-title="Deutschland",Sky Cinema Highlights
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHT
+#EXTINF:-1 tvg-id="Sky Cinema Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Action%20HD.png"group-title="Deutschland",Sky Cinema Action
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
+#EXTINF:-1 tvg-id="Sky One"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png"group-title="Deutschland",Sky One
+plugin://plugin.video.vavooto/?name=SKY+1
+#EXTINF:-1 tvg-id="Sky Atlantic"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Atlantic%20HD.png"group-title="Deutschland",Sky Atlantic
+plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
+#EXTINF:-1 tvg-id="SKY DOCUMENTARIES"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Documentaries%20HD.png"group-title="Deutschland",Sky Documentaries
+plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
+#EXTINF:-1 tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png"group-title="Deutschland",ZDFinfo
+plugin://plugin.video.vavooto/?name=ZDF+INFO
+#EXTINF:-1 tvg-id="Bild TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png"group-title="Deutschland",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8?devtype=tv&ads.country=de&ads.uid=bildde&ads.pf=bildchannel-bestofbild&ads.cpid=bild&&ads.generic=%2526eids%253Dmediaimpact.de%252C17263490576238822770956305762324%257Cexternal.mediaimpact.de%252C521006481933584253340074214620092011047&ads.referer=undefined&ads.tcf=CQE8DQAQE8DQAFZABCENBHFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBgACGQAAoRJBIAAECAAECUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIwAAREAAAmRgIAcLkGEBAxAAAIAAQAAABAAAAAgMAAAgIAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRgALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4IB44EiggBEABwAGwASABHAE4AQcAjgBKQCaAE7AOqAf0BKwCxAF_gMhAbQIAAgAkFAAQDqjAAIB1R0CsABYAFQAOAAggBkAGgAPAAiABMACrAFwAXQAxABvAD9AIYAiABLACcAFGAMMAZQA0QB7QD8AP0AiwBHQCSgFiALmAXoAxQBuADiAHUAReAkQBOwChwF5gL6AZOAywBqoDxwJFDgDUADgAPAAuACQAHIARwAoAB8AEcAM2Ag4CEAERAI4ASkAmgBOwDpAHVAP6AlYBXYCxAF_gMEAZCAyYBtBCAcAAsAKoAXAAxABvAEcASkAuYBigDqAMnAaqA8cCRRAAOAA8AjgBYgDqgLEAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAPHAhyBIooAXAAUABcAEgAMgAcgBHAC2AG0APgAjgBOAEHAI4ASkAsQBdQDXgHVAV2AwQBkwDPAHBFoAYBegFDgPHLAAQCOAAA.YAAAAAAAAAAA
-
-#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
-http://192.168.178.24:8080/hls/6814
-
-#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
-http://192.168.178.24:8080/hls/3429
-
-#EXTINF:-1 tvg-id="N-TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
-http://192.168.178.24:8080/hls/6853
-
-#EXTINF:-1 tvg-id="Welt" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
-http://192.168.178.24:8080/hls/7152
-
-#EXTINF:-1 tvg-id="N24 Doku" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
-http://192.168.178.24:8080/hls/6855
-
-#EXTINF:-1 tvg-id="DMAX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
-http://192.168.178.24:8080/hls/6773
-
-#EXTINF:-1 tvg-id="TLC" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
-http://192.168.178.24:8080/hls/7106
-
-#EXTINF:-1 tvg-id="Welt der Wunder" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png",Welt der Wunder
-http://192.168.178.24:8080/hls/3630
-
-#EXTINF:-1 tvg-id="SKY Nature" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Nature%20HD.png",SKY Nature
-http://192.168.178.24:8080/hls/7035
-
-#EXTINF:-1 tvg-id="DISCOVERY" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Discovery%20Channel.png",DISCOVERY
-http://192.168.178.24:8080/hls/6764
-
-#EXTINF:-1 tvg-id="HISTORY" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HISTORY.png",HISTORY
-http://192.168.178.24:8080/hls/919
-
-#EXTINF:-1 tvg-id="National Geographic Wild" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/National%20Geographic%20Wild.png",National Geographic Wild
-http://192.168.178.24:8080/hls/6860
-
-#EXTINF:-1 tvg-id="National Geographic" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/National%20Geographic.png",National Geographic
-http://192.168.178.24:8080/hls/6858
-
-#EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Spiegel%20Geschichte.png",Spiegel Geschichte
-http://192.168.178.24:8080/hls/1101
-
-#EXTINF:-1 tvg-id="Curiosity" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Curiosity%20Channel.png",Curiosity
-http://192.168.178.24:8080/hls/3591
-
-#EXTINF:-1 tvg-id="Animal Planet" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
-http://192.168.178.24:8080/hls/6664
-
-#EXTINF:-1 tvg-id="GEO" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo
-http://192.168.178.24:8080/hls/6803
-
-#EXTINF:-1 tvg-id="Auto Motor und Sport" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor und Sport
-http://192.168.178.24:8080/hls/6667
-
-#EXTINF:-1 tvg-id="Motorvision+" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision.png",Motorvision+
-http://192.168.178.24:8080/hls/6847
-
-#EXTINF:-1 tvg-id="Kinowelt" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/KinoweltTV.png",Kinowelt
-http://192.168.178.24:8080/hls/6822
-
-#EXTINF:-1 tvg-id="13th Street" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
-http://192.168.178.24:8080/hls/6659
-
-#EXTINF:-1 tvg-id="AXN White" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png",AXN White
-http://192.168.178.24:8080/hls/1099
-
-#EXTINF:-1 tvg-id="AXN Black" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20Black.png",AXN Black
-http://192.168.178.24:8080/hls/3346
-
-#EXTINF:-1 tvg-id="SILVERLINE" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SILVERLINE.png",SILVERLINE
-http://192.168.178.24:8080/hls/6946
-
-#EXTINF:-1 tvg-id="ProSieben Fun" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20Fun%20HD.png",ProSieben Fun
-http://192.168.178.24:8080/hls/977
-
-#EXTINF:-1 tvg-id="Universal TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Universal%20Channel%20HD.png",Universal TV
-http://192.168.178.24:8080/hls/7133
-
-#EXTINF:-1 tvg-id="SyFy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
-http://192.168.178.24:8080/hls/7092
-
-#EXTINF:-1 tvg-id="Sky Sport News" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySortNews.png",Sky Sport News
-http://192.168.178.24:8080/hls/6936
-
-#EXTINF:-1 tvg-id="DAZN 1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN1.png",DAZN 1
-http://192.168.178.24:8080/hls/6715
-
-#EXTINF:-1 tvg-id="DAZN 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN2.png",DAZN 2
-http://192.168.178.24:8080/hls/6727
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png"group-title="Deutschland",Kabel eins Doku
+plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
+#EXTINF:-1 tvg-id="MDR Sachsen"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png"group-title="Deutschland",MDR Sachsen
+plugin://plugin.video.vavooto/?name=MDR
+#EXTINF:-1 tvg-id="N-TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png"group-title="Deutschland",N-TV
+plugin://plugin.video.vavooto/?name=NTV
+#EXTINF:-1 tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png"group-title="Deutschland",Welt
+plugin://plugin.video.vavooto/?name=WELT
+#EXTINF:-1 tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png"group-title="Deutschland",N24 Doku
+plugin://plugin.video.vavooto/?name=N24+DOCU
+#EXTINF:-1 tvg-id="DMAX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png"group-title="Deutschland",DMAX
+plugin://plugin.video.vavooto/?name=DMAX
+#EXTINF:-1 tvg-id="TLC"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png"group-title="Deutschland",TLC
+plugin://plugin.video.vavooto/?name=TLC
+#EXTINF:-1 tvg-id="Welt der Wunder"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png"group-title="Deutschland",Welt der Wunder
+plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
+#EXTINF:-1 tvg-id="SKY Nature"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Nature%20HD.png"group-title="Deutschland",SKY Nature
+plugin://plugin.video.vavooto/?name=SKY+NATURE
+#EXTINF:-1 tvg-id="DISCOVERY"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Discovery%20Channel.png"group-title="Deutschland",DISCOVERY
+plugin://plugin.video.vavooto/?name=DISCOVERY
+#EXTINF:-1 tvg-id="HISTORY"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HISTORY.png"group-title="Deutschland",HISTORY
+plugin://plugin.video.vavooto/?name=HISTORY
+#EXTINF:-1 tvg-id="National Geographic Wild"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/National%20Geographic%20Wild.png"group-title="Deutschland",National Geographic Wild
+plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
+#EXTINF:-1 tvg-id="National Geographic"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/National%20Geographic.png"group-title="Deutschland",National Geographic
+plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
+#EXTINF:-1 tvg-id="Spiegel Geschichte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Spiegel%20Geschichte.png"group-title="Deutschland",Spiegel Geschichte
+plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
+#EXTINF:-1 tvg-id="Curiosity"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Curiosity%20Channel.png"group-title="Deutschland",Curiosity
+plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
+#EXTINF:-1 tvg-id="Animal Planet"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png"group-title="Deutschland",Animal Planet
+plugin://plugin.video.vavooto/?name=PLANET
+#EXTINF:-1 tvg-id="GEO"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png"group-title="Deutschland",Geo
+plugin://plugin.video.vavooto/?name=GEO+TV
+#EXTINF:-1 tvg-id="Auto Motor und Sport"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png"group-title="Deutschland",Auto Motor und Sport
+plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 tvg-id="Motorvision+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision.png"group-title="Deutschland",Motorvision+
+plugin://plugin.video.vavooto/?name=MOTORVISION
+#EXTINF:-1 tvg-id="Kinowelt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/KinoweltTV.png"group-title="Deutschland",Kinowelt
+plugin://plugin.video.vavooto/?name=KINOWELT
+#EXTINF:-1 tvg-id="13th Street"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png"group-title="Deutschland",13TH Street
+plugin://plugin.video.vavooto/?name=13TH+STREET
+#EXTINF:-1 tvg-id="AXN White"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png"group-title="Deutschland",AXN White
+plugin://plugin.video.vavooto/?name=AXN+WHITE
+#EXTINF:-1 tvg-id="AXN Black"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20Black.png"group-title="Deutschland",AXN Black
+plugin://plugin.video.vavooto/?name=AXN+BLACK
+#EXTINF:-1 tvg-id="SILVERLINE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SILVERLINE.png"group-title="Deutschland",SILVERLINE
+plugin://plugin.video.vavooto/?name=SILVERLINE
+#EXTINF:-1 tvg-id="ProSieben Fun"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20Fun%20HD.png"group-title="Deutschland",ProSieben Fun
+plugin://plugin.video.vavooto/?name=PRO+7+FUN
+#EXTINF:-1 tvg-id="Universal TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Universal%20Channel%20HD.png"group-title="Deutschland",Universal TV
+plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
+#EXTINF:-1 tvg-id="SyFy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png"group-title="Deutschland",SyFy
+plugin://plugin.video.vavooto/?name=SYFY
