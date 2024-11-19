@@ -1,4 +1,101 @@
 #EXTM3U
+#EXTINF:-1 ,Das Erste
+rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5100,5101,1170,1176,2171,5102,5103,5104,5105,5106,5107,5108,5172
+#EXTINF:-1 ,ZDF
+rtsp://192.168.178.1:554/?avm=1&freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6100,6110,6120,6121,6122,6123,6130,6131,6132,6170,6171,6172
+#EXTINF:-1 ,RTL
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
+#EXTINF:-1 ,SAT.1
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106
+#EXTINF:-1 ,RTL2
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158,159
+#EXTINF:-1 ,ProSieben
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,153,155,156
+#EXTINF:-1 ,kabel eins
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,205,206
+#EXTINF:-1 ,VOX
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,255,256,257,258,259
+#EXTINF:-1 ,zdfneo
+rtsp://192.168.178.1:554/?avm=1&freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6300,6310,6320,6321,6322,6323,6330,6331,6370,6371,6372
+#EXTINF:-1 ,VOXup
+rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
+#EXTINF:-1 ,RTLNITRO
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306,307,308,309
+#EXTINF:-1 ,TELE 5
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,105,106,107,108,109
+#EXTINF:-1 ,sixx
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,550,551,38,552,558
+#EXTINF:-1 ,Pro7 MAXX
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,355,356
+#EXTINF:-1 ,SAT.1 Gold
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306
+#EXTINF:-1 ,RTLup
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406,407,408
+#EXTINF:-1 ,ZDFinfo
+rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6700,6710,6720,6721,6722,6723,6730,6731,6770,6771,6772
+#EXTINF:-1 ,N24 DOKU
+rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452,456
+#EXTINF:-1 ,kabel eins Doku
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406
+#EXTINF:-1 ,n-tv
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,353,355,356,357,358
+#EXTINF:-1 ,WELT
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,256
+#EXTINF:-1 ,tagesschau24
+rtsp://192.168.178.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5400,5401,176,2171,3970,4072,5402,5403,5404,5406,5407
+#EXTINF:-1 ,DMAX
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
+#EXTINF:-1 ,TLC
+rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
+#EXTINF:-1 ,DOKUSAT
+rtsp://192.168.178.1:554/?avm=1&freq=570&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406
+#EXTINF:-1 ,DF 1
+rtsp://192.168.178.1:554/?avm=1&freq=554&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102
+#EXTINF:-1 ,Freedom TV
+rtsp://192.168.178.1:554/?avm=1&freq=586&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,700,701,48,56
+#EXTINF:-1 ,WDR Köln
+rtsp://192.168.178.1:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,600,601,602,603,604,605,2171,2370,2376
+#EXTINF:-1 ,SR Fernsehen
+rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452,453,455,456,457,458
+#EXTINF:-1 ,SPORT1
+rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207,5010,5011
+#EXTINF:-1 ,Eurosport 1
+rtsp://192.168.178.1:554/?avm=1&freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,206,207
+#EXTINF:-1 ,8Sport
+rtsp://192.168.178.1:554/?avm=1&freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,48,53,55,104
+#EXTINF:-1 ,rbb Berlin
+rtsp://192.168.178.1:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5310,5311,2171,2176,3770,3772,5312,5313,5314,5315,5316,5317
+#EXTINF:-1 ,MDR Sachsen
+rtsp://192.168.178.1:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5320,5331,2171,2876,3670,3672,5332,5333,5334,5335,5336,5337
+#EXTINF:-1 ,WDR
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,104,105,106,107,2171,2371,2376,2377
+#EXTINF:-1 ,NDR
+rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5240,5221,1770,2171,2676,5222,5223,5224,5226,5227,5245,5273
+#EXTINF:-1 ,BR
+rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5200,5201,1076,1570,2171,5202,5203,5204,5205,5206,5207,5209,5275
+#EXTINF:-1 ,hr-fernsehen
+rtsp://192.168.178.1:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5350,5351,2171,2276,3570,3572,5352,5353,5354,5355,5356,5357
+#EXTINF:-1 ,SR
+rtsp://192.168.178.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5430,5431,2171,2976,4370,4372,5432,5433,5434,5435,5436,5437
+#EXTINF:-1 ,arte
+rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5110,5111,1270,1276,5112,5113,5114,5115,5116,5117,5118,5119,5198
+#EXTINF:-1 ,3sat
+rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6500,6510,6520,6521,6522,6523,6530,6531,6570
+#EXTINF:-1 ,ONE
+rtsp://192.168.178.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5410,5411,276,2171,4170,4172,5412,5413,5414,5415,5416,5417
+#EXTINF:-1 ,phoenix
+rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5260,5261,576,1870,2171,5262,5263,5264
+#EXTINF:-1 ,ARD alpha
+rtsp://192.168.178.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5420,5421,1476,2171,4270,4272,5422,5423,5424,5425,5426,5427
+#EXTINF:-1 ,SF-Leipzig HD
+rtsp://192.168.178.1:554/?avm=1&freq=578&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,51,49,54,56,109
+#EXTINF:-1 ,WDR
+rtsp://192.168.178.1:554/?avm=1&freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,140,101,102,103,104,105,106,107,2171,2371,2376,2377
+#EXTINF:-1 ,NDR FS MV HD
+rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5230,5221,1770,2171,2676,5222,5223,5224,5226,5227,5235,5273
+#EXTINF:-1 ,BR
+rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5210,5201,1076,1570,2171,5202,5203,5204,5205,5206,5207,5209,5275
+
 
 #EXTINF:-1 tvg-id="SKY SHOWCASE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skyshowcase.png"group-title="Deutschland",SKY SHOWCASE
 http://192.168.178.24:8080/hls/3568
