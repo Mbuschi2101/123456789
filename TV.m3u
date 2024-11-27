@@ -279,7 +279,7 @@ plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
 #EXTINF:-1 tvg-id="Schweiz VPN aktivieren"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Schweiz.png"group-title="Deutschland":http-user-agent="",Schweiz VPN aktivieren
 https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/Vpn.jpg
 #EXTINF:-1 tvg-id="SRF 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png"group-title="Deutschland":http-user-agent="",SRF 1
-pvr://channels/tv/German@3/0@pvr.zattoo_4245367.pvr
+plugin://plugin.video.zattoo_com/?mode=watch&id=sf-2&level=hd&drm=False
 #EXTINF:-1 tvg-id="SRF 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF2.png"group-title="Deutschland":http-user-agent="",SRF 2
 https://zba6-5-dash-live.zahs.tv/HD_sf2/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBQII2TONJYGY3TGN2DGBDDQLJRIVDDGMCFIIZDMNKGHE4DENZGNVQXQ4TBORST2MZQGAZCM3LJNZZGC5DFHU3DAMBGOBZGKZTFOJZGKZC7NRQW4Z3VMFTWKPLEMUTHG2LHHU4F6OBYMQ3DCYTFMQ3GKOBRMM2DQMBVGRRGCNZYHBTGCNZTMI4TKMBUEZZXKYTUNF2GYZLTHVUGSZDEMVXC243ENATHI2LNMVZWQ2LGOQ6TQMBGOVZWK4S7NFSD2MZTGU2DMNRVGITHMPJQ
 #EXTINF:-1 tvg-id="SRF Info"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFinfo.png"group-title="Deutschland":http-user-agent="",SRF Info
