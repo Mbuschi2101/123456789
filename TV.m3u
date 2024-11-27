@@ -55,7 +55,7 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 
 #EXTINF:-1 tvg-id="Sky Cinema Highlights" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Highlights.png",Sky Cinema Highlights
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHT
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
 
 #EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Action%20HD.png",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
@@ -88,7 +88,7 @@ plugin://plugin.video.vavooto/?name=NTV
 plugin://plugin.video.vavooto/?name=WELT
 
 #EXTINF:-1 tvg-id="N24 Doku" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
-plugin://plugin.video.vavooto/?name=N24+DOCU
+plugin://plugin.video.vavooto/?name=N24+DOKU
 
 #EXTINF:-1 tvg-id="DMAX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
@@ -118,13 +118,13 @@ plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 
 #EXTINF:-1 tvg-id="Curiosity" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Curiosity%20Channel.png",Curiosity
-plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
+plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
 
 #EXTINF:-1 tvg-id="GEO" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo
-plugin://plugin.video.vavooto/?name=GEO+TV
+#plugin://plugin.video.vavooto/?name=MOTORVISION
 
 #EXTINF:-1 tvg-id="Auto Motor und Sport" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor und Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
@@ -139,7 +139,7 @@ plugin://plugin.video.vavooto/?name=KINOWELT
 plugin://plugin.video.vavooto/?name=13TH+STREET
 
 #EXTINF:-1 tvg-id="AXN White" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png",AXN White
-#plugin://plugin.video.vavooto/?name=AXN+WHITE
+plugin://plugin.video.vavooto/?name=SONY+CHANNEL
 
 #EXTINF:-1 tvg-id="AXN Black" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20Black.png",AXN Black
 plugin://plugin.video.vavooto/?name=AXN
