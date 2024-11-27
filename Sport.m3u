@@ -105,7 +105,7 @@ https://vavoo.to/live2/play/2801218088.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGl
 #EXTINF:-1 tvg-id="Sky Sport 9" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport9.png",Sky Sport 9
 https://vavoo.to/live2/play/2978752107.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjE3MzAyMzUxMzQ4MzEsXCJ2YWxpZFVudGlsXCI6MTczMDIzNjMzNDgzMSxcInV1aWRcIjpcIlNJdXJEdHVBeGhnMDV2Y3RIY3JnUGlIQ1JoSm1MRXZKUWR3N05MMUEwY0U9XCIsXCJydWxlc2V0XCI6XCJndWVzdFwiLFwidmVyaWZpZWRcIjpmYWxzZSxcImlwc1wiOltcIjIxMi4xMDMuNjEuMTgwXCJdLFwiZXJyb3JcIjpudWxsLFwiYXBwXCI6e1wicGxhdGZvcm1cIjpcImxpbnV4XCIsXCJ2ZXJzaW9uXCI6XCIyLjJcIixcInNlcnZpY2VcIjpcIjEuMi4yNlwiLFwib2tcIjp0cnVlfX0iLCJzaWduYXR1cmUiOiJmR0pPQmprT2MwMXhXZU0wVnBHTnBveEQ2OERFMVI0UnJ4YzY1dDhia2VpNTNHTmpBbjFPa29zRXVTeGtUZHdRZU1yZnZlOSsvOVhRVk1ZUElPWTFwS1NTNGswaTJOT3huTlpYNGc2RzJlS3VCcVJLWTRvYU1nQ09LTFBETkU5dml0eGR2aVZSTTlvbEZXeTA5eDMrZFJ0QjRiM0M3U0FweUhja01adVNSSFU9In0=|User-Agent=VAVOO/2.6':
 
-#EXTINF:-1 tvg-id="Sportdigital" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital Fussball
+#EXTINF:-1 tvg-id="Sportdigital" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=SPORTDIGITALL+FUSSBALL
 
 #EXTINF:-1 tvg-id="Sport1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport1
