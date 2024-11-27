@@ -139,10 +139,10 @@ plugin://plugin.video.vavooto/?name=KINOWELT
 plugin://plugin.video.vavooto/?name=13TH+STREET
 
 #EXTINF:-1 tvg-id="AXN White" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png",AXN White
-plugin://plugin.video.vavooto/?name=AXN+WHITE
+#plugin://plugin.video.vavooto/?name=AXN+WHITE
 
 #EXTINF:-1 tvg-id="AXN Black" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20Black.png",AXN Black
-plugin://plugin.video.vavooto/?name=AXN+BLACK
+plugin://plugin.video.vavooto/?name=AXN
 
 #EXTINF:-1 tvg-id="SILVERLINE" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SILVERLINE.png",SILVERLINE
 plugin://plugin.video.vavooto/?name=SILVERLINE
