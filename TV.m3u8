@@ -282,7 +282,7 @@ https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/Vpn
 plugin://plugin.video.zattoo_com/?mode=watch&id=sf-1&level=hd&drm=False
 #EXTINF:-1 tvg-id="SRF 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF2.png"group-title="Deutschland":http-user-agent="",SRF 2
 plugin://plugin.video.zattoo_com/?mode=watch&id=sf-2&level=hd&drm=False
-#EXTINF:-1 tvg-id="SRF Info"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFinfo.png"group-title="Deutschland":http-user-agent="",SRF Info
+#EXTINF:-1 tvg-id="SRFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFinfo.png"group-title="Deutschland":http-user-agent="",SRFinfo
 plugin://plugin.video.zattoo_com/?mode=watch&id=sf-info&level=hd&drm=False
 #EXTINF:-1 tvg-id="3+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3%2B.png"group-title="Deutschland":http-user-agent="",3+
 plugin://plugin.video.zattoo_com/?mode=watch&id=3plus&level=sd&drm=False
