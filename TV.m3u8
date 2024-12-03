@@ -1,5 +1,17 @@
 ﻿#EXTM3U
 
+#EXTINF:-1 tvg-id="ORF 1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
+plugin://plugin.video.vavooto/?name=ORF+1
+
+#EXTINF:-1 tvg-id="ORF 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png",ORF 2
+plugin://plugin.video.vavooto/?name=ORF+2
+
+#EXTINF:-1 tvg-id="ORF 3" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png",ORF 3
+plugin://plugin.video.vavooto/?name=ORF+3
+
+#EXTINF:-1 tvg-id="ORF 3" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png",ORF 3
+plugin://plugin.video.vavooto/?name=ORF+SPORT
+
 #EXTINF:0 tvg-id="Das Erste" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
 
@@ -23,6 +35,15 @@ plugin://plugin.video.vavooto/?name=KABEL+1
 
 #EXTINF:-1 tvg-id="VOX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
 plugin://plugin.video.vavooto/?name=VOX
+
+#EXTINF:-1 tvg-id="SIXX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
+plugin://plugin.video.vavooto/?name=SIXX
+
+#EXTINF:-1 tvg-id="ATV 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV 2
+plugin://plugin.video.vavooto/?name=ATV+
+
+#EXTINF:-1 tvg-id="Puls 4" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
+plugin://plugin.video.vavooto/?name=PULS+4
 
 #EXTINF:-1 tvg-id="ONE" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
 plugin://plugin.video.vavooto/?name=ONE
@@ -69,8 +90,14 @@ plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="SKY DOCUMENTARIES" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Documentaries%20HD.png",Sky Documentaries
 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
 
+#EXTINF:-1 tvg-id="Crime + Investigation" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/crime%2Binvestigation.png",Crime + Investigation
+plugin://plugin.video.vavooto/?name=CRIME+%2B+INVESTIGATION
+
 #EXTINF:-1 tvg-id="ZDFinfo" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
 plugin://plugin.video.vavooto/?name=ZDF+INFO
+
+#EXTINF:-1 tvg-id="Tagesschau 24" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",Tagesschau 24
+plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 
 #EXTINF:-1 tvg-id="Bild TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8?devtype=tv&ads.country=de&ads.uid=bildde&ads.pf=bildchannel-bestofbild&ads.cpid=bild&&ads.generic=%2526eids%253Dmediaimpact.de%252C17263490576238822770956305762324%257Cexternal.mediaimpact.de%252C521006481933584253340074214620092011047&ads.referer=undefined&ads.tcf=CQE8DQAQE8DQAFZABCENBHFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBgACGQAAoRJBIAAECAAECUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIwAAREAAAmRgIAcLkGEBAxAAAIAAQAAABAAAAAgMAAAgIAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRgALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4IB44EiggBEABwAGwASABHAE4AQcAjgBKQCaAE7AOqAf0BKwCxAF_gMhAbQIAAgAkFAAQDqjAAIB1R0CsABYAFQAOAAggBkAGgAPAAiABMACrAFwAXQAxABvAD9AIYAiABLACcAFGAMMAZQA0QB7QD8AP0AiwBHQCSgFiALmAXoAxQBuADiAHUAReAkQBOwChwF5gL6AZOAywBqoDxwJFDgDUADgAPAAuACQAHIARwAoAB8AEcAM2Ag4CEAERAI4ASkAmgBOwDpAHVAP6AlYBXYCxAF_gMEAZCAyYBtBCAcAAsAKoAXAAxABvAEcASkAuYBigDqAMnAaqA8cCRRAAOAA8AjgBYgDqgLEAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAPHAhyBIooAXAAUABcAEgAMgAcgBHAC2AG0APgAjgBOAEHAI4ASkAsQBdQDXgHVAV2AwQBkwDPAHBFoAYBegFDgPHLAAQCOAAA.YAAAAAAAAAAA
@@ -156,124 +183,124 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="SyFy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
 
-#EXTINF:-1 tvg-id="Sky Sport News" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySortNews.png",Sky Sport News
+#EXTINF:-1 tvg-id="Sky Sport News" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySortNews.png",Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
 
-#EXTINF:-1 tvg-id="DAZN 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN1.png",DAZN 1
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN1.png",DAZN 1
 plugin://plugin.video.vavooto/?name=DAZN+1
 
-#EXTINF:-1 tvg-id="DAZN 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN2.png",DAZN 2
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN2.png",DAZN 2
 plugin://plugin.video.vavooto/?name=DAZN+2
 
-#EXTINF:-1 tvg-id="DAZN FAST+" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZNFast%2B.png",DAZN FAST+
-#plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
+#EXTINF:-1 tvg-id="DAZN FAST+" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZNFast%2B.png",DAZN FAST+
+plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 1
+#EXTINF:-1 tvg-id="MAGENTA Sport 1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 2
+#EXTINF:-1 tvg-id="MAGENTA Sport 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 2
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 3" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 3
+#EXTINF:-1 tvg-id="MAGENTA Sport 3" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 3
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 4" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 4
+#EXTINF:-1 tvg-id="MAGENTA Sport 4" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 4
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 5" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 5
+#EXTINF:-1 tvg-id="MAGENTA Sport 5" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 5
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 6
+#EXTINF:-1 tvg-id="MAGENTA Sport 6" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 6
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 7" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 7
+#EXTINF:-1 tvg-id="MAGENTA Sport 7" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 7
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 8" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 8
+#EXTINF:-1 tvg-id="MAGENTA Sport 8" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 8
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
 
-#EXTINF:-1 tvg-id="MAGENTA Sport 9" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 9
+#EXTINF:-1 tvg-id="MAGENTA Sport 9" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",MAGENTA Sport 9
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport.png",SKY SPORT BUNDESLIGA
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport.png",SKY SPORT BUNDESLIGA
 #plugin://plugin.video.vavooto/?action=live&group=Germany&name=SKY+BUNDESLIGA
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_1.png",SKY SPORT BUNDESLIGA 1
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_1.png",SKY SPORT BUNDESLIGA 1
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+1
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_2.png",SKY SPORT BUNDESLIGA 2
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_2.png",SKY SPORT BUNDESLIGA 2
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+2
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 3" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_3.png",SKY SPORT BUNDESLIGA 3
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 3" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_3.png",SKY SPORT BUNDESLIGA 3
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+3
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 4" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_4.png",SKY SPORT BUNDESLIGA 4
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 4" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_4.png",SKY SPORT BUNDESLIGA 4
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+4
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 5" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_5.png",SKY SPORT BUNDESLIGA 5
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 5" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_5.png",SKY SPORT BUNDESLIGA 5
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+5
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_6.png",SKY SPORT BUNDESLIGA 6
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 6" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_6.png",SKY SPORT BUNDESLIGA 6
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+6
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 7" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_7.png",SKY SPORT BUNDESLIGA 7
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 7" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_7.png",SKY SPORT BUNDESLIGA 7
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+7
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 8" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_8.png",SKY SPORT BUNDESLIGA 8
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 8" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_8.png",SKY SPORT BUNDESLIGA 8
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+8
 
-#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 9" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_9.png",SKY SPORT BUNDESLIGA 9
+#EXTINF:-1 tvg-id="SKY Sport BUNDESLIGA 9" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_9.png",SKY SPORT BUNDESLIGA 9
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+9
 
-#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyAustria.png",SKY SPORT AUSTRIA
+#EXTINF:-1 tvg-id="SKY SPORT AUSTRIA" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyAustria.png",SKY SPORT AUSTRIA
 #plugin://plugin.video.vavooto/?action=live&group=Germany&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29
 
-#EXTINF:-1 tvg-id="Sky Sport Premier League" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyPremi.png",Sky Sport Premier League
+#EXTINF:-1 tvg-id="Sky Sport Premier League" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyPremi.png",Sky Sport Premier League
 plugin://plugin.video.vavooto/?name=SKY+SPORT+PREMIER+LEAGUE
 
-#EXTINF:-1 tvg-id="Sky Sport F1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Skyf1.png",Sky Sport F1
+#EXTINF:-1 tvg-id="Sky Sport F1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Skyf1.png",Sky Sport F1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+F1
 
-#EXTINF:-1 tvg-id="Sky Sport 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport11.jpg",Sky Sport 1
+#EXTINF:-1 tvg-id="Sky Sport 1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport11.jpg",Sky Sport 1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+1
 
-#EXTINF:-1 tvg-id="Sky Sport 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport2.png",Sky Sport 2
+#EXTINF:-1 tvg-id="Sky Sport 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport2.png",Sky Sport 2
 plugin://plugin.video.vavooto/?name=SKY+SPORT+2
 
-#EXTINF:-1 tvg-id="Sky Sport 3" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport3.png",Sky Sport 3
+#EXTINF:-1 tvg-id="Sky Sport 3" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport3.png",Sky Sport 3
 plugin://plugin.video.vavooto/?name=SKY+SPORT+3
 
-#EXTINF:-1 tvg-id="Sky Sport 4" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport4.png",Sky Sport 4
+#EXTINF:-1 tvg-id="Sky Sport 4" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport4.png",Sky Sport 4
 plugin://plugin.video.vavooto/?name=SKY+SPORT+4
 
-#EXTINF:-1 tvg-id="Sky Sport 5" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport5.png",Sky Sport 5
+#EXTINF:-1 tvg-id="Sky Sport 5" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport5.png",Sky Sport 5
 plugin://plugin.video.vavooto/?name=SKY+SPORT+5
 
-#EXTINF:-1 tvg-id="Sky Sport 6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport6.png",Sky Sport 6
+#EXTINF:-1 tvg-id="Sky Sport 6" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport6.png",Sky Sport 6
 plugin://plugin.video.vavooto/?name=SKY+SPORT+6
 
-#EXTINF:-1 tvg-id="Sky Sport 7" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport7.png",Sky Sport 7
+#EXTINF:-1 tvg-id="Sky Sport 7" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport7.png",Sky Sport 7
 plugin://plugin.video.vavooto/?name=SKY+SPORT+7
 
-#EXTINF:-1 tvg-id="Sky Sport 8" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport8.png",Sky Sport 8
+#EXTINF:-1 tvg-id="Sky Sport 8" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport8.png",Sky Sport 8
 plugin://plugin.video.vavooto/?name=SKY+SPORT+8
 
-#EXTINF:-1 tvg-id="Sky Sport 9" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport9.png",Sky Sport 9
+#EXTINF:-1 tvg-id="Sky Sport 9" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport9.png",Sky Sport 9
 plugin://plugin.video.vavooto/?name=SKY+SPORT+9
 
-#EXTINF:-1 tvg-id="Sportdigital" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital
+#EXTINF:-1 tvg-id="Sportdigital" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=SPORTDIGITALL+FUSSBALL
 
-#EXTINF:-1 tvg-id="Sport1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport1
+#EXTINF:-1 tvg-id="Sport1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport1
 plugin://plugin.video.vavooto/?name=SPORT1
 
-#EXTINF:-1 tvg-id="SPORT1+ HD" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1%2B%20HD.png",SPORT1+
+#EXTINF:-1 tvg-id="SPORT1+ HD" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1%2B%20HD.png",SPORT1+
 plugin://plugin.video.vavooto/?name=SPORT1%2B
 
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%201.png",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%201.png",Eurosport 1
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%202.png",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%202.png",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
 
 #EXTINF:-1 tvg-id="Schweiz VPN aktivieren"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Schweiz.png"group-title="Deutschland":http-user-agent="",Schweiz VPN aktivieren
