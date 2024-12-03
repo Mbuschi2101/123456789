@@ -40,7 +40,7 @@ plugin://plugin.video.vavooto/?name=VOX
 plugin://plugin.video.vavooto/?name=SIXX
 
 #EXTINF:-1 tvg-id="ATV 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV 2
-plugin://plugin.video.vavooto/?name=ATV+
+plugin://plugin.video.vavooto/?name=ATV+2
 
 #EXTINF:-1 tvg-id="Puls 4" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
 plugin://plugin.video.vavooto/?name=PULS+4
