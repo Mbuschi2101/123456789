@@ -76,7 +76,7 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 
 #EXTINF:-1 tvg-id="Sky Cinema Highlights" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Highlights.png",Sky Cinema Highlights
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
+#plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
 
 #EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Action%20HD.png",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
