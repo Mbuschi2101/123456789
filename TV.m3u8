@@ -151,7 +151,7 @@ plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 plugin://plugin.video.vavooto/?name=PLANET
 
 #EXTINF:-1 tvg-id="GEO" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo
-#plugin://plugin.video.vavooto/?name=MOTORVISION
+plugin://plugin.video.vavooto/?name=GEO+TV
 
 #EXTINF:-1 tvg-id="Auto Motor und Sport" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor und Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
