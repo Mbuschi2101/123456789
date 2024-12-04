@@ -126,7 +126,7 @@ plugin://plugin.video.vavooto/?name=TLC
 #EXTINF:-1 tvg-id="Welt der Wunder" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png",Welt der Wunder
 plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
 
-#EXTINF:-1 tvg-id="SKY Nature" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Nature%20HD.png",SKY Nature
+#EXTINF:-1 tvg-id="Sky Nature" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Nature%20HD.png",Sky Nature
 plugin://plugin.video.vavooto/?name=SKY+NATURE
 
 #EXTINF:-1 tvg-id="DISCOVERY" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Discovery%20Channel.png",DISCOVERY
