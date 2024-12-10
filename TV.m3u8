@@ -90,7 +90,7 @@ plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="SKY DOCUMENTARIES" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Documentaries%20HD.png",Sky Documentaries
 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
 
-#EXTINF:-1 tvg-id="Crime + Investigation" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/crime%2Binvestigation.png",Crime + Investigation
+#EXTINF:-1 tvg-id="Crime+Investigation" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/crime%2Binvestigation.png",Crime+Investigation
 plugin://plugin.video.vavooto/?name=CRIME+%2B+INVESTIGATION
 
 #EXTINF:-1 tvg-id="ZDFinfo" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
