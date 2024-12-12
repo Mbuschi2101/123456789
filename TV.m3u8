@@ -291,10 +291,10 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+9
 #EXTINF:-1 tvg-id="Sportdigital" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=SPORTDIGITALL+FUSSBALL
 
-#EXTINF:-1 tvg-id="Sport1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport 1
+#EXTINF:-1 tvg-id="Sport_1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport 1
 plugin://plugin.video.vavooto/?name=SPORT1
 
-#EXTINF:-1 tvg-id="SPORT1+ HD" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1%2B%20HD.png",Sport 1+
+#EXTINF:-1 tvg-id="SPORT_1+" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1%2B%20HD.png",Sport 1+
 plugin://plugin.video.vavooto/?name=SPORT1%2B
 
 #EXTINF:-1 tvg-id="Eurosport_1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%201.png",Eurosport 1
