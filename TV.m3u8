@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png"group-title="Deutschland":http-user-agent="",Das Erste
+#EXTINF:-1 tvg-id="Das_Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png"group-title="Deutschland":http-user-agent="",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png"group-title="Deutschland":http-user-agent="",ZDF
@@ -21,7 +21,7 @@ https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 #EXTINF:-1 tvg-id="Bild TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png"group-title="Deutschland":http-user-agent="",Bild TV
 https://stream.best-of-bild.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/best-of-bild-prod/b00b7238-2505-4c1e-b866-d5bf63861654/2.m3u8
 
-#EXTINF:-1 tvg-id="MDR Sachsen"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png"group-title="Deutschland":http-user-agent="",MDR Sachsen
+#EXTINF:-1 tvg-id="MDR_Sachsen"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png"group-title="Deutschland":http-user-agent="",MDR Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 
 #EXTINF:-1 tvg-id="Tagesschau_24" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",Tagesschau 24
@@ -30,10 +30,10 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:-1 tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png"group-title="Deutschland":http-user-agent="",Welt
 https://welt.personalstream.tv/v1/master.m3u8?ads.country=de&ads.pf=welttv&ads.tcf=CQIpWwAQIpWwAFZABCENBOFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBiACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIgAAREAAAmRgIAcLkGEBAwAAAIEAQAAABAAAAAgMAAAgAAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRAALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4ICRQQAgAA4ADYAJAAjgCcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CAAIAJBQAEA6owACAdUdAqAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgDDAGUANEAe0A_AD9AIsAR0AkoBYgC5gF6AMUAbgA4gB1AEXgJEATsAocBeYC-gGTgMsAaqBIocAZgAcAB4AFwASAA5ACOAFAAPgAjgBmwEHAQgAiIBHACUgE0AJ2AdIA6oB_QErAK7AX-AwQBkIDJgG0EIBoACwAqgBcADEAG8ARwBKQC5gGKAOoAycBqoEiiAAYAB4BHACxAHVAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAOCAhyBIooAVAAUABcAEgAMgAcgBHAC2AHwARwAnACDgEcAJSAWIAuoBrwDqgK7AYIAyYBnhaAEAXoBQ5YACARw.YAAAAAAAAAAA&ads.generic=%2526eids%253Dmediaimpact.de%252C17325282693601957116687530379373%257Cexternal.mediaimpact.de%252C577993233871720744665382025831006352366%26as_ppid%3D401561220977560455295691427433640142454&ads.referer=https%3A%2F%2Fwww.welt.de%2Ftv-programm-live-stream%2F&ads.cpid=ssaiunmuted
 
-#EXTINF:-1 tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png"group-title="Deutschland":http-user-agent="",N24 Doku
+#EXTINF:-1 tvg-id="N24_Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png"group-title="Deutschland":http-user-agent="",N24 Doku
 https://n24-doku.personalstream.tv/v1/weltde/master.m3u8?ads.pf=n24doku&ads.tcf=CQIpWwAQIpWwAFZABCENBOFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBiACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIgAAREAAAmRgIAcLkGEBAwAAAIEAQAAABAAAAAgMAAAgAAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRAALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4ICRQQAgAA4ADYAJAAjgCcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CAAIAJBQAEA6owACAdUdAqAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgDDAGUANEAe0A_AD9AIsAR0AkoBYgC5gF6AMUAbgA4gB1AEXgJEATsAocBeYC-gGTgMsAaqBIocAZgAcAB4AFwASAA5ACOAFAAPgAjgBmwEHAQgAiIBHACUgE0AJ2AdIA6oB_QErAK7AX-AwQBkIDJgG0EIBoACwAqgBcADEAG8ARwBKQC5gGKAOoAycBqoEiiAAYAB4BHACxAHVAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAOCAhyBIooAVAAUABcAEgAMgAcgBHAC2AHwARwAnACDgEcAJSAWIAuoBrwDqgK7AYIAyYBnhaAEAXoBQ5YACARw.YAAAAAAAAAAA&ads.generic=%2526eids%253Dmediaimpact.de%252C17325282693601957116687530379373%257Cexternal.mediaimpact.de%252C577993233871720744665382025831006352366%26as_ppid%3D401561220977560455295691427433640142454&ads.referer=https%3A%2F%2Fwww.welt.de%2Ftv-programm-n24-doku%2F&ads.cpid=ssaiunmuted
 
-#EXTINF:-1 tvg-id="Welt der Wunder"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png"group-title="Deutschland":http-user-agent="",Welt der Wunder
+#EXTINF:-1 tvg-id="Welt_der_Wunder"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png"group-title="Deutschland":http-user-agent="",Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ORF_1" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
