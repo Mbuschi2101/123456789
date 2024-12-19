@@ -7,7 +7,7 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
 #EXTINF:-1 tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png"group-title="Deutschland":http-user-agent="",ONE
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png"group-title="Deutschland":http-user-agent="",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
