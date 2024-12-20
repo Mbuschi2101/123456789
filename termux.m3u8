@@ -1,0 +1,220 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="13TH STREET (6)"tvg-id="13thStreet.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/668cd4d06f6981b82841f40fad42bc350babb056.png"group-title="Sky":http-user-agent="VAVOO/2.6",13th Street
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3252
+#EXTINF:-1 tvg-name="ANIMAL PLANET (6)"tvg-id="AnimalPlanet.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/cd0ca6f68c634ba2fd4ce665043f3cefdd1c1c9d.png"group-title="Germany":http-user-agent="VAVOO/2.6",Animal Planet
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3256
+#EXTINF:-1 tvg-name="ATV 2 (7)"tvg-id="ATV2.at"tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",ATV 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/839
+#EXTINF:-1 tvg-name="AUTO MOTO SPORT HD (1)"tvg-id="AutoMotorSport.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/8ffbb0a95849b6c7af04aeaea5c2e1680c6cb0ad.png"group-title="Sport":http-user-agent="VAVOO/2.6",Auto Motor und Sport
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6581
+#EXTINF:-1 tvg-name="AXN BLACK (6)"tvg-id=""tvg-logo=""group-title="Sky":http-user-agent="VAVOO/2.6",AXN BLACK
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3264
+#EXTINF:-1 tvg-name="AXN WHITE (6)"tvg-id=""tvg-logo=""group-title="Sky":http-user-agent="VAVOO/2.6",AXN WHITE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3265
+#EXTINF:-1 tvg-name="CRIME + INVESTIGATION HD+ (1)"tvg-id="CrimeInvestigation.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/98c3430141aaf756c564aedafebb36d0258f34c1.png"group-title="Sky":http-user-agent="VAVOO/2.6",Crime + Investigation
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6626
+#EXTINF:-1 tvg-name="DAZN 1 (6)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DAZN 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3284
+#EXTINF:-1 tvg-name="DAZN 2 (6)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DAZN 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/8785
+#EXTINF:-1 tvg-name="DAZN FAST+ (6)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DAZN FAST
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3285
+#EXTINF:-1 tvg-name="DB LIGA 1 FHD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6649
+#EXTINF:-1 tvg-name="DB LIGA 2 FHD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6653
+#EXTINF:-1 tvg-name="DB LIGA 2 HD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6654
+#EXTINF:-1 tvg-name="DB LIGA 3 FHD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6655
+#EXTINF:-1 tvg-name="DB LIGA 3 HD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6656
+#EXTINF:-1 tvg-name="DB LIGA 4 FHD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6657
+#EXTINF:-1 tvg-name="DB LIGA 4 HD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6658
+#EXTINF:-1 tvg-name="DB LIGA 5 FHD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 5
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6659
+#EXTINF:-1 tvg-name="DB LIGA 5 HD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 5
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/8805
+#EXTINF:-1 tvg-name="DB LIGA 6 FHD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6660
+#EXTINF:-1 tvg-name="DB LIGA 6 HD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6661
+#EXTINF:-1 tvg-name="DB LIGA 7 FHD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 7
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6662
+#EXTINF:-1 tvg-name="DB LIGA 7 HD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 7
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6663
+#EXTINF:-1 tvg-name="DB LIGA 9 FHD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 9
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6665
+#EXTINF:-1 tvg-name="DB LIGA 9 HD (1)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",DB LIGA 9
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6666
+#EXTINF:-1 tvg-name="DISCOVERY CHANNEL (7)"tvg-id="DiscoveryChannel.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/6e522d9ae4b2a9a8f686281f7d3adff2d8862ee3.png"group-title="Germany":http-user-agent="VAVOO/2.6",Discovery Channel
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/861
+#EXTINF:-1 tvg-name="DMAX (1)"tvg-id="DMax.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/f47210c8539cdcb85e4c468f83a281f6daa66b58.png"group-title="Germany":http-user-agent="VAVOO/2.6",DMAX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6680
+#EXTINF:-1 tvg-name="GEO TELEVISION HD (1)"tvg-id="GEO.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/267643eb7bc861bb7e308a303f66e5301e848db7.png"group-title="Germany":http-user-agent="VAVOO/2.6",GEO Television
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6707
+#EXTINF:-1 tvg-name="HISTORY CHANNEL (7)"tvg-id="History.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/c991f75a9b93fb49233fe78cbcc37007d99e01ad.png"group-title="Germany":http-user-agent="VAVOO/2.6",History Channel
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/885
+#EXTINF:-1 tvg-name="KABEL 1 (7)"tvg-id="KabelEins.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/e92cc62717350cd0378f1191c21a3512362c65a1.png"group-title="Germany":http-user-agent="VAVOO/2.6",Kabel 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/892
+#EXTINF:-1 tvg-name="KABEL 1 DOKU (7)"tvg-id="KabelEinsDoku.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/ca3279d86270655d49eb50a361e1dcb4564bf39e.png"group-title="Germany":http-user-agent="VAVOO/2.6",Kabel Eins Doku
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/894
+#EXTINF:-1 tvg-name="KINOWELT TV (1)"tvg-id="Kinowelt.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/8f80fdd4f8fe6853800aeec106062fc2ee1d5ab4.png"group-title="Cine":http-user-agent="VAVOO/2.6",Kinowelt
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6727
+#EXTINF:-1 tvg-name="MAGENTA SPORT 1 (6)"tvg-id=""tvg-logo=""group-title="Sport":http-user-agent="VAVOO/2.6",MAGENTA SPORT 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3345
+#EXTINF:-1 tvg-name="MAGENTA SPORT 2 (6)"tvg-id=""tvg-logo=""group-title="Sport":http-user-agent="VAVOO/2.6",MAGENTA SPORT 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3354
+#EXTINF:-1 tvg-name="MAGENTA SPORT 3 (6)"tvg-id=""tvg-logo=""group-title="Sport":http-user-agent="VAVOO/2.6",MAGENTA SPORT 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3356
+#EXTINF:-1 tvg-name="MAGENTA SPORT 3 (7)"tvg-id=""tvg-logo=""group-title="Sport":http-user-agent="VAVOO/2.6",MAGENTA SPORT 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/903
+#EXTINF:-1 tvg-name="MAGENTA SPORT 4 (6)"tvg-id=""tvg-logo=""group-title="Sport":http-user-agent="VAVOO/2.6",MAGENTA SPORT 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3357
+#EXTINF:-1 tvg-name="MAGENTA SPORT 5 (7)"tvg-id=""tvg-logo=""group-title="Sport":http-user-agent="VAVOO/2.6",MAGENTA SPORT 5
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/905
+#EXTINF:-1 tvg-name="MAGENTA SPORT 6 (7)"tvg-id=""tvg-logo=""group-title="Sport":http-user-agent="VAVOO/2.6",MAGENTA SPORT 6
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/906
+#EXTINF:-1 tvg-name="MAGENTA SPORT 7 (7)"tvg-id=""tvg-logo=""group-title="Sport":http-user-agent="VAVOO/2.6",MAGENTA SPORT 7
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/907
+#EXTINF:-1 tvg-name="MAGENTA SPORT 8 (7)"tvg-id=""tvg-logo=""group-title="Sport":http-user-agent="VAVOO/2.6",MAGENTA SPORT 8
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/908
+#EXTINF:-1 tvg-name="MAGENTA SPORT 9 (6)"tvg-id=""tvg-logo=""group-title="Sport":http-user-agent="VAVOO/2.6",MAGENTA SPORT 9
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3362
+#EXTINF:-1 tvg-name="NAT GEO (6)"tvg-id="NatGeoHD.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/c9d4a2fb172069fc67d4170738cdbbc225f079f6.png"group-title="Germany":http-user-agent="VAVOO/2.6",National Geographic
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3370
+#EXTINF:-1 tvg-name="NAT GEO WILD (6)"tvg-id="NatGeoWild.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/deec95134d0baec0f4030cb9c96a1f7348419c30.png"group-title="Germany":http-user-agent="VAVOO/2.6",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3371
+#EXTINF:-1 tvg-name="NITRO (6)"tvg-id="RTLNitro.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/3e55a412683a498ae7e19077ea81b564bb1b271b.png"group-title="Germany":http-user-agent="VAVOO/2.6",RTL Nitro
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3378
+#EXTINF:-1 tvg-name="NTV (1)"tvg-id="ntv.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/1c3073dd69376d57149afdb1791c2576724000f2.png"group-title="Germany":http-user-agent="VAVOO/2.6",n-tv
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6775
+#EXTINF:-1 tvg-name="ORF 1 (6)"tvg-id="ORF1.at"tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",ORF 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3391
+#EXTINF:-1 tvg-name="ORF 2 (6)"tvg-id="ORF2.at"tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",ORF 2
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3392
+#EXTINF:-1 tvg-name="ORF 3 (6)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",ORF 3
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3393
+#EXTINF:-1 tvg-name="ORF SPORT+ (7)"tvg-id="ORFSport.at"tvg-logo=""group-title="Sport":http-user-agent="VAVOO/2.6",ORF SPORT
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/936
+#EXTINF:-1 tvg-name="PRO 7 (7)"tvg-id="ProSieben.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/a7f56de9d6b8af8708bda4a48349ab6a3f713ecd.png"group-title="Germany":http-user-agent="VAVOO/2.6",ProSieben
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/940
+#EXTINF:-1 tvg-name="PRO 7 FUN (7)"tvg-id="ProSiebenFun.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/1f0e9026087e023f7464640bcbe4eaed6cce4055.png"group-title="Germany":http-user-agent="VAVOO/2.6",Pro7 Fun
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/941
+#EXTINF:-1 tvg-name="PRO 7 MAXX (7)"tvg-id="ProSiebenMaxx.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/8bbd8b6505244eadf79acc39552459c44c052ffa.png"group-title="Germany":http-user-agent="VAVOO/2.6",ProSieben Maxx
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/942
+#EXTINF:-1 tvg-name="PULS 4 (7)"tvg-id=""tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",PULS 4
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/943
+#EXTINF:-1 tvg-name="RTL (6)"tvg-id="RTL.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/3f21af88cf184a45ff4c54be37053ddd678e2456.png"group-title="Germany":http-user-agent="VAVOO/2.6",RTL
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3426
+#EXTINF:-1 tvg-name="RTL ZWEI (6)"tvg-id="RTL2.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/c2f437c77a06daffbcaa14f5caed1b301abda6b7.png"group-title="Germany":http-user-agent="VAVOO/2.6",RTL II
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3431
+#EXTINF:-1 tvg-name="SAT 1 (6)"tvg-id="Sat1.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/efd5a2c8992cd87d3fcc83b5b2399d12971bf89f.png"group-title="Germany":http-user-agent="VAVOO/2.6",Sat 1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3443
+#EXTINF:-1 tvg-name="SILVERLINE (1)"tvg-id="Silverline.de"tvg-logo=""group-title="Germany":http-user-agent="VAVOO/2.6",SILVERLINE
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6852
+#EXTINF:-1 tvg-name="SIXX (1)"tvg-id="Sixx.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/2dc9daa2cdf850169e75d472bd42362f60a0cd7f.png"group-title="Germany":http-user-agent="VAVOO/2.6",SIXX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6853
+#EXTINF:-1 tvg-name="SKY ACTION (1)"tvg-id="SkyAction.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/62de0add95c271dede017fb50d22f6de51ffa34d.png"group-title="Sky":http-user-agent="VAVOO/2.6",Sky Action
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6860
+#EXTINF:-1 tvg-name="SKY ATLANTIC (6)"tvg-id="SkyAtlanticHD.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/e9fd1abc76e3b402cf5ae4f65bf6798741cd214e.png"group-title="Sky":http-user-agent="VAVOO/2.6",Sky Atlantic
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3452
+#EXTINF:-1 tvg-name="SKY BEST OF (1)"tvg-id="SkyCinemaSpecial.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/2c4c6b314f2e5280c36b01434468d73c7d8c6ab7.png"group-title="Sky":http-user-agent="VAVOO/2.6",Sky Cinema Best Of 2019 HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/6867
+#EXTINF:-1 tvg-name="SKY CINEMA 1+ (7)"tvg-id="SkyCinemaPlus1.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/0b253961f1ed86531231b7ebef4856fe2393998c.png"group-title="Cine":http-user-agent="VAVOO/2.6",Sky Cinema +1
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/995
+#EXTINF:-1 tvg-name="SPIEGEL GESCHICHTE (6)"tvg-id="SpiegelGeschichte.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/cb6141ae4226647544a9af4b6d69e41d557fe894.png"group-title="Germany":http-user-agent="VAVOO/2.6",Spiegel Geschichte HD
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3527
+#EXTINF:-1 tvg-name="SPIEGEL TV WISSEN (6)"tvg-id="CuriosityChannel.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/7502f4f2236a2916323f079e168237ffd7150a25.png"group-title="Germany":http-user-agent="VAVOO/2.6",Spiegel TV Wissen
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3528
+#EXTINF:-1 tvg-name="SYFY (6)"tvg-id="SciFi.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/ea9846917902c635cd3c5b239bd2f0c5d23c0c98.png"group-title="Germany":http-user-agent="VAVOO/2.6",Syfy
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3546
+#EXTINF:-1 tvg-name="TELE 5 (6)"tvg-id="Tele5.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/05452ad179e25678e50434da167e2f3ede2a9f60.png"group-title="Germany":http-user-agent="VAVOO/2.6",Tele 5
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3549
+#EXTINF:-1 tvg-name="TLC (1)"tvg-id="TLC.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/bd43973022bc8b5e4e44ecaf07cbeaaca3943fd6.png"group-title="Germany":http-user-agent="VAVOO/2.6",TLC
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/7012
+#EXTINF:-1 tvg-name="TNT COMEDY HD (1)"tvg-id="WarnerTVComedy.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/793f9b574904a15207169109b57f7b52979e9d14.png"group-title="Sky":http-user-agent="VAVOO/2.6",Warner Comedy
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/7015
+#EXTINF:-1 tvg-name="TNT FILM HD (1)"tvg-id="WarnerTVFilm.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/a4a10078c8d5e31bb59574f9fb4df3ae7d6f975b.png"group-title="Sky":http-user-agent="VAVOO/2.6",Warner Film
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/7017
+#EXTINF:-1 tvg-name="UNIVERSAL TV (6)"tvg-id="Universal.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/1994bd733a17fbcd32d1d78dc43b28c362776f5b.png"group-title="Germany":http-user-agent="VAVOO/2.6",Universal Channel
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3557
+#EXTINF:-1 tvg-name="VOX (6)"tvg-id="Vox.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/0e5b4d41d518a068a0bef830d64f848b84ac39d1.png"group-title="Germany":http-user-agent="VAVOO/2.6",VOX
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3559
+#EXTINF:-1 tvg-name="WARNER TV SERIE (6)"tvg-id="WarnerTVSerie.de"tvg-logo="http://ngiss.t-online.de/cm1s/media/ac63870aec09e2977583b416e2547620552e6c4d.png"group-title="Sky":http-user-agent="VAVOO/2.6",Warner Serie
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+http://192.168.178.41:8080/channel/3564
