@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="SRF_1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png"group-title="Deutschland":http-user-agent="",SRF 1
+#EXTINF:-1 tvg-id="SRF_1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png"group-title="Schweiz":http-user-agent="",SRF 1
 plugin://plugin.video.zattoo_com/?mode=watch&id=sf-1&level=hd&drm=False
-#EXTINF:-1 tvg-id="SRF_2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF2.png"group-title="Deutschland":http-user-agent="",SRF 2
+#EXTINF:-1 tvg-id="SRF_2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF2.png"group-title="Schweiz":http-user-agent="",SRF 2
 plugin://plugin.video.zattoo_com/?mode=watch&id=sf-2&level=hd&drm=False
-#EXTINF:-1 tvg-id="SRFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFinfo.png"group-title="Deutschland":http-user-agent="",SRFinfo
+#EXTINF:-1 tvg-id="SRFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFinfo.png"group-title="Schweiz":http-user-agent="",SRFinfo
 plugin://plugin.video.zattoo_com/?mode=watch&id=sf-info&level=hd&drm=False
-#EXTINF:-1 tvg-id="3+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3%2B.png"group-title="Deutschland":http-user-agent="",3+
+#EXTINF:-1 tvg-id="3+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3%2B.png"group-title="Schweiz":http-user-agent="",3+
 plugin://plugin.video.zattoo_com/?mode=watch&id=3plus&level=sd&drm=False
-#EXTINF:-1 tvg-id="4+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/4%2B.png"group-title="Deutschland":http-user-agent="",4+
+#EXTINF:-1 tvg-id="4+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/4%2B.png"group-title="Schweiz":http-user-agent="",4+
 plugin://plugin.video.zattoo_com/?mode=watch&id=4plus&level=sd&drm=False
-#EXTINF:-1 tvg-id="5+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/5%2B.jpeg"group-title="Deutschland":http-user-agent="",5+
+#EXTINF:-1 tvg-id="5+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/5%2B.jpeg"group-title="Schweiz":http-user-agent="",5+
 plugin://plugin.video.zattoo_com/?mode=watch&id=5plus_ch&level=sd&drm=False
-#EXTINF:-1 tvg-id="6+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/6%2B.jpeg"group-title="Deutschland":http-user-agent="",6+
+#EXTINF:-1 tvg-id="6+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/6%2B.jpeg"group-title="Schweiz":http-user-agent="",6+
 plugin://plugin.video.zattoo_com/?mode=watch&id=6plus_ch&level=sd&drm=False
-#EXTINF:-1 tvg-id="Puls_8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls8.png"group-title="Deutschland":http-user-agent="",PULS 8
+#EXTINF:-1 tvg-id="Puls_8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls8.png"group-title="Schweiz":http-user-agent="",PULS 8
 plugin://plugin.video.zattoo_com/?mode=watch&id=puls8&level=hd&drm=False
-#EXTINF:-1 tvg-id="ORF_1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png"group-title="Deutschland":http-user-agent="",ORF 1
+#EXTINF:-1 tvg-id="ORF_1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png"group-title="Schweiz":http-user-agent="",ORF 1
 plugin://plugin.video.zattoo_com/?mode=watch&id=orf-1&level=sd&drm=False
-#EXTINF:-1 tvg-id="ORF_2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png"group-title="Deutschland":http-user-agent="",ORF 2
+#EXTINF:-1 tvg-id="ORF_2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png"group-title="Schweiz":http-user-agent="",ORF 2
 plugin://plugin.video.zattoo_com/?mode=watch&id=orf-2&level=sd&drm=False
-#EXTINF:-1 tvg-id="ORF_3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png"group-title="Deutschland":http-user-agent="",ORF 3
+#EXTINF:-1 tvg-id="ORF_3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png"group-title="Schweiz":http-user-agent="",ORF 3
 plugin://plugin.video.zattoo_com/?mode=watch&id=orf3&level=hd&drm=False
-#EXTINF:-1 tvg-id="TV24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV24.png"group-title="Deutschland":http-user-agent="",TV24
+#EXTINF:-1 tvg-id="TV24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV24.png"group-title="Schweiz":http-user-agent="",TV24
 plugin://plugin.video.zattoo_com/?mode=watch&id=tv24&level=sd&drm=False
-#EXTINF:-1 tvg-id="TV25"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV25.png"group-title="Deutschland":http-user-agent="",TV25
+#EXTINF:-1 tvg-id="TV25"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV25.png"group-title="Schweiz":http-user-agent="",TV25
 plugin://plugin.video.zattoo_com/?mode=watch&id=tv25&level=hd&drm=False
