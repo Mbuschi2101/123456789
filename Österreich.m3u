@@ -1,104 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="ORF 1" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf1-at&stream_type=LIVE&fav_type=&title=%5BB%5DORF1+HD%5B%2FB%5D+-+UEFA+EURO+2025+Frauen+Qualifikation&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22orf1-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="ORF 2" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png",ORF 2
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf2-at&stream_type=LIVE&fav_type=&title=%5BB%5DORF2+HD%5B%2FB%5D+-+Studio+2&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22orf2-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="ORF 3" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png",ORF 3
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf3-at&stream_type=LIVE&fav_type=&title=%5BB%5DORF+III+HD%5B%2FB%5D+-+Von+der+L%C3%B6winger-B%C3%BChne&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22orf3-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="ORF Sport+" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORFSport.png",ORF Sport+
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=orf-sport-plus-at&stream_type=LIVE&fav_type=&title=%5BB%5DORF+SPORT+%2B+HD%5B%2FB%5D+-+Volleyball+AVL+Herren&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22orf-sport-plus-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="DAZN FAST" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN_FAST.png",DAZN FAST
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dazn-fast-hd&stream_type=LIVE&fav_type=&title=%5BB%5DDAZN+FAST%5B%2FB%5D+-+Serie+A&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22dazn-fast-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="DAZN RISE" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZNRise.png",DAZN RISE
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dazn-rise-hd&stream_type=LIVE&fav_type=&title=%5BB%5DDAZN+RISE%5B%2FB%5D+-+UEFA+Women%27s+Champions+League&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22dazn-rise-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="RED BULL TV" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Red%20Bull%20TV.png",RED BULL TV
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=redbulltv-dach-hd&stream_type=LIVE&fav_type=&title=%5BB%5DRed+Bull+TV+HD%5B%2FB%5D+-+Red+Bull+Genova+Cerro+Abajo+2024&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22redbulltv-dach-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="ATV" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=atv&stream_type=LIVE&fav_type=&title=%5BB%5DATV+HD%5B%2FB%5D+-+The+Mentalist&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22atv%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="ATV 2" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV 2
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=atv2&stream_type=LIVE&fav_type=&title=%5BB%5DATV+2%5B%2FB%5D+-+Charmed+-+Zauberhafte+Hexen&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22atv2%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="Puls 4" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=puls4-at&stream_type=LIVE&fav_type=&title=%5BB%5DPULS+4%5B%2FB%5D+-+Two+and+a+Half+Men&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22puls4-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="Puls 24" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls 24
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=puls24-at-hd&stream_type=LIVE&fav_type=&title=%5BB%5DPULS+24+HD%5B%2FB%5D+-+PULS+24+Live&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22puls24-at-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="Servus TV" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ServusTV.png",Servus TV
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=servustv-at&stream_type=LIVE&fav_type=&title=%5BB%5DServusTV+HD%5B%2FB%5D+-+Quizmaster&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22servustv-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="ProSieben" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosieben-at&stream_type=LIVE&fav_type=&title=%5BB%5DProSieben%5B%2FB%5D+-+Galileo&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22prosieben-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="Sat.1" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",Sat.1
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-at&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1%5B%2FB%5D+-+Die+Spreewaldklinik&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="Kabel 1" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",Kabel 1
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleins-at&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins%5B%2FB%5D+-+Achtung+Kontrolle%21+Wir+k%C3%BCmmern+uns+drum&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleins-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="SIXX" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sixx-at&stream_type=LIVE&fav_type=&title=%5BB%5Dsixx%5B%2FB%5D+-+Charmed+-+Zauberhafte+Hexen&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sixx-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenmaxx-at&stream_type=LIVE&fav_type=&title=%5BB%5DProSieben+MAXX%5B%2FB%5D+-+Family+Guy&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22prosiebenmaxx-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="Sat.1 Gold" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sat.1%20Gold.png",Sat.1 Gold
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-at&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1+Gold%5B%2FB%5D+-+K11+-+Kommissare+im+Einsatz&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1gold-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-at&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins+Doku%5B%2FB%5D+-+Pawn+Stars+-+Die+drei+vom+Pfandhaus&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleinsdoku-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="DMAX" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dmax-at&stream_type=LIVE&fav_type=&title=%5BB%5DDMAX%5B%2FB%5D+-+Helden+der+Baustelle&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22dmax-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="WELT" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",WELT
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=welt-de&stream_type=LIVE&fav_type=&title=%5BB%5DWELT%5B%2FB%5D+-+WELT+Newsroom&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22welt-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="N24 Doku" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=n24-de&stream_type=LIVE&fav_type=&title=%5BB%5DN24+Doku%5B%2FB%5D+-+Strangest+Things&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22n24-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="Motorvision+" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision.png",Motorvision+
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=motorvision-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DMotorvision+%5B%2FB%5D+-+Motorvision.TV+-+spotted&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22motorvision-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="TLC" group-title="Österreich" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tlc-at&stream_type=LIVE&fav_type=&title=%5BB%5DTLC%5B%2FB%5D+-+Judge+Judy&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tlc-at%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="SRF_1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png"group-title="Deutschland":http-user-agent="",SRF 1
+plugin://plugin.video.zattoo_com/?mode=watch&id=sf-1&level=hd&drm=False
+#EXTINF:-1 tvg-id="SRF_2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF2.png"group-title="Deutschland":http-user-agent="",SRF 2
+plugin://plugin.video.zattoo_com/?mode=watch&id=sf-2&level=hd&drm=False
+#EXTINF:-1 tvg-id="SRFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFinfo.png"group-title="Deutschland":http-user-agent="",SRFinfo
+plugin://plugin.video.zattoo_com/?mode=watch&id=sf-info&level=hd&drm=False
+#EXTINF:-1 tvg-id="3+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3%2B.png"group-title="Deutschland":http-user-agent="",3+
+plugin://plugin.video.zattoo_com/?mode=watch&id=3plus&level=sd&drm=False
+#EXTINF:-1 tvg-id="4+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/4%2B.png"group-title="Deutschland":http-user-agent="",4+
+plugin://plugin.video.zattoo_com/?mode=watch&id=4plus&level=sd&drm=False
+#EXTINF:-1 tvg-id="5+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/5%2B.jpeg"group-title="Deutschland":http-user-agent="",5+
+plugin://plugin.video.zattoo_com/?mode=watch&id=5plus_ch&level=sd&drm=False
+#EXTINF:-1 tvg-id="6+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/6%2B.jpeg"group-title="Deutschland":http-user-agent="",6+
+plugin://plugin.video.zattoo_com/?mode=watch&id=6plus_ch&level=sd&drm=False
+#EXTINF:-1 tvg-id="Puls_8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls8.png"group-title="Deutschland":http-user-agent="",PULS 8
+plugin://plugin.video.zattoo_com/?mode=watch&id=puls8&level=hd&drm=False
+#EXTINF:-1 tvg-id="ORF_1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png"group-title="Deutschland":http-user-agent="",ORF 1
+plugin://plugin.video.zattoo_com/?mode=watch&id=orf-1&level=sd&drm=False
+#EXTINF:-1 tvg-id="ORF_2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png"group-title="Deutschland":http-user-agent="",ORF 2
+plugin://plugin.video.zattoo_com/?mode=watch&id=orf-2&level=sd&drm=False
+#EXTINF:-1 tvg-id="ORF_3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png"group-title="Deutschland":http-user-agent="",ORF 3
+plugin://plugin.video.zattoo_com/?mode=watch&id=orf3&level=hd&drm=False
+#EXTINF:-1 tvg-id="TV24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV24.png"group-title="Deutschland":http-user-agent="",TV24
+plugin://plugin.video.zattoo_com/?mode=watch&id=tv24&level=sd&drm=False
+#EXTINF:-1 tvg-id="TV25"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV25.png"group-title="Deutschland":http-user-agent="",TV25
+plugin://plugin.video.zattoo_com/?mode=watch&id=tv25&level=hd&drm=False
