@@ -136,7 +136,7 @@ plugin://plugin.video.vavooto/?name=ZDF+INFO
 plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 
 #EXTINF:-1 tvg-id="Bild TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
-https://stream.best-of-bild.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/best-of-bild-prod/b00b7238-2505-4c1e-b866-d5bf63861654/2.m3u8
+https://stream.best-of-bild.personalstream.tv/v1/manifest/bed31ae6b23b93b0843b9825ea57f506cf4da916/best-of-bild-prod/ca918382-daaf-4ecc-b19c-e5848b8e7676/3.m3u8
 
 #EXTINF:-1 tvg-id="Kabel_eins_Doku" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
