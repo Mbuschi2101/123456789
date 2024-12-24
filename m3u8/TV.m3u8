@@ -165,10 +165,10 @@ plugin://plugin.video.vavooto/?name=KINOWELT
 #EXTINF:-1 tvg-id="76766" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
 
-#EXTINF:-1 tvg-id="76753" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png",AXN White
+#EXTINF:-1 tvg-id="10653" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png",AXN White
 plugin://plugin.video.vavooto/?name=SONY+CHANNEL
 
-#EXTINF:-1 tvg-id="10653" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20Black.png",AXN Black
+#EXTINF:-1 tvg-id="76753" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20Black.png",AXN Black
 plugin://plugin.video.vavooto/?name=AXN
 
 #EXTINF:-1 tvg-id="76631" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SILVERLINE.png",SILVERLINE
