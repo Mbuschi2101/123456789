@@ -253,7 +253,7 @@ plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+8
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+9
 
 #EXTINF:-1 tvg-id="AT: Sky Sport Austria 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyAustria.png",Sky Sport Austria
-plugin://plugin.video.vavooto/?action=live&group=Germany&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29
+#plugin://plugin.video.vavooto/?action=live&group=Germany&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29
 
 #EXTINF:-1 tvg-id="DE: Sky Sport Premier League" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyPremi.png",Sky Sport Premier League
 plugin://plugin.video.vavooto/?name=SKY+SPORT+PREMIER+LEAGUE
