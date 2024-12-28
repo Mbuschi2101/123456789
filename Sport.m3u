@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="76706" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
+plugin://plugin.video.vavooto/?name=ORF+1
+
+#EXTINF:-1 tvg-id="76616" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png",ORF 2
+plugin://plugin.video.vavooto/?name=ORF+2
+
+#EXTINF:-1 tvg-id="76734" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png",ORF 3
+plugin://plugin.video.vavooto/?name=ORF+3
+
 #EXTINF:-1 tvg-id="Sky_Sport_News" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySortNews.png",Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
 
