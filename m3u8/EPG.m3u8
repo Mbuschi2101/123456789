@@ -432,6 +432,9 @@ https://s6.hopslan.com/nitrox1/index.m3u8?token=59bbf8293374b2e11c8fa6131b040913
 #EXTINF:-1 tvg-id="ProSieben" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
 https://s6.hopslan.com/pro7x1/index.m3u8?token=fd21c0b6b8e16b01d085cd14c342a5472ba30935-a75eda79d531b29cd12d5d79ade40805-1735917641-1735906841
 
+#EXTINF:-1 tvg-id="ProSieben" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
+https://s6.hopslan.com/pro7x1/index.m3u8?anahtar=z-YH0ZxzphGFoSOpotULQg&sure=1735954381&ip=2a02:2454:859c:4a00:10b:1263:6364:9254
+
 #EXTINF:-1 tvg-id="KABEL 1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
 https://s6.hopslan.com/kabel1x1/index.m3u8?token=bd52bc131df3e1c1056247410153eb0ce3b8e550-936f30cd451ada15ed7437ad9c077d99-1735917646-1735906846
 
