@@ -410,3 +410,39 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 
 #EXTINF:-1 tvg-id="RTL" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
+
+#EXTINF:-1 tvg-id="RTL" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL2ix
+https://s6.hopslan.com/rtlc11/index.m3u8?token=7054932850d3523fbeff879d7f9c2b6dc15777ee-85463cef4d4b56512163f94194e53acf-1735917639-1735906839
+
+#EXTINF:-1 tvg-id="ORF 1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
+https://s6.hopslan.com/orfx12/index.m3u8?token=a38fa09128beaa1af00aa36c0e8f712d3427159a-be9e05d4855e87db66dca26491acb19d-1735917639-1735906839
+
+#EXTINF:-1 tvg-id="RTL II" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
+https://s6.hopslan.com/rtl2x1/index.m3u8?token=a7d2007ee965fd868f5f5b2984671a37a5212c00-bec6fffca078a618b099b827de6daf54-1735917641-1735906841
+
+#EXTINF:-1 tvg-id="VOX" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
+https://s6.hopslan.com/voxx1/index.m3u8?token=cdab36a456a87825e1b51d16ec77c3a49473efa7-633898ae5154d6c2026bd2636e559d8e-1735917639-1735906839
+
+#EXTINF:-1 tvg-id="N-TV" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
+https://s6.hopslan.com/ntvx1/index.m3u8?token=66b3f487ed299cf0900eb4030e83131ac4b5e3dd-198893619bea60526ebab46e2ee27b0e-1735917648-1735906848
+
+#EXTINF:-1 tvg-id="RTL Nitro" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
+https://s6.hopslan.com/nitrox1/index.m3u8?token=59bbf8293374b2e11c8fa6131b040913b5347aa2-9e13c84f0ebe67388dbafea4483d9611-1735917650-1735906850
+
+#EXTINF:-1 tvg-id="ProSieben" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
+https://s6.hopslan.com/pro7x1/index.m3u8?token=fd21c0b6b8e16b01d085cd14c342a5472ba30935-a75eda79d531b29cd12d5d79ade40805-1735917641-1735906841
+
+#EXTINF:-1 tvg-id="KABEL 1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
+https://s6.hopslan.com/kabel1x1/index.m3u8?token=bd52bc131df3e1c1056247410153eb0ce3b8e550-936f30cd451ada15ed7437ad9c077d99-1735917646-1735906846
+
+#EXTINF:-1 tvg-id="SAT.1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
+https://s6.hopslan.com/sat1x111/index.m3u8?token=422514517ec29e536a612a74942b0ea18a458cbc-e764f66fd9ffe67cf17ba51c9ed2b747-1735917640-1735906840
+
+#EXTINF:-1 tvg-id="DMAX" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
+https://s6.hopslan.com/dmax1/index.m3u8?token=2d334b0cc71124974a7d416a4d64a060b0ec5d97-fe0c1b0e260b4d89b48ce0e13b0b156a-1735917640-1735906840
+
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
+https://s6.hopslan.com/dokux1/index.m3u8?token=c46cfa1354c0c566b191634d9ec8782f44c061e4-e2c49ffcbcf21ecbf352e072f6576374-1735917659-1735906859
+
+#EXTINF:-1 tvg-id="TLC" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
+https://s6.hopslan.com/tlc/index.m3u8?token=7fca2445ee8e90d9c0c6d58bc3f45d12d5c7814d-7669b8fbd1d92c5493204dd3314df934-1735917639-1735906839
