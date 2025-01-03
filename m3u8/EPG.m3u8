@@ -449,3 +449,16 @@ https://s6.hopslan.com/dokux1/index.m3u8?token=c46cfa1354c0c566b191634d9ec8782f4
 
 #EXTINF:-1 tvg-id="TLC" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
 https://s6.hopslan.com/tlc/index.m3u8?token=7fca2445ee8e90d9c0c6d58bc3f45d12d5c7814d-7669b8fbd1d92c5493204dd3314df934-1735917639-1735906839
+
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
+https://izle.canlitvapp.com/anim/index.m3u8?token=60e4b0d233b82193da51a5477673dba4bbb83d8a-7347422d371ee1043ddab1a835d5619e-1735942704-1735931904&remote=2a02:2454:859c:4a00:10b:1263:6364:9254?anahtar=EhHYKs_dV42PsvZsfZ9j3Q&sure=1735953804&ip=2a02:2454:859c:4a00:10b:1263:6364:9254
+
+#EXTINF:-1 tvg-id="ProSieben Fun" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20Fun%20HD.png",ProSieben Fun
+https://izle.canlitvapp.com/prof/index.m3u8?token=bafc97764f02e6d8a67642d2317c95f162d31782-b6337a479096317d16a6dddf783e28ff-1735944245-1735933445&remote=2a02:2454:859c:4a00:10b:1263:6364:9254?anahtar=3ZyQy3kVfiysx0t5gktxxQ&sure=1735955345&ip=2a02:2454:859c:4a00:10b:1263:6364:9254
+
+#EXTINF:-1 tvg-id="SyFy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
+https://izle.canlitvapp.com/syfy/index.m3u8?token=91ae2745ea478599d95b059f6718052151906efb-d6c79a7cd9a217044767a2f66d794ee8-1735944521-1735933721&remote=2a02:2454:859c:4a00:10b:1263:6364:9254?anahtar=RY9db-z4rCd6W3F0P2sCgA&sure=1735955621&ip=2a02:2454:859c:4a00:10b:1263:6364:9254
+
+#EXTINF:-1 tvg-id="HISTORY" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HISTORY.png",HISTORY
+https://izle.canlitvapp.com/hist/index.m3u8?token=ddf4352340a4dc385149cfe1599533a56616982f-ecceb7e5df8a5d46f7a5f6b0928ed6c7-1735944683-1735933883&remote=2a02:2454:859c:4a00:10b:1263:6364:9254?anahtar=gPYQCKLTKDsVVPE4LDDnZg&sure=1735955783&ip=2a02:2454:859c:4a00:10b:1263:6364:9254
+
