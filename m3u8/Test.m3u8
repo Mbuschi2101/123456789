@@ -1,7 +1,10 @@
 ﻿﻿#EXTM3U
 
-#EXTINF:-1 tvg-id="RTL" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
+#EXTINF:-1 tvg-id="RTL" group-Test="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
+
+#EXTINF:-1 tvg-id="RTL" group-Test="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL2ix
+https://s6.hopslan.com/rtlc11/index.m3u8?token=7054932850d3523fbeff879d7f9c2b6dc15777ee-85463cef4d4b56512163f94194e53acf-1735917639-1735906839
 
 #EXTINF:-1 tvg-name=""tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png"group-title="Test":http-user-agent="",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
