@@ -408,41 +408,45 @@ https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Tagesschau 24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png"group-title="Test":http-user-agent="",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-#EXTINF:-1 tvg-id="RTL" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
-https://strm.hdtvizlecanli.com/live/rtl.m3u8
 
-#EXTINF:-1 tvg-id="RTL" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL2ix
-https://s6.hopslan.com/rtlc11/index.m3u8?token=7054932850d3523fbeff879d7f9c2b6dc15777ee-85463cef4d4b56512163f94194e53acf-1735917639-1735906839
+#EXTINF:-1 tvg-id="ZDF" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
+https://izle.canlitvapp.com/zdf/index.m3u8?token=29e9bd17f814623efba7cd6d3812a12e3192482d-6853086629fdabb3a205964b0f0e28e8-1736173217-1736162417&remote=2a02:2454:859c:4a00:94:97b3:10c8:c890?anahtar=dVHc-6EVcm2XMHlNOnwQhw&sure=1736184317&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
 
 #EXTINF:-1 tvg-id="RTL" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
-https://izle.canlitvapp.com/rtl/index.m3u8?token=c4f5122ca9f8ffdf8e7c31fd569891a52483b32f-5852cd4b0b157d01f877bdb78f39f06e-1736156716-1736145916&remote=2a02:2454:859c:4a00:ade2:57df:d58e:ad17?anahtar=cks5jol0-MJsm9eI3HGtzA&sure=1736167816&ip=2a02:2454:859c:4a00:ade2:57df:d58e:ad17
-
-#EXTINF:-1 tvg-id="ORF 1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
-https://s6.hopslan.com/orfx12/index.m3u8?token=a38fa09128beaa1af00aa36c0e8f712d3427159a-be9e05d4855e87db66dca26491acb19d-1735917639-1735906839
-
-#EXTINF:-1 tvg-id="RTL II" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
-https://s6.hopslan.com/rtl2x1/index.m3u8?token=a7d2007ee965fd868f5f5b2984671a37a5212c00-bec6fffca078a618b099b827de6daf54-1735917641-1735906841
-
-#EXTINF:-1 tvg-id="VOX" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
-https://s6.hopslan.com/voxx1/index.m3u8?token=cdab36a456a87825e1b51d16ec77c3a49473efa7-633898ae5154d6c2026bd2636e559d8e-1735917639-1735906839
-
-#EXTINF:-1 tvg-id="N-TV" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
-https://s6.hopslan.com/ntvx1/index.m3u8?token=66b3f487ed299cf0900eb4030e83131ac4b5e3dd-198893619bea60526ebab46e2ee27b0e-1735917648-1735906848
-
-#EXTINF:-1 tvg-id="RTL Nitro" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
-https://s6.hopslan.com/nitrox1/index.m3u8?token=59bbf8293374b2e11c8fa6131b040913b5347aa2-9e13c84f0ebe67388dbafea4483d9611-1735917650-1735906850
-
-#EXTINF:-1 tvg-id="ProSieben" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
-https://s6.hopslan.com/pro7x1/index.m3u8?token=fd21c0b6b8e16b01d085cd14c342a5472ba30935-a75eda79d531b29cd12d5d79ade40805-1735917641-1735906841
-
-#EXTINF:-1 tvg-id="ProSieben" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
-https://s6.hopslan.com/pro7x1/index.m3u8?anahtar=z-YH0ZxzphGFoSOpotULQg&sure=1735954381&ip=2a02:2454:859c:4a00:10b:1263:6364:9254
-
-#EXTINF:-1 tvg-id="KABEL 1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
-https://s6.hopslan.com/kabel1x1/index.m3u8?token=bd52bc131df3e1c1056247410153eb0ce3b8e550-936f30cd451ada15ed7437ad9c077d99-1735917646-1735906846
+https://izle.canlitvapp.com/rtl/index.m3u8?token=bdf8ea4332f276caa783256ad87888abb851c440-2b1e4f03df0ccff271ed31570b1d6ab4-1736173290-1736162490&remote=2a02:2454:859c:4a00:94:97b3:10c8:c890?anahtar=fO-_Cv0hghek3CwU-SK1FQ&sure=1736184390&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
 
 #EXTINF:-1 tvg-id="SAT.1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
 https://s6.hopslan.com/sat1x111/index.m3u8?token=422514517ec29e536a612a74942b0ea18a458cbc-e764f66fd9ffe67cf17ba51c9ed2b747-1735917640-1735906840
+
+#EXTINF:-1 tvg-id="RTL II" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
+https://s6.hopslan.com/rtl2x1/index.m3u8?anahtar=1ZOVRaYL9xTmqC_usoV4uQ&sure=1736184476&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
+
+#EXTINF:-1 tvg-id="ProSieben" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
+https://s6.hopslan.com/pro7x1/index.m3u8?anahtar=21j-qTbV5YBsBVuAH0-AOQ&sure=1736184525&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
+
+#EXTINF:-1 tvg-id="KABEL 1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
+https://s6.hopslan.com/kabel1x1/index.m3u8?anahtar=ecDOnHyOOMf64yT2Ucrw4Q&sure=1736184575&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
+
+#EXTINF:-1 tvg-id="VOX" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
+https://s6.hopslan.com/voxx1/index.m3u8?anahtar=jeIgy7O9dDSnRCkq0IYvrQ&sure=1736184618&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
+
+#EXTINF:-1 tvg-id="SIXX" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
+https://s6.hopslan.com/sixx1/tracks-v1a1/mono.m3u8?anahtar=_-WoGxlL4LPWrgXllks01A&ip=2a02%3A2454%3A859c%3A4a00%3A94%3A97b3%3A10c8%3Ac890&sure=1736184683
+
+#EXTINF:-1 tvg-id="RTL Nitro" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
+https://s6.hopslan.com/nitrox1/index.m3u8?anahtar=R6okrCGgrTHEvxxHixDwJQ&sure=1736184864&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
+
+#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
+https://s6.hopslan.com/pro7maxx1/tracks-v1a1/mono.m3u8?anahtar=GGBrFXpvLUs0ahDkvAqUsw&ip=2a02%3A2454%3A859c%3A4a00%3A94%3A97b3%3A10c8%3Ac890&sure=1736184957
+
+#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master-audio1-1328.m3u8
+
+#EXTINF:-1 tvg-id="Welt" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",Welt
+https://s6.hopslan.com/n24x1/index.m3u8?anahtar=owTaCW29WMo-QJH4JpPG0w&sure=1736185095&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
+
+#EXTINF:-1 tvg-id="N-TV" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
+https://s6.hopslan.com/ntvx1/index.m3u8?token=66b3f487ed299cf0900eb4030e83131ac4b5e3dd-198893619bea60526ebab46e2ee27b0e-1735917648-1735906848
 
 #EXTINF:-1 tvg-id="DMAX" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
 https://s6.hopslan.com/dmax1/index.m3u8?token=2d334b0cc71124974a7d416a4d64a060b0ec5d97-fe0c1b0e260b4d89b48ce0e13b0b156a-1735917640-1735906840
@@ -476,5 +480,17 @@ https://izle.canlitvapp.com/13th/index.m3u8?token=08134b0f67ab9469d9bb2408ce0160
 
 #EXTINF:-1 tvg-id="Sky Sport News" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySortNews.png",Sky Sport News
 https://izle.canlitvapp.com/skys/index.m3u8?token=1bf7929c197ea4c7dd42ed7f457378601e0e0d43-0c027c6e64d4d9d7ce559c3ec34d774c-1735992162-1735981362&remote=2a02:2454:859c:4a00:b5e7:a8f:f276:2af0?anahtar=j3TucD3dov7eRCpkd5m2JA&sure=1736003262&ip=2a02:2454:859c:4a00:b5e7:a8f:f276:2af0
+
+
+
+
+
+
+
+
+
+
+
+
 
 
