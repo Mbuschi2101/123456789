@@ -414,6 +414,9 @@ https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="RTL" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL2ix
 https://s6.hopslan.com/rtlc11/index.m3u8?token=7054932850d3523fbeff879d7f9c2b6dc15777ee-85463cef4d4b56512163f94194e53acf-1735917639-1735906839
 
+#EXTINF:-1 tvg-id="RTL" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
+https://izle.canlitvapp.com/rtl/index.m3u8?token=c4f5122ca9f8ffdf8e7c31fd569891a52483b32f-5852cd4b0b157d01f877bdb78f39f06e-1736156716-1736145916&remote=2a02:2454:859c:4a00:ade2:57df:d58e:ad17?anahtar=cks5jol0-MJsm9eI3HGtzA&sure=1736167816&ip=2a02:2454:859c:4a00:ade2:57df:d58e:ad17
+
 #EXTINF:-1 tvg-id="ORF 1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png",ORF 1
 https://s6.hopslan.com/orfx12/index.m3u8?token=a38fa09128beaa1af00aa36c0e8f712d3427159a-be9e05d4855e87db66dca26491acb19d-1735917639-1735906839
 
