@@ -321,10 +321,10 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=3plus&level=sd&drm=False
 #EXTINF:-1 tvg-id="4+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/4%2B.png"group-title="Schweiz":http-user-agent="",4+
 plugin://plugin.video.zattoo_com/?mode=watch&id=4plus&level=sd&drm=False
 
-#EXTINF:-1 tvg-id="5+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/5%2B.jpeg"group-title="Schweiz":http-user-agent="",5+
+#EXTINF:-1 tvg-id="5+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/5%2B.png"group-title="Schweiz":http-user-agent="",5+
 plugin://plugin.video.zattoo_com/?mode=watch&id=5plus_ch&level=sd&drm=False
 
-#EXTINF:-1 tvg-id="6+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/6%2B.jpeg"group-title="Schweiz":http-user-agent="",6+
+#EXTINF:-1 tvg-id="6+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/6%2B.png"group-title="Schweiz":http-user-agent="",6+
 plugin://plugin.video.zattoo_com/?mode=watch&id=6plus_ch&level=sd&drm=False
 
 #EXTINF:-1 tvg-id="Puls 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls8.png"group-title="Schweiz":http-user-agent="",PULS 8
