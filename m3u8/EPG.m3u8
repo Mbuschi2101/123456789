@@ -443,9 +443,9 @@ https://s6.hopslan.com/nitrox1/index.m3u8?anahtar=R6okrCGgrTHEvxxHixDwJQ&sure=17
 https://s6.hopslan.com/pro7maxx1/tracks-v1a1/mono.m3u8?anahtar=GGBrFXpvLUs0ahDkvAqUsw&ip=2a02%3A2454%3A859c%3A4a00%3A94%3A97b3%3A10c8%3Ac890&sure=1736184957
 
 #EXTINF:-1 tvg-id="MDR Sachsen" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master-audio1-1328.m3u8
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master-540p-1600.m3u8
 
-#EXTINF:-1 tvg-id="Welt" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",Welt
+#EXTINF:-1 tvg-id="Welt" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
 https://s6.hopslan.com/n24x1/index.m3u8?anahtar=owTaCW29WMo-QJH4JpPG0w&sure=1736185095&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
 
 #EXTINF:-1 tvg-id="N-TV" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
