@@ -484,7 +484,35 @@ https://izle.canlitvapp.com/13th/index.m3u8?token=08134b0f67ab9469d9bb2408ce0160
 #EXTINF:-1 tvg-id="Sky Sport News" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySortNews.png",Sky Sport News
 https://izle.canlitvapp.com/skys/index.m3u8?token=1bf7929c197ea4c7dd42ed7f457378601e0e0d43-0c027c6e64d4d9d7ce559c3ec34d774c-1735992162-1735981362&remote=2a02:2454:859c:4a00:b5e7:a8f:f276:2af0?anahtar=j3TucD3dov7eRCpkd5m2JA&sure=1736003262&ip=2a02:2454:859c:4a00:b5e7:a8f:f276:2af0
 
+#EXTINF:-1 tvg-id="ORF 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png"group-title="Termux",ORF 1
+http://192.168.178.45:8080/channel/2379
 
+#EXTINF:-1 tvg-id="ORF 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png"group-title="Termux",ORF 2
+http://192.168.178.45:8080/channel/2380
+
+#EXTINF:-1 tvg-id="ORF 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png"group-title="Termux",ORF 3
+http://192.168.178.45:8080/channel/2381
+
+#EXTINF:-1 tvg-id="ORF Sport+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORFSport.png"group-title="Termux",ORF Sport+
+http://192.168.178.45:8080/channel/2382
+
+#EXTINF:-1 tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png"group-title="Termux",Das Erste
+http://192.168.178.45:8080/channel/2274
+
+#EXTINF:-1 tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png"group-title="Termux",ZDF
+http://192.168.178.45:8080/channel/5286
+
+#EXTINF:-1 tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png"group-title="Termux",RTL
+http://192.168.178.45:8080/channel/5033
+
+#EXTINF:-1 tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png"group-title="Termux",SAT.1
+http://192.168.178.45:8080/channel/5080
+
+#EXTINF:-1 tvg-id="RTL II"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg"group-title="Termux",RTL II
+http://192.168.178.45:8080/channel/5042
+
+#EXTINF:-1 tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png"group-title="Termux",ProSieben
+http://192.168.178.45:8080/channel/5018
 
 
 
