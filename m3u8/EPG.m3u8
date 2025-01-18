@@ -503,7 +503,7 @@ http://192.168.178.45:8080/channel/2274
 http://192.168.178.45:8080/channel/5286
 
 #EXTINF:-1 tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png"group-title="Termux",RTL
-http://192.168.178.45:8080/channel/5033
+http://192.168.178.45:8080/channel/134
 
 #EXTINF:-1 tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png"group-title="Termux",SAT.1
 http://192.168.178.45:8080/channel/5080
