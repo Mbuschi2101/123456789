@@ -135,7 +135,7 @@ plugin://plugin.video.vavooto/?name=ORF+3
 #EXTINF:-1 tvg-id="ORF Sport+" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORFSport.png",ORF Sport+
 plugin://plugin.video.vavooto/?name=ORF+SPORT
 
-#EXTINF:0 tvg-id="Das Erste" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
+#EXTINF:-1 tvg-id="Das Erste" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-id="ZDF" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
