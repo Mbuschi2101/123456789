@@ -139,7 +139,7 @@ plugin://plugin.video.vavooto/?name=ORF+SPORT
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
 #EXTINF:-1 tvg-id="ZDF" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
-plugin://plugin.video.vavooto/?name=ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
 #EXTINF:-1 tvg-id="RTL" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
 plugin://plugin.video.vavooto/?name=RTL
@@ -169,7 +169,7 @@ plugin://plugin.video.vavooto/?name=ATV+2
 plugin://plugin.video.vavooto/?name=PULS+4
 
 #EXTINF:-1 tvg-id="ONE" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
-plugin://plugin.video.vavooto/?name=ONE
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
 
 #EXTINF:-1 tvg-id="RTL Nitro" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
 plugin://plugin.video.vavooto/?name=RTL+NITRO
@@ -178,7 +178,7 @@ plugin://plugin.video.vavooto/?name=RTL+NITRO
 plugin://plugin.video.vavooto/?name=TELE+5
 
 #EXTINF:-1 tvg-id="ZDFneo" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
-plugin://plugin.video.vavooto/?name=ZDF+NEO
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 
 #EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
@@ -217,28 +217,31 @@ plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
 plugin://plugin.video.vavooto/?name=CRIME+%2B+INVESTIGATION
 
 #EXTINF:-1 tvg-id="ZDFinfo" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
-plugin://plugin.video.vavooto/?name=ZDF+INFO
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DokuSat%20HD.png"group-title="Deutschland":http-user-agent="",DokuSat
+https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tagesschau 24" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",Tagesschau 24
-plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
 #EXTINF:-1 tvg-id="Bild TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
-https://bild.personalstream.tv/v1/master.m3u8?devtype=tv&ads.country=de&ads.uid=bildde&ads.pf=bildchannel-bestofbild&ads.cpid=bild&&ads.generic=%2526eids%253Dmediaimpact.de%252C17323632500470146667022512397360%257Cexternal.mediaimpact.de%252C631644048953939555685147927795235531930%26as_ppid%3D615897622146632134286444257427897416628&ads.referer=undefined&ads.tcf=CQJx3YAQJx3YAFZABCENBUFgAP_gAAAAAB5YJFJR_C7VbGFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgBKQcBwCkmEyNASgBgACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAgCAAAAAACIwAAREAAAmRiIAcLkGEBAwAAAIAAQAAABAAAAAgMAAAgIAAIAAAAAgAAAAAAAAAIAAAAAABAAAAABAAAAeEgSgALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAK0AYYAygB3AD2gH4AfsBIgElALmAXoAxQBuADiAJEATsAocBSIC8wGTgOCAeOBIoIARAAcABsAEgARwBOAEHAI4ASkAmgBOwDqgH9ASsAsQBf4DIQG0CAAIAJBQAEA6owACAdUdAtAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgCtAGGAMoAaIA7gB7QD8AP0Ai0BHQElALEAXMAvQBigDcAHEAOoAi8BIgCdgFDgLzAX0AycBlgDVQHjgP7AkUOAMwAOAA8AC4AJAAcgBHACgAHwARwAzYCDgIQARwAlIBNACdgHSAOqAf0BKwCuwFiAL_AYIAyEBkwDaCEBAABYAVQAuABiADeAI4AdwBKQC5gGKAOoAycBqoDxwH9gSKIABwAHgEcALEAdUBYgDBAGeEoCoACwAOAA8ACIAEwAKoAXAAxQCGAIgARwAowBWgD8ALmAYoA6gCLwEiALzAZOBIokAMAAuADkAI4AfAB3AEHAI4AdUBKwC_wGWAM8KQJAAFgAVAA4ACAAGgAPAAiABMACkAFUAMQAfoBDAEQAKMAVoAygBowD8AP0Ai0BHQElALmAYoA3AB1AEXgJEATsAocBeYC-gGTgMsAeOA_sCHIEiigBgABQAFwASAAyAByAEcALYAbQA-ACOAE4AO4Ag4BHACUgFiALqAa8A6oCuwGCAMmAZ4A4ItAEAHcAXoBQ4DxywAEAjgAA.YAAAAAAAAAAA
+https://bild.personalstream.tv/v1/master.m3u8?devtype=tv&ads.country=de&ads.uid=bildde&ads.pf=bildchannel-bestofbild&ads.cpid=bild&&ads.generic=%2526eids%253Dmediaimpact.de%252C17323632500470146667022512397360%257Cexternal.mediaimpact.de%252C631644048953939555685147927795235531930%26as_ppid%3D615897622146632134286444257427897416628&ads.referer=https%3A%2F%2Fwww.bild.de%2Ftv%2Fmediathek%2Flivestream%2Fstartseite-77204148.bild.html&ads.tcf=CQLYCcAQLYCcAFZABCENBXFgAP_gAAAAABCYJFJR_C7VbGFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgBKQcBwCkmEyNASgBgACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAgCAAAAAACIwAAREAAAmRiIAcLkGEBAwAAAIAAQAAABAAAAAgMAAAgIAAIAAAAAgAAAAAAAAAIAAAAAABAAAAABAAAAeEgSgALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAK0AYYAygB3AD2gH4AfsBIgElALmAXoAxQBuADiAJEATsAocBSIC8wGTgOCAeOBIoIARAAcABsAEgARwBOAEHAI4ASkAmgBOwDqgH9ASsAsQBf4DIQG0CAAIAJBQAEA6owACAdUdAtAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgCtAGGAMoAaIA7gB7QD8AP0Ai0BHQElALEAXMAvQBigDcAHEAOoAi8BIgCdgFDgLzAX0AycBlgDVQHjgP7AkUOAMwAOAA8AC4AJAAcgBHACgAHwARwAzYCDgIQARwAlIBNACdgHSAOqAf0BKwCuwFiAL_AYIAyEBkwDaCEBAABYAVQAuABiADeAI4AdwBKQC5gGKAOoAycBqoDxwH9gSKIABwAHgEcALEAdUBYgDBAGeEoCoACwAOAA8ACIAEwAKoAXAAxQCGAIgARwAowBWgD8ALmAYoA6gCLwEiALzAZOBIokAMAAuADkAI4AfAB3AEHAI4AdUBKwC_wGWAM8KQJAAFgAVAA4ACAAGgAPAAiABMACkAFUAMQAfoBDAEQAKMAVoAygBowD8AP0Ai0BHQElALmAYoA3AB1AEXgJEATsAocBeYC-gGTgMsAeOA_sCHIEiigBgABQAFwASAAyAByAEcALYAbQA-ACOAE4AO4Ag4BHACUgFiALqAa8A6oCuwGCAMmAZ4A4ItAEAHcAXoBQ4DxywAEAjgAA.YAAAAAAAAAAA
 
 #EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 
 #EXTINF:-1 tvg-id="MDR Sachsen" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
-plugin://plugin.video.vavooto/?name=MDR
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
 
 #EXTINF:-1 tvg-id="N-TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
 plugin://plugin.video.vavooto/?name=NTV
 
 #EXTINF:-1 tvg-id="Welt" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
-plugin://plugin.video.vavooto/?name=WELT
+https://welt.personalstream.tv/v1/master.m3u8?ads.country=de&ads.pf=welttv&ads.tcf=CQIpWwAQIpWwAFZABCENBOFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBiACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIgAAREAAAmRgIAcLkGEBAwAAAIEAQAAABAAAAAgMAAAgAAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRAALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4ICRQQAgAA4ADYAJAAjgCcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CAAIAJBQAEA6owACAdUdAqAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgDDAGUANEAe0A_AD9AIsAR0AkoBYgC5gF6AMUAbgA4gB1AEXgJEATsAocBeYC-gGTgMsAaqBIocAZgAcAB4AFwASAA5ACOAFAAPgAjgBmwEHAQgAiIBHACUgE0AJ2AdIA6oB_QErAK7AX-AwQBkIDJgG0EIBoACwAqgBcADEAG8ARwBKQC5gGKAOoAycBqoEiiAAYAB4BHACxAHVAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAOCAhyBIooAVAAUABcAEgAMgAcgBHAC2AHwARwAnACDgEcAJSAWIAuoBrwDqgK7AYIAyYBnhaAEAXoBQ5YACARw.YAAAAAAAAAAA&ads.generic=%2526eids%253Dmediaimpact.de%252C17325282693601957116687530379373%257Cexternal.mediaimpact.de%252C577993233871720744665382025831006352366%26as_ppid%3D401561220977560455295691427433640142454&ads.referer=https%3A%2F%2Fwww.welt.de%2Ftv-programm-live-stream%2F&ads.cpid=ssaiunmuted
 
 #EXTINF:-1 tvg-id="N24 Doku" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
-plugin://plugin.video.vavooto/?name=N24+DOKU
+https://n24-doku.personalstream.tv/v1/weltde/master.m3u8?ads.pf=n24doku&ads.tcf=CQIpWwAQIpWwAFZABCENBOFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBiACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIgAAREAAAmRgIAcLkGEBAwAAAIEAQAAABAAAAAgMAAAgAAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRAALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4ICRQQAgAA4ADYAJAAjgCcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CAAIAJBQAEA6owACAdUdAqAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgDDAGUANEAe0A_AD9AIsAR0AkoBYgC5gF6AMUAbgA4gB1AEXgJEATsAocBeYC-gGTgMsAaqBIocAZgAcAB4AFwASAA5ACOAFAAPgAjgBmwEHAQgAiIBHACUgE0AJ2AdIA6oB_QErAK7AX-AwQBkIDJgG0EIBoACwAqgBcADEAG8ARwBKQC5gGKAOoAycBqoEiiAAYAB4BHACxAHVAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAOCAhyBIooAVAAUABcAEgAMgAcgBHAC2AHwARwAnACDgEcAJSAWIAuoBrwDqgK7AYIAyYBnhaAEAXoBQ5YACARw.YAAAAAAAAAAA&ads.generic=%2526eids%253Dmediaimpact.de%252C17325282693601957116687530379373%257Cexternal.mediaimpact.de%252C577993233871720744665382025831006352366%26as_ppid%3D401561220977560455295691427433640142454&ads.referer=https%3A%2F%2Fwww.welt.de%2Ftv-programm-n24-doku%2F&ads.cpid=ssaiunmuted
 
 #EXTINF:-1 tvg-id="DMAX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
@@ -247,7 +250,7 @@ plugin://plugin.video.vavooto/?name=DMAX
 plugin://plugin.video.vavooto/?name=TLC
 
 #EXTINF:-1 tvg-id="Welt der Wunder" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png",Welt der Wunder
-plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sky Nature" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Nature%20HD.png",Sky Nature
 plugin://plugin.video.vavooto/?name=SKY+NATURE
@@ -374,147 +377,6 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 
 #EXTINF:-1 tvg-id="DAZN RISE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DaznRise.jpg"group-title="Österreich":http-user-agent="",DAZN RISE
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dazn-rise-hd&stream_type=LIVE&fav_type=&title=%5BB%5DDAZN+RISE%5B%2FB%5D+-+UEFA+Women%27s+Champions+League&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22dazn-rise-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-name=""tvg-id="ARD"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png"group-title="Test":http-user-agent="",ARD
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png"group-title="Test":http-user-agent="",ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png"group-title="Test":http-user-agent="",ONE
-https://mcdn-one.ard.de/ardone/hls/master.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png"group-title="Test":http-user-agent="",ZDFneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png"group-title="Test":http-user-agent="",ZDFinfo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DokuSat%20HD.png"group-title="Test":http-user-agent="",DokuSat
-https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="BildTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png"group-title="Test":http-user-agent="",BildTV
-https://bild.personalstream.tv/v1/master.m3u8?devtype=tv&ads.country=de&ads.uid=bildde&ads.pf=bildchannel-bestofbild&ads.cpid=bild&&ads.generic=%2526eids%253Dmediaimpact.de%252C17323632500470146667022512397360%257Cexternal.mediaimpact.de%252C631644048953939555685147927795235531930%26as_ppid%3D615897622146632134286444257427897416628&ads.referer=https%3A%2F%2Fwww.bild.de%2Ftv%2Fmediathek%2Flivestream%2Fstartseite-77204148.bild.html&ads.tcf=CQLYCcAQLYCcAFZABCENBXFgAP_gAAAAABCYJFJR_C7VbGFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgBKQcBwCkmEyNASgBgACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAgCAAAAAACIwAAREAAAmRiIAcLkGEBAwAAAIAAQAAABAAAAAgMAAAgIAAIAAAAAgAAAAAAAAAIAAAAAABAAAAABAAAAeEgSgALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAK0AYYAygB3AD2gH4AfsBIgElALmAXoAxQBuADiAJEATsAocBSIC8wGTgOCAeOBIoIARAAcABsAEgARwBOAEHAI4ASkAmgBOwDqgH9ASsAsQBf4DIQG0CAAIAJBQAEA6owACAdUdAtAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgCtAGGAMoAaIA7gB7QD8AP0Ai0BHQElALEAXMAvQBigDcAHEAOoAi8BIgCdgFDgLzAX0AycBlgDVQHjgP7AkUOAMwAOAA8AC4AJAAcgBHACgAHwARwAzYCDgIQARwAlIBNACdgHSAOqAf0BKwCuwFiAL_AYIAyEBkwDaCEBAABYAVQAuABiADeAI4AdwBKQC5gGKAOoAycBqoDxwH9gSKIABwAHgEcALEAdUBYgDBAGeEoCoACwAOAA8ACIAEwAKoAXAAxQCGAIgARwAowBWgD8ALmAYoA6gCLwEiALzAZOBIokAMAAuADkAI4AfAB3AEHAI4AdUBKwC_wGWAM8KQJAAFgAVAA4ACAAGgAPAAiABMACkAFUAMQAfoBDAEQAKMAVoAygBowD8AP0Ai0BHQElALmAYoA3AB1AEXgJEATsAocBeYC-gGTgMsAeOA_sCHIEiigBgABQAFwASAAyAByAEcALYAbQA-ACOAE4AO4Ag4BHACUgFiALqAa8A6oCuwGCAMmAZ4A4ItAEAHcAXoBQ4DxywAEAjgAA.YAAAAAAAAAAA
-
-#EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png"group-title="Test":http-user-agent="",MDR Sachsen
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png"group-title="Test":http-user-agent="",Welt
-https://welt.personalstream.tv/v1/master.m3u8?ads.country=de&ads.pf=welttv&ads.tcf=CQIpWwAQIpWwAFZABCENBOFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBiACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIgAAREAAAmRgIAcLkGEBAwAAAIEAQAAABAAAAAgMAAAgAAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRAALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4ICRQQAgAA4ADYAJAAjgCcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CAAIAJBQAEA6owACAdUdAqAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgDDAGUANEAe0A_AD9AIsAR0AkoBYgC5gF6AMUAbgA4gB1AEXgJEATsAocBeYC-gGTgMsAaqBIocAZgAcAB4AFwASAA5ACOAFAAPgAjgBmwEHAQgAiIBHACUgE0AJ2AdIA6oB_QErAK7AX-AwQBkIDJgG0EIBoACwAqgBcADEAG8ARwBKQC5gGKAOoAycBqoEiiAAYAB4BHACxAHVAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAOCAhyBIooAVAAUABcAEgAMgAcgBHAC2AHwARwAnACDgEcAJSAWIAuoBrwDqgK7AYIAyYBnhaAEAXoBQ5YACARw.YAAAAAAAAAAA&ads.generic=%2526eids%253Dmediaimpact.de%252C17325282693601957116687530379373%257Cexternal.mediaimpact.de%252C577993233871720744665382025831006352366%26as_ppid%3D401561220977560455295691427433640142454&ads.referer=https%3A%2F%2Fwww.welt.de%2Ftv-programm-live-stream%2F&ads.cpid=ssaiunmuted
-
-#EXTINF:-1 tvg-name=""tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png"group-title="Test":http-user-agent="",N24 Doku
-https://n24-doku.personalstream.tv/v1/weltde/master.m3u8?ads.pf=n24doku&ads.tcf=CQIpWwAQIpWwAFZABCENBOFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBiACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIgAAREAAAmRgIAcLkGEBAwAAAIEAQAAABAAAAAgMAAAgAAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRAALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4ICRQQAgAA4ADYAJAAjgCcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CAAIAJBQAEA6owACAdUdAqAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgDDAGUANEAe0A_AD9AIsAR0AkoBYgC5gF6AMUAbgA4gB1AEXgJEATsAocBeYC-gGTgMsAaqBIocAZgAcAB4AFwASAA5ACOAFAAPgAjgBmwEHAQgAiIBHACUgE0AJ2AdIA6oB_QErAK7AX-AwQBkIDJgG0EIBoACwAqgBcADEAG8ARwBKQC5gGKAOoAycBqoEiiAAYAB4BHACxAHVAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAOCAhyBIooAVAAUABcAEgAMgAcgBHAC2AHwARwAnACDgEcAJSAWIAuoBrwDqgK7AYIAyYBnhaAEAXoBQ5YACARw.YAAAAAAAAAAA&ads.generic=%2526eids%253Dmediaimpact.de%252C17325282693601957116687530379373%257Cexternal.mediaimpact.de%252C577993233871720744665382025831006352366%26as_ppid%3D401561220977560455295691427433640142454&ads.referer=https%3A%2F%2Fwww.welt.de%2Ftv-programm-n24-doku%2F&ads.cpid=ssaiunmuted
-
-#EXTINF:-1 tvg-name=""tvg-id="Welt der Wunder"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png"group-title="Test":http-user-agent="",Welt der Wunder
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="Tagesschau 24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png"group-title="Test":http-user-agent="",Tagesschau 24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-
-
-#EXTINF:-1 tvg-id="ZDF" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
-https://izle.canlitvapp.com/zdf/index.m3u8?token=29e9bd17f814623efba7cd6d3812a12e3192482d-6853086629fdabb3a205964b0f0e28e8-1736173217-1736162417&remote=2a02:2454:859c:4a00:94:97b3:10c8:c890?anahtar=dVHc-6EVcm2XMHlNOnwQhw&sure=1736184317&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
-
-#EXTINF:-1 tvg-id="RTL" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
-https://izle.canlitvapp.com/rtl/index.m3u8?token=bdf8ea4332f276caa783256ad87888abb851c440-2b1e4f03df0ccff271ed31570b1d6ab4-1736173290-1736162490&remote=2a02:2454:859c:4a00:94:97b3:10c8:c890?anahtar=fO-_Cv0hghek3CwU-SK1FQ&sure=1736184390&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
-
-#EXTINF:-1 tvg-id="SAT.1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
-https://s6.hopslan.com/sat1x111/index.m3u8?token=422514517ec29e536a612a74942b0ea18a458cbc-e764f66fd9ffe67cf17ba51c9ed2b747-1735917640-1735906840
-
-#EXTINF:-1 tvg-id="RTL II" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
-https://s6.hopslan.com/rtl2x1/index.m3u8?anahtar=1ZOVRaYL9xTmqC_usoV4uQ&sure=1736184476&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
-
-#EXTINF:-1 tvg-id="ProSieben" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
-https://s6.hopslan.com/pro7x1/index.m3u8?anahtar=21j-qTbV5YBsBVuAH0-AOQ&sure=1736184525&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
-
-#EXTINF:-1 tvg-id="KABEL 1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
-https://s6.hopslan.com/kabel1x1/index.m3u8?anahtar=ecDOnHyOOMf64yT2Ucrw4Q&sure=1736184575&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
-
-#EXTINF:-1 tvg-id="VOX" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
-https://s6.hopslan.com/voxx1/index.m3u8?anahtar=jeIgy7O9dDSnRCkq0IYvrQ&sure=1736184618&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
-
-#EXTINF:-1 tvg-id="SIXX" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
-https://s6.hopslan.com/sixx1/tracks-v1a1/mono.m3u8?anahtar=_-WoGxlL4LPWrgXllks01A&ip=2a02%3A2454%3A859c%3A4a00%3A94%3A97b3%3A10c8%3Ac890&sure=1736184683
-
-#EXTINF:-1 tvg-id="RTL Nitro" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
-https://s6.hopslan.com/nitrox1/index.m3u8?anahtar=R6okrCGgrTHEvxxHixDwJQ&sure=1736184864&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
-
-#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
-https://s6.hopslan.com/pro7maxx1/tracks-v1a1/mono.m3u8?anahtar=GGBrFXpvLUs0ahDkvAqUsw&ip=2a02%3A2454%3A859c%3A4a00%3A94%3A97b3%3A10c8%3Ac890&sure=1736184957
-
-#EXTINF:-1 tvg-id="MDR Sachsen" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master-540p-1600.m3u8
-
-#EXTINF:-1 tvg-id="Welt" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
-https://s6.hopslan.com/n24x1/index.m3u8?anahtar=owTaCW29WMo-QJH4JpPG0w&sure=1736185095&ip=2a02:2454:859c:4a00:94:97b3:10c8:c890
-
-#EXTINF:-1 tvg-id="N-TV" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
-https://s6.hopslan.com/ntvx1/index.m3u8?token=66b3f487ed299cf0900eb4030e83131ac4b5e3dd-198893619bea60526ebab46e2ee27b0e-1735917648-1735906848
-
-#EXTINF:-1 tvg-id="DMAX" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
-https://s6.hopslan.com/dmax1/index.m3u8?token=2d334b0cc71124974a7d416a4d64a060b0ec5d97-fe0c1b0e260b4d89b48ce0e13b0b156a-1735917640-1735906840
-
-#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
-https://s6.hopslan.com/dokux1/index.m3u8?token=c46cfa1354c0c566b191634d9ec8782f44c061e4-e2c49ffcbcf21ecbf352e072f6576374-1735917659-1735906859
-
-#EXTINF:-1 tvg-id="TLC" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
-https://s6.hopslan.com/tlc/index.m3u8?token=7fca2445ee8e90d9c0c6d58bc3f45d12d5c7814d-7669b8fbd1d92c5493204dd3314df934-1735917639-1735906839
-
-#EXTINF:-1 tvg-id="Animal Planet" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
-https://izle.canlitvapp.com/anim/index.m3u8?token=60e4b0d233b82193da51a5477673dba4bbb83d8a-7347422d371ee1043ddab1a835d5619e-1735942704-1735931904&remote=2a02:2454:859c:4a00:10b:1263:6364:9254?anahtar=EhHYKs_dV42PsvZsfZ9j3Q&sure=1735953804&ip=2a02:2454:859c:4a00:10b:1263:6364:9254
-
-#EXTINF:-1 tvg-id="ProSieben Fun" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20Fun%20HD.png",ProSieben Fun
-https://izle.canlitvapp.com/prof/index.m3u8?token=bafc97764f02e6d8a67642d2317c95f162d31782-b6337a479096317d16a6dddf783e28ff-1735944245-1735933445&remote=2a02:2454:859c:4a00:10b:1263:6364:9254?anahtar=3ZyQy3kVfiysx0t5gktxxQ&sure=1735955345&ip=2a02:2454:859c:4a00:10b:1263:6364:9254
-
-#EXTINF:-1 tvg-id="SyFy" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
-https://izle.canlitvapp.com/syfy/index.m3u8?token=91ae2745ea478599d95b059f6718052151906efb-d6c79a7cd9a217044767a2f66d794ee8-1735944521-1735933721&remote=2a02:2454:859c:4a00:10b:1263:6364:9254?anahtar=RY9db-z4rCd6W3F0P2sCgA&sure=1735955621&ip=2a02:2454:859c:4a00:10b:1263:6364:9254
-
-#EXTINF:-1 tvg-id="HISTORY" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HISTORY.png",HISTORY
-https://izle.canlitvapp.com/hist/index.m3u8?token=ddf4352340a4dc385149cfe1599533a56616982f-ecceb7e5df8a5d46f7a5f6b0928ed6c7-1735944683-1735933883&remote=2a02:2454:859c:4a00:10b:1263:6364:9254?anahtar=gPYQCKLTKDsVVPE4LDDnZg&sure=1735955783&ip=2a02:2454:859c:4a00:10b:1263:6364:9254
-
-#EXTINF:-1 tvg-id="National Geographic" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/National%20Geographic.png",National Geographic
-https://izle.canlitvapp.com/natc/index.m3u8?token=caf7db84dc8464747ff8921c0e29abfa5821257d-d514e4fbe5f4ccb1bc9563b959a655e9-1735991510-1735980710&remote=2a02:2454:859c:4a00:b5e7:a8f:f276:2af0?anahtar=Eg2ZqlmAyHXnOzVFt5wt_g&sure=1736002610&ip=2a02:2454:859c:4a00:b5e7:a8f:f276:2af0
-
-#EXTINF:-1 tvg-id="DISCOVERY" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Discovery%20Channel.png",DISCOVERY
-https://izle.canlitvapp.com/disco/index.m3u8?token=d3224f2f1674ffda0273bdbdea57aad3e4b94d39-3f8eaaf0200a40539f199433c835fff6-1736156467-1736145667&remote=2a02:2454:859c:4a00:ade2:57df:d58e:ad17?anahtar=CUDLMixN9jDoy_PCUo8kxg&sure=1736167567&ip=2a02:2454:859c:4a00:ade2:57df:d58e:ad17
-
-#EXTINF:-1 tvg-id="13TH Street" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
-https://izle.canlitvapp.com/13th/index.m3u8?token=08134b0f67ab9469d9bb2408ce0160c84361c10c-73e439871e8eb1be64245e5f37701474-1735991993-1735981193&remote=2a02:2454:859c:4a00:b5e7:a8f:f276:2af0?anahtar=MkCE7Y7rmFHwa20Ibr0_6Q&sure=1736003093&ip=2a02:2454:859c:4a00:b5e7:a8f:f276:2af0
-
-#EXTINF:-1 tvg-id="Sky Sport News" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySortNews.png",Sky Sport News
-https://izle.canlitvapp.com/skys/index.m3u8?token=1bf7929c197ea4c7dd42ed7f457378601e0e0d43-0c027c6e64d4d9d7ce559c3ec34d774c-1735992162-1735981362&remote=2a02:2454:859c:4a00:b5e7:a8f:f276:2af0?anahtar=j3TucD3dov7eRCpkd5m2JA&sure=1736003262&ip=2a02:2454:859c:4a00:b5e7:a8f:f276:2af0
-
-#EXTINF:-1 tvg-id="ORF 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png"group-title="Termux",ORF 1
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/JjNycr1fIbmRsWE44R7_itoRSapkUhpDqdEZRvxRT_qGwW_afrztDNJ2cHlgmp8REBGH22cb7yM3x-WNcC8L_TpM-u2jtcwRUZMGwTjAAJrI06nH-4vjPby2QUDL3vZMCd5PXoO2XCjdw-6rLtJm15YL8oj_jR1ypf1ZGyt_n4eUPGiBPSmF0Cev62bjLQCnyDxuonSSZDsumYy3BVNudd4HMn9JzBMxaKOyPuuescLPTzZoyuM83iuq3bJK_DSnRpPd6uyt1_GsMPILSbPA3jUTR8DRUqwlEeabW8xMaQQ/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="ORF 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png"group-title="Termux",ORF 2
-http://45.143.222.113:8008/sunshine/zTWkDXihrqqYpneyP9eGeIWrPqI2Eg0whOvgbnR3lUlsWS2AJwDbR29vuTO_YUCOyXIbjOMjfg0H4MeBKITxq4rpl7cnS0Ow4dunS4sA80jjKxY3HHWJflPdWrqAbS_yVofoBAiHPmIRZYyh114TlUuiQyT0rFwOvHfoc64kkrCwVYedOrA52zaqixfy8fIvHuCtp-ygzAjI87zCmCl3l3w_PP3uJUkFqfxEtFWyGAsoPHZLLw-NadMxEOeotnQQp9D-q77WiKIQ7AIw6uI8n9Ugf0OnDc2GJcHp1rQyf3A/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="ORF 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png"group-title="Termux",ORF 3
-http://45.143.222.113:8008/sunshine/EhiFAPW16_V64Utnvpw7luopKLjeRnooWXjlO1ExVgr7yBrx47MsS26X0Fae76fi77VqLvn8iBU2P1vFRwcEWowyDLXqiULxTV_cAMY34v1JDLm_A9QqwXfBrIRxmlr_eUWdxwg2qMCBPv1pwr8XidMDgJWrX5pbCgfM4kL2qpgznuzd9E4EJfLEg1OD3iyWXHzLaCtKHw3860SquQNjjbxMFpcNkRrbkd_mXjL_ZYakzL6UBNR_xnXRi4cbSEYRcfCsYUud51Tj6QVpAJxQyZvuACJojMFrH7o04VskkR4/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="ORF Sport+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORFSport.png"group-title="Termux",ORF Sport+
-http://192.168.178.45:8080/channel/2382
-
-#EXTINF:-1 tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png"group-title="Termux",Das Erste
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/QZ2gPkJyn_F4qzb55nSXX-mVUmqNmqJt6wJ1BpetkmpaCgf3kz8_a6AkdfTPyp738EyLT-ILXBnu6QSqqZFgXl5UEd9EJ1r2YoZvxWZRA-BQgboTlupIV6c8HaWueQZCNY3vJ_fJ1WtiS7KTAxGpquqss4iP-_suLRY5BCAMVejiFlGnwsZW9ZgQzCRs6tCXMWmRbrZTaGnkheMuP5fDBvuvLXXT9EVz2l1LvyXZd_oEavfj6Toktq8ppBK4FgD0asJZdsBtqimDNY4KQYEyX6SLUFdmdh5gbd_aUFS4PKY/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png"group-title="Termux",ZDF
-http://45.143.222.113:8008/sunshine/RRwDRNl2FLEOw7IT9m4E1a9LSfxteupRVSofDwk6Yxwkxn-sXzXmsV3Q9DaWao16HTvNU1lZizaPhAgTfv37qku6miUwPIz9thIvBVJytzMeTtzS_uyHwHzaefX_wVRQgN3-eXDhLnmA8a-kr27d2dH8XYJapghTE-qqVZvbzGOVp-d1irVzn4PB7QY9F3cl_2zMJdsiSBaNBCyN4zVF6Zqg4U90nT4TcgVhqkuOT9PiZe1rOd0L_GcCxZuGTmb9JkHnZae4j-5ufRvyWs-aFD13d346B-XZ9UaIRqofT1U/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png"group-title="Termux",RTL
-http://45.143.222.113:8008/sunshine/vMB0Pq1oA0FkxE7-oRszn0Z3RfFU8RMomYpQpVbE_FUF5uwVISUrWk2E-hLnRWbtQcHsvdOKvPgSuazOI0H81E8sDpV7zOvtl5xXqK0KTTkipYbxA13410mAvfzYGgqmRtUBcULW1AUXS3i7vMK2MTEthUfKGInm9wKzlIUpUn_9Z6VmF_NNTFjbRcwC8eY8xmxGvjOxSfgp5MK7stD2Ggbhl-XNIWalQAhzOFt9mtFnziucZ5_S_IFwLUto4hl_2bdVn9rL7e0JOqulhnUa-wVNJRWcK07l1313mhNrVzc/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png"group-title="Termux",SAT.1
-https://iezmzlrgtn5pgme.ngolpdkyoctjcddxshli469r.org/sunshine/-4wWajyQTYtu3eT6XJahDHANLEfD-jNxpUck9HcM8gLO1EAanUZSkHtdRVWWGmZOsti90mfJdN1K67P_figkYCoAUmd7cehUPMiVEeMVh0QspX4XnOX_Y4P4Xsr0FVLman5s_4Sm09jw1qbBA6C49RkN5VJo_cZiLFFuA28wZXvL1pE0bXDIR1uA5IyoLbBkDXOBkH3AU1sB98BSgciBNXQO0MkQuMtEBESc7yNnDkAI2fzdYDOYyurn2rbxKhdoqJ8r8cPnYJvlJIj7ePRXs74hKQnpXlsjDyPjhJih2nY/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="RTL II"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg"group-title="Termux",RTL II
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/zqfQYaVzO07Dgr-LO39C3REsiQXt73lL9idGtn30VQNfrWjSOzOPujca-VGURi8dSn6OfQ4iVFKidK_lNXSZsHb_p50TETr5dAjNo0bRyYtAaJ6RaxhfRE-0UGGlgOimwFI_3GU4MOEqPlzpcsg-6XawYFsP47WA-CfZoQSVY1H4StMICgF-hVTW440AyM72ZMoO0IOKBCoNvOL0-A3OpueZsFcbs_IPA7TK-6Jk2z9u_9NTlUJkTJ6fF4jE2GHCTroo_oyI89D9ppt6ozcWE6Cff8wGqNcWvtD3mdK-Hbw/hls/index.m3u8
-
-#EXTINF:-1 tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png"group-title="Termux",ProSieben
-https://mjkskdvpfpb1fbv.ngolpdkyoctjcddxshli469r.org/sunshine/rlnGbpYe9cXXLYmqeY_okLqoYObyEqv0qsHqzE04C85adETscxGWxW57GdKaedl5mhOCpzRDKb1RhAVhTtIQF8k_3cxISL_Kr8FzG-ClK_QCs-qQgaiDDTliQiX6cQx4ybp0gSrXlSSsMmK20-oboH4Px0TzwdlbCqd7uHo4JWAFiPKqSg9lN6MJdPr1cL6iTTljVeBuT-1ZkMNsDiNxmdTr2i-rxyAbEB6gAFfZ2UjhGqb8oC76P3uNfRrZGyzXw8iFwB_zK9BJQTxmRgQrIQiEUS58_NpZ3VNU_9siHl8/hls/index.m3u8
-
-
 
 
 
