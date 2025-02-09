@@ -309,6 +309,16 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="SyFy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
 
+
+
+
+#EXTINF:-1 tvg-id="RTL" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
+
+
+
+
+
 #EXTINF:-1 tvg-id="SRF 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png"group-title="Schweiz":http-user-agent="",SRF 1
 plugin://plugin.video.zattoo_com/?mode=watch&id=sf-1&level=hd&drm=False
 
