@@ -309,74 +309,7 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="SyFy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
 
-#EXTINF:-1 tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png"group-title="Fritzbox":http-user-agent="",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png"group-title="Fritzbox":http-user-agent="",ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-
-#EXTINF:-1 tvg-id="RTL" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
-rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
-
-#EXTINF:-1 tvg-id="SAT.1" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
-rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106
-
-#EXTINF:-1 tvg-id="RTL II" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
-rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158,159
-
-#EXTINF:-1 tvg-id="ProSieben" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
-rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,153,155,156
-
-#EXTINF:-1 tvg-id="KABEL 1" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
-rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,205,206
-
-#EXTINF:-1 tvg-id="VOX" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
-rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,255,256,257,258,259
-
-#EXTINF:-1 tvg-id="SIXX" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
-rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,550,551,38,552,558
-
-#EXTINF:-1 tvg-id="RTL Nitro" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
-rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306,307,308,309
-
-#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
-rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,355,356
-
-#EXTINF:-1 tvg-id="N-TV" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
-rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,353,355,356,357,358
-
-#EXTINF:-1 tvg-id="VOXup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOXup.png"group-title="Fritzbox":http-user-agent="",VOXup
-rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
-
-#EXTINF:-1 tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png"group-title="Fritzbox":http-user-agent="",ONE
-https://mcdn-one.ard.de/ardone/hls/master.m3u8
-
-#EXTINF:-1 tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png"group-title="Fritzbox":http-user-agent="",ZDFneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-
-#EXTINF:-1 tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png"group-title="Fritzbox":http-user-agent="",ZDFinfo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-
-#EXTINF:-1 tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DokuSat%20HD.png"group-title="Fritzbox":http-user-agent="",DokuSat
-https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bild TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png"group-title="Fritzbox":http-user-agent="",Bild TV
-https://bild.personalstream.tv/v1/master.m3u8?devtype=tv&ads.country=de&ads.uid=bildde&ads.pf=bildchannel-bestofbild&ads.cpid=bild&&ads.generic=%2526eids%253Dmediaimpact.de%252C17323632500470146667022512397360%257Cexternal.mediaimpact.de%252C631644048953939555685147927795235531930%26as_ppid%3D615897622146632134286444257427897416628&ads.referer=https%3A%2F%2Fwww.bild.de%2Ftv%2Fmediathek%2Flivestream%2Fstartseite-77204148.bild.html&ads.tcf=CQLYCcAQLYCcAFZABCENBXFgAP_gAAAAABCYJFJR_C7VbGFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgBKQcBwCkmEyNASgBgACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAgCAAAAAACIwAAREAAAmRiIAcLkGEBAwAAAIAAQAAABAAAAAgMAAAgIAAIAAAAAgAAAAAAAAAIAAAAAABAAAAABAAAAeEgSgALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAK0AYYAygB3AD2gH4AfsBIgElALmAXoAxQBuADiAJEATsAocBSIC8wGTgOCAeOBIoIARAAcABsAEgARwBOAEHAI4ASkAmgBOwDqgH9ASsAsQBf4DIQG0CAAIAJBQAEA6owACAdUdAtAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgCtAGGAMoAaIA7gB7QD8AP0Ai0BHQElALEAXMAvQBigDcAHEAOoAi8BIgCdgFDgLzAX0AycBlgDVQHjgP7AkUOAMwAOAA8AC4AJAAcgBHACgAHwARwAzYCDgIQARwAlIBNACdgHSAOqAf0BKwCuwFiAL_AYIAyEBkwDaCEBAABYAVQAuABiADeAI4AdwBKQC5gGKAOoAycBqoDxwH9gSKIABwAHgEcALEAdUBYgDBAGeEoCoACwAOAA8ACIAEwAKoAXAAxQCGAIgARwAowBWgD8ALmAYoA6gCLwEiALzAZOBIokAMAAuADkAI4AfAB3AEHAI4AdUBKwC_wGWAM8KQJAAFgAVAA4ACAAGgAPAAiABMACkAFUAMQAfoBDAEQAKMAVoAygBowD8AP0Ai0BHQElALmAYoA3AB1AEXgJEATsAocBeYC-gGTgMsAeOA_sCHIEiigBgABQAFwASAAyAByAEcALYAbQA-ACOAE4AO4Ag4BHACUgFiALqAa8A6oCuwGCAMmAZ4A4ItAEAHcAXoBQ4DxywAEAjgAA.YAAAAAAAAAAA
-
-#EXTINF:-1 tvg-id="MDR Sachsen"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png"group-title="Fritzbox":http-user-agent="",MDR Sachsen
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
-
-#EXTINF:-1 tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png"group-title="Fritzbox":http-user-agent="",Welt
-https://welt.personalstream.tv/v1/master.m3u8?ads.country=de&ads.pf=welttv&ads.tcf=CQIpWwAQIpWwAFZABCENBOFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBiACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIgAAREAAAmRgIAcLkGEBAwAAAIEAQAAABAAAAAgMAAAgAAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRAALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4ICRQQAgAA4ADYAJAAjgCcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CAAIAJBQAEA6owACAdUdAqAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgDDAGUANEAe0A_AD9AIsAR0AkoBYgC5gF6AMUAbgA4gB1AEXgJEATsAocBeYC-gGTgMsAaqBIocAZgAcAB4AFwASAA5ACOAFAAPgAjgBmwEHAQgAiIBHACUgE0AJ2AdIA6oB_QErAK7AX-AwQBkIDJgG0EIBoACwAqgBcADEAG8ARwBKQC5gGKAOoAycBqoEiiAAYAB4BHACxAHVAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAOCAhyBIooAVAAUABcAEgAMgAcgBHAC2AHwARwAnACDgEcAJSAWIAuoBrwDqgK7AYIAyYBnhaAEAXoBQ5YACARw.YAAAAAAAAAAA&ads.generic=%2526eids%253Dmediaimpact.de%252C17325282693601957116687530379373%257Cexternal.mediaimpact.de%252C577993233871720744665382025831006352366%26as_ppid%3D401561220977560455295691427433640142454&ads.referer=https%3A%2F%2Fwww.welt.de%2Ftv-programm-live-stream%2F&ads.cpid=ssaiunmuted
-
-#EXTINF:-1 tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png"group-title="Fritzbox":http-user-agent="",N24 Doku
-https://n24-doku.personalstream.tv/v1/weltde/master.m3u8?ads.pf=n24doku&ads.tcf=CQIpWwAQIpWwAFZABCENBOFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBiACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIgAAREAAAmRgIAcLkGEBAwAAAIEAQAAABAAAAAgMAAAgAAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRAALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4ICRQQAgAA4ADYAJAAjgCcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CAAIAJBQAEA6owACAdUdAqAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgDDAGUANEAe0A_AD9AIsAR0AkoBYgC5gF6AMUAbgA4gB1AEXgJEATsAocBeYC-gGTgMsAaqBIocAZgAcAB4AFwASAA5ACOAFAAPgAjgBmwEHAQgAiIBHACUgE0AJ2AdIA6oB_QErAK7AX-AwQBkIDJgG0EIBoACwAqgBcADEAG8ARwBKQC5gGKAOoAycBqoEiiAAYAB4BHACxAHVAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAOCAhyBIooAVAAUABcAEgAMgAcgBHAC2AHwARwAnACDgEcAJSAWIAuoBrwDqgK7AYIAyYBnhaAEAXoBQ5YACARw.YAAAAAAAAAAA&ads.generic=%2526eids%253Dmediaimpact.de%252C17325282693601957116687530379373%257Cexternal.mediaimpact.de%252C577993233871720744665382025831006352366%26as_ppid%3D401561220977560455295691427433640142454&ads.referer=https%3A%2F%2Fwww.welt.de%2Ftv-programm-n24-doku%2F&ads.cpid=ssaiunmuted
-
-#EXTINF:-1 tvg-id="Welt der Wunder"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png"group-title="Fritzbox":http-user-agent="",Welt der Wunder
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tagesschau_24" group-title="Fritzbox" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",Tagesschau 24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
 
 
@@ -478,7 +411,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=vox&level=sd&drm=False
 #EXTINF:-1 tvg-id="ONE" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
 plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
 
-#EXTINF:-1 tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFinfo.png"group-title="Schweiz":http-user-agent="",ZDFneo
+#EXTINF:-1 tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png"group-title="Schweiz":http-user-agent="",ZDFneo
 plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=sd&drm=False
 
 #EXTINF:-1 tvg-id="SIXX" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
