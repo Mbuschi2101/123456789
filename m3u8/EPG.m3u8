@@ -537,3 +537,125 @@ plugin://plugin.video.vavooto/?name=SYFY
 
 
 
+#EXTINF:-1 tvg-id="Das Erste" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=daserste-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DDas+Erste+HD%5B%2FB%5D+-+Rosenmontagszug+Mainz+-+Motto%3A+In+Meenz+zu+feiern%2C+des+ist+nett%2C+but+don%C2%B4t+forget+se+Zugplakett%21&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22daserste-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ZDF" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=zdf-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DZDF+HD%5B%2FB%5D+-+ARD-Mittagsmagazin&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22zdf-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="RTL" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
+plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A1
+
+#EXTINF:-1 tvg-id="SAT.1" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-de&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1%5B%2FB%5D+-+Klinik+am+S%C3%BCdring&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="RTL II" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
+plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A2
+
+#EXTINF:-1 tvg-id="ProSieben" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosieben-de&stream_type=LIVE&fav_type=&title=%5BB%5DProSieben%5B%2FB%5D+-+The+Big+Bang+Theory&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22prosieben-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="kabel.eins.de" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleins-de&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins%5B%2FB%5D+-+Castle&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleins-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="VOX" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
+plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A4
+
+#EXTINF:-1 tvg-id="VOXup" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOXup.png",VOXup
+plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A15
+
+#EXTINF:-1 tvg-id="NITRO.de" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
+plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A3
+
+#EXTINF:-1 tvg-id="RTLup" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLup.png",RTLup
+plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A12
+
+#EXTINF:-1 tvg-id="Sat.1 Gold" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sat.1%20Gold.png",Sat.1 Gold
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-de&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1+Gold%5B%2FB%5D+-+Unsere+kleine+Farm&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1gold-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="Tele 5" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tele5-de&stream_type=LIVE&fav_type=&title=%5BB%5DTele+5%5B%2FB%5D+-+Infomercial&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tele5-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="SIXX" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sixx-de&stream_type=LIVE&fav_type=&title=%5BB%5Dsixx%5B%2FB%5D+-+Gilmore+Girls&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sixx-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ZDFneo" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=zdfneo-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DZDF+neo+HD%5B%2FB%5D+-+Death+in+Paradise&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22zdfneo-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ONE" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=one-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DONE+HD%5B%2FB%5D+-+Rosenmontagszug+aus+D%C3%BCsseldorf+2025&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22one-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenmaxx-de&stream_type=LIVE&fav_type=&title=%5BB%5DProSieben+MAXX%5B%2FB%5D+-+Border+Patrol+Australia&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22prosiebenmaxx-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ZDFinfo" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=zdfinfo-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DZDF+info+HD%5B%2FB%5D+-+Countdown+to+Murder&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22zdfinfo-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="MDR.de" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=mdr-sachsen-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DMDR+Sachsen+HD%5B%2FB%5D+-+Song+f%C3%BCr+Mia&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22mdr-sachsen-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="Geo" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo
+plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A10
+
+#EXTINF:-1 tvg-id="One Terra"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/One_Terra.png"group-title="Joyn":http-user-agent="",One Terra
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=oneterra-hd&stream_type=LIVE&fav_type=&title=%5BB%5DOne+Terra%5B%2FB%5D+-+Inseln+der+Zukunft&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22oneterra-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="N-TV" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
+plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A11
+
+#EXTINF:-1 tvg-id="Welt" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=welt-de&stream_type=LIVE&fav_type=&title=%5BB%5DWELT%5B%2FB%5D+-+WELT-Spezial&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22welt-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="DMAX" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dmax-de&stream_type=LIVE&fav_type=&title=%5BB%5DDMAX%5B%2FB%5D+-+Border+Control+-+Spaniens+Grenzsch%C3%BCtzer&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22dmax-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="N24 Doku" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=n24-de&stream_type=LIVE&fav_type=&title=%5BB%5DN24+Doku%5B%2FB%5D+-+Lost+Places&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22n24-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-de&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins+Doku%5B%2FB%5D+-+Die+Schatzsucher+von+Oak+Island&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleinsdoku-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="TLC" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tlc-de&stream_type=LIVE&fav_type=&title=%5BB%5DTLC%5B%2FB%5D+-+Dating+ohne+Grenzen%3A+Auf+immer+und+ewig%3F&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tlc-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="tagesschau24.de" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",Tagesschau 24
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tagesschau24-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DTagesschau+24+HD%5B%2FB%5D+-+ARD-Mittagsmagazin&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tagesschau24-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="RBB" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rbb.png",RBB
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=rbb-brandenburg-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DRBB+Brandenburg+HD%5B%2FB%5D+-+Morden+im+Norden&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22rbb-brandenburg-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="WDR" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/wdr.png",WDR
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=wdr-bonn-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DWDR+Bonn+HD%5B%2FB%5D+-+Rosenmontagszug+K%C3%B6ln+2025&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22wdr-bonn-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="NDR" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ndr.png",NDR
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=ndr-sh-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DNDR+Schleswig-Holstein+HD%5B%2FB%5D+-+In+aller+Freundschaft+-+Die+jungen+%C3%84rzte&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22ndr-sh-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="BR" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/br.png",BR
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=br-nord-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DBR+Fernsehen+Nord+HD%5B%2FB%5D+-+Die+Bayerisch-Schw%C3%A4bische+Prunksitzung+aus+Memmingen&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22br-nord-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="SWR/SR.de" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/swr.png",SWR
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=swr-rp-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DSWR+Rheinland-Pfalz+HD%5B%2FB%5D+-+Rosenmontagszug+Mainz+-+Motto%3A+In+Meenz+zu+feiern%2C+des+ist+nett%2C+but+don%C2%B4t+forget+se+Zugplakett%21&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22swr-rp-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="HR" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/hr.png",HR
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=hr-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DHessischer+Rundfunk+HD%5B%2FB%5D+-+Gefragt+-+Gejagt&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22hr-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="Arte" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Arte.png",Arte
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=arte-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DArte+HD%5B%2FB%5D+-+Stadt+Land+Kunst&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22arte-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="3sat.de" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3sat.png",3 Sat
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=3sat-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5D3sat+HD%5B%2FB%5D+-+Marokko+erleben+-+Von+Marrakesch+bis+in+die+W%C3%BCste&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%223sat-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="Phoenix" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/phoenix.png",Phoenix
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=phoenix-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DPhoenix+HD%5B%2FB%5D+-+phoenix+vor+ort&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22phoenix-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="ARD-alpha.de" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ARD-alpha.png",ARD Alpha
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=ard-alpha-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DARD-alpha+HD%5B%2FB%5D+-+nano+Doku&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22ard-alpha-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="Sachsen eins" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SachsenFernsehen.jpg",Sachsen eins
+
+
+#EXTINF:-1 tvg-id="Leipzig.Fernsehen.de" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/LF.png",SF-Leipzig
+
+
+#EXTINF:-1 tvg-id="Radio Bremen" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RadioBremen.png",Radio Bremen
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=radio-bremen-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DRadio+Bremen+HD%5B%2FB%5D+-+In+aller+Freundschaft+-+Die+jungen+%C3%84rzte&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22radio-bremen-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
