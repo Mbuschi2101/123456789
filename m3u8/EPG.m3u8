@@ -309,6 +309,12 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="SyFy" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
 
+#EXTINF:-1 tvg-id="ATV" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
+plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
+
+#EXTINF:-1 tvg-id="Puls 24" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls 24
+plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
+
 
 
 
