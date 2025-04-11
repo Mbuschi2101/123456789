@@ -311,6 +311,15 @@ https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="ATV" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
 https://strm.hdtvizlecanli.com/live/atv.m3u8
 
+#EXTINF:-1 tvg-id="SyFy" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
+https://izle.canlitvapp.com/syfy/index.m3u8?token=22ec9aecbd76dc84bfab1aaeaaac8cfcf8c290c4-3bdab8d71f245db28676c95d02e86db3-1744379759-1744368959&remote=2a02:2454:89e5:a700:f8f8:6f0:4b05:b511?anahtar=HZu3TGihzsRoge4Tl7a4qQ&sure=1744390859&ip=2a02:2454:89e5:a700:f8f8:6f0:4b05:b511
+
+#EXTINF:-1 tvg-id="13TH Street" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/13th%20Street%20HD.png",13TH Street
+https://izle.canlitvapp.com/13th/index.m3u8?token=44f98e3cc54aa1c4e64cb00cb7016f4e3da54622-2fa6e7ec08fc486eb69852fd88e7f853-1744379904-1744369104&remote=2a02:2454:89e5:a700:f8f8:6f0:4b05:b511?anahtar=0ICMbf5NVa1oB-6n0Ku8Bw&sure=1744391004&ip=2a02:2454:89e5:a700:f8f8:6f0:4b05:b511
+
+#EXTINF:-1 tvg-id="Universal TV" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Universal%20Channel%20HD.png",Universal TV
+https://izle.canlitvapp.com/uni/index.m3u8?token=214f83dac3117fa8c69ceeace27228cfc2eae11b-8a8e69bf202f3fae752b2a663b41d440-1744380017-1744369217&remote=2a02:2454:89e5:a700:f8f8:6f0:4b05:b511?anahtar=6h7DkpVR0bVQyd3nloZHJw&sure=1744391117&ip=2a02:2454:89e5:a700:f8f8:6f0:4b05:b511
+
 
 
 
