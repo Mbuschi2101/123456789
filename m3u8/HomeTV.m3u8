@@ -287,4 +287,30 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 
 
 
+#EXTINF:-1 tvg-id="ZDF" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
+https://izle.canlitvapp.com/zdf/tracks-v1a1/mono.m3u8?token=c5e35091ebdae6053d6b39b071340ce5e0e2a566-d0e5e76e47b7501d76b05eb55d43f7aa-1744305395-1744294595
+
+#EXTINF:-1 tvg-id="ProSieben Fun" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20Fun%20HD.png",ProSieben Fun
+https://izle.canlitvapp.com/prof/tracks-v1a1/mono.m3u8?token=82b0c8bca73bcc362a10a86f283bd1730934d542-d741f9911bae3079a3d51610243f9281-1744306082-1744295282
+
+#EXTINF:-1 tvg-id="HISTORY" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HISTORY.png",HISTORY
+https://izle.canlitvapp.com/hist/tracks-v1a1/mono.m3u8?token=a35234de27ce1d12f05516769b15fd7ae5ea91ac-4d2706b5f8dd63104f1dae2ff6162e96-1744306180-1744295380
+
+#EXTINF:-1 tvg-id="DISCOVERY" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Discovery%20Channel.png",DISCOVERY
+https://izle.canlitvapp.com/disco/tracks-v1a1/mono.m3u8?token=52abb8c6d34f4e3700eda5d562ede3437d2515fe-078dbaff7009571d6212e00fb9e8efee-1744306297-1744295497
+
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
+https://izle.canlitvapp.com/anim/tracks-v1a1/mono.m3u8?token=1cc331597c10a03a9aedeed57f5534926ed4f5f5-f9d12024e0ffda3f50b3478c15e9412f-1744306420-1744295620
+
+#EXTINF:-1 tvg-id="National Geographic" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/National%20Geographic.png",National Geographic
+https://izle.canlitvapp.com/natc/tracks-v1a1/mono.m3u8?token=08c80f9d7ddb8d4d94e6f3e338dacaf950530702-2765a9ada430aea6adbfd3c74be94aa4-1744306719-1744295919
+
+#EXTINF:-1 tvg-id="RTL" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+
+#EXTINF:-1 tvg-id="ATV" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
+https://strm.hdtvizlecanli.com/live/atv.m3u8
+
+
+
 
