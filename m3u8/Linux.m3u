@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="ZDFinfo" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DokuSat%20HD.png"group-title="TV":http-user-agent="",DokuSat
-https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
