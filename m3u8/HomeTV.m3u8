@@ -141,11 +141,26 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 #EXTINF:-1 tvg-id="DMAX" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dmax-de&stream_type=LIVE&fav_type=&title=%5BB%5DDMAX%5B%2FB%5D+-+Border+Control+-+Spaniens+Grenzsch%C3%BCtzer&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22dmax-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
+#EXTINF:-1 tvg-id="N24 Doku" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=n24-de&stream_type=LIVE&fav_type=&title=%5BB%5DN24+Doku%5B%2FB%5D+-+Lost+Places&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22n24-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-de&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins+Doku%5B%2FB%5D+-+Die+Schatzsucher+von+Oak+Island&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleinsdoku-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="TLC" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tlc-de&stream_type=LIVE&fav_type=&title=%5BB%5DTLC%5B%2FB%5D+-+Dating+ohne+Grenzen%3A+Auf+immer+und+ewig%3F&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tlc-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
+#EXTINF:-1 tvg-id="tagesschau24.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",Tagesschau 24
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tagesschau24-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DTagesschau+24+HD%5B%2FB%5D+-+ARD-Mittagsmagazin&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tagesschau24-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+
 #EXTINF:-1 tvg-id="Bild TV" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
-https://bild.personalstream.tv/v1/master.m3u8?devtype=tv&ads.country=de&ads.uid=bildde&ads.pf=bildchannel-bestofbild&ads.cpid=bild&&ads.generic=%2526eids%253Dmediaimpact.de%252C17323632500470146667022512397360%257Cexternal.mediaimpact.de%252C631644048953939555685147927795235531930%26as_ppid%3D615897622146632134286444257427897416628&ads.referer=https%3A%2F%2Fwww.bild.de%2Ftv%2Fmediathek%2Flivestream%2Fstartseite-77204148.bild.html&ads.tcf=CQLYCcAQLYCcAFZABCENBXFgAP_gAAAAABCYJFJR_C7VbGFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgBKQcBwCkmEyNASgBgACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAgCAAAAAACIwAAREAAAmRiIAcLkGEBAwAAAIAAQAAABAAAAAgMAAAgIAAIAAAAAgAAAAAAAAAIAAAAAABAAAAABAAAAeEgSgALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAK0AYYAygB3AD2gH4AfsBIgElALmAXoAxQBuADiAJEATsAocBSIC8wGTgOCAeOBIoIARAAcABsAEgARwBOAEHAI4ASkAmgBOwDqgH9ASsAsQBf4DIQG0CAAIAJBQAEA6owACAdUdAtAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgCtAGGAMoAaIA7gB7QD8AP0Ai0BHQElALEAXMAvQBigDcAHEAOoAi8BIgCdgFDgLzAX0AycBlgDVQHjgP7AkUOAMwAOAA8AC4AJAAcgBHACgAHwARwAzYCDgIQARwAlIBNACdgHSAOqAf0BKwCuwFiAL_AYIAyEBkwDaCEBAABYAVQAuABiADeAI4AdwBKQC5gGKAOoAycBqoDxwH9gSKIABwAHgEcALEAdUBYgDBAGeEoCoACwAOAA8ACIAEwAKoAXAAxQCGAIgARwAowBWgD8ALmAYoA6gCLwEiALzAZOBIokAMAAuADkAI4AfAB3AEHAI4AdUBKwC_wGWAM8KQJAAFgAVAA4ACAAGgAPAAiABMACkAFUAMQAfoBDAEQAKMAVoAygBowD8AP0Ai0BHQElALmAYoA3AB1AEXgJEATsAocBeYC-gGTgMsAeOA_sCHIEiigBgABQAFwASAAyAByAEcALYAbQA-ACOAE4AO4Ag4BHACUgFiALqAa8A6oCuwGCAMmAZ4A4ItAEAHcAXoBQ4DxywAEAjgAA.YAAAAAAAAAAA
+https://bild.personalstream.tv/v1/master.m3u8
 
 #EXTINF:-1 tvg-id="Welt der Wunder" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png",Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DokuSat" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DokuSat%20HD.png",DokuSat
+https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sky Nature" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Nature%20HD.png",Sky Nature
 plugin://plugin.video.vavooto/?name=SKY+NATURE
@@ -177,17 +192,6 @@ plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 #EXTINF:-1 tvg-id="Motorvision+" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision.png",Motorvision+
 plugin://plugin.video.vavooto/?name=MOTORVISION
 
-#EXTINF:-1 tvg-id="N24 Doku" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=n24-de&stream_type=LIVE&fav_type=&title=%5BB%5DN24+Doku%5B%2FB%5D+-+Lost+Places&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22n24-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-de&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins+Doku%5B%2FB%5D+-+Die+Schatzsucher+von+Oak+Island&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleinsdoku-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="TLC" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tlc-de&stream_type=LIVE&fav_type=&title=%5BB%5DTLC%5B%2FB%5D+-+Dating+ohne+Grenzen%3A+Auf+immer+und+ewig%3F&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tlc-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-#EXTINF:-1 tvg-id="tagesschau24.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",Tagesschau 24
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tagesschau24-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DTagesschau+24+HD%5B%2FB%5D+-+ARD-Mittagsmagazin&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tagesschau24-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="Spiegel TV Konflikte" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Spiegel%20TV%20Konflikte.png",Spiegel TV Konflikte
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=spiegel-tv-konflikte-hd&stream_type=LIVE&fav_type=&title=%5BB%5DSpiegel+TV+Konflikte+HD%5B%2FB%5D+-+Mafia-Br%C3%A4ute&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22spiegel-tv-konflikte-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
