@@ -105,7 +105,7 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+8
 #EXTINF:-1 tvg-id="Sky Sport 9" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport9.png",Sky Sport 9
 plugin://plugin.video.vavooto/?name=SKY+SPORT+9
 
-#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.jpeg",Sportdigital
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.png",Sportdigital
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=SPORTDIGITALL+FUSSBALL
 
 #EXTINF:-1 tvg-id="SPORT1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport 1
