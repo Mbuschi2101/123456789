@@ -87,6 +87,9 @@ plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astati
 #EXTINF:-1 tvg-id="Sat.1 Gold" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sat.1%20Gold.png",Sat.1 Gold
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-de&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1+Gold%5B%2FB%5D+-+Unsere+kleine+Farm&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1gold-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
+#EXTINF:-1 tvg-id="SAT.1 Emotions" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sat1-emotions_920.png",SAT.1 Emotions
+plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
+
 #EXTINF:-1 tvg-id="Tele 5" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tele5-de&stream_type=LIVE&fav_type=&title=%5BB%5DTele+5%5B%2FB%5D+-+Infomercial&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tele5-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
@@ -181,10 +184,10 @@ plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 
 #EXTINF:-1 tvg-id="Curiosity" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Curiosity%20Channel.png",Curiosity
-plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
+plugin://plugin.video.vavooto/?name=CURIOSITY+CHANNEL
 
 #EXTINF:-1 tvg-id="Animal Planet" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
-plugin://plugin.video.vavooto/?name=PLANET
+plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
 
 #EXTINF:-1 tvg-id="Auto Motor und Sport" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor und Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
@@ -258,6 +261,9 @@ plugin://plugin.video.vavooto/?name=SYFY
 
 #EXTINF:-1 tvg-id="Crime+Investigation" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/crime%2Binvestigation.png",Crime+Investigation
 plugin://plugin.video.vavooto/?name=CRIME+%2B+INVESTIGATION
+
+#EXTINF:-1 tvg-id="Sky Showcase" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skyshowcase.png",Sky Showcase
+plugin://plugin.video.vavooto/?name=SKY+SHOWCASE
 
 #EXTINF:-1 tvg-id="RBB" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rbb.png",RBB
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=rbb-brandenburg-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DRBB+Brandenburg+HD%5B%2FB%5D+-+Morden+im+Norden&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22rbb-brandenburg-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=

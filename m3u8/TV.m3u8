@@ -36,6 +36,9 @@ plugin://plugin.video.vavooto/?name=KABEL+1
 #EXTINF:-1 tvg-id="VOX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
 plugin://plugin.video.vavooto/?name=VOX
 
+#EXTINF:-1 tvg-id="VOX Up" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX Up
+plugin://plugin.video.vavooto/?name=VOX+UP
+
 #EXTINF:-1 tvg-id="SIXX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
 plugin://plugin.video.vavooto/?name=SIXX
 
@@ -50,6 +53,21 @@ plugin://plugin.video.vavooto/?name=ONE
 
 #EXTINF:-1 tvg-id="RTL Nitro" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
 plugin://plugin.video.vavooto/?name=RTL+NITRO
+
+#EXTINF:-1 tvg-id="RTL Passion" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLpassion.png",RTL Passion
+plugin://plugin.video.vavooto/?name=RTL+PASSION
+
+#EXTINF:-1 tvg-id="RTLup" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLup.png",RTLup
+plugin://plugin.video.vavooto/?name=RTL+UP
+
+#EXTINF:-1 tvg-id="RTL Crime" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLcrime.png",RTL Crime
+plugin://plugin.video.vavooto/?name=RTL+CRIME
+
+#EXTINF:-1 tvg-id="SAT.1 Emotions" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sat1-emotions_920.png",SAT.1 Emotions
+plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
+
+#EXTINF:-1 tvg-id="Sat.1 Gold" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sat.1%20Gold.png",Sat.1 Gold
+plugin://plugin.video.vavooto/?name=SAT+1+GOLD
 
 #EXTINF:-1 tvg-id="Tele 5" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
@@ -70,25 +88,28 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
 
 #EXTINF:-1 tvg-id="Sky Cinema Premiere" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Premiere.png",Sky Cinema Premiere
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
+plugin://plugin.video.vavooto/?name=SKY+24
 
 #EXTINF:-1 tvg-id="Sky Cinema Family" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaFamily.png",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 
 #EXTINF:-1 tvg-id="Sky Cinema Highlights" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Highlights.png",Sky Cinema Highlights
-#plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHTS
 
 #EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Action%20HD.png",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 
 #EXTINF:-1 tvg-id="Sky One" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky One
-plugin://plugin.video.vavooto/?name=SKY+1
+plugin://plugin.video.vavooto/?name=SKY+ONE
 
 #EXTINF:-1 tvg-id="Sky Atlantic" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Atlantic%20HD.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 
 #EXTINF:-1 tvg-id="Sky Documentaries" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Documentaries%20HD.png",Sky Documentaries
 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
+
+#EXTINF:-1 tvg-id="Sky Showcase" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skyshowcase.png",Sky Showcase
+plugin://plugin.video.vavooto/?name=SKY+SHOWCASE
 
 #EXTINF:-1 tvg-id="Crime+Investigation" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/crime%2Binvestigation.png",Crime+Investigation
 plugin://plugin.video.vavooto/?name=CRIME+%2B+INVESTIGATION
@@ -145,10 +166,10 @@ plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 
 #EXTINF:-1 tvg-id="Curiosity" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Curiosity%20Channel.png",Curiosity
-plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
+plugin://plugin.video.vavooto/?name=CURIOSITY+CHANNEL
 
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
-plugin://plugin.video.vavooto/?name=PLANET
+plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
 
 #EXTINF:-1 tvg-id="Geo" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
@@ -166,10 +187,10 @@ plugin://plugin.video.vavooto/?name=KINOWELT
 plugin://plugin.video.vavooto/?name=13TH+STREET
 
 #EXTINF:-1 tvg-id="AXN White" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png",AXN White
-plugin://plugin.video.vavooto/?name=SONY+CHANNEL
+plugin://plugin.video.vavooto/?name=AXN+WHITE
 
 #EXTINF:-1 tvg-id="AXN Black" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20Black.png",AXN Black
-plugin://plugin.video.vavooto/?name=AXN
+plugin://plugin.video.vavooto/?name=AXN+BLACK
 
 #EXTINF:-1 tvg-id="SILVERLINE" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SILVERLINE.png",SILVERLINE
 plugin://plugin.video.vavooto/?name=SILVERLINE
