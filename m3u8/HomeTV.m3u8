@@ -268,25 +268,25 @@ plugin://plugin.video.vavooto/?name=SKY+SHOWCASE
 #EXTINF:-1 tvg-id="RBB" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rbb.png",RBB
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=rbb-brandenburg-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DRBB+Brandenburg+HD%5B%2FB%5D+-+Morden+im+Norden&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22rbb-brandenburg-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="WDR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/wdr.png",WDR
+#EXTINF:-1 tvg-id="WDR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WDR.png",WDR
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=wdr-bonn-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DWDR+Bonn+HD%5B%2FB%5D+-+Rosenmontagszug+K%C3%B6ln+2025&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22wdr-bonn-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="NDR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ndr.png",NDR
+#EXTINF:-1 tvg-id="NDR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/NDR.png",NDR
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=ndr-sh-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DNDR+Schleswig-Holstein+HD%5B%2FB%5D+-+In+aller+Freundschaft+-+Die+jungen+%C3%84rzte&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22ndr-sh-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="BR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/br.png",BR
+#EXTINF:-1 tvg-id="BR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/BR.png",BR
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=br-nord-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DBR+Fernsehen+Nord+HD%5B%2FB%5D+-+Die+Bayerisch-Schw%C3%A4bische+Prunksitzung+aus+Memmingen&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22br-nord-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="SWR/SR.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/swr.png",SWR
+#EXTINF:-1 tvg-id="SWR/SR.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SWR.png",SWR
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=swr-rp-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DSWR+Rheinland-Pfalz+HD%5B%2FB%5D+-+Rosenmontagszug+Mainz+-+Motto%3A+In+Meenz+zu+feiern%2C+des+ist+nett%2C+but+don%C2%B4t+forget+se+Zugplakett%21&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22swr-rp-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="HR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/hr.png",HR
+#EXTINF:-1 tvg-id="HR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HR.png",HR
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=hr-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DHessischer+Rundfunk+HD%5B%2FB%5D+-+Gefragt+-+Gejagt&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22hr-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="Arte" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Arte.png",Arte
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=arte-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DArte+HD%5B%2FB%5D+-+Stadt+Land+Kunst&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22arte-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="3sat.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3sat.png",3 Sat
+#EXTINF:-1 tvg-id="3sat.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3Sat.png",3 Sat
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=3sat-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5D3sat+HD%5B%2FB%5D+-+Marokko+erleben+-+Von+Marrakesch+bis+in+die+W%C3%BCste&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%223sat-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="Phoenix" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/phoenix.png",Phoenix
