@@ -205,7 +205,7 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 
 #EXTINF:-1 tvg-id="Sky One" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky One
-plugin://plugin.video.vavooto/?name=SKY+1
+plugin://plugin.video.vavooto/?name=SKY+ONE
 
 #EXTINF:-1 tvg-id="Sky Atlantic" group-title="TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Atlantic%20HD.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
