@@ -304,79 +304,77 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 
 
 
-#EXTINF:-1 tvg-id="Das Erste" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
+#EXTINF:-1 tvg-id="Das Erste" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="ZDF" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
+#EXTINF:-1 tvg-id="ZDF" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-id="ProSieben" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
+#EXTINF:-1 tvg-id="ProSieben" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
 https://izle.canlitvapp.com/pro/tracks-v1a1/mono.m3u8?token=584abe1ecb135a6ed5c37a27054ec1fbc36db107-59a3ee31d83042867d7df57580043459-1747669061-1747658261
 
-#EXTINF:-1 tvg-id="kabel.eins.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
+#EXTINF:-1 tvg-id="kabel.eins.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
 https://izle.canlitvapp.com/kabel1/tracks-v1a1/mono.m3u8?token=fba8d8569e3e182015d742bd08da0af25f4a44df-1b33da1e02f3dd013daa2ab10ce82a0a-1747668786-1747657986
 
-#EXTINF:-1 tvg-id="ONE" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
+#EXTINF:-1 tvg-id="ONE" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
 
-#EXTINF:-1 tvg-id="ZDFneo" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
+#EXTINF:-1 tvg-id="ZDFneo" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8 
 
-#EXTINF:-1 tvg-id="ZDFinfo" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
+#EXTINF:-1 tvg-id="ZDFinfo" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8 
 
-#EXTINF:-1 tvg-id="Welt" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
+#EXTINF:-1 tvg-id="Welt" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 
-#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
 https://izle.canlitvapp.com/kabele/tracks-v1a1/mono.m3u8?token=1bd5a28168f91f0be90c2331aa24bc623a2e4df4-6353c71fea3de95490190434a7756a44-1747668923-1747658123
 
-#EXTINF:-1 tvg-id="Bild TV" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
+#EXTINF:-1 tvg-id="Bild TV" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8 
 
-#EXTINF:-1 tvg-id="DokuSat" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DokuSat%20HD.png",DokuSat
+#EXTINF:-1 tvg-id="DokuSat" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DokuSat%20HD.png",DokuSat
 https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="Welt der Wunder" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png",Welt der Wunder
+#EXTINF:-1 tvg-id="Welt der Wunder" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt%20der%20Wunder%20HD.png",Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8 
 
-#EXTINF:-1 tvg-id="BR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/BR.png",BR
+#EXTINF:-1 tvg-id="BR" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/BR.png",BR
 https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="HR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HR.png",HR
+#EXTINF:-1 tvg-id="HR" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HR.png",HR
 https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="MDR.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
+#EXTINF:-1 tvg-id="MDR.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
 https://mdr-live.ard-mcdn.de/mdr/live/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="NDR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/NDR.png",NDR
+#EXTINF:-1 tvg-id="NDR" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/NDR.png",NDR
 https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
 
-#EXTINF:-1 tvg-id="RBB" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rbb.png",RBB
+#EXTINF:-1 tvg-id="RBB" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rbb.png",RBB
 https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8 
 
-#EXTINF:-1 tvg-id="SR.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SWR.png",SR
+#EXTINF:-1 tvg-id="SR.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SWR.png",SR
 https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 
-#EXTINF:-1 tvg-id="SWR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SWR.png",SWR
+#EXTINF:-1 tvg-id="SWR" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SWR.png",SWR
 https://mcdn.swr.de/swr/swrbwd/master.m3u8
 
-#EXTINF:-1 tvg-id="WDR" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WDR.png",WDR
+#EXTINF:-1 tvg-id="WDR" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WDR.png",WDR
 https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="Arte" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Arte.png",Arte
+#EXTINF:-1 tvg-id="Arte" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Arte.png",Arte
 https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 
-#EXTINF:-1 tvg-id="3sat.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3Sat.png",3 Sat
+#EXTINF:-1 tvg-id="3sat.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3Sat.png",3 Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
-#EXTINF:-1 tvg-id="ARD-alpha.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ARD-alpha.png",ARD Alpha
+#EXTINF:-1 tvg-id="ARD-alpha.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ARD-alpha.png",ARD Alpha
 https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
 
-#EXTINF:-1 tvg-id="tagesschau24.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",Tagesschau 24
+#EXTINF:-1 tvg-id="tagesschau24.de" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-#EXTINF:-1 tvg-id="Phoenix" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/phoenix.png",Phoenix
+#EXTINF:-1 tvg-id="Phoenix" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/phoenix.png",Phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-
-
