@@ -314,7 +314,7 @@ https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
 #EXTINF:-1 tvg-id="RTL" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
-https://izle.canlitvapp.com/rtl/tracks-v1a1/mono.m3u8?token=c0a2c75d8de9fa193ce3667b2c6516044eed19c4-21f1e8aa83be81f4a3e34a87677ce9c9-1747670027-1747659227
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
 
 #EXTINF:-1 tvg-id="SAT.1" group-title="Test" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
 https://izle.canlitvapp.com/sat1/tracks-v1a1/mono.m3u8?token=21b8e30ab4f6bda1f331f5f5efd75dad274f17c6-d80e6721d4dea558455f147117d87f62-1747670979-1747660179
