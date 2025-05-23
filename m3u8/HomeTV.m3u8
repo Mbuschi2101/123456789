@@ -473,7 +473,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=phoenix&level=hd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=einsextra&level=hd&drm=False
 
 #EXTINF:-1 tvg-id="ARD Alpha"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ARD-alpha.png"group-title="HomeTV":http-user-agent="",ARD Alpha
-plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
+plugin://plugin.video.zattoo_com/?mode=watch&id=br-alpha&level=hd&drm=False
 
 #EXTINF:-1 tvg-id="SPORT1" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport 1
 plugin://plugin.video.zattoo_com/?mode=watch&id=dsf&level=sd&drm=False
