@@ -295,10 +295,194 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 #EXTINF:-1 tvg-id="ARD-alpha.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ARD-alpha.png",ARD Alpha
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=ard-alpha-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DARD-alpha+HD%5B%2FB%5D+-+nano+Doku&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22ard-alpha-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
+
+
+
 #EXTINF:-1 tvg-id="Schweizer TV, VPN einschalten" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/Vpn.jpg",Schweizer TV, VPN einschalten
 https://izle.canlitvapp.com/
 
+#EXTINF:-1 tvg-id="SRF 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png"group-title="Schweiz":http-user-agent="",SRF 1
+plugin://plugin.video.zattoo_com/?mode=watch&id=sf-1&level=hd&drm=False
 
+#EXTINF:-1 tvg-id="SRF zwei"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF2.png"group-title="Schweiz":http-user-agent="",SRF 2
+plugin://plugin.video.zattoo_com/?mode=watch&id=sf-2&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="SRF info"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFinfo.png"group-title="Schweiz":http-user-agent="",SRFinfo
+plugin://plugin.video.zattoo_com/?mode=watch&id=sf-info&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="S1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/S1.png"group-title="Schweiz":http-user-agent="",S1
+plugin://plugin.video.zattoo_com/?mode=watch&id=s1&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Tempora TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TemporaTV.png"group-title="Schweiz":http-user-agent="",Tempora TV
+plugin://plugin.video.zattoo_com/?mode=watch&id=tempora_tv_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Swiss 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Swiss1.png"group-title="Schweiz":http-user-agent="",Swiss 1
+plugin://plugin.video.zattoo_com/?mode=watch&id=swiss_1&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Serien+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Serien%2B.png"group-title="Schweiz":http-user-agent="",Serien+
+plugin://plugin.video.zattoo_com/?mode=watch&id=serien_plus_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Moviedome Family"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Moviedome_Family.png"group-title="Schweiz":http-user-agent="",Moviedome Family
+plugin://plugin.video.zattoo_com/?mode=watch&id=moviedome_family_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Craction TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Craction.png"group-title="Schweiz":http-user-agent="",Craction TV
+plugin://plugin.video.zattoo_com/?mode=watch&id=craction_tv_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Crime Time"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Crime_Time.png"group-title="Schweiz":http-user-agent="",Crime Time
+plugin://plugin.video.zattoo_com/?mode=watch&id=crime_time_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Wedo Movies"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Wedo_Movies.png"group-title="Schweiz":http-user-agent="",Wedo Movies
+plugin://plugin.video.zattoo_com/?mode=watch&id=wedo_movies_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Auftanken.TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AuftankenTV.png"group-title="Schweiz":http-user-agent="",Auftanken.TV
+plugin://plugin.video.zattoo_com/?mode=watch&id=auftanken_tv_ch&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="3+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3%2B.png"group-title="Schweiz":http-user-agent="",3+
+plugin://plugin.video.zattoo_com/?mode=watch&id=3plus&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="4+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/4%2B.png"group-title="Schweiz":http-user-agent="",4+
+plugin://plugin.video.zattoo_com/?mode=watch&id=4plus&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="5+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/5%2B.png"group-title="Schweiz":http-user-agent="",5+
+plugin://plugin.video.zattoo_com/?mode=watch&id=5plus_ch&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="6+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/6%2B.png"group-title="Schweiz":http-user-agent="",6+
+plugin://plugin.video.zattoo_com/?mode=watch&id=6plus_ch&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="Puls 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls8.png"group-title="Schweiz":http-user-agent="",PULS 8
+plugin://plugin.video.zattoo_com/?mode=watch&id=puls8&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="ORF 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF1.png"group-title="Schweiz":http-user-agent="",ORF 1
+plugin://plugin.video.zattoo_com/?mode=watch&id=orf-1&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="ORF 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF2.png"group-title="Schweiz":http-user-agent="",ORF 2
+plugin://plugin.video.zattoo_com/?mode=watch&id=orf-2&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="ORF 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png"group-title="Schweiz":http-user-agent="",ORF 3
+plugin://plugin.video.zattoo_com/?mode=watch&id=orf3&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="TV24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV24.png"group-title="Schweiz":http-user-agent="",TV24
+plugin://plugin.video.zattoo_com/?mode=watch&id=tv24&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="TV25"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TV25.png"group-title="Schweiz":http-user-agent="",TV25
+plugin://plugin.video.zattoo_com/?mode=watch&id=tv25&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Das Erste" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
+plugin://plugin.video.zattoo_com/?mode=watch&id=ard&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="ZDF" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
+plugin://plugin.video.zattoo_com/?mode=watch&id=zdf&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="RTL" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
+plugin://plugin.video.zattoo_com/?mode=watch&id=rtl&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="SAT.1" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
+plugin://plugin.video.zattoo_com/?mode=watch&id=sat1&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="RTL II" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
+plugin://plugin.video.zattoo_com/?mode=watch&id=rtl-2&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="KABEL 1" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel1.png",KABEL 1
+plugin://plugin.video.zattoo_com/?mode=watch&id=kabel-eins&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="ProSieben" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
+plugin://plugin.video.zattoo_com/?mode=watch&id=prosieben&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="VOX" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
+plugin://plugin.video.zattoo_com/?mode=watch&id=vox&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="ONE" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
+plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFinfo.png"group-title="Schweiz":http-user-agent="",ZDFneo
+plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="SIXX" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
+plugin://plugin.video.zattoo_com/?mode=watch&id=de_sixx&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="Tele 5" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
+plugin://plugin.video.zattoo_com/?mode=watch&id=tele-5&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="VOXup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOXup.png"group-title="Schweiz":http-user-agent="",VOXup
+plugin://plugin.video.zattoo_com/?mode=watch&id=vox_up_de&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="RTLup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLup.png"group-title="Schweiz":http-user-agent="",RTLup
+plugin://plugin.video.zattoo_com/?mode=watch&id=rtl_plus&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="RTL Nitro" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
+plugin://plugin.video.zattoo_com/?mode=watch&id=rtlnitro&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="SAT.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sat.1%20Gold.png"group-title="Schweiz":http-user-agent="",SAT.1 Gold
+plugin://plugin.video.zattoo_com/?mode=watch&id=sat1_gold_ch&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="Kabel eins Doku" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Kabel%20eins%20Doku.png",Kabel eins Doku
+plugin://plugin.video.zattoo_com/?mode=watch&id=kabel1_doku&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="Welt" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
+plugin://plugin.video.zattoo_com/?mode=watch&id=n24&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="N-TV" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
+plugin://plugin.video.zattoo_com/?mode=watch&id=n-tv&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="TLC" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
+plugin://plugin.video.zattoo_com/?mode=watch&id=tlc&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Curiosity Now"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/curiosity_now.jpg"group-title="Schweiz":http-user-agent="",Curiosity Now
+plugin://plugin.video.zattoo_com/?mode=watch&id=curiosity_now_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Spiegel TV Konflikte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SpiegelTV_Konflikte.jpg"group-title="Schweiz":http-user-agent="",Spiegel TV Konflikte
+plugin://plugin.video.zattoo_com/?mode=watch&id=spiegel_tv_konflikte_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Terra Mater Wild"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TerraMaterWild.jpg"group-title="Schweiz":http-user-agent="",Terra Mater Wild
+plugin://plugin.video.zattoo_com/?mode=watch&id=terra_mater_wild_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="One Terra"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/One_Terra.png"group-title="Schweiz":http-user-agent="",One Terra
+plugin://plugin.video.zattoo_com/?mode=watch&id=one_terra_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Moconomy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Moconomy.png"group-title="Schweiz":http-user-agent="",Moconomy
+plugin://plugin.video.zattoo_com/?mode=watch&id=moconomy_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="ZDFinfo" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
+plugin://plugin.video.zattoo_com/?mode=watch&id=zdf-info&level=sd&drm=False
+
+#EXTINF:-1 tvg-name=""tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DokuSat%20HD.png"group-title="Schweiz":http-user-agent="",DokuSat
+plugin://plugin.video.zattoo_com/?mode=watch&id=dokusat_de&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="N24 Doku" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
+plugin://plugin.video.zattoo_com/?mode=watch&id=n24_doku&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="DMAX" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
+plugin://plugin.video.zattoo_com/?mode=watch&id=dmax&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="PRO7 MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png"group-title="Schweiz":http-user-agent="",PRO7 MAXX
+plugin://plugin.video.zattoo_com/?mode=watch&id=pro7maxx_ch&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="Servus TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ServusTV.png"group-title="Schweiz":http-user-agent="",Servus TV
+plugin://plugin.video.zattoo_com/?mode=watch&id=servus_tv_austria&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Arte.png"group-title="Schweiz":http-user-agent="",Arte
+plugin://plugin.video.zattoo_com/?mode=watch&id=DE_arte&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="3Sat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3sat.png"group-title="Schweiz":http-user-agent="",3Sat
+plugin://plugin.video.zattoo_com/?mode=watch&id=3sat&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PHOENIX.png"group-title="Schweiz":http-user-agent="",Phoenix
+plugin://plugin.video.zattoo_com/?mode=watch&id=phoenix&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="Tagesschau 24" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",Tagesschau 24
+plugin://plugin.video.zattoo_com/?mode=watch&id=einsextra&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="ARD Alpha"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ARD-alpha.png"group-title="Schweiz":http-user-agent="",ARD Alpha
+plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
+
+#EXTINF:-1 tvg-id="SPORT1" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport 1
+plugin://plugin.video.zattoo_com/?mode=watch&id=dsf&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="Eurosport" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%201.png",Eurosport
+plugin://plugin.video.zattoo_com/?mode=watch&id=eurosport&level=sd&drm=False
+
+#EXTINF:-1 tvg-id="Blue Zoom"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/blue_zoom.png"group-title="Schweiz":http-user-agent="",Blue Zoom
+plugin://plugin.video.zattoo_com/?mode=watch&id=teleclub_zoom&level=hd&drm=False
 
 
 
