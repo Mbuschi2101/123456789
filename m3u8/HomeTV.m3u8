@@ -296,7 +296,7 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=ard-alpha-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DARD-alpha+HD%5B%2FB%5D+-+nano+Doku&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22ard-alpha-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="ARD-alpha.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/Vpn.jpg",Schweizer TV, VPN einschalten
-
+https://izle.canlitvapp.com/skys/tracks-v1a1/mono.m3u8?token=4550791b129c4a4fe62a97d6b8748f617917e972-3882674d516306a33389c9d2d290be66-1747672783-1747661983
 
 
 
