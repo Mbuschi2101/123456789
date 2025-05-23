@@ -616,7 +616,7 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 
 
 
-#EXTINF:-1 tvg-id="Schweizer TV, VPN einschalten" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/Vpn.jpg",Schweizer TV, VPN einschalten
+#EXTINF:-1 tvg-id="Schweizer TV VPN einschalten" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/m3u8/Vpn.jpg",Schweizer TV VPN einschalten
 https://izle.canlitvapp.com/
 
 #EXTINF:-1 tvg-id="SRF 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRF1.png"group-title="HomeTV":http-user-agent="",SRF 1
