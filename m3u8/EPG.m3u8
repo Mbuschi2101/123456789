@@ -643,7 +643,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=serien_plus_de&level=hd&drm=Fals
 #EXTINF:-1 tvg-id="Moviedome Family"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Moviedome_Family.png"group-title="HomeTV":http-user-agent="",Moviedome Family
 plugin://plugin.video.zattoo_com/?mode=watch&id=moviedome_family_de&level=hd&drm=False
 
-#EXTINF:-1 tvg-id="Top Serien" group-title="Joyn" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TopSerien.png",Top Serien
+#EXTINF:-1 tvg-id="Top Serien" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TopSerien.png",Top Serien
 plugin://plugin.video.zattoo_com/?mode=watch&id=craction_tv_de&level=hd&drm=False
 
 #EXTINF:-1 tvg-id="Crime Time"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Crime_Time.png"group-title="HomeTV":http-user-agent="",Crime Time
