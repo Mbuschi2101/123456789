@@ -361,7 +361,7 @@ https://x.canlitvapp.com/rtl/index.m3u8?token=3a517411b4b712701532d8390958b3ce0c
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-de&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1%5B%2FB%5D+-+Klinik+am+S%C3%BCdring&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="RTL II" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
-plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A2
+https://x.canlitvapp.com/rtl2/tracks-v1a1/mono.m3u8?token=883d84369ac00d364ba865c27cb7849ebd70ffbf-f0fbeb5191f155fe1327bf0343dcb037-1748869758-1748858958
 
 #EXTINF:-1 tvg-id="ProSieben" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosieben-de&stream_type=LIVE&fav_type=&title=%5BB%5DProSieben%5B%2FB%5D+-+The+Big+Bang+Theory&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22prosieben-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
@@ -388,10 +388,10 @@ plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
 plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A15
 
 #EXTINF:-1 tvg-id="NITRO.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
-plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A3
+https://x.canlitvapp.com/nitro/tracks-v1a1/mono.m3u8?token=499a9f70e2ddd9cf3d6efd52dab86d33d0319c48-fb9e881af0648454498c69a36790b97d-1748870178-1748859378
 
 #EXTINF:-1 tvg-id="RTL Crime" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLcrime.png",RTL Crime
-plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A8
+https://x.canlitvapp.com/rtlc/tracks-v1a1/mono.m3u8?token=83c4cdedece585bdca3500534fcf209967449a56-7b50e299df5a909b2ad8c8ec62c1e5f5-1748869906-1748859106
 
 #EXTINF:-1 tvg-id="RTL Living" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLliving.png",RTL Living
 plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A7
@@ -400,7 +400,7 @@ plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astati
 plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A9
 
 #EXTINF:-1 tvg-id="RTLup" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLup.png",RTLup
-plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A12
+https://x.canlitvapp.com/rtlu/tracks-v1a1/mono.m3u8?token=9ccc3bc9e5d5cdbd5496e862b9180ab0f188e74c-e7ce99a4a9929ca154ee1fa97204ec71-1748870136-1748859336
 
 #EXTINF:-1 tvg-id="Sat.1 Gold" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sat.1%20Gold.png",Sat.1 Gold
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-de&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1+Gold%5B%2FB%5D+-+Unsere+kleine+Farm&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1gold-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
