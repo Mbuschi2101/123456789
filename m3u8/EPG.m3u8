@@ -355,7 +355,8 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=zdf-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DZDF+HD%5B%2FB%5D+-+ARD-Mittagsmagazin&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22zdf-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="RTL" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
-https://izle.canlitvapp.com/rtl/tracks-v1a1/mono.m3u8?token=c0a2c75d8de9fa193ce3667b2c6516044eed19c4-21f1e8aa83be81f4a3e34a87677ce9c9-1747670027-1747659227
+#EXTVLCOPT:network-caching=1000
+rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
 
 #EXTINF:-1 tvg-id="SAT.1" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-de&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1%5B%2FB%5D+-+Klinik+am+S%C3%BCdring&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
