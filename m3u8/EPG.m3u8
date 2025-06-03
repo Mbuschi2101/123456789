@@ -355,13 +355,13 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=zdf-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DZDF+HD%5B%2FB%5D+-+ARD-Mittagsmagazin&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22zdf-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="RTL" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
-https://x.canlitvapp.com/rtl/index.m3u8?token=3a517411b4b712701532d8390958b3ce0cd28573-88d101ee0df42a45a72faf1758545385-1748868258-1748857458&remote=77.64.146.57?anahtar=YL6NwggV6ej2Nx6bwc9pVQ&sure=1748879358&ip=77.64.146.57
+https://izle.canlitvapp.com/rtl/tracks-v1a1/mono.m3u8?token=c0a2c75d8de9fa193ce3667b2c6516044eed19c4-21f1e8aa83be81f4a3e34a87677ce9c9-1747670027-1747659227
 
 #EXTINF:-1 tvg-id="SAT.1" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-de&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1%5B%2FB%5D+-+Klinik+am+S%C3%BCdring&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="RTL II" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
-https://x.canlitvapp.com/rtl2/tracks-v1a1/mono.m3u8?token=883d84369ac00d364ba865c27cb7849ebd70ffbf-f0fbeb5191f155fe1327bf0343dcb037-1748869758-1748858958
+https://izle.canlitvapp.com/rtl2/tracks-v1a1/mono.m3u8?token=04079a0a3eaf751a438a89c3cf1e64724331c9a6-05dbf8233e744f30fe93fa7a53a06661-1747670449-1747659649
 
 #EXTINF:-1 tvg-id="ProSieben" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosieben-de&stream_type=LIVE&fav_type=&title=%5BB%5DProSieben%5B%2FB%5D+-+The+Big+Bang+Theory&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22prosieben-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
@@ -370,7 +370,7 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleins-de&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins%5B%2FB%5D+-+Castle&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleins-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="VOX" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
-plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A4
+https://izle.canlitvapp.com/vox/tracks-v1a1/mono.m3u8?token=d51cbf16d5f0377ae10a003e99ca4d038e4b4a04-c98b1400bd4d97a2918cfecf537e7a1f-1747671464-1747660664
 
 #EXTINF:-1 tvg-id="ATV" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
 plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
@@ -388,10 +388,10 @@ plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
 plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A15
 
 #EXTINF:-1 tvg-id="NITRO.de" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
-https://x.canlitvapp.com/nitro/tracks-v1a1/mono.m3u8?token=499a9f70e2ddd9cf3d6efd52dab86d33d0319c48-fb9e881af0648454498c69a36790b97d-1748870178-1748859378
+https://izle.canlitvapp.com/nitro/tracks-v1a1/mono.m3u8?token=e6cdc4d33b63efce31aa242d2d769c6fe70e9ac6-7a27ef34c8afe11f9c56f6fbb40c00e1-1747670875-1747660075
 
 #EXTINF:-1 tvg-id="RTL Crime" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLcrime.png",RTL Crime
-https://x.canlitvapp.com/rtlc/tracks-v1a1/mono.m3u8?token=83c4cdedece585bdca3500534fcf209967449a56-7b50e299df5a909b2ad8c8ec62c1e5f5-1748869906-1748859106
+https://izle.canlitvapp.com/rtlc/tracks-v1a1/mono.m3u8?token=ef299f56b81ed64c180d36a9e1ba1bbbf0815472-981c86ad81597fbc888abd47dc0ffa7f-1747670590-1747659790
 
 #EXTINF:-1 tvg-id="RTL Living" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLliving.png",RTL Living
 plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A7
@@ -400,7 +400,7 @@ plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astati
 plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A9
 
 #EXTINF:-1 tvg-id="RTLup" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLup.png",RTLup
-https://x.canlitvapp.com/rtlu/tracks-v1a1/mono.m3u8?token=9ccc3bc9e5d5cdbd5496e862b9180ab0f188e74c-e7ce99a4a9929ca154ee1fa97204ec71-1748870136-1748859336
+https://izle.canlitvapp.com/rtlu/tracks-v1a1/mono.m3u8?token=16a70361f245a38bc515119c70b1dd2d26c20de9-2920a251dbcaa59c7ccb7de4d1e94a2a-1747670798-1747659998
 
 #EXTINF:-1 tvg-id="Sat.1 Gold" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sat.1%20Gold.png",Sat.1 Gold
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-de&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1+Gold%5B%2FB%5D+-+Unsere+kleine+Farm&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1gold-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
