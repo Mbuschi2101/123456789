@@ -271,7 +271,7 @@ plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 
 #EXTINF:-1 tvg-id="Curiosity" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Curiosity%20Channel.png",Curiosity
-plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
+plugin://plugin.video.vavooto/?name=CURIOSITY+CHANNEL
 
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
