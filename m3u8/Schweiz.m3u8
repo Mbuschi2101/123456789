@@ -24,7 +24,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=serien_plus_de&level=hd&drm=Fals
 #EXTINF:-1 tvg-id="Moviedome Family"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Moviedome_Family.png"group-title="Schweiz":http-user-agent="",Moviedome Family
 plugin://plugin.video.zattoo_com/?mode=watch&id=moviedome_family_de&level=hd&drm=False
 
-#EXTINF:-1 tvg-id="Craction TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Craction.png"group-title="Schweiz":http-user-agent="",Craction TV
+#EXTINF:-1 tvg-id="Top Serien" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TopSerien.png",Top Serien
 plugin://plugin.video.zattoo_com/?mode=watch&id=craction_tv_de&level=hd&drm=False
 
 #EXTINF:-1 tvg-id="Crime Time"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Crime_Time.png"group-title="Schweiz":http-user-agent="",Crime Time
@@ -172,7 +172,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=phoenix&level=hd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=einsextra&level=hd&drm=False
 
 #EXTINF:-1 tvg-id="ARD Alpha"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ARD-alpha.png"group-title="Schweiz":http-user-agent="",ARD Alpha
-plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
+plugin://plugin.video.zattoo_com/?mode=watch&id=br-alpha&level=hd&drm=False
 
 #EXTINF:-1 tvg-id="SPORT1" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport 1
 plugin://plugin.video.zattoo_com/?mode=watch&id=dsf&level=sd&drm=False
@@ -182,11 +182,6 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=eurosport&level=sd&drm=False
 
 #EXTINF:-1 tvg-id="Blue Zoom"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/blue_zoom.png"group-title="Schweiz":http-user-agent="",Blue Zoom
 plugin://plugin.video.zattoo_com/?mode=watch&id=teleclub_zoom&level=hd&drm=False
-
-
-
-
-
 
 
 
