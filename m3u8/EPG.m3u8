@@ -174,8 +174,20 @@ https://mcdn-one.ard.de/ardone/hls/master.m3u8
 #EXTINF:-1 tvg-id="RTL Nitro" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
 plugin://plugin.video.vavooto/?name=RTL+NITRO
 
+#EXTINF:-1 tvg-id="RTL Passion" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLpassion.png",RTL Passion
+plugin://plugin.video.vavooto/?name=RTL+PASSION
+
+#EXTINF:-1 tvg-id="RTL Crime" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLcrime.png",RTL Crime
+plugin://plugin.video.vavooto/?name=RTL+CRIME
+
+#EXTINF:-1 tvg-id="RTL Living" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLliving.png",RTL Living
+plugin://plugin.video.vavooto/?name=RTL+LIVING
+
 #EXTINF:-1 tvg-id="Tele 5" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
+
+#EXTINF:-1 tvg-id="Kabel 1 Classics" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/kabeleinsclassics.png",Kabel 1 Classics
+plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
 
 #EXTINF:-1 tvg-id="ZDFneo" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
@@ -274,7 +286,7 @@ plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 plugin://plugin.video.vavooto/?name=CURIOSITY+CHANNEL
 
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Animal%20Planet.png",Animal Planet
-plugin://plugin.video.vavooto/?name=PLANET
+plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
 
 #EXTINF:-1 tvg-id="Sky Showcase" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skyshowcase.png",Sky Showcase
 plugin://plugin.video.vavooto/?name=SKY+SHOWCASE
@@ -295,10 +307,10 @@ plugin://plugin.video.vavooto/?name=KINOWELT
 plugin://plugin.video.vavooto/?name=13TH+STREET
 
 #EXTINF:-1 tvg-id="AXN White" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png",AXN White
-plugin://plugin.video.vavooto/?name=SONY+CHANNEL
+plugin://plugin.video.vavooto/?name=AXN+WHITE
 
 #EXTINF:-1 tvg-id="AXN Black" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20Black.png",AXN Black
-plugin://plugin.video.vavooto/?name=AXN
+plugin://plugin.video.vavooto/?name=AXN+BLACK
 
 #EXTINF:-1 tvg-id="SILVERLINE" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SILVERLINE.png",SILVERLINE
 plugin://plugin.video.vavooto/?name=SILVERLINE
