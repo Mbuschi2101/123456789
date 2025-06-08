@@ -407,15 +407,6 @@ rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306,307,308,309
 
-#EXTINF:-1 tvg-id="RTL Crime" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLcrime.png",RTL Crime
-#https://izle.canlitvapp.com/rtlc/tracks-v1a1/mono.m3u8?token=ef299f56b81ed64c180d36a9e1ba1bbbf0815472-981c86ad81597fbc888abd47dc0ffa7f-1747670590-1747659790
-
-#EXTINF:-1 tvg-id="RTL Living" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLliving.png",RTL Living
-#plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A7
-
-#EXTINF:-1 tvg-id="RTL Passion" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLpassion.png",RTL Passion
-#plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A9
-
 #EXTINF:-1 tvg-id="RTLup" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLup.png",RTLup
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406,407,408
