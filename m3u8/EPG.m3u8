@@ -791,7 +791,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=servus_tv_austria&level=hd&drm=F
 #EXTINF:-1 tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Arte.png"group-title="HomeTV":http-user-agent="",Arte
 plugin://plugin.video.zattoo_com/?mode=watch&id=DE_arte&level=hd&drm=False
 
-#EXTINF:-1 tvg-id="3Sat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3sat.png"group-title="HomeTV":http-user-agent="",3Sat
+#EXTINF:-1 tvg-id="3Sat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3Sat.png"group-title="HomeTV":http-user-agent="",3Sat
 plugin://plugin.video.zattoo_com/?mode=watch&id=3sat&level=sd&drm=False
 
 #EXTINF:-1 tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PHOENIX.png"group-title="HomeTV":http-user-agent="",Phoenix
