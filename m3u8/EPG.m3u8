@@ -430,7 +430,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=vox&level=sd&drm=False
 #EXTINF:-1 tvg-id="ONE" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
 plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
 
-#EXTINF:-1 tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SRFinfo.png"group-title="Schweiz":http-user-agent="",ZDFneo
+#EXTINF:-1 tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png"group-title="Schweiz":http-user-agent="",ZDFneo
 plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=sd&drm=False
 
 #EXTINF:-1 tvg-id="SIXX" group-title="Schweiz" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
