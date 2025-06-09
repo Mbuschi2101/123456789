@@ -166,11 +166,17 @@ plugin://plugin.video.vavooto/?name=VOX
 #EXTINF:-1 tvg-id="SIXX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
 plugin://plugin.video.vavooto/?name=SIXX
 
+#EXTINF:-1 tvg-id="ATV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
+plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
+
 #EXTINF:-1 tvg-id="ATV 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV 2
 plugin://plugin.video.vavooto/?name=ATV+2
 
 #EXTINF:-1 tvg-id="Puls 4" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
 plugin://plugin.video.vavooto/?name=PULS+4
+
+#EXTINF:-1 tvg-id="Puls 24" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls 24
+plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
 
 #EXTINF:-1 tvg-id="ONE" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
 https://mcdn-one.ard.de/ardone/hls/master.m3u8
@@ -328,11 +334,7 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="SyFy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
 
-#EXTINF:-1 tvg-id="ATV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
-plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
 
-#EXTINF:-1 tvg-id="Puls 24" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls 24
-plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
 
 
 
