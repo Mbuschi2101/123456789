@@ -37,12 +37,13 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=zdf-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DZDF+HD%5B%2FB%5D+-+ARD-Mittagsmagazin&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22zdf-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="RTL" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
+#EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
 
 #EXTINF:-1 tvg-id="SAT.1" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-de&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1%5B%2FB%5D+-+Klinik+am+S%C3%BCdring&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
-#EXTINF:-1 tvg-id="RTL II" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
+#EXTINF:-1 tvg-id="RTL II" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rtl2.png",RTL II
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158,159
 
@@ -76,15 +77,6 @@ rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306,307,308,309
 
-#EXTINF:-1 tvg-id="RTL Crime" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLcrime.png",RTL Crime
-#plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A8
-
-#EXTINF:-1 tvg-id="RTL Living" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLliving.png",RTL Living
-#plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A7
-
-#EXTINF:-1 tvg-id="RTL Passion" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLpassion.png",RTL Passion
-#plugin://plugin.video.tvnow.de/?action=playVod&id=rrn%3Awatch%3Avideohub%3Astation%3A9
-
 #EXTINF:-1 tvg-id="RTLup" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLup.png",RTLup
 #EXTVLCOPT:network-caching=1000
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406,407,408
@@ -93,7 +85,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-de&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1+Gold%5B%2FB%5D+-+Unsere+kleine+Farm&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1gold-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
 #EXTINF:-1 tvg-id="SAT.1 Emotions" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sat1-emotions_920.png",SAT.1 Emotions
-#plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
+plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
 
 #EXTINF:-1 tvg-id="Tele 5" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tele5-de&stream_type=LIVE&fav_type=&title=%5BB%5DTele+5%5B%2FB%5D+-+Infomercial&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tele5-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
@@ -201,6 +193,7 @@ plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 #EXTINF:-1 tvg-id="Motorvision+" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision.png",Motorvision+
 plugin://plugin.video.vavooto/?name=MOTORVISION
 
+
 #EXTINF:-1 tvg-id="Spiegel TV Konflikte" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Spiegel%20TV%20Konflikte.png",Spiegel TV Konflikte
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=spiegel-tv-konflikte-hd&stream_type=LIVE&fav_type=&title=%5BB%5DSpiegel+TV+Konflikte+HD%5B%2FB%5D+-+Mafia-Br%C3%A4ute&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22spiegel-tv-konflikte-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 
@@ -299,11 +292,3 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 
 #EXTINF:-1 tvg-id="ARD-alpha.de" group-title="Home TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ARD-alpha.png",ARD Alpha
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=ard-alpha-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DARD-alpha+HD%5B%2FB%5D+-+nano+Doku&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22ard-alpha-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-
-
-
-
-
-
-
-
