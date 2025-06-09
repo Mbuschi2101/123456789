@@ -175,13 +175,13 @@ https://mcdn-one.ard.de/ardone/hls/master.m3u8
 plugin://plugin.video.vavooto/?name=RTL+NITRO
 
 #EXTINF:-1 tvg-id="RTL Passion" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLpassion.png",RTL Passion
-plugin://plugin.video.vavooto/?name=RTL+PASSION
+#plugin://plugin.video.vavooto/?name=RTL+PASSION
 
 #EXTINF:-1 tvg-id="RTL Crime" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLcrime.png",RTL Crime
-plugin://plugin.video.vavooto/?name=RTL+CRIME
+#plugin://plugin.video.vavooto/?name=RTL+CRIME
 
 #EXTINF:-1 tvg-id="RTL Living" group-title="HomeTV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLliving.png",RTL Living
-plugin://plugin.video.vavooto/?name=RTL+LIVING
+#plugin://plugin.video.vavooto/?name=RTL+LIVING
 
 #EXTINF:-1 tvg-id="Tele 5" group-title="Vavoo TV" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
