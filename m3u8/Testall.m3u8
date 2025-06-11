@@ -33,7 +33,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=rtl&level=sd&drm=False
 #EXTINF:-1 tvg-id="SAT.1" group-title="All" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
 plugin://plugin.video.zattoo_com/?mode=watch&id=sat1&level=sd&drm=False
 
-#EXTINF:-1 tvg-id="RTL II" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rtl2.png",RTL II
+#EXTINF:-1 tvg-id="RTL II" group-title="All" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rtl2.png",RTL II
 plugin://plugin.video.zattoo_com/?mode=watch&id=rtl-2&level=sd&drm=False
 
 #EXTINF:-1 tvg-id="ProSieben" group-title="All" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
