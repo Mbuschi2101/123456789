@@ -33,7 +33,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=rtl&level=sd&drm=False
 #EXTINF:-1 tvg-id="SAT.1" group-title="All" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
 plugin://plugin.video.zattoo_com/?mode=watch&id=sat1&level=sd&drm=False
 
-#EXTINF:-1 tvg-id="RTL II" group-title="All" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL2.jpeg",RTL II
+#EXTINF:-1 tvg-id="RTL II" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rtl2.png",RTL II
 plugin://plugin.video.zattoo_com/?mode=watch&id=rtl-2&level=sd&drm=False
 
 #EXTINF:-1 tvg-id="ProSieben" group-title="All" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
@@ -117,13 +117,13 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=n-tv&level=sd&drm=False
 #EXTINF:-1 tvg-id="TLC" group-title="All" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TLC.png",TLC
 plugin://plugin.video.zattoo_com/?mode=watch&id=tlc&level=hd&drm=False
 
-#EXTINF:-1 tvg-id="Curiosity Now"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/curiosity_now.jpg"group-title="All":http-user-agent="",Curiosity Now
+#EXTINF:-1 tvg-id="Curiosity Now"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Curiosity%20Channel.png"group-title="All":http-user-agent="",Curiosity Now
 plugin://plugin.video.zattoo_com/?mode=watch&id=curiosity_now_de&level=hd&drm=False
 
-#EXTINF:-1 tvg-id="Spiegel TV Konflikte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SpiegelTV_Konflikte.jpg"group-title="All":http-user-agent="",Spiegel TV Konflikte
+#EXTINF:-1 tvg-id="Spiegel TV Konflikte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Spiegel%20TV%20Konflikte.png"group-title="All":http-user-agent="",Spiegel TV Konflikte
 plugin://plugin.video.zattoo_com/?mode=watch&id=spiegel_tv_konflikte_de&level=hd&drm=False
 
-#EXTINF:-1 tvg-id="Terra Mater Wild"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/TerraMaterWild.jpg"group-title="All":http-user-agent="",Terra Mater Wild
+#EXTINF:-1 tvg-id="Terra Mater Wild"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Terra%20Mater%20Wild.png"group-title="All":http-user-agent="",Terra Mater Wild
 plugin://plugin.video.zattoo_com/?mode=watch&id=terra_mater_wild_de&level=hd&drm=False
 
 #EXTINF:-1 tvg-id="One Terra"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/One_Terra.png"group-title="All":http-user-agent="",One Terra
@@ -195,7 +195,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=auftanken_tv_ch&level=hd&drm=Fal
 #EXTINF:-1 tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Arte.png"group-title="All":http-user-agent="",Arte
 plugin://plugin.video.zattoo_com/?mode=watch&id=DE_arte&level=hd&drm=False
 
-#EXTINF:-1 tvg-id="3Sat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3sat.png"group-title="All":http-user-agent="",3Sat
+#EXTINF:-1 tvg-id="3Sat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3Sat.png"group-title="All":http-user-agent="",3Sat
 plugin://plugin.video.zattoo_com/?mode=watch&id=3sat&level=sd&drm=False
 
 #EXTINF:-1 tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PHOENIX.png"group-title="All":http-user-agent="",Phoenix
