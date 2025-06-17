@@ -1,0 +1,130 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Sky Sport News" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySortNews.png",Sky Sport News
+plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport.png",SKY Sport Bundesliga
+plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-558.php
+
+#EXTINF:-1 tvg-id="Sky Sport Austria 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyAustria.png",Sky Sport Austria
+plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-559.php
+
+#EXTINF:-1 tvg-id="Sky Sport Premier League" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyPremi.png",Sky Sport Premier League
+plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-130.php
+
+#EXTINF:-1 tvg-id="Sky Sport Top Event" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySportTopEvent.png",Sky Sport Top Event
+plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-556.php
+
+#EXTINF:-1 tvg-id="Sky Sport Mix" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySportMix.png",Sky Sport Mix
+plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-557.php
+
+#EXTINF:-1 tvg-id="Sky Sport F1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Skyf1.png",Sky Sport F1
+plugin://plugin.video.vavooto/?name=SKY+SPORT+F1
+
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_1.png",Sky Sport Bundesliga 1
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+1
+
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_1.png",Sky Sport Bundesliga 1
+plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+1
+
+#EXTINF:-1 tvg-id="Sky Bundesliga 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_2.png",Sky Sport Bundesliga 2
+plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+2
+
+#EXTINF:-1 tvg-id="Sky Bundesliga 3" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_3.png",Sky Sport Bundesliga 3
+plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+3
+
+#EXTINF:-1 tvg-id="Sky Bundesliga 4" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_4.png",Sky Sport Bundesliga 4
+plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+4
+
+#EXTINF:-1 tvg-id="Sky Bundesliga 5" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_5.png",Sky Sport Bundesliga 5
+plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+5
+
+#EXTINF:-1 tvg-id="Sky Bundesliga 6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_6.png",Sky Sport Bundesliga 6
+plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+6
+
+#EXTINF:-1 tvg-id="Sky Bundesliga 7" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_7.png",Sky Sport Bundesliga 7
+plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+7
+
+#EXTINF:-1 tvg-id="Sky Bundesliga 8" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_8.png",Sky Sport Bundesliga 8
+plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+8
+
+#EXTINF:-1 tvg-id="Sky Bundesliga 9" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SKY_Sport_9.png",Sky Sport Bundesliga 9
+plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+9
+
+#EXTINF:-1 tvg-id="DAZN 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN1.png",DAZN 1
+plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-426.php
+
+#EXTINF:-1 tvg-id="DAZN 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZN2.png",DAZN 2
+plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-427.php
+
+#EXTINF:-1 tvg-id="DAZN Fast+" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZNFast%2B.png",DAZN FAST+
+plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
+
+#EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",Magenta Sport 1
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
+
+#EXTINF:-1 tvg-id="Magenta Sport 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",Magenta Sport 2
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
+
+#EXTINF:-1 tvg-id="Magenta Sport 3" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",Magenta Sport 3
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
+
+#EXTINF:-1 tvg-id="Magenta Sport 4" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",Magenta Sport 4
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
+
+#EXTINF:-1 tvg-id="Magenta Sport 5" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",Magenta Sport 5
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
+
+#EXTINF:-1 tvg-id="Magenta Sport 6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",Magenta Sport 6
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
+
+#EXTINF:-1 tvg-id="Magenta Sport 7" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",Magenta Sport 7
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
+
+#EXTINF:-1 tvg-id="Magenta Sport 8" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",Magenta Sport 8
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
+
+#EXTINF:-1 tvg-id="Magenta Sport 9" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",Magenta Sport 9
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
+
+#EXTINF:-1 tvg-id="Sky Sport 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport11.jpg",Sky Sport 1
+plugin://plugin.video.vavooto/?name=SKY+SPORT+1
+
+#EXTINF:-1 tvg-id="Sky Sport 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport2.png",Sky Sport 2
+plugin://plugin.video.vavooto/?name=SKY+SPORT+2
+
+#EXTINF:-1 tvg-id="Sky Sport 3" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport3.png",Sky Sport 3
+plugin://plugin.video.vavooto/?name=SKY+SPORT+3
+
+#EXTINF:-1 tvg-id="Sky Sport 4" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport4.png",Sky Sport 4
+plugin://plugin.video.vavooto/?name=SKY+SPORT+4
+
+#EXTINF:-1 tvg-id="Sky Sport 5" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport5.png",Sky Sport 5
+plugin://plugin.video.vavooto/?name=SKY+SPORT+5
+
+#EXTINF:-1 tvg-id="Sky Sport 6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport6.png",Sky Sport 6
+plugin://plugin.video.vavooto/?name=SKY+SPORT+6
+
+#EXTINF:-1 tvg-id="Sky Sport 7" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport7.png",Sky Sport 7
+plugin://plugin.video.vavooto/?name=SKY+SPORT+7
+
+#EXTINF:-1 tvg-id="Sky Sport 8" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport8.png",Sky Sport 8
+plugin://plugin.video.vavooto/?name=SKY+SPORT+8
+
+#EXTINF:-1 tvg-id="Sky Sport 9" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkySport9.png",Sky Sport 9
+plugin://plugin.video.vavooto/?name=SKY+SPORT+9
+
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sportdigital.png",Sportdigital
+plugin://plugin.video.vavooto/?action=live&group=Germany&name=SPORTDIGITALL+FUSSBALL
+
+#EXTINF:-1 tvg-id="SPORT1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1.png",Sport 1
+plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-641.php
+
+#EXTINF:-1 tvg-id="SPORT1+" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SPORT1%2B%20HD.png",Sport 1+
+plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-640.php
+
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%201.png",Eurosport 1
+plugin://plugin.video.vavooto/?name=EUROSPORT+1
+
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%202.png",Eurosport 2
+plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
