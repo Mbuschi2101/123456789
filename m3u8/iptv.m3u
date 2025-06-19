@@ -1,0 +1,992 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Big Brother 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=171057&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/channel21.png" group-title="DE - DOKUMENTATION",(DE) Channel 21 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=89869&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dmf.png" group-title="DE - MUSIK",(DE) DMF
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184102&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Wuppertal
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184086&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Siegen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184085&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Münster
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184084&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Essen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184083&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Düsseldorf
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184082&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Duisburg
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184081&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Dortmund
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184080&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Bonn
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184079&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Bielefeld
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184078&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) WDR Fernsehen Aachen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184077&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) SAT.1 Rheinland-Pfalz und Hessen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184092&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) SAT.1 Nordrhein-Westfalen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184076&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) SAT.1 Hamburg und Schleswig-Holstein
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184071&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) SAT.1 Niedersachsen und Bremen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184067&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) SAT.1 Bayern
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184059&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Hessen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184072&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Hamburg & Schleswig-Holstein
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184070&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Bremen & Niedersachsen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184066&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Nordrhein-Westfalen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184075&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Bayern
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184058&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RTL Rhein-Neckar
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184047&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) MDR-Fernsehen Thüringen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184097&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) MDR-Fernsehen Sachsen-Anhalt
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184094&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) NDR Fernsehen Mecklenburg-Vorpommern
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184073&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) NDR Fernsehen Schleswig-Holstein
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184069&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) NDR Fernsehen Hamburg
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184068&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Salve TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184098&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Alltenburg TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184096&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RBW
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184095&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Glück Auf! TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184093&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) OK-TV Mainz
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184091&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) OK-TV Ludwigshafen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184090&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) OK Weinstraße
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184089&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) OK54 Trier
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184088&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) OK4
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184087&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) NRWision
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184074&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) rbb Fernsehen Brandenburg
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184065&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Lausitz TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184064&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) TVA Ostbayern
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184063&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) TV Mainfranken
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184062&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) TV Oberfranken
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184061&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Niederbayern TV Passau
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184060&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Niederbayern TV Deggendorf - Straubing
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184051&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Niederbayern TV Landshut
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184054&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) RFO
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184057&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Oberpfalz TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184056&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) münchen.tv
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184055&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) tv.ingolstadt
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184053&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) Franken Fernsehen
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184052&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) BR Fernsehen Nord
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184050&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) allgäu.tv
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184049&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - REGIONAL",(DE) a.tv 
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184048&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/daserstehd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Das Erste ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184023&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️ZDF ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184019&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️RTL ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184009&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1hd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Sat.1 ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184013&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️ProSieben ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184008&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Vox ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184017&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Kabel Eins ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184021&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl2hd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️RTL Zwei ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184010&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfinfohd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️ZDFinfo ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184020&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfneohd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Zdf Neo ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184022&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxup.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Vox Up ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184018&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tele5hd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Tele 5 ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184016&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/superrtlhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Super RTL ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184015&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sixxhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Sixx ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184014&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1goldhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Sat.1 Gold ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184012&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️RTL Up ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184011&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenmaxxhd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️ProSeiben Maxx ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184007&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Nitro ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184006&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kikahd.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Kika ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184005&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinsdoku.png" group-title="DE - DEUTSCHLAND ᵘˡᵗʳᵃ",(DE)⚡️Kabel Eins Doku ᵘˡᵗʳᵃ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184004&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/daserstehd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Das Erste ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151348&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Zdf ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151331&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️RTL ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151343&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1hd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Sat.1 ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151339&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️ProSieben ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151344&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Vox ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151334&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Kabel Eins ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151329&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl2hd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE) RTL⚡️Zwei ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151342&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfinfohd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️ZDFinfo ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151330&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/welt.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Welt ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151332&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/voxup.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Vox Up ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151333&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tele5hd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Tele 5 ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151335&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/superrtlhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Super RTL ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151336&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfneohd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Zdfneo ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151337&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sixxhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Sixx ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151338&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1goldhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Sat.1 Gold ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151340&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlup.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️RTLup ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151341&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenmaxxhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Pro7 Maxx ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151345&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/one.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️One ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151346&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️Nitro ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151347&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dmaxhd.png" group-title="DE - DEUTSCHLAND ʰᵉᵛᶜ",(DE)⚡️D Max ʰᵉᵛᶜ
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151349&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/daserstehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Das Erste 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4461&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ZDF 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4460&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4459&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl2hd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL 2 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4456&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1hd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sat 1 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4458&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Prosieben 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4457&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Vox 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4455&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Kabel 1 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4454&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sixxhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sixx 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4453&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tele5hd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Tele 5 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4452&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Nitro 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4451&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/superrtlhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Super RTL 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4469&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/zdfinfohd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ZDFinfo 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4444&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/zdfneo.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ZDFneo 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4443&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1goldhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sat 1 Gold 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4449&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenmaxx.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ProSieben Maxx 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4450&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlup.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTLup 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=128150&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/voxup.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) VOXup 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=128151&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/3satdehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) 3 Sat 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4446&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/artehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Arte 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4445&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/onehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) One 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=60636&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/mdrhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Mdr 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4439&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/anixehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Anixe+ 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=89867&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ardalpha.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ARD Alpha 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=89868&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rbb.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RBB Berlin HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=95041&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/brsudhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) BR 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4442&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/hrfernsehenhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) HR 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4441&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/srfernsehenhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) SR 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4437&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/wdrhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) WDR 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=152467&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/ndrhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) NDR 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=152466&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/n24doku.png" group-title="DE - NACHRICHTEN",(DE) N24 DOKU
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3386&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/welt.png" group-title="DE - NACHRICHTEN",(DE) Welt 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=32692&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/ntvhd.png" group-title="DE - NACHRICHTEN",(DE) N-TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=35768&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/phoenix.png" group-title="DE - NACHRICHTEN",(DE) Phoenix HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=50189&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - NACHRICHTEN",(DE) Tagesschau 24 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=35767&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/swrhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Swr 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3273&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/qvchd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) QVC HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=122572&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/sat1emotions.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Sat 1 Emotions HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=131808&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Nitro HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=49113&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlcrimehd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Crime HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=61335&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlliving.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Living HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3357&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlpassionhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) RTL Passion HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3353&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/hgtv.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Hg TV HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4448&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/wdrhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Wdr HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4440&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/servustvhd.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) ServusTV HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3346&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/weltderwunder.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Welt der Wunder HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=89862&extension=ts
+#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/radiobrementv.png" group-title="DE - DEUTSCHLAND ⁴ᵏ",(DE) Radio Bremen HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=122573&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/mtvhd.png" group-title="DE - MUSIK",(DE) MTV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4463&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/jukebox.png" group-title="DE - MUSIK",(DE) Jukebox
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3400&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/deluxemusichd.png" group-title="DE - MUSIK",(DE) Deluxe Music 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4462&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/deutschesmusikfernsehen.png" group-title="DE - MUSIK",(DE) Schlager Deluxe HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3423&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Ballermann TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184103&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Volksmusik TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184105&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Schlagerparadies TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184104&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Folx Music Television
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184106&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) One Music Television
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184107&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Zwei Music Television
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184108&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Stingray Classica
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184109&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Stingray iConcerts
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184110&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - MUSIK",(DE) Stingray Djazz
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184111&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/satlogo/germany/nick_jr_us.png" group-title="DE - KINDER",(DE) Nick JR
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=104857&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/nn/nick_toons_us.png" group-title="DE - KINDER",(DE) NickToons
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=111971&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/babytv.png" group-title="DE - KINDER",(DE) Baby Tv
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=50076&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - KINDER",(DE) Junior
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=95040&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kikahd.png" group-title="DE - KINDER",(DE) Kika 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4467&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/toggoplus.png" group-title="DE - KINDER",(DE) TOGGO plus
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3262&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMATION.jpg" group-title="DE - KINDER",(DE) Boomerang HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3429&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyjunior.png" group-title="DE - KINDER",(DE) Disney Junior 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4465&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneychannelhd.png" group-title="DE - KINDER",(DE) Disney Channel 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4466&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nickelodeonhd.png" group-title="DE - KINDER",(DE) Nickelodeon 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4468&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cartoonnetworkhd.png" group-title="DE - KINDER",(DE) Cartoon Network HD+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3426&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Micky Maus
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183873&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) PAW Patrol
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183871&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Peppa Wutz
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183870&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Rick and Morty
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183869&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Tom & Jerry TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183868&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Family Guy
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183867&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Scooby Doo
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183280&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Futurama
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183890&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Animation 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183443&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Animation 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183442&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) American Dad!
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183441&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Die Simpsons 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183271&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Die Simpsons 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183274&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) BoJack Horseman
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183891&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - KINDER",(DE) Dragonball Z Sammlung
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=103293&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/XPANIMASYONN.jpg" group-title="DE - KINDER",(DE) Death Done
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183892&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema action.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Premieren 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=57012&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema action.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Action 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4473&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema family.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Family 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4472&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema action.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Special 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=57014&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky atlantic.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Atlantic 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4471&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky krimi.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Krimi 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3311&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/lyngsat/tv/ss/sky_de_cinema.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Cinema Classics 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=111970&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema action.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Crime HD+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=123447&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/ALMAN-LOGO/sky cinema action.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Replay HD+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=123445&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=137598&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=137599&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 3 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=137600&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 4 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=137601&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 5 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=137602&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 6 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=137603&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 7 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=137604&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/Sky_Select_HD.png" group-title="DE - DEUTSCHE CINEMA",(DE) Sky Select 8 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=137605&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/13thstreethd.png" group-title="DE - DEUTSCHE CINEMA",(DE) 13th Street 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3444&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Axn Black HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=170083&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/axnhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Axn White HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3430&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/syfyhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) SyFy 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3271&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/heimatkanal.png" group-title="DE - DEUTSCHE CINEMA",(DE) Heimatkanal
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3404&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kinowelttvhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Kinowelt TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3392&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenfunhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Prosieben Fun HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3370&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/romancetvhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Romance TV
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3363&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tntcomedy.png" group-title="DE - DEUTSCHE CINEMA",(DE) WarnerTV Comedy 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=30699&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tntfilmhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Warner Film 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3265&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tntseriehd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Warner Serie 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3263&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/universalchannelhd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Universal TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3261&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinsclassicshd.png" group-title="DE - DEUTSCHE CINEMA",(DE) Kabel 1 Classics HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3397&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DEUTSCHE CINEMA",(DE) PBB Live Event
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=165279&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino 4K ᵘˡᵗʳᵃ 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=185519&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino 4K ᵘˡᵗʳᵃ 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=185882&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183219&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183220&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 3
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183221&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 4
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183222&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 5
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183223&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 6
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=182186&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 7
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183224&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 8
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183225&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 9
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183226&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Biosccop 10
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183227&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183282&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183283&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 3
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183284&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 4
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183285&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 5
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183286&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kinocinema VIP 6
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183287&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino Premium 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183419&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino Premium 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183434&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino Premium 3
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183435&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino Premium 4
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183436&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Kino Premium 5
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183437&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Amazon Prime 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183288&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Amazon Prime 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183289&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Amazon Prime 3
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183290&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Disney Original
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183439&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Netflix
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183901&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV SELECT ⁷-²⁴",(DE) Weihnachten
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183866&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Marvel 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184181&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Marvel 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184182&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Batman
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183853&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Der Herr der Ringe
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=185507&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) AL Pacino
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183235&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Andy Serkis
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183952&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Aamir Khan
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183240&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Angelina Jolie
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183828&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Audrey Hepburn
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183262&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Amanda Seyfried
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183954&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Anthony Hopkins 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184036&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Anthony Hopkins 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184230&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Brad Pitt
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=185736&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Brie Larson
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184223&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Bruce Willes 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183238&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Bruce Willes 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183239&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Burt Reynolds
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184578&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Chris Pine
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184172&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Cate Blanchett
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184122&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Christian Bale
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183852&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Cillian Murphy
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183948&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Daniel Craig
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184038&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Denzel Washington 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183242&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Denzel Washington 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183243&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Dolph Lundgren
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=185477&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) DW Johnson 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183251&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) DW Johnson 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183252&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Eric Bana
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184178&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Fast & Furious
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183248&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Gary Oldman
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183823&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Gemma Chan
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184035&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Harrison Ford
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184119&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Harry Potter
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=180509&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Jean Reno
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183933&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) James Bond 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183233&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) James Bond 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183234&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Jackie Chan 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=182790&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Jackie Chan 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=182791&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Jason Statham
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=182561&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) J.C Van Damme 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183236&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) J.C Van Damme 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183237&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) John David
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184195&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Johnny Depp
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183947&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Joel Kinnaman
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183956&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Knight Rider
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183279&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Keanu Reeves 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183231&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Keanu Reeves 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=185648&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Liam Neeson 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=182623&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Liam Neeson 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=182760&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Liam Hemsworth
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183949&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Mel Gibson 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=92912&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Mel Gibson 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183241&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Morgan Freeman
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183944&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Nicolas Cage 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=182931&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Nicolas Cage 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183928&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Odette Annable
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183962&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Ron Perlman
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=182822&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Russell Crowe
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184190&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Star Wars
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=144867&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Scott Adkins
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=149517&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Steven Seagal
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183232&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Samuel L. Jackson
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183228&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Sylvester Stallone 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183229&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Sylvester Stallone 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183230&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Sofia Boutella
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184255&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Simon Pegg
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184128&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Tom Hanks
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183249&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Vin Diesel
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183250&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Mr Bean
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151927&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Saw Sammlung
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168721&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) UFC Power Slap
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=180510&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Zooey Deschane
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=146967&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Kung Fu Sammlung
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178960&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Hellraiser Sammlung
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151926&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Bud Spencer & Terence Hil
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=183281&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/Darkmovie1.png" group-title="DE - DEV VİP ⁷-²⁴",(DE) Mission Impossible Sammlung
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=151945&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) DYN SPORTS INFO
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178719&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 1 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178718&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 2 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178717&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 3 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178716&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 4 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178715&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 5 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178714&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 6 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178713&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 7 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178712&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 8 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178711&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 9 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178710&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 10 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178709&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 11 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178708&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 12 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178707&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 13 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178706&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 14 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178705&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 15 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178704&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 16 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178703&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 17 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178702&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 18 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178701&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 19 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178700&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DYN SPORTS",(DE) Dyn Sport Event 20 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=178699&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 1 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175568&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 2 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175569&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 3 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175570&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 4 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175571&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 5 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175572&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 6 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175573&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 7 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175574&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 8 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175575&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 9 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175576&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 10 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175577&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 11 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175578&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefachampionsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 12 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175579&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 13 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175556&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 14 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175557&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 15 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175558&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 16 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175559&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 17 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175560&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 18 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175561&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 19 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175562&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/uefanationsleague.png" group-title="DE - DAZN EVENTS",(DE) Dazn Events 20 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175563&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN 1 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=11236&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN 2 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=11237&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=45307&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=45308&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Amazon Prime 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=147694&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) WWE NETWORK 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=188777&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 1 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4625&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 2 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=119131&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 3 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=119132&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 4 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=119133&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 5 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=119658&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 6 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=119659&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportaustriahd.png" group-title="DE - SPORTS",(DE) Sky Sport Austria 7 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=119660&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Rally TV 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=175869&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sport1german.png" group-title="DE - SPORTS",(DE) Sport1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=142298&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sport1german.png" group-title="DE - SPORTS",(DE) Sport1+ 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4623&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/teleclubsport1.png" group-title="DE - SPORTS",(DE) Teleclub Sport 1 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=80305&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/teleclubsport2.png" group-title="DE - SPORTS",(DE) Teleclub Sport 2 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=80306&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Bild Plus Sports 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=172341&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) Dazn Boxing
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=163987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/munchentv.png" group-title="DE - SPORTS",(DE) München TV 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=89863&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bayern1.png" group-title="DE - SPORTS",(DE) FC Bayern TV HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=91386&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png" group-title="DE - SPORTS",(DE) Eurosport 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4622&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png" group-title="DE - SPORTS",(DE) Eurosport 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4621&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/motorvisiontv.png" group-title="DE - SPORTS",(DE) Motorvision
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3390&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Auto motor sport channel HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=116643&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - SPORTS",(DE) Redbull TV 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=188298&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135183&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135182&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 3 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135181&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 4 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135180&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 5 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135179&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 6 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135178&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 7 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135177&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 8 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135176&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 9 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135175&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 10 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135174&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 11 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135173&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 12 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135172&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 13 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135171&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 14 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135170&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 15 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135169&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 16 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135168&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dazn.png" group-title="DE - SPORTS",(DE) DAZN Event 17 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135167&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Conference 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184253&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 1 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135166&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 2 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135165&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 3 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135164&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 4 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135163&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 5 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135162&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 6 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135161&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 7 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135160&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 8 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135159&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 9 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135158&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 10 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135157&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) RTL Event 11 4K+ (RTL+)
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184252&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="DE - SPORTS",(DE) Glory / UFC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=118312&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) MS Sport 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168144&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168143&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 1 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=38908&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 2 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=38907&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 3 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=38906&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 4 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=38905&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 5 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=38904&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 6 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=38903&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 7 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=47987&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 8 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=47988&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 9 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168142&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 10 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168141&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 11 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168140&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 12 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168139&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 13 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168138&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 14 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168137&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 15 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168136&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 16 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168135&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/telekomsport.png" group-title="DE - MAGENTA SPORT",(DE) Magenta Sport 17 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=168134&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 1 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4619&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga2hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 2 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3336&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga3hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 3 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3335&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga4hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 4 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3334&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga5hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 5 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3333&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga6hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 6 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3332&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga7hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 7 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3331&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga8hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 8 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3330&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga9hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 9 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3329&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 10 HEVC
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=119880&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga1hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3248&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga2hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 2 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3247&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga3hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 3 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3246&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga4hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 4 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3245&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga5hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 5 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3244&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga6hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 6 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3243&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga7hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 7 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3242&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga8hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 8 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3241&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga9hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 9 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3240&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportbundesliga10hd.png" group-title="DE - SKY BUNDESLIGA",(DE) Sky Bundesliga 10 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3337&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/TVLOGOLAR/deutschland.png" group-title="F1 TV PRO ALL COUNTRY",(DE) Sky Sport F1 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=170762&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysportnewshd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport News 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4628&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport Top Event 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=132617&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport Premier League 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=132615&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport Tennis 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=132614&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport Golf 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=132613&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport Mix 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=132612&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport F1 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=112076&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport F1 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=148490&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 1 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=4627&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport1hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 2 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3296&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport3hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 3 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3295&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport4hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 4 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3294&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport5hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 5 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3293&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport6hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 6 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3292&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport7hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 7 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3291&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport8hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 8 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3290&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport9hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 9 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3289&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/skysport4hd.png" group-title="DE - SKY SPORTS",(DE) Sky Sport 10 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=120293&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeous.png" group-title="DE - DOKUMENTATION",(DE) National Geographic 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=7522&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeowildhd.png" group-title="DE - DOKUMENTATION",(DE) Nat Geo Wild 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=7523&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/crimeinvestigationus.png" group-title="DE - DOKUMENTATION",(DE) Crime + Investigation
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=45770&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/animalplanethd.png" group-title="DE - DOKUMENTATION",(DE) Animal Planet 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3439&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/discovery.png" group-title="DE - DOKUMENTATION",(DE) Discovery 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=3421&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/skyhd.png" group-title="DE - DOKUMENTATION",(DE) Sky Documentaires 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=163464&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/picon/picon.darkbox/DarkTVLogo/Logolar/skyhd.png" group-title="DE - DOKUMENTATION",(DE) Sky Nature 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=163463&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dmax.png" group-title="DE - DOKUMENTATION",(DE) DMAX 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=7526&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/dmax.png" group-title="DE - DOKUMENTATION",(DE) DMAX HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=127796&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tlchd.png" group-title="DE - DOKUMENTATION",(DE) TLC 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=7527&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="DE - DOKUMENTATION",(DE) Kabel Eins Doku 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=48384&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/historyhd.png" group-title="DE - DOKUMENTATION",(DE) History Channel 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=7524&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/spiegelgeschichtehd.png" group-title="DE - DOKUMENTATION",(DE) Spiegel Geschichte 4K+
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=7525&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) Waidwerk
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184116&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) BonGusto
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184115&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) Curiosity Channel
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184114&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) Bergblick
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184113&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) GEO Television 4K
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=135184&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="DE - DOKUMENTATION",(DE) GEO Television
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:0B:18:72&stream=184112&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/francebayrak.gif" group-title="FR - FRANCE",(FR) TF1 4K
