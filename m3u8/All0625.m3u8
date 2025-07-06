@@ -61,7 +61,7 @@ plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2F
 plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-427.php
 
 #EXTINF:-1 tvg-id="DAZN Fast+" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DAZNFast%2B.png",DAZN FAST+
-plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
+#plugin://plugin.video.vavooto/?name=DAZN+FAST%2B
 
 #EXTINF:-1 tvg-id="Magenta Sport 1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Magenta.png",Magenta Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
@@ -130,7 +130,23 @@ plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2F
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Eurosport%202.png",Eurosport 2
-plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
+plugin://plugin.video.vavooto/?name=EUROSPORT+2
+
+#EXTINF:-1 tvg-id="Red Bull TV" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RedBullTV.png",Red Bull TV
+plugin://plugin.video.vavooto/?name=RED+BULL+TV
+
+#EXTINF:-1 tvg-id="Servus TV Motorsport" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ServusTVMotorsport.png",Servus TV Motorsport
+plugin://plugin.video.vavooto/?name=SERVUS+TV
+
+#EXTINF:-1 tvg-id="Auto Motor und Sport" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor und Sport
+plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+
+#EXTINF:-1 tvg-id="Motorvision+" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision.png",Motorvision+
+plugin://plugin.video.vavooto/?name=MOTORVISION
+
+
+
+
 
 
 
@@ -147,10 +163,10 @@ plugin://plugin.video.vavooto/?name=ORF+3
 plugin://plugin.video.vavooto/?name=ORF+SPORT
 
 #EXTINF:-1 tvg-id="Das Erste" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+plugin://plugin.video.vavooto/?name=ARD
 
 #EXTINF:-1 tvg-id="ZDF" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+plugin://plugin.video.vavooto/?name=ZDF
 
 #EXTINF:-1 tvg-id="RTL" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
 plugin://plugin.video.vavooto/?name=RTL
@@ -170,11 +186,14 @@ plugin://plugin.video.vavooto/?name=KABEL+1
 #EXTINF:-1 tvg-id="VOX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
 plugin://plugin.video.vavooto/?name=VOX
 
+#EXTINF:-1 tvg-id="VOXup" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOXup.png",VOXup
+plugin://plugin.video.vavooto/?name=VOX+UP
+
 #EXTINF:-1 tvg-id="SIXX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/sixx.png",SIXX
 plugin://plugin.video.vavooto/?name=SIXX
 
 #EXTINF:-1 tvg-id="ATV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
-plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
+#plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
 
 #EXTINF:-1 tvg-id="ATV 2" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV 2
 plugin://plugin.video.vavooto/?name=ATV+2
@@ -183,22 +202,28 @@ plugin://plugin.video.vavooto/?name=ATV+2
 plugin://plugin.video.vavooto/?name=PULS+4
 
 #EXTINF:-1 tvg-id="Puls 24" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls 24
-plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
+#plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
 
 #EXTINF:-1 tvg-id="ONE" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ONE.png",ONE
-https://mcdn-one.ard.de/ardone/hls/master.m3u8
+plugin://plugin.video.vavooto/?name=ONE
+
+#EXTINF:-1 tvg-id="Super RTL" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SuperRTL(.png",Super RTL
+plugin://plugin.video.vavooto/?name=SUPER+RTL
+
+#EXTINF:-1 tvg-id="RTLup" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLup.png",RTLup
+plugin://plugin.video.vavooto/?name=RTL+UP
 
 #EXTINF:-1 tvg-id="RTL Nitro" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
-plugin://plugin.video.vavooto/?name=RTL+NITRO
+plugin://plugin.video.vavooto/?name=NITRO
 
 #EXTINF:-1 tvg-id="RTL Passion" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLpassion.png",RTL Passion
-#plugin://plugin.video.vavooto/?name=RTL+PASSION
+plugin://plugin.video.vavooto/?name=RTL+PASSION
 
 #EXTINF:-1 tvg-id="RTL Crime" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLcrime.png",RTL Crime
-#plugin://plugin.video.vavooto/?name=RTL+CRIME
+plugin://plugin.video.vavooto/?name=RTL+CRIME
 
 #EXTINF:-1 tvg-id="RTL Living" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLliving.png",RTL Living
-#plugin://plugin.video.vavooto/?name=RTL+LIVING
+plugin://plugin.video.vavooto/?name=RTL+LIVING
 
 #EXTINF:-1 tvg-id="Tele 5" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tele5.png",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
@@ -207,10 +232,13 @@ plugin://plugin.video.vavooto/?name=TELE+5
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
 
 #EXTINF:-1 tvg-id="ZDFneo" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
+plugin://plugin.video.vavooto/?name=ZDF+NEO
 
 #EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ProSieben%20MAXX.png",ProSieben MAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
+
+#EXTINF:-1 tvg-id="Comedy Central" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Comedy_Central.png",Comedy Central
+plugin://plugin.video.vavooto/?name=COMEDY+CENTRAL
 
 #EXTINF:-1 tvg-id="Warner TV Comedy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WarnerComedy.png",Warner TV Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
@@ -233,26 +261,44 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 #EXTINF:-1 tvg-id="Sky Cinema Action" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Cinema%20Action%20HD.png",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 
+#EXTINF:-1 tvg-id="Sky Cinema Highlights" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaHighlights.png",Sky Cinema Highlights
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHT
+
+#EXTINF:-1 tvg-id="Sky Cinema Classics" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCinemaClassics.png",Sky Cinema Classics
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
+
+#EXTINF:-1 tvg-id="Sky Atlantic" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Atlantic%20HD.png",Sky Atlantic
+plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
+
 #EXTINF:-1 tvg-id="Sky One" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20One%20HD.png",Sky One
 plugin://plugin.video.vavooto/?name=SKY+ONE
 
 #EXTINF:-1 tvg-id="Sky Atlantic" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Atlantic%20HD.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 
+#EXTINF:-1 tvg-id="Sky Crime" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyCrime.png",Sky Crime 
+plugin://plugin.video.vavooto/?name=SKY+CRIME
+
+#EXTINF:-1 tvg-id="Sky Krimi" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyKrimi.png",Sky Krimi 
+plugin://plugin.video.vavooto/?name=SKY+KRIMI
+
 #EXTINF:-1 tvg-id="Sky Documentaries" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Documentaries%20HD.png",Sky Documentaries
 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
+
+#EXTINF:-1 tvg-id="Sky Replay" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SkyReplay.png",Sky Replay
+plugin://plugin.video.vavooto/?name=SKY+REPLAY
 
 #EXTINF:-1 tvg-id="Crime+Investigation" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/crime%2Binvestigation.png",Crime+Investigation
 plugin://plugin.video.vavooto/?name=CRIME+%2B+INVESTIGATION
 
 #EXTINF:-1 tvg-id="ZDFinfo" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFinfo.png",ZDFinfo
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+plugin://plugin.video.vavooto/?name=ZDF+INFO
 
 #EXTINF:-1 tvg-name=""tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DokuSat%20HD.png"group-title="Deutschland":http-user-agent="",DokuSat
 https://dokusat.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tagesschau 24" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Tagesschau.png",Tagesschau 24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 
 #EXTINF:-1 tvg-id="Bild TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bild.png",Bild TV
 https://bild.personalstream.tv/v1/master.m3u8
@@ -261,16 +307,16 @@ https://bild.personalstream.tv/v1/master.m3u8
 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 
 #EXTINF:-1 tvg-id="MDR Sachsen" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/MDR%20Sachsen.png",MDR Sachsen
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+plugin://plugin.video.vavooto/?name=MDR
 
 #EXTINF:-1 tvg-id="N-TV" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
 plugin://plugin.video.vavooto/?name=NTV
 
 #EXTINF:-1 tvg-id="Welt" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Welt.png",Welt
-https://welt.personalstream.tv/v1/master.m3u8?ads.country=de&ads.pf=welttv&ads.tcf=CQIpWwAQIpWwAFZABCENBOFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBiACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIgAAREAAAmRgIAcLkGEBAwAAAIEAQAAABAAAAAgMAAAgAAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRAALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4ICRQQAgAA4ADYAJAAjgCcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CAAIAJBQAEA6owACAdUdAqAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgDDAGUANEAe0A_AD9AIsAR0AkoBYgC5gF6AMUAbgA4gB1AEXgJEATsAocBeYC-gGTgMsAaqBIocAZgAcAB4AFwASAA5ACOAFAAPgAjgBmwEHAQgAiIBHACUgE0AJ2AdIA6oB_QErAK7AX-AwQBkIDJgG0EIBoACwAqgBcADEAG8ARwBKQC5gGKAOoAycBqoEiiAAYAB4BHACxAHVAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAOCAhyBIooAVAAUABcAEgAMgAcgBHAC2AHwARwAnACDgEcAJSAWIAuoBrwDqgK7AYIAyYBnhaAEAXoBQ5YACARw.YAAAAAAAAAAA&ads.generic=%2526eids%253Dmediaimpact.de%252C17325282693601957116687530379373%257Cexternal.mediaimpact.de%252C577993233871720744665382025831006352366%26as_ppid%3D401561220977560455295691427433640142454&ads.referer=https%3A%2F%2Fwww.welt.de%2Ftv-programm-live-stream%2F&ads.cpid=ssaiunmuted
+plugin://plugin.video.vavooto/?name=WELT
 
 #EXTINF:-1 tvg-id="N24 Doku" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
-https://n24-doku.personalstream.tv/v1/weltde/master.m3u8?ads.pf=n24doku&ads.tcf=CQIpWwAQIpWwAFZABCENBOFgAP_gAAAAAAYgJFJR_C7VbWFD4Xp3aPsgOYxXVNgSQsQwAACBA0ABgAKQcBwCkmAyNASgBiACGQAAoRBBIAAECAAEAUAAYAAEAACAAAAEgAEIIABAgBEAAAIYAAoCAAAAAACIgAAREAAAmRgIAcLkGEBAwAAAIEAQAAABAAAAAgMAAAgAAAIAAAAAAAAAAAAAAAIAAAAAABAAAAABAAAAeEgRAALAAqABwADwAIIAZABoADwAIgATAAqgBvAD8AISAQwBEACOAEsAMMAZQA9oB-AH6ASUAuYBegDFAG4AOIAkQBOwChwFIgLzAZOA4ICRQQAgAA4ADYAJAAjgCcAIOARwAlIBNACdgHVAP6AlYBf4DIQG0CAAIAJBQAEA6owACAdUdAqAAWABUADgAIIAZABoADwAIgATAAqwBcAF0AMQAbwA_QCGAIgASwAnABRgDDAGUANEAe0A_AD9AIsAR0AkoBYgC5gF6AMUAbgA4gB1AEXgJEATsAocBeYC-gGTgMsAaqBIocAZgAcAB4AFwASAA5ACOAFAAPgAjgBmwEHAQgAiIBHACUgE0AJ2AdIA6oB_QErAK7AX-AwQBkIDJgG0EIBoACwAqgBcADEAG8ARwBKQC5gGKAOoAycBqoEiiAAYAB4BHACxAHVAYIAzwlAUAAWABwAHgARAAmABVAC4AGKAQwBEACOAFGAPwAuYBigDqAIvASIAvMBk4EiiQAsAC4AOQAjgB8AIOARwA6oCVgF_gMsAZ4UgRgALAAqABwAEAANAAeABEACYAFIAKoAYgA_QCGAIgAUYAygBowD8AP0AiwBHQCSgFzAMUAbgA6gCLwEiAJ2AUOAvMBfQDJwGWAOCAhyBIooAVAAUABcAEgAMgAcgBHAC2AHwARwAnACDgEcAJSAWIAuoBrwDqgK7AYIAyYBnhaAEAXoBQ5YACARw.YAAAAAAAAAAA&ads.generic=%2526eids%253Dmediaimpact.de%252C17325282693601957116687530379373%257Cexternal.mediaimpact.de%252C577993233871720744665382025831006352366%26as_ppid%3D401561220977560455295691427433640142454&ads.referer=https%3A%2F%2Fwww.welt.de%2Ftv-programm-n24-doku%2F&ads.cpid=ssaiunmuted
+plugin://plugin.video.vavooto/?name=N24+DOKU
 
 #EXTINF:-1 tvg-id="DMAX" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/DMAX.png",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
@@ -311,12 +357,6 @@ plugin://plugin.video.vavooto/?name=SKY+SHOWCASE
 #EXTINF:-1 tvg-id="Geo" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/GEO%20Television.png",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
 
-#EXTINF:-1 tvg-id="Auto Motor und Sport" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AutoMotorSport%20HD.png",Auto Motor und Sport
-plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
-
-#EXTINF:-1 tvg-id="Motorvision+" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Motorvision.png",Motorvision+
-plugin://plugin.video.vavooto/?name=MOTORVISION
-
 #EXTINF:-1 tvg-id="Kinowelt" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/KinoweltTV.png",Kinowelt
 plugin://plugin.video.vavooto/?name=KINOWELT
 
@@ -340,6 +380,31 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 
 #EXTINF:-1 tvg-id="SyFy" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
+
+#EXTINF:-1 tvg-id="3sat.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/3Sat.png",3 Sat
+plugin://plugin.video.vavooto/?name=3+SAT
+
+#EXTINF:-1 tvg-id="BR" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/BR.png",BR
+plugin://plugin.video.vavooto/?name=BR
+
+#EXTINF:-1 tvg-id="HR" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/HR.png",HR
+plugin://plugin.video.vavooto/?name=HR
+
+#EXTINF:-1 tvg-id="NDR" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/NDR.png",NDR
+plugin://plugin.video.vavooto/?name=NDR
+
+#EXTINF:-1 tvg-id="Phoenix" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/phoenix.png",Phoenix
+plugin://plugin.video.vavooto/?name=PHOENIX
+
+#EXTINF:-1 tvg-id="RBB" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rbb.png",RBB
+plugin://plugin.video.vavooto/?name=RBB
+
+#EXTINF:-1 tvg-id="SR" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/swr.png",SR
+plugin://plugin.video.vavooto/?name=SR
+
+#EXTINF:-1 tvg-id="WDR" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WDR.png",WDR
+plugin://plugin.video.vavooto/?name=WDR
+
 
 
 
