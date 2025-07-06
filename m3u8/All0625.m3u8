@@ -399,7 +399,7 @@ plugin://plugin.video.vavooto/?name=PHOENIX
 #EXTINF:-1 tvg-id="RBB" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rbb.png",RBB
 plugin://plugin.video.vavooto/?name=RBB
 
-#EXTINF:-1 tvg-id="SR" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/swr.png",SR
+#EXTINF:-1 tvg-id="SR" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SWR.png",SR
 plugin://plugin.video.vavooto/?name=SR
 
 #EXTINF:-1 tvg-id="WDR" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WDR.png",WDR
