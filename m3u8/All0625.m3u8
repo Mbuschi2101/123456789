@@ -640,3 +640,54 @@ plugin://plugin.video.vavooto/?name=STERN+FILME+4
 #EXTINF:-1 tvg-id="Stern TV 5" group-title="Select" tvg-logo="",Stern TV 5
 plugin://plugin.video.vavooto/?name=STERN+FILME+5
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Das Erste" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
+plugin://plugin.video.tvone112/play/52/160/play.pvr
+
+#EXTINF:-1 tvg-id="ZDF" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
+plugin://plugin.video.tvone112/play/52/181/play.pvr
+
+#EXTINF:-1 tvg-id="RTL" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
+plugin://plugin.video.tvone112/play/52/166/play.pvr
+
+#EXTINF:-1 tvg-id="SAT.1" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SAT1.png",SAT.1
+plugin://plugin.video.tvone112/play/52/171/play.pvr
+
+#EXTINF:-1 tvg-id="RTL II" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/rtl2.png",RTL II
+plugin://plugin.video.tvone112/play/52/167/play.pvr
+
+#EXTINF:-1 tvg-id="ProSieben" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PRO7.png",ProSieben
+plugin://plugin.video.tvone112/play/52/165/play.pvr
+
+#EXTINF:-1 tvg-id="VOX" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/VOX.png",VOX
+plugin://plugin.video.tvone112/play/52/180/play.pvr
+
+#EXTINF:-1 tvg-id="RTL Nitro" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Nitro.png",RTL Nitro
+plugin://plugin.video.tvone112/play/52/169/play.pvr
+
+#EXTINF:-1 tvg-id="RTL Passion" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLpassion.png",RTL Passion
+plugin://plugin.video.tvone112/play/52/170/play.pvr
+
+#EXTINF:-1 tvg-id="Super RTL" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/SuperRTL(.png",Super RTL
+plugin://plugin.video.tvone112/play/52/179/play.pvr
+
+#EXTINF:-1 tvg-id="RTL Crime" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTLcrime.png",RTL Crime
+plugin://plugin.video.tvone112/play/52/168/play.pvr
+
+#EXTINF:-1 tvg-id="ZDFneo" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDFneo.png",ZDFneo
+plugin://plugin.video.tvone112/play/52/2689/play.pvr
+
+#EXTINF:-1 tvg-id="AXN White" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/AXN%20White%20HD.png",AXN White
+plugin://plugin.video.tvone112/play/52/161/play.pvr
+
+#EXTINF:-1 tvg-id="N24 Doku" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/N24%20Doku.png",N24 Doku
+plugin://plugin.video.tvone112/play/52/163/play.pvr
+
+#EXTINF:-1 tvg-id="N-TV" group-title="Test TVONE" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/n-tv.png",N-TV
+plugin://plugin.video.tvone112/play/52/164/play.pvr
+
