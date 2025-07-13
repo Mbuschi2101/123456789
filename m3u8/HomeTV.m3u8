@@ -296,37 +296,7 @@ plugin://plugin.video.vavooto/?name=SR
 plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 
 #EXTINF:-1 tvg-id="WDR" group-title="News/Doku" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/WDR.png",WDR
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 
 
 
