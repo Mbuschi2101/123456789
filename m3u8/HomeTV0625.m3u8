@@ -167,7 +167,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=sf-info&level=hd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=s1&level=hd&drm=False
 
 #EXTINF:-1 tvg-id="Das Erste" group-title="News/Doku" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8 
+plugin://plugin.video.tvone112/play/52/160/play.pvr
 
 #EXTINF:-1 tvg-id="ZDF" group-title="News/Doku" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
