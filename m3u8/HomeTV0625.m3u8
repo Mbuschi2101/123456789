@@ -519,21 +519,21 @@ plugin://plugin.video.vavooto/?name=BLUETV+THRILLER+1+%CA%9C%E1%B4%85
 
 
 
-#EXTINF:-1 tvg-id="Sky Box Fantasy" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Fantasy
+#EXTINF:-1 tvg-id="Sky Box Fantasy" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Fantasy
 plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
 
-#EXTINF:-1 tvg-id="Sky Box Horror" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Horror
+#EXTINF:-1 tvg-id="Sky Box Horror" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Horror
 plugin://plugin.video.vavooto/?name=SKY+BOX+HORROR
 
-#EXTINF:-1 tvg-id="Sky Box Komödie" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Komödie
+#EXTINF:-1 tvg-id="Sky Box Komödie" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Komödie
 plugin://plugin.video.vavooto/?name=SKY+BOX+KOMODIE
 
-#EXTINF:-1 tvg-id="Sky Box Mystery" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Mystery
+#EXTINF:-1 tvg-id="Sky Box Mystery" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Mystery
 plugin://plugin.video.vavooto/?name=SKY+BOX+MYSTERY
 
-#EXTINF:-1 tvg-id="Sky Box Sci-Fi" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Sci-Fi
+#EXTINF:-1 tvg-id="Sky Box Sci-Fi" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Sci-Fi
 plugin://plugin.video.vavooto/?name=SKY+BOX+SCI-FI
 
-#EXTINF:-1 tvg-id="Sky Box Thriller" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Thriller
+#EXTINF:-1 tvg-id="Sky Box Thriller" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Thriller
 plugin://plugin.video.vavooto/?name=SKY+BOX+THRILLER
 
