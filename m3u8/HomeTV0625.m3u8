@@ -488,23 +488,36 @@ plugin://plugin.video.vavooto/?name=MOTORVISION
 
 
 
-#EXTINF:-1 tvg-id="Blue TV Action" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",Blue TV Action
+#EXTINF:-1 tvg-id="BlueTV 4K Action" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",BlueTV 4K Action
 plugin://plugin.video.vavooto/?name=BLUETV+4K+ACTION
 
-#EXTINF:-1 tvg-id="Blue TV Horror" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",Blue TV Horror
+#EXTINF:-1 tvg-id="BlueTV 4K Horror" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",BlueTV 4K Horror
 plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
 
-#EXTINF:-1 tvg-id="Max Kino" group-title="Select" tvg-logo="",Max Kino
-plugin://plugin.video.vavooto/?name=MAX+KINO
+#EXTINF:-1 tvg-id="BlueTV 4K Sci-Fi" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",BlueTV 4K Sci-Fi
+plugin://plugin.video.vavooto/?name=BLUETV+4K+SCI-FI
 
-#EXTINF:-1 tvg-id="Max Kino 2" group-title="Select" tvg-logo="",Max Kino 2
-plugin://plugin.video.vavooto/?name=MAX+KINO+2
+#EXTINF:-1 tvg-id="BlueTV 4K Thriller" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",BlueTV 4K Thriller
+plugin://plugin.video.vavooto/?name=BLUETV+4K+THRILLER
 
-#EXTINF:-1 tvg-id="Max Kino 3" group-title="Select" tvg-logo="",Max Kino 3
-plugin://plugin.video.vavooto/?name=MAX+KINO+3
 
-#EXTINF:-1 tvg-id="Max Kino Collection" group-title="Select" tvg-logo="",Max Kino Collection
-plugin://plugin.video.vavooto/?name=MAX+KINO+COLLECTION
+
+#EXTINF:-1 tvg-id="BlueTV Action" group-title="Select" tvg-logo="",BlueTV Action
+plugin://plugin.video.vavooto/?name=BLUETV+ACTION+%CA%9C%E1%B4%85
+
+#EXTINF:-1 tvg-id="BlueTV Fantasy" group-title="Select" tvg-logo="",BlueTV Fantasy
+plugin://plugin.video.vavooto/?name=BLUETV+FANTASY+%CA%9C%E1%B4%85
+
+#EXTINF:-1 tvg-id="BlueTV Horror" group-title="Select" tvg-logo="",BlueTV Horror
+plugin://plugin.video.vavooto/?name=BLUETV+HORROR+1+%CA%9C%E1%B4%85
+
+#EXTINF:-1 tvg-id="BlueTV Sci-Fi" group-title="Select" tvg-logo="",BlueTV Sci-Fi
+plugin://plugin.video.vavooto/?name=BLUETV+SCIENCE-FICTION+%CA%9C%E1%B4%85
+
+#EXTINF:-1 tvg-id="BlueTV Thriller" group-title="Select" tvg-logo="",BlueTV Thriller
+plugin://plugin.video.vavooto/?name=BLUETV+THRILLER+1+%CA%9C%E1%B4%85
+
+
 
 #EXTINF:-1 tvg-id="Sky Box Fantasy" group-title="Select" tvg-logo="",Sky Box Fantasy
 plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
@@ -521,4 +534,6 @@ plugin://plugin.video.vavooto/?name=SKY+BOX+MYSTERY
 #EXTINF:-1 tvg-id="Sky Box Sci-Fi" group-title="Select" tvg-logo="",Sky Box Sci-Fi
 plugin://plugin.video.vavooto/?name=SKY+BOX+SCI-FI
 
+#EXTINF:-1 tvg-id="Sky Box Thriller" group-title="Select" tvg-logo="",Sky Box Thriller
+plugin://plugin.video.vavooto/?name=SKY+BOX+THRILLER
 
