@@ -488,8 +488,11 @@ plugin://plugin.video.vavooto/?name=MOTORVISION
 
 
 
-#EXTINF:-1 tvg-id="Blue TV Action" group-title="Select" tvg-logo="",Blue TV Action
+#EXTINF:-1 tvg-id="Blue TV Action" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",Blue TV Action
 plugin://plugin.video.vavooto/?name=BLUETV+4K+ACTION
+
+#EXTINF:-1 tvg-id="Blue TV Horror" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",Blue TV Horror
+plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
 
 #EXTINF:-1 tvg-id="Max Kino" group-title="Select" tvg-logo="",Max Kino
 plugin://plugin.video.vavooto/?name=MAX+KINO
@@ -518,17 +521,4 @@ plugin://plugin.video.vavooto/?name=SKY+BOX+MYSTERY
 #EXTINF:-1 tvg-id="Sky Box Sci-Fi" group-title="Select" tvg-logo="",Sky Box Sci-Fi
 plugin://plugin.video.vavooto/?name=SKY+BOX+SCI-FI
 
-#EXTINF:-1 tvg-id="Stern TV 1" group-title="Select" tvg-logo="",Stern TV 1
-plugin://plugin.video.vavooto/?name=STERN+FILME+1
 
-#EXTINF:-1 tvg-id="Stern TV 2" group-title="Select" tvg-logo="",Stern TV 2
-plugin://plugin.video.vavooto/?name=STERN+FILME+2
-
-#EXTINF:-1 tvg-id="Stern TV 3" group-title="Select" tvg-logo="",Stern TV 3
-plugin://plugin.video.vavooto/?name=STERN+FILME+3
-
-#EXTINF:-1 tvg-id="Stern TV 4" group-title="Select" tvg-logo="",Stern TV 4
-plugin://plugin.video.vavooto/?name=STERN+FILME+4
-
-#EXTINF:-1 tvg-id="Stern TV 5" group-title="Select" tvg-logo="",Stern TV 5
-plugin://plugin.video.vavooto/?name=STERN+FILME+5
