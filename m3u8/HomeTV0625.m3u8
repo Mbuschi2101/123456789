@@ -502,38 +502,38 @@ plugin://plugin.video.vavooto/?name=BLUETV+4K+THRILLER
 
 
 
-#EXTINF:-1 tvg-id="BlueTV Action" group-title="Select" tvg-logo="",BlueTV Action
+#EXTINF:-1 tvg-id="BlueTV Action" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetvaction.png",BlueTV Action
 plugin://plugin.video.vavooto/?name=BLUETV+ACTION+%CA%9C%E1%B4%85
 
-#EXTINF:-1 tvg-id="BlueTV Fantasy" group-title="Select" tvg-logo="",BlueTV Fantasy
+#EXTINF:-1 tvg-id="BlueTV Fantasy" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetvfantasy.png",BlueTV Fantasy
 plugin://plugin.video.vavooto/?name=BLUETV+FANTASY+%CA%9C%E1%B4%85
 
-#EXTINF:-1 tvg-id="BlueTV Horror" group-title="Select" tvg-logo="",BlueTV Horror
+#EXTINF:-1 tvg-id="BlueTV Horror" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetvhorror.png",BlueTV Horror
 plugin://plugin.video.vavooto/?name=BLUETV+HORROR+1+%CA%9C%E1%B4%85
 
-#EXTINF:-1 tvg-id="BlueTV Sci-Fi" group-title="Select" tvg-logo="",BlueTV Sci-Fi
+#EXTINF:-1 tvg-id="BlueTV Sci-Fi" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetvscifi.png",BlueTV Sci-Fi
 plugin://plugin.video.vavooto/?name=BLUETV+SCIENCE-FICTION+%CA%9C%E1%B4%85
 
-#EXTINF:-1 tvg-id="BlueTV Thriller" group-title="Select" tvg-logo="",BlueTV Thriller
+#EXTINF:-1 tvg-id="BlueTV Thriller" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetvthriller.png",BlueTV Thriller
 plugin://plugin.video.vavooto/?name=BLUETV+THRILLER+1+%CA%9C%E1%B4%85
 
 
 
-#EXTINF:-1 tvg-id="Sky Box Fantasy" group-title="Select" tvg-logo="",Sky Box Fantasy
+#EXTINF:-1 tvg-id="Sky Box Fantasy" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Fantasy
 plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
 
-#EXTINF:-1 tvg-id="Sky Box Horror" group-title="Select" tvg-logo="",Sky Box Horror
+#EXTINF:-1 tvg-id="Sky Box Horror" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Horror
 plugin://plugin.video.vavooto/?name=SKY+BOX+HORROR
 
-#EXTINF:-1 tvg-id="Sky Box Komödie" group-title="Select" tvg-logo="",Sky Box Komödie
+#EXTINF:-1 tvg-id="Sky Box Komödie" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Komödie
 plugin://plugin.video.vavooto/?name=SKY+BOX+KOMODIE
 
-#EXTINF:-1 tvg-id="Sky Box Mystery" group-title="Select" tvg-logo="",Sky Box Mystery
+#EXTINF:-1 tvg-id="Sky Box Mystery" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Mystery
 plugin://plugin.video.vavooto/?name=SKY+BOX+MYSTERY
 
-#EXTINF:-1 tvg-id="Sky Box Sci-Fi" group-title="Select" tvg-logo="",Sky Box Sci-Fi
+#EXTINF:-1 tvg-id="Sky Box Sci-Fi" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Sci-Fi
 plugin://plugin.video.vavooto/?name=SKY+BOX+SCI-FI
 
-#EXTINF:-1 tvg-id="Sky Box Thriller" group-title="Select" tvg-logo="",Sky Box Thriller
+#EXTINF:-1 tvg-id="Sky Box Thriller" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox.jpg",Sky Box Thriller
 plugin://plugin.video.vavooto/?name=SKY+BOX+THRILLER
 
