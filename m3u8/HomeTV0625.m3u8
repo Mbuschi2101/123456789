@@ -509,7 +509,7 @@ plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
 #EXTINF:-1 tvg-id="Sky Box Horror" group-title="Select" tvg-logo="",Sky Box Horror
 plugin://plugin.video.vavooto/?name=SKY+BOX+HORROR
 
-#EXTINF:-1 tvg-id="Sky Box Komedie" group-title="Select" tvg-logo="",Sky Box Komedie
+#EXTINF:-1 tvg-id="Sky Box Komödie" group-title="Select" tvg-logo="",Sky Box Komödie
 plugin://plugin.video.vavooto/?name=SKY+BOX+KOMODIE
 
 #EXTINF:-1 tvg-id="Sky Box Mystery" group-title="Select" tvg-logo="",Sky Box Mystery
