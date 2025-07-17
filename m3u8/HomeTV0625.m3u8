@@ -9,6 +9,12 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=orf-2&level=sd&drm=False
 #EXTINF:-1 tvg-id="ORF 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ORF3.png"group-title="Filme/Serien":http-user-agent="",ORF 3
 plugin://plugin.video.zattoo_com/?mode=watch&id=orf3&level=hd&drm=False
 
+#EXTINF:-1 tvg-id="Das Erste" group-title="News/Doku" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8 
+
+#EXTINF:-1 tvg-id="ZDF" group-title="News/Doku" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
+plugin://plugin.video.vavooto/?name=ZDF
+
 #EXTINF:-1 tvg-id="RTL" group-title="Filme/Serien" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/RTL.png",RTL
 plugin://plugin.video.tvone112/play/52/166/play.pvr
 
@@ -195,12 +201,6 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=sf-info&level=hd&drm=False
 
 #EXTINF:-1 tvg-id="S1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/S1.png"group-title="News/Doku":http-user-agent="",S1
 plugin://plugin.video.zattoo_com/?mode=watch&id=s1&level=hd&drm=False
-
-#EXTINF:-1 tvg-id="Das Erste" group-title="News/Doku" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Das_Erste.png",Das Erste
-https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8 
-
-#EXTINF:-1 tvg-id="ZDF" group-title="News/Doku" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ZDF.png",ZDF
-plugin://plugin.video.vavooto/?name=ZDF
 
 #EXTINF:-1 tvg-id="Sky Documentaries" group-title="News/Doku" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Sky%20Documentaries%20HD.png",Sky Documentaries
 plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
@@ -491,11 +491,17 @@ plugin://plugin.video.vavooto/?name=MOTORVISION
 #EXTINF:-1 tvg-id="BlueTV 4K Action" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",BlueTV 4K Action
 plugin://plugin.video.vavooto/?name=BLUETV+4K+ACTION
 
+#EXTINF:-1 tvg-id="BlueTV 4K Fantasy" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",BlueTV 4K Fantasy
+plugin://plugin.video.vavooto/?name=BLUETV+4K+FANTASY
+
 #EXTINF:-1 tvg-id="BlueTV 4K Horror" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",BlueTV 4K Horror
 plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
 
 #EXTINF:-1 tvg-id="BlueTV 4K Sci-Fi" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",BlueTV 4K Sci-Fi
 plugin://plugin.video.vavooto/?name=BLUETV+4K+SCI-FI
+
+#EXTINF:-1 tvg-id="BlueTV 4K Komödie" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",BlueTV 4K Komödie
+plugin://plugin.video.vavooto/?name=BLUETV+4K+KOM+DIE
 
 #EXTINF:-1 tvg-id="BlueTV 4K Thriller" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetv.png",BlueTV 4K Thriller
 plugin://plugin.video.vavooto/?name=BLUETV+4K+THRILLER
@@ -503,19 +509,19 @@ plugin://plugin.video.vavooto/?name=BLUETV+4K+THRILLER
 
 
 #EXTINF:-1 tvg-id="BlueTV Action" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetvaction.png",BlueTV Action
-plugin://plugin.video.vavooto/?name=BLUETV+ACTION+%CA%9C%E1%B4%85
+#plugin://plugin.video.vavooto/?name=BLUETV+ACTION+%CA%9C%E1%B4%85
 
 #EXTINF:-1 tvg-id="BlueTV Fantasy" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetvfantasy.png",BlueTV Fantasy
-plugin://plugin.video.vavooto/?name=BLUETV+FANTASY+%CA%9C%E1%B4%85
+#plugin://plugin.video.vavooto/?name=BLUETV+FANTASY+%CA%9C%E1%B4%85
 
 #EXTINF:-1 tvg-id="BlueTV Horror" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetvhorror.png",BlueTV Horror
-plugin://plugin.video.vavooto/?name=BLUETV+HORROR+1+%CA%9C%E1%B4%85
+#plugin://plugin.video.vavooto/?name=BLUETV+HORROR+1+%CA%9C%E1%B4%85
 
 #EXTINF:-1 tvg-id="BlueTV Sci-Fi" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetvscifi.png",BlueTV Sci-Fi
-plugin://plugin.video.vavooto/?name=BLUETV+SCIENCE-FICTION+%CA%9C%E1%B4%85
+#plugin://plugin.video.vavooto/?name=BLUETV+SCIENCE-FICTION+%CA%9C%E1%B4%85
 
 #EXTINF:-1 tvg-id="BlueTV Thriller" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Bluetvthriller.png",BlueTV Thriller
-plugin://plugin.video.vavooto/?name=BLUETV+THRILLER+1+%CA%9C%E1%B4%85
+#plugin://plugin.video.vavooto/?name=BLUETV+THRILLER+1+%CA%9C%E1%B4%85
 
 
 
@@ -536,4 +542,71 @@ plugin://plugin.video.vavooto/?name=SKY+BOX+SCI-FI
 
 #EXTINF:-1 tvg-id="Sky Box Thriller" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Thriller
 plugin://plugin.video.vavooto/?name=SKY+BOX+THRILLER
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 1" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 1
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+1
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 2" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 2
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+2
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 3" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 3
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+3
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 4" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 4
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+4
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 5" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 5
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+5
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 6" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 6
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+6
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 7" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 7
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+7
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 8" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 8
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+8
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 9" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 9
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+9
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 10" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 10
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+10
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 11" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 11
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+11
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 12" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 12
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+12
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 13" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 13
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+13
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 14" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 14
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+14
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 15" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 15
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+15
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 16" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 16
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+16
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 17" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 17
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+17
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 18" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 18
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+18
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 19" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 19
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+19
+
+#EXTINF:-1 tvg-id="Sky Box Premieren 20" group-title="Select" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/skybox%20.png",Sky Box Premieren 20
+plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+20
+
+
+
+
+
+
+
 
