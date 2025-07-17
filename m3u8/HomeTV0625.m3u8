@@ -174,16 +174,16 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL+TV
 #EXTINF:-1 tvg-id="SyFy" group-title="Filme/Serien" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Syfy.png",SyFy
 plugin://plugin.video.vavooto/?name=SYFY
 
-#EXTINF:-1 tvg-id="ATV" group-title="Filme/Serien" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV
+#EXTINF:-1 tvg-id="ATV" group-title="Filme/Serien" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV.png",ATV (AT)
 plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
 
-#EXTINF:-1 tvg-id="ATV 2" group-title="Filme/Serien" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV 2
+#EXTINF:-1 tvg-id="ATV 2" group-title="Filme/Serien" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/ATV2.png",ATV 2 (AT)
 plugin://plugin.video.simplitv/?mode=play&channel=atv-2&recording=false
 
-#EXTINF:-1 tvg-id="Puls 4" group-title="Filme/Serien" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4
+#EXTINF:-1 tvg-id="Puls 4" group-title="Filme/Serien" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/PULS4.png",Puls 4 (AT)
 plugin://plugin.video.simplitv/?mode=play&channel=pu4&recording=false
 
-#EXTINF:-1 tvg-id="Puls 24" group-title="Filme/Serien" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls 24
+#EXTINF:-1 tvg-id="Puls 24" group-title="Filme/Serien" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/Logo/Puls24.png",Puls 24 (AT)
 plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
 
 
