@@ -609,103 +609,46 @@ plugin://plugin.video.vavooto/?name=SKY+BOX+PREMIEREN+20
 
 
 
-
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/daserstehd.png" group-title="Test",(DE) Das Erste 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4461&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfhd.png" group-title="Test",(DE) ZDF 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4460&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="Test",(DE) RTL 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4459&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl2hd.png" group-title="Test",(DE) RTL 2 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4456&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1hd.png" group-title="Test",(DE) Sat 1 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4458&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenhd.png" group-title="Test",(DE) Prosieben 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4457&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxhd.png" group-title="Test",(DE) Vox 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4455&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="Test",(DE) Kabel 1 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4454&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sixxhd.png" group-title="Test",(DE) Sixx 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4453&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tele5hd.png" group-title="Test",(DE) Tele 5 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4452&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="Test",(DE) Nitro 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4451&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/superrtlhd.png" group-title="Test",(DE) Super RTL 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4469&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/zdfinfohd.png" group-title="Test",(DE) ZDFinfo 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4444&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/zdfneo.png" group-title="Test",(DE) ZDFneo 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4443&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1goldhd.png" group-title="Test",(DE) Sat 1 Gold 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4449&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenmaxx.png" group-title="Test",(DE) ProSieben Maxx 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4450&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlup.png" group-title="Test",(DE) RTLup 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=128150&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/voxup.png" group-title="Test",(DE) VOXup 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=128151&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/3satdehd.png" group-title="Test",(DE) 3 Sat 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4446&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/artehd.png" group-title="Test",(DE) Arte 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4445&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/onehd.png" group-title="Test",(DE) One 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=60636&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/mdrhd.png" group-title="Test",(DE) Mdr 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4439&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/anixehd.png" group-title="Test",(DE) Anixe+ 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=89867&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ardalpha.png" group-title="Test",(DE) ARD Alpha 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=89868&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rbb.png" group-title="Test",(DE) RBB Berlin HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=95041&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/brsudhd.png" group-title="Test",(DE) BR 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4442&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/hrfernsehenhd.png" group-title="Test",(DE) HR 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4441&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/srfernsehenhd.png" group-title="Test",(DE) SR 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4437&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/wdrhd.png" group-title="Test",(DE) WDR 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=152467&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/ndrhd.png" group-title="Test",(DE) NDR 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=152466&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/n24doku.png" group-title="Test",(DE) N24 DOKU
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=3386&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/welt.png" group-title="Test",(DE) Welt 4K+
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=32692&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/ntvhd.png" group-title="Test",(DE) N-TV 4K+
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=35768&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/phoenix.png" group-title="Test",(DE) Phoenix HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=50189&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/germany.png" group-title="Test",(DE) Tagesschau 24 4K+
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=35767&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/swrhd.png" group-title="Test",(DE) Swr 4K
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=3273&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/qvchd.png" group-title="Test",(DE) QVC HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=122572&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/sat1emotions.png" group-title="Test",(DE) Sat 1 Emotions HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=131808&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="Test",(DE) RTL Nitro HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=49113&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlcrimehd.png" group-title="Test",(DE) RTL Crime HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=61335&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlliving.png" group-title="Test",(DE) RTL Living HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=3357&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/rtlpassionhd.png" group-title="Test",(DE) RTL Passion HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=3353&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/hgtv.png" group-title="Test",(DE) Hg TV HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4448&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/wdrhd.png" group-title="Test",(DE) Wdr HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=4440&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/servustvhd.png" group-title="Test",(DE) ServusTV HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=3346&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/weltderwunder.png" group-title="Test",(DE) Welt der Wunder HD
-http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=89862&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/radiobrementv.png" group-title="Test",(DE) Radio Bremen HD
-
-
-
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/daserstehd.png" group-title="Test",(DE)⚡️Das Erste ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184023&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfhd.png" group-title="Test",(DE)⚡️ZDF ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184019&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="Test",(DE)⚡️RTL ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184009&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1hd.png" group-title="Test",(DE)⚡️Sat.1 ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184013&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenhd.png" group-title="Test",(DE)⚡️ProSieben ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184008&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxhd.png" group-title="Test",(DE)⚡️Vox ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184017&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinshd.png" group-title="Test",(DE)⚡️Kabel Eins ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184021&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl2hd.png" group-title="Test",(DE)⚡️RTL Zwei ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184010&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfinfohd.png" group-title="Test",(DE)⚡️ZDFinfo ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184020&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/zdfneohd.png" group-title="Test",(DE)⚡️Zdf Neo ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184022&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/voxup.png" group-title="Test",(DE)⚡️Vox Up ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184018&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tele5hd.png" group-title="Test",(DE)⚡️Tele 5 ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184016&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/superrtlhd.png" group-title="Test",(DE)⚡️Super RTL ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184015&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sixxhd.png" group-title="Test",(DE)⚡️Sixx ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184014&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/sat1goldhd.png" group-title="Test",(DE)⚡️Sat.1 Gold ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184012&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlhd.png" group-title="Test",(DE)⚡️RTL Up ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184011&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/prosiebenmaxxhd.png" group-title="Test",(DE)⚡️ProSeiben Maxx ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184007&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtlnitrohd.png" group-title="Test",(DE)⚡️Nitro ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184006&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kikahd.png" group-title="Test",(DE)⚡️Kika ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184005&extension=ts
+#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/kabeleinsdoku.png" group-title="Test",(DE)⚡️Kabel Eins Doku ᵘˡᵗʳᵃ
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:4E:FE:12&stream=184004&extension=ts
 
 
 
