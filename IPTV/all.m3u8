@@ -194,7 +194,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=tempora_tv_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Swiss 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/swiss1.png"group-title="News/Doku":http-user-agent="",Swiss 1
 plugin://plugin.video.zattoo_com/?mode=watch&id=swiss_1&level=hd&drm=False
 
-#EXTINF:-1 tvg-name=""tvg-id="Bergblick"tvg-logo=""group-title="News/Doku":http-user-agent="",Bergblick
+#EXTINF:-1 tvg-name=""tvg-id="Bergblick"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/bergblick.png"group-title="News/Doku":http-user-agent="",Bergblick
 plugin://plugin.video.vavooto/?name=BERGBLICK
 
 
