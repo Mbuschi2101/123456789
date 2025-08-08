@@ -401,8 +401,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=sd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=serien_plus_de&level=hd&drm=False
 #EXTINF:-1 tvg-name="Top Serien"tvg-id="TopSerien(German).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"group-title="TV-Schweiz":http-user-agent="",Top Serien
 plugin://plugin.video.zattoo_com/?mode=watch&id=craction_tv_de&level=hd&drm=False
-#EXTINF:-1 tvg-name="Top Sci-Fi"tvg-id="Top Sci-Fi
-Top Filme"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Top Sci-Fi
+#EXTINF:-1 tvg-name="Top Sci-Fi"tvg-id=""tvg-logo=""group-title="":http-user-agent="",#EXTINF:-1 tvg-name="Top Sci-Fi"tvg-id="Top Sci-Fi
 plugin://plugin.video.zattoo_com/?mode=watch&id=top_sci_fi_de&level=hd&drm=False
 #EXTINF:-1 tvg-name="Top Filme"tvg-id="Top Sci-Fi"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Top Filme
 plugin://plugin.video.zattoo_com/?mode=watch&id=top_filme_de&level=hd&drm=False
@@ -528,8 +527,6 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=moviedome-family-hd&stream_type=LIVE&fav_type=&title=%5BB%5DMoviedome+Family+HD%5B%2FB%5D+-+Bill+-+Was+f%C3%BCr+ein+Theater%21&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22moviedome-family-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name="Wedo Movies"tvg-id="Wedo Movies"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/WedoMovies.png"group-title="Joyn":http-user-agent="",Wedo Movies
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=wedo-movies-hd&stream_type=LIVE&fav_type=&title=%5BB%5DwedoTV+Movies%5B%2FB%5D+-+Planet+of+the+Sharks&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22wedo-movies-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-#EXTINF:-1 tvg-name="Free Comedy"tvg-id="Free Comedy"tvg-logo=""group-title="Joyn":http-user-agent="",Free Comedy
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=free-comedy-hd&stream_type=LIVE&fav_type=&title=%5BB%5DFree+Comedy+DE+HD%5B%2FB%5D+-+Elvis+%26+Nixon&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22free-comedy-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name="ProSieben MAXX"tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/pro7maxx.png"group-title="Joyn":http-user-agent="",ProSieben MAXX
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenmaxx-de&stream_type=LIVE&fav_type=&title=%5BB%5DProSieben+MAXX%5B%2FB%5D+-+RAW&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22prosiebenmaxx-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name="MDR Sachsen"tvg-id="MDR Sachsen"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/mdr.png"group-title="Joyn":http-user-agent="",MDR Sachsen
@@ -584,5 +581,3 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sport1-de&stream_type=LIVE&fav_type=&title=%5BB%5DSport1%5B%2FB%5D+-+NORMAL&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sport1-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name="Eurosport 1"tvg-id="Eurosport 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/eurosport1.png"group-title="Joyn":http-user-agent="",Eurosport 1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=eurosport1-de&stream_type=LIVE&fav_type=&title=%5BB%5DEurosport+1%5B%2FB%5D+-+World+Snooker+Tour&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22eurosport1-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-#EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="":http-user-agent="",
-
