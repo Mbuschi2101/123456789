@@ -391,7 +391,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=rtlnitro&level=sd&drm=True
 plugin://plugin.video.zattoo_com/?mode=watch&id=rtl_plus&level=sd&drm=True
 #EXTINF:-1 tvg-name=""tvg-id="Super RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/superrtl.png"group-title="TV-Schweiz":http-user-agent="",Super RTL
 plugin://plugin.video.zattoo_com/?mode=watch&id=super-rtl&level=sd&drm=True
-#EXTINF:-1 tvg-name=""tvg-id="SAT.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/one.png"group-title="TV-Schweiz":http-user-agent="",SAT.1 Gold
+#EXTINF:-1 tvg-name=""tvg-id="SAT.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sat1gold.png"group-title="TV-Schweiz":http-user-agent="",SAT.1 Gold
 plugin://plugin.video.zattoo_com/?mode=watch&id=sat1_gold_ch&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="One"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/one.png"group-title="TV-Schweiz":http-user-agent="",One
 plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
@@ -401,25 +401,25 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=sd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=serien_plus_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="TopSerien(German).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"group-title="TV-Schweiz":http-user-agent="",Top Serien
 plugin://plugin.video.zattoo_com/?mode=watch&id=craction_tv_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Top Sci-Fi"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Top Filme
+#EXTINF:-1 tvg-name=""tvg-id="Top Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSciFi.png"group-title="TV-Schweiz":http-user-agent="",Top Filme
 plugin://plugin.video.zattoo_com/?mode=watch&id=top_filme_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Top Filme"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/crimetime.png"group-title="TV-Schweiz":http-user-agent="",Crime Time
 plugin://plugin.video.zattoo_com/?mode=watch&id=crime_time_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Top True Crime"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Top True Crime
+#EXTINF:-1 tvg-name=""tvg-id="Top True Crime"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopTrueCrime.png"group-title="TV-Schweiz":http-user-agent="",Top True Crime
 plugin://plugin.video.zattoo_com/?mode=watch&id=top_true_crime_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="wedomovies(src01).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/WedoMovies.png"group-title="TV-Schweiz":http-user-agent="",Wedo Movies
 plugin://plugin.video.zattoo_com/?mode=watch&id=wedo_movies_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="MoviedomeFamily(German).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/MoviedomeFamily.png"group-title="TV-Schweiz":http-user-agent="",Moviedome Family
 plugin://plugin.video.zattoo_com/?mode=watch&id=moviedome_family_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Heimatkino"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Heimatkino
+#EXTINF:-1 tvg-name=""tvg-id="Heimatkino"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Heimatkino.png"group-title="TV-Schweiz":http-user-agent="",Heimatkino
 plugin://plugin.video.zattoo_com/?mode=watch&id=heimatkino_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Himmlisches Kino"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Himmlisches Kino
+#EXTINF:-1 tvg-name=""tvg-id="Himmlisches Kino"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/HimmlischesKino.png"group-title="TV-Schweiz":http-user-agent="",Himmlisches Kino
 plugin://plugin.video.zattoo_com/?mode=watch&id=himmlisches_kino_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Fabella"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Fabella
+#EXTINF:-1 tvg-name=""tvg-id="Fabella"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Fabella.png"group-title="TV-Schweiz":http-user-agent="",Fabella
 plugin://plugin.video.zattoo_com/?mode=watch&id=fabella_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Utopja"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Utopja
+#EXTINF:-1 tvg-name=""tvg-id="Utopja"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Utopja.png"group-title="TV-Schweiz":http-user-agent="",Utopja
 plugin://plugin.video.zattoo_com/?mode=watch&id=utopja_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Grjngo"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Grjngo
+#EXTINF:-1 tvg-name=""tvg-id="Grjngo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Grjngo.png"group-title="TV-Schweiz":http-user-agent="",Grjngo
 plugin://plugin.video.zattoo_com/?mode=watch&id=grjngo_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Comedy Central"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/comedycentral.png"group-title="TV-Schweiz":http-user-agent="",Comedy Central
 plugin://plugin.video.zattoo_com/?mode=watch&id=comedycentral_de&level=hd&drm=False
@@ -461,7 +461,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=moconomy_de&level=hd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=xplore_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="TemporaTV(German).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TemporaTV.png"group-title="TV-Schweiz":http-user-agent="",Tempora TV
 plugin://plugin.video.zattoo_com/?mode=watch&id=tempora_tv_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Servus TV"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Servus TV
+#EXTINF:-1 tvg-name=""tvg-id="Servus TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/servus.png"group-title="TV-Schweiz":http-user-agent="",Servus TV
 plugin://plugin.video.zattoo_com/?mode=watch&id=servus_tv_austria&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Swiss1(src01).ch(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/swiss1.png"group-title="TV-Schweiz":http-user-agent="",Swiss 1
 plugin://plugin.video.zattoo_com/?mode=watch&id=swiss_1&level=hd&drm=False
@@ -473,21 +473,21 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=phoenix&level=hd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=br-alpha&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/arte.png"group-title="TV-Schweiz":http-user-agent="",Arte
 plugin://plugin.video.zattoo_com/?mode=watch&id=DE_arte&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Red Bull TV
+#EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/redbulltv.png"group-title="TV-Schweiz":http-user-agent="",Red Bull TV
 plugin://plugin.video.zattoo_com/?mode=watch&id=red_bull_tv_eu_int&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Sport1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sport1.png"group-title="TV-Schweiz":http-user-agent="",Sport1
 plugin://plugin.video.zattoo_com/?mode=watch&id=dsf&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Eurosport1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/eurosport1.png"group-title="TV-Schweiz":http-user-agent="",Eurosport1
 plugin://plugin.video.zattoo_com/?mode=watch&id=eurosport&level=sd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Scooore"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Scooore
+#EXTINF:-1 tvg-name=""tvg-id="Scooore"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Scooore.png"group-title="TV-Schweiz":http-user-agent="",Scooore
 plugin://plugin.video.zattoo_com/?mode=watch&id=scooore_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Swiss Sport TV"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Swiss Sport TV
+#EXTINF:-1 tvg-name=""tvg-id="Swiss Sport TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/SwissSportTV.png"group-title="TV-Schweiz":http-user-agent="",Swiss Sport TV
 plugin://plugin.video.zattoo_com/?mode=watch&id=swiss_sport_tv_ch&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Wedo Sports"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",Wedo Sports
+#EXTINF:-1 tvg-name=""tvg-id="Wedo Sports"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/wedosports.png"group-title="TV-Schweiz":http-user-agent="",Wedo Sports
 plugin://plugin.video.zattoo_com/?mode=watch&id=wedo_sports_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="World of Freesports"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",World of Freesports
+#EXTINF:-1 tvg-name=""tvg-id="World of Freesports"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/WorldofFreesports.png"group-title="TV-Schweiz":http-user-agent="",World of Freesports
 plugin://plugin.video.zattoo_com/?mode=watch&id=world_of_freesports_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="FREEDOM"tvg-logo=""group-title="TV-Schweiz":http-user-agent="",FREEDOM
+#EXTINF:-1 tvg-name=""tvg-id="FREEDOM"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/FREEDOM.png"group-title="TV-Schweiz":http-user-agent="",FREEDOM
 plugin://plugin.video.zattoo_com/?mode=watch&id=uatv_ua&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/ard.png"group-title="Joyn":http-user-agent="",Das Erste
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=daserste-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DDas+Erste+HD%5B%2FB%5D+-+The+Bibi+Files+-+Die+Akte+Netanjahu&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22daserste-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
