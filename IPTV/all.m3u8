@@ -500,13 +500,25 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 #EXTINF:-1 tvg-name=""tvg-id="KABEL 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/kabel1.png"group-title="Joyn (ohne VPN)":http-user-agent="",KABEL 1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleins-de&stream_type=LIVE&fav_type=&title=%5BB%5DKabel+Eins%5B%2FB%5D+-+Black+Hawk+Down&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22kabeleins-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="ATV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/atv.png"group-title="Joyn (ohne VPN)":http-user-agent="",ATV
-
+plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=atv-2&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=pu4&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
 #EXTINF:-1 tvg-name=""tvg-id="ATV 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/atv2.png"group-title="Joyn (ohne VPN)":http-user-agent="",ATV 2
-
+plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=atv-2&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=pu4&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
 #EXTINF:-1 tvg-name=""tvg-id="Puls 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/puls4.png"group-title="Joyn (ohne VPN)":http-user-agent="",Puls 4
-
+plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=atv-2&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=pu4&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
 #EXTINF:-1 tvg-name=""tvg-id="Puls 24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/puls24.png"group-title="Joyn (ohne VPN)":http-user-agent="",Puls 24
-
+plugin://plugin.video.simplitv/?mode=play&channel=atv&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=atv-2&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=pu4&recording=false
+plugin://plugin.video.simplitv/?mode=play&channel=puls24&recording=false
 #EXTINF:-1 tvg-name=""tvg-id="SIXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sixx.png"group-title="Joyn (ohne VPN)":http-user-agent="",SIXX
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sixx-de&stream_type=LIVE&fav_type=&title=%5BB%5Dsixx%5B%2FB%5D+-+9-1-1%3A+Lone+Star&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sixx-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/one.png"group-title="Joyn (ohne VPN)":http-user-agent="",ONE
