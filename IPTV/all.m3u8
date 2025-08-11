@@ -81,15 +81,15 @@ plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
 #EXTINF:-1 tvg-name=""tvg-id="Warner TV Serie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/warnerserie.png"group-title="Filme/Serien":http-user-agent="",Warner TV Serie
 plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
-#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Premiere"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/skycinemapremierehd.png"group-title="Filme/Serien":http-user-agent="",Sky Cinema Premiere
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Premiere"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/cinema/skypremiere.png"group-title="Filme/Serien":http-user-agent="",Sky Cinema Premiere
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
-#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Family"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/skycinemafamily.png"group-title="Filme/Serien":http-user-agent="",Sky Cinema Family
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Family"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/cinema/skyfamily.png"group-title="Filme/Serien":http-user-agent="",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
-#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/skycinemaactionhd.png"group-title="Filme/Serien":http-user-agent="",Sky Cinema Action
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/cinema/skyaction.png"group-title="Filme/Serien":http-user-agent="",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
-#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Highlights"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/skycinemahighlights.png"group-title="Filme/Serien":http-user-agent="",Sky Cinema Highlights
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Highlights"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/cinema/skyhighlights.png"group-title="Filme/Serien":http-user-agent="",Sky Cinema Highlights
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHTS
-#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Classics"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/skycinemaclassic.png"group-title="Filme/Serien":http-user-agent="",Sky Cinema Classics
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Classics"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/cinema/skyclassics.png"group-title="Filme/Serien":http-user-agent="",Sky Cinema Classics
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
 #EXTINF:-1 tvg-name=""tvg-id="Sky Crime"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/cinema/skycrime.png"group-title="Filme/Serien":http-user-agent="",Sky Crime
 plugin://plugin.video.vavooto/?name=SKY+CRIME
@@ -103,9 +103,9 @@ plugin://plugin.video.vavooto/?name=SKY+ONE
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=13TH+STREET+HD%2B
 #EXTINF:-1 tvg-name=""tvg-id="Kinowelt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/Kinowelt.png"group-title="Filme/Serien":http-user-agent="",Kinowelt
 plugin://plugin.video.vavooto/?name=KINOWELT
-#EXTINF:-1 tvg-name=""tvg-id="AXN White"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/axnwhite.png"group-title="Filme/Serien":http-user-agent="",AXN White
+#EXTINF:-1 tvg-name=""tvg-id="AXN White"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/axnwhite.png"group-title="Filme/Serien":http-user-agent="",AXN White
 plugin://plugin.video.vavooto/?name=AXN+WHITE
-#EXTINF:-1 tvg-name=""tvg-id="AXN Black"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/axnblack.png"group-title="Filme/Serien":http-user-agent="",AXN Black
+#EXTINF:-1 tvg-name=""tvg-id="AXN Black"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/axnblack.png"group-title="Filme/Serien":http-user-agent="",AXN Black
 plugin://plugin.video.vavooto/?name=AXN+BLACK
 #EXTINF:-1 tvg-name=""tvg-id="SILVERLINE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/Silverline.png"group-title="Filme/Serien":http-user-agent="",SILVERLINE
 plugin://plugin.video.vavooto/?name=SILVERLINE
@@ -217,7 +217,7 @@ plugin://plugin.video.vavooto/?name=SR
 plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 #EXTINF:-1 tvg-name=""tvg-id="WDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/wdr.png"group-title="News/Doku":http-user-agent="",WDR
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8 
-#EXTINF:-1 tvg-name=""tvg-id="RTL Zwee"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/rtlzwee.png"group-title="Sport":http-user-agent="",RTL Zwee
+#EXTINF:-1 tvg-name=""tvg-id="RTL Zwee"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtlzwee.png"group-title="Sport":http-user-agent="",RTL Zwee
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL+LUXEMBOURG+2
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/skysport/skynews.png"group-title="Sport":http-user-agent="",Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
@@ -307,7 +307,7 @@ plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2F
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-name=""tvg-id="Eurosport 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/eurosport2.png"group-title="Sport":http-user-agent="",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/redbulltv.png"group-title="Sport":http-user-agent="",Red Bull TV
+#EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/redbulltv.png"group-title="Sport":http-user-agent="",Red Bull TV
 plugin://plugin.video.vavooto/?name=RED+BULL+TV
 #EXTINF:-1 tvg-name=""tvg-id="Servus TV Motorsport"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/servus.png"group-title="Sport":http-user-agent="",Servus TV Motorsport
 plugin://plugin.video.vavooto/?name=SERVUS+TV
@@ -401,13 +401,15 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=sd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=serien_plus_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="TopSerien(German).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"group-title="TV-Schweiz":http-user-agent="",Top Serien
 plugin://plugin.video.zattoo_com/?mode=watch&id=craction_tv_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Top Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSciFi.png"group-title="TV-Schweiz":http-user-agent="",Top Filme
+#EXTINF:-1 tvg-name=""tvg-id="Top Filme"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TOPFILME.png"group-title="TV-Schweiz":http-user-agent="",Top Filme
 plugin://plugin.video.zattoo_com/?mode=watch&id=top_filme_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Top Filme"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/crimetime.png"group-title="TV-Schweiz":http-user-agent="",Crime Time
-plugin://plugin.video.zattoo_com/?mode=watch&id=crime_time_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Top True Crime"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopTrueCrime.png"group-title="TV-Schweiz":http-user-agent="",Top True Crime
+#EXTINF:-1 tvg-name=""tvg-id="Top True Crime"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/topcrime.png"group-title="TV-Schweiz":http-user-agent="",Top True Crime
 plugin://plugin.video.zattoo_com/?mode=watch&id=top_true_crime_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="wedomovies(src01).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/WedoMovies.png"group-title="TV-Schweiz":http-user-agent="",Wedo Movies
+#EXTINF:-1 tvg-name=""tvg-id="Top Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSciFi.png"group-title="TV-Schweiz":http-user-agent="",Top Sci-Fi
+plugin://plugin.video.zattoo_com/?mode=watch&id=top_sci_fi_de&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="Crime Time"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/crimetime.png"group-title="TV-Schweiz":http-user-agent="",Crime Time
+plugin://plugin.video.zattoo_com/?mode=watch&id=crime_time_de&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="wedomovies(src01).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/wedomovies.png"group-title="TV-Schweiz":http-user-agent="",Wedo Movies
 plugin://plugin.video.zattoo_com/?mode=watch&id=wedo_movies_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="MoviedomeFamily(German).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/MoviedomeFamily.png"group-title="TV-Schweiz":http-user-agent="",Moviedome Family
 plugin://plugin.video.zattoo_com/?mode=watch&id=moviedome_family_de&level=hd&drm=False
@@ -423,10 +425,12 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=utopja_de&level=hd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=grjngo_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Comedy Central"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/comedycentral.png"group-title="TV-Schweiz":http-user-agent="",Comedy Central
 plugin://plugin.video.zattoo_com/?mode=watch&id=comedycentral_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="AuftankenTV(German).ch(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/AuftankenTV.png"group-title="TV-Schweiz":http-user-agent="",Auftanken.TV
+#EXTINF:-1 tvg-name=""tvg-id="AuftankenTV(German).ch(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/Auftanken.png"group-title="TV-Schweiz":http-user-agent="",Auftanken.TV
 plugin://plugin.video.zattoo_com/?mode=watch&id=auftanken_tv_ch&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="S1(src01).ch(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/s1.png"group-title="TV-Schweiz":http-user-agent="",S1
 plugin://plugin.video.zattoo_com/?mode=watch&id=s1&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/welt.png"group-title="TV-Schweiz":http-user-agent="",Welt
+plugin://plugin.video.zattoo_com/?mode=watch&id=n24&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="N-TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/ntv.png"group-title="TV-Schweiz":http-user-agent="",N-TV
 plugin://plugin.video.zattoo_com/?mode=watch&id=n-tv&level=sd&drm=True
 #EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/zdfinfo.png"group-title="TV-Schweiz":http-user-agent="",ZDFinfo
@@ -453,11 +457,11 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=terra_mater_wild_de&level=hd&drm
 plugin://plugin.video.zattoo_com/?mode=watch&id=curiosity_now_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="SpiegelTVKonflikte(src01).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Spiegeltvkonflikte.png"group-title="TV-Schweiz":http-user-agent="",Spiegel TV Konflikte
 plugin://plugin.video.zattoo_com/?mode=watch&id=spiegel_tv_konflikte_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="OneTerra(src01).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/oneterra.png"group-title="TV-Schweiz":http-user-agent="",One Terra
+#EXTINF:-1 tvg-name=""tvg-id="OneTerra(src01).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/oneterra.png"group-title="TV-Schweiz":http-user-agent="",One Terra
 plugin://plugin.video.zattoo_com/?mode=watch&id=one_terra_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Moconomy(German).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Moconomy.png"group-title="TV-Schweiz":http-user-agent="",Moconomy
 plugin://plugin.video.zattoo_com/?mode=watch&id=moconomy_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="XPLORE(src01).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/xplore.png"group-title="TV-Schweiz":http-user-agent="",XPLORE
+#EXTINF:-1 tvg-name=""tvg-id="XPLORE(src01).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/xplore.png"group-title="TV-Schweiz":http-user-agent="",XPLORE
 plugin://plugin.video.zattoo_com/?mode=watch&id=xplore_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="TemporaTV(German).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TemporaTV.png"group-title="TV-Schweiz":http-user-agent="",Tempora TV
 plugin://plugin.video.zattoo_com/?mode=watch&id=tempora_tv_de&level=hd&drm=False
@@ -473,7 +477,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=phoenix&level=hd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=br-alpha&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/arte.png"group-title="TV-Schweiz":http-user-agent="",Arte
 plugin://plugin.video.zattoo_com/?mode=watch&id=DE_arte&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/redbulltv.png"group-title="TV-Schweiz":http-user-agent="",Red Bull TV
+#EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/redbulltv.png"group-title="TV-Schweiz":http-user-agent="",Red Bull TV
 plugin://plugin.video.zattoo_com/?mode=watch&id=red_bull_tv_eu_int&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Sport1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sport1.png"group-title="TV-Schweiz":http-user-agent="",Sport1
 plugin://plugin.video.zattoo_com/?mode=watch&id=dsf&level=sd&drm=False
@@ -531,7 +535,7 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=moviedome-hd&stream_type=LIVE&fav_type=&title=%5BB%5DMoviedome%5B%2FB%5D+-+The+Warlords&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22moviedome-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="Moviedome Family"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/MoviedomeFamily.png"group-title="Joyn (ohne VPN)":http-user-agent="",Moviedome Family
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=moviedome-family-hd&stream_type=LIVE&fav_type=&title=%5BB%5DMoviedome+Family+HD%5B%2FB%5D+-+Bill+-+Was+f%C3%BCr+ein+Theater%21&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22moviedome-family-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-#EXTINF:-1 tvg-name=""tvg-id="Wedo Movies"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/WedoMovies.png"group-title="Joyn (ohne VPN)":http-user-agent="",Wedo Movies
+#EXTINF:-1 tvg-name=""tvg-id="Wedo Movies"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/wedomovies.png"group-title="Joyn (ohne VPN)":http-user-agent="",Wedo Movies
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=wedo-movies-hd&stream_type=LIVE&fav_type=&title=%5BB%5DwedoTV+Movies%5B%2FB%5D+-+Planet+of+the+Sharks&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22wedo-movies-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/pro7maxx.png"group-title="Joyn (ohne VPN)":http-user-agent="",ProSieben MAXX
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenmaxx-de&stream_type=LIVE&fav_type=&title=%5BB%5DProSieben+MAXX%5B%2FB%5D+-+RAW&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22prosiebenmaxx-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
@@ -581,7 +585,7 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=rbb-brandenburg-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DRBB+Brandenburg+HD%5B%2FB%5D+-+Die+Kinder+von+Golzow&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22rbb-brandenburg-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="WDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/wdr.png"group-title="Joyn (ohne VPN)":http-user-agent="",WDR
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=wdr-bonn-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DWDR+Bonn+HD%5B%2FB%5D+-+2+f%C3%BCr+300&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22wdr-bonn-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-#EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/redbulltv.png"group-title="Joyn (ohne VPN)":http-user-agent="",Red Bull TV
+#EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/redbulltv.png"group-title="Joyn (ohne VPN)":http-user-agent="",Red Bull TV
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=redbulltv-dach-hd&stream_type=LIVE&fav_type=&title=%5BB%5DRed+Bull+TV+HD%5B%2FB%5D+-+Offroad-Action+mit+900+PS+in+US-Skigebiet&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22redbulltv-dach-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="SPORT1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sport1.png"group-title="Joyn (ohne VPN)":http-user-agent="",Sport 1
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sport1-de&stream_type=LIVE&fav_type=&title=%5BB%5DSport1%5B%2FB%5D+-+NORMAL&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sport1-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
