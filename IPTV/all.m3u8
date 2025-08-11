@@ -218,7 +218,7 @@ plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 #EXTINF:-1 tvg-name=""tvg-id="WDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/wdr.png"group-title="News/Doku":http-user-agent="",WDR
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8 
 #EXTINF:-1 tvg-name=""tvg-id="RTL Zwee"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtlzwee.png"group-title="Sport":http-user-agent="",RTL Zwee
-plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=RTL+LUXEMBOURG+2
+plugin://plugin.video.vavooto/?name=RTL+LUXEMBOURG
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/skysport/skynews.png"group-title="Sport":http-user-agent="",Sky Sport News
 plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/bundesliga/bundesliga.png"group-title="Sport":http-user-agent="",SKY Sport Bundesliga
