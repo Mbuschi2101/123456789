@@ -169,7 +169,7 @@ plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 #EXTINF:-1 tvg-name=""tvg-id="Curiosity"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/curiosity.png"group-title="News/Doku":http-user-agent="",Curiosity
 plugin://plugin.video.vavooto/?name=CURIOSITY+CHANNEL
-#EXTINF:-1 tvg-name=""tvg-id="Animal Planet"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/animalplanethd.png"group-title="News/Doku":http-user-agent="",Animal Planet
+#EXTINF:-1 tvg-name=""tvg-id="Animal Planet"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/animalplanethd.png"group-title="News/Doku":http-user-agent="",Animal Planet
 plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
 #EXTINF:-1 tvg-name=""tvg-id="Geo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/GEO_HD.png"group-title="News/Doku":http-user-agent="",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
