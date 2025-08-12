@@ -348,7 +348,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=zdf&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtl.png"group-title="TV-Schweiz":http-user-agent="",RTL
 plugin://plugin.video.zattoo_com/?mode=watch&id=rtl&level=sd&drm=True
 #EXTINF:-1 tvg-name=""tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sat1.png"group-title="TV-Schweiz":http-user-agent="",SAT.1
-plugin://plugin.video.zattoo_com/?mode=watch&id=prosieben&level=sd&drm=False
+plugin://plugin.video.zattoo_com/?mode=watch&id=sat1&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="RTLII"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtl2.png"group-title="TV-Schweiz":http-user-agent="",RTLII
 plugin://plugin.video.zattoo_com/?mode=watch&id=rtl-2&level=sd&drm=True
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/pro7.png"group-title="TV-Schweiz":http-user-agent="",ProSieben
