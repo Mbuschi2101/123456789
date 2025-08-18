@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-18 14:54:17.249945 -->
+<!-- created on 2025-08-18 15:01:25.662556 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.7+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  MAGENTA TV (DE)  CHANNEL LIST -->
@@ -20,6 +20,28 @@
     <channel id="Sat1.de">
         <display-name lang="de">SAT.1</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/efd5a2c8992cd87d3fcc83b5b2399d12971bf89f.png" />
+    </channel>
+
+<!--  ZATTOO (DE)  CHANNEL LIST -->
+    <channel id="SRF 1 HD">
+        <display-name lang="de">SRF 1 HD</display-name>
+        <icon src="https://images.zattic.com/logos/d0b44da81b954a5fb01c/black/210x120.png" />
+    </channel>
+    <channel id="SRF zwei HD">
+        <display-name lang="de">SRF zwei HD</display-name>
+        <icon src="https://images.zattic.com/logos/419de2ea55351056b116/black/210x120.png" />
+    </channel>
+    <channel id="SRFinfo.nws">
+        <display-name lang="de">SRF info HD</display-name>
+        <icon src="https://images.zattic.com/logos/1a451842a885328f94b4/black/210x120.png" />
+    </channel>
+    <channel id="3+ HD">
+        <display-name lang="de">3+ HD</display-name>
+        <icon src="https://images.zattic.com/logos/98446d708b7bddc393be/black/210x120.png" />
+    </channel>
+    <channel id="4+ HD">
+        <display-name lang="de">4+ HD</display-name>
+        <icon src="https://images.zattic.com/logos/8056b0f35cbf2cd0e7b5/black/210x120.png" />
     </channel>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
@@ -4457,6 +4479,1436 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/5/p15528073_i_h8_ah_2022-06-25T18_16_13.jpg"/>
         <country>US</country>
         <episode-num system="xmltv_ns">6 . 9 . </episode-num>
+    </programme>
+
+<!--  ZATTOO (DE)  PROGRAMME LIST -->
+    <programme start="20250818012000 +0000" stop="20250818020500 +0000" channel="SRF 1 HD">
+        <title lang="de">Einfach Retour</title>
+        <sub-title lang="de">Vom Loch Ness zurück nach Zürich</sub-title>
+        <desc lang="de">(DEU) 2025 • S2 E2
+        Jan Fitze hat die Herausforderung, innerhalb sieben Tage von Frankreich in die Schweiz zu reisen.</desc>
+        <date>2025</date>
+        <category lang="de">Tourism / Travel</category>
+        <icon src="http://images.zattic.com/cms/ffdf3af71bf163a1f34c/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <episode-num system="xmltv_ns">1 . 1 . </episode-num>
+    </programme>
+
+    <programme start="20250818053000 +0000" stop="20250818071000 +0000" channel="SRF 1 HD">
+        <title lang="de">Wetterkanal</title>
+        <desc lang="de">(CHE) 2025
+        Diese Sendung zeigt aktuelle Wetterbilder aus der Schweiz und präsentiert Wetterprognosen.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">News / Weather report</category>
+        <icon src="http://images.zattic.com/cms/114a43fb9ef341095b0e/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818071000 +0000" stop="20250818075500 +0000" channel="SRF 1 HD">
+        <title lang="de">SRF DOK</title>
+        <sub-title lang="de">Britisches Königshaus - Von Prüfsteinen und Schicksalsschlägen</sub-title>
+        <desc lang="de">(CHE) 2020
+        Queen Elizabeth II musste während ihrer Regentschaft einige harte Schläge in Kauf nehmen. Mit ihrer Standhaftigkeit hat sie die meisten Herausforderungen gemeistert. Doch es gab auch Momente, in denen ihr Urteilsvermögen infrage gestellt wurde.</desc>
+        <date>2020</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/e9a6b8499b294ce22bf5/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818075500 +0000" stop="20250818084000 +0000" channel="SRF 1 HD">
+        <title lang="de">SRF DOK</title>
+        <sub-title lang="de">Britisches Königshaus - Krönung einer Herrscherin</sub-title>
+        <desc lang="de">(CHE) 2020
+        Während ihrer Regierungszeit hat Königin Elizabeth II. die Kunst des Monarchendaseins im In- und Ausland gemeistert. Sie erbte die Krone im Alter von 25 Jahren, und nur wenige Jahre nach dem Zweiten Weltkrieg begann eine Epoche voller Optimismus.</desc>
+        <date>2020</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/46e794ff5abcd147d200/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818084000 +0000" stop="20250818091500 +0000" channel="SRF 1 HD">
+        <title lang="de">Reporter</title>
+        <sub-title lang="de">Spezial - Donat auf Achse: Von Patchwork, Naturpädagogik und dem Messie-Syndrom</sub-title>
+        <desc lang="de">(CHE) 2025
+        Adolf lebt mit dem Messie-Syndrom in einer Villa in St. Moritz. Dinge stapeln sich dort, Erinnerungen auch. Im Naturcamp geht es um Reduktion: fern der Zivilisation lernen Menschen, Einfachheit und Nähe zur Natur zu schätzen.</desc>
+        <credits>
+            <director>Vanessa Nikisch</director>
+        </credits>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/7645b021e653b15bd5b4/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818091500 +0000" stop="20250818094500 +0000" channel="SRF 1 HD">
+        <title lang="de">Reporter</title>
+        <sub-title lang="de">Spezial - Donat auf Achse: Von Gaming, Schafen und der Pubertät</sub-title>
+        <desc lang="de">(CHE) 2025
+        Jenny streamt online und lebt mit Tics. Ihren Vater hat sie früh verloren. In der virtuellen Welt findet sie Halt, um mit der echten Welt zurechtzukommen. Im Jugendtreff treffen dabei große Träume auf endlose Stunden am Handy.</desc>
+        <credits>
+            <director>Vanessa Nikisch</director>
+        </credits>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/e995e83c41ecb758830b/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818094500 +0000" stop="20250818102000 +0000" channel="SRF 1 HD">
+        <title lang="de">Reporter</title>
+        <sub-title lang="de">Spezial - Donat auf Achse: Von Kuhkämpfen, Stau und Selbstliebe</sub-title>
+        <desc lang="de">(CHE) 2025
+        Im Schulfach "Ich" lernen Kinder, Gefühle zu verstehen, Mobbing zu erkennen und Gemeinschaft zu leben. Und Reporter Spezila trifft Sanja wieder. Im Wrestlingring ist sie stark und furchtlos, ganz anders als im echten Leben.</desc>
+        <credits>
+            <director>Vanessa Nikisch</director>
+        </credits>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/e77c932f4776518bcb71/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818102000 +0000" stop="20250818104500 +0000" channel="SRF 1 HD">
+        <title lang="de">Mini Chuchi, dini Chuchi</title>
+        <sub-title lang="de">Japan - Tag 5</sub-title>
+        <desc lang="de">(CHE) 2025
+        Fünf Hobbyköche stellen sich einem Wochenmotto und präsentieren ihre persönlichen Rezepte.</desc>
+        <date>2025</date>
+        <category lang="de">Cooking</category>
+        <icon src="http://images.zattic.com/cms/1eb778f270eb465f3ea0/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818104500 +0000" stop="20250818105000 +0000" channel="SRF 1 HD">
+        <title lang="de">Tagesschau kompakt</title>
+        <sub-title lang="de">Mittagsausgabe</sub-title>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/5ecb7f9a6c971f9dc62a/format_1920x1080.jpg"/>
+    </programme>
+
+    <programme start="20250818110500 +0000" stop="20250818113000 +0000" channel="SRF 1 HD">
+        <title lang="de">Ding Dong - Zeig mir dein Zuhause!</title>
+        <sub-title lang="de">Die 10 unvergesslichsten Häuser - Wohnen im Sexkino und im überdimensionierten Puppenhaus</sub-title>
+        <desc lang="de">(CHE) 2025
+        Zu den zehn bemerkenswertesten Häusern der Sendung zählten ein Sexkino und ein riesiges Puppenhaus.</desc>
+        <date>2025</date>
+        <icon src="http://images.zattic.com/cms/7cc149f91a101cde4d82/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818132000 +0000" stop="20250818135000 +0000" channel="SRF 1 HD">
+        <title lang="de">Heldinnen der Lüfte</title>
+        <sub-title lang="de">Als Buschpilotin im australischen Outback</sub-title>
+        <desc lang="de">(DEU) 2023 • S1 E3
+        Im australischen Outback ist das Leben karg und einsam, vor allem in William Creek. Nur 17 Menschen leben dort, auch die Buschpilotin Hannah Jane Cash. Sie fliegt Touristen über den Lake Eyre zu den Painted Hills oder in die Opalstadt Coober Pedy.</desc>
+        <credits>
+            <director>Jadranka Kursar</director>
+        </credits>
+        <date>2023</date>
+        <icon src="http://images.zattic.com/cms/4deee3b0e1195b0c39c8/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+    </programme>
+
+    <programme start="20250818135000 +0000" stop="20250818153000 +0000" channel="SRF 1 HD">
+        <title lang="de">Katie Fforde - Familie auf Bewährung</title>
+        <desc lang="de">(DEU) 2018 • FSK FSK 6
+        Die Verlagslektorin Jane Grant muss eine abenteuerliche Reise in die Wildnis antreten, um einen Bestsellerautor aufzusuchen. Denn durch eine negative Beurteilung seines Romans hat Jane ihren eigenen Job gefährdet.</desc>
+        <credits>
+            <director>Frauke Thielecke</director>
+            <actor>Bernhard Bettermann</actor>
+            <actor>Friederike Linke</actor>
+            <actor>Ann-Kathrin Kramer</actor>
+            <actor>Thomas Heinze</actor>
+            <actor>Pauline Renevier</actor>
+        </credits>
+        <date>2018</date>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">Romance</category>
+        <icon src="http://images.zattic.com/cms/2d724972f7d795c48fc5/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <rating>
+            <value>FSK 6</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818161000 +0000" stop="20250818162500 +0000" channel="SRF 1 HD">
+        <title lang="de">Mini Chuchi, dini Chuchi</title>
+        <sub-title lang="de">Artischockä - Tag 1</sub-title>
+        <desc lang="de">(CHE) 2025
+        In der Motto-Woche "Artischockä" lädt Jairo die Runde zu sich nach Bütschwil ein. Der 28-Jährige ist begeisterter Dinosaurier-Fan und teilt diese Leidenschaft mit seinem Sohn. Seinen Gästen serviert er ein Risotto mit Artischocken.</desc>
+        <date>2025</date>
+        <category lang="de">Cooking</category>
+        <icon src="http://images.zattic.com/cms/1eb778f270eb465f3ea0/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818162500 +0000" stop="20250818170000 +0000" channel="SRF 1 HD">
+        <title lang="de">Zu Tisch ...</title>
+        <sub-title lang="de">Bad Gastein - Österreich</sub-title>
+        <desc lang="de">(DEU) 2024
+        In Bad Gastein trifft sich ein Freundeskreis um den österreichischen Schauspieler Philipp Hochmair zum gemeinsamen Kochen und Feiern mit Tafelspitzsuppe, Pasta mit Pfifferlingen und Zitrone, gegrillter Bachforelle und der Baisertorte Pavlova.</desc>
+        <credits>
+            <director>Wilma Pradetto</director>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Cooking</category>
+        <category lang="de">Tourism / Travel</category>
+        <icon src="http://images.zattic.com/cms/ac279ce8dbdcc60e9dd4/format_1920x1080.jpg"/>
+        <country>DEU</country>
+    </programme>
+
+    <programme start="20250818173000 +0000" stop="20250818175500 +0000" channel="SRF 1 HD">
+        <title lang="de">Tagesschau - Hauptausgabe</title>
+        <desc lang="de">(CHE) 2025
+        In dieser Sendung werden aktuelle Ereignisse aus der Schweiz und der Welt präsentiert.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/c66f433912fd3e8d1289/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818181000 +0000" stop="20250818191000 +0000" channel="SRF 1 HD">
+        <title lang="de">Büssi's SommerLacher</title>
+        <sub-title lang="de">Die beliebtesten Comedy-Figuren</sub-title>
+        <desc lang="de"> 2025 E3
+        Dieses Mal sind Regula Esposito und Fabian Unteregger die Gäste in Büssis humorvoller Sendung.</desc>
+        <date>2025</date>
+        <category lang="de">Comedy</category>
+        <icon src="http://images.zattic.com/cms/56364ea0928c007cdf0e/format_1920x1080.jpg"/>
+        <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+    </programme>
+
+    <programme start="20250818191000 +0000" stop="20250818195000 +0000" channel="SRF 1 HD">
+        <title lang="de">Puls</title>
+        <sub-title lang="de">Notfallmedizin hautnah: Ärzte zwischen Leben und Tod</sub-title>
+        <desc lang="de">(CHE) 2025
+        Die Ärzte Afreed Ashraf und Willi Balandies verlassen ihren vertrauten Klinikalltag und wagen sich in die Ungewissheit der Notfallmedizin. Dabei kommen sie an ihre Grenzen, denn bei einem schlimmen Verkehrsunfall geht es um Leben und Tod.</desc>
+        <date>2025</date>
+        <category lang="de">Fitness and health</category>
+        <icon src="http://images.zattic.com/cms/693d632716d4d6a62c87/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818201500 +0000" stop="20250818202500 +0000" channel="SRF 1 HD">
+        <title lang="de">Meteo - Spätausgabe</title>
+        <desc lang="de"> 2025
+        Die Spätausgabe der Sendung informiert über die Wetteraussichten für die gesamte Schweiz.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">News / Weather report</category>
+        <icon src="http://images.zattic.com/cms/ceabbaa38d5ef74f5614/format_1920x1080.jpg"/>
+    </programme>
+
+    <programme start="20250818202500 +0000" stop="20250818210500 +0000" channel="SRF 1 HD">
+        <title lang="de">ECO Talk</title>
+        <sub-title lang="de">Wie kommt die Schweiz zu einem Deal mit Donald Trump, Herr Spuhler?</sub-title>
+        <desc lang="de">(CHE) 2025
+        Peter Spuhler (SVP) beantwortet Fragen, wie die Schweiz mit Donald Trumps Politik umgehen sollte.</desc>
+        <credits>
+            <actor>Peter Spuhler</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Talk show</category>
+        <icon src="http://images.zattic.com/cms/a39f4c5c467807198df6/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818215500 +0000" stop="20250818220500 +0000" channel="SRF 1 HD">
+        <title lang="de">Newsflash SRF 1</title>
+        <desc lang="de">(CHE) 2025
+        Die wichtigsten Nachrichten des Tages werden in sehr kompakter Form präsentiert.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/532621fb88792490b62a/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250817202000 +0000" stop="20250817230500 +0000" channel="SRF zwei HD">
+        <title lang="de">Once Upon A Time... In Hollywood</title>
+        <desc lang="de">(USA, GBR, CHN) 2019 • FSK FSK 16
+        Der TV-Darsteller Rick Dalton und sein Stunt-Double sind unzufrieden, da sie noch nicht den erwarteten Ruhm erlangt haben. Rick versucht es über seine berühmte Nachbarin. Es sind gefährliche Zeiten: Neben Hippies läuft auch Charles Manson frei herum.</desc>
+        <credits>
+            <director>Quentin Tarantino</director>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Brad Pitt</actor>
+            <actor>Margot Robbie</actor>
+            <actor>Kurt Russell</actor>
+            <actor>Dakota Fanning</actor>
+            <actor>Damon Herriman</actor>
+            <actor>Austin Butler</actor>
+            <actor>Emile Hirsch</actor>
+            <actor>Scoot McNairy</actor>
+            <actor>Luke Perry</actor>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Comedy</category>
+        <icon src="http://images.zattic.com/cms/427655b13d3b75a5ec34/format_1920x1080.jpg"/>
+        <country>USA, GBR, CHN</country>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818034000 +0000" stop="20250818062000 +0000" channel="SRF zwei HD">
+        <title lang="de">3 auf zwei</title>
+        <desc lang="de">(CHE) 2025
+        Die Sendung schaltet sich zu einer Radioshow dazu und zeigt die Vorgänge im Studio.</desc>
+        <date>2025</date>
+        <icon src="http://images.zattic.com/cms/305e8d2f38f8110c8904/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818062000 +0000" stop="20250818063000 +0000" channel="SRF zwei HD">
+        <title lang="de">Mini Chuchi, dini Chuchi</title>
+        <sub-title lang="de">Wochenrückblick - Japan</sub-title>
+        <desc lang="de">(CHE) 2025
+        Wer kocht dieses Mal unter dem Motto "Japan" das beste Gericht und gewinnt die Runde?</desc>
+        <date>2025</date>
+        <category lang="de">Cooking</category>
+        <icon src="http://images.zattic.com/cms/a5a1af506df34f1a1bdc/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818063000 +0000" stop="20250818065500 +0000" channel="SRF zwei HD">
+        <title lang="de">Tagesschau vor 20 Jahren</title>
+        <sub-title lang="de">vom 18.08.2005</sub-title>
+        <desc lang="de">(DEU) 2025 E164
+        Die Sendung dokumentiert alle 20-Uhr-Ausgaben Tag für Tag im Nachrichtenrückblick. Es wird gezeigt, wie die Welt vor 20 Jahren aussah, welche Themen die politische Debatte bestimmten und wie die Probleme bewertet wurden.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://images.zattic.com/cms/027277efb4a92b67cf1d/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <episode-num system="xmltv_ns">0 . 163 . </episode-num>
+    </programme>
+
+    <programme start="20250818065500 +0000" stop="20250818074000 +0000" channel="SRF zwei HD">
+        <title lang="de">SRF bi de Lüt - Durch dick und dünn</title>
+        <sub-title lang="de">DivertiMento bei den Schotten</sub-title>
+        <desc lang="de">(CHE) 2016 • S1 E1
+        Jonny Fischer und Manuel Burkart reisen 150 Kilometer zu Fuß durch die schottischen Highlands.</desc>
+        <date>2016</date>
+        <category lang="de">Tourism / Travel</category>
+        <icon src="http://images.zattic.com/cms/66217c22773264fe149a/format_1920x1080.jpg"/>
+        <country>CHE</country>
+        <episode-num system="xmltv_ns">0 . 0 . </episode-num>
+    </programme>
+
+    <programme start="20250818083000 +0000" stop="20250818085500 +0000" channel="SRF zwei HD">
+        <title lang="de">Sottosopra</title>
+        <sub-title lang="de">Mein kleines Tibet</sub-title>
+        <desc lang="de">(CHE) 2020
+        Diese Ausgabe zeigt eine Stück von Tibet auf der Alpe di Cadlimo. Denn seit mehreren Sommern ist sie von Dutzenden von Yaks bevölkert. Sie werden vom Misoxer Hirten Nicola Toscano gepflegt, einem Liebhaber dieser Tiere aus dem Himalaya.</desc>
+        <date>2020</date>
+        <category lang="de">Tourism / Travel</category>
+        <icon src="http://images.zattic.com/cms/4f39f4cb8216d360b32c/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818092500 +0000" stop="20250818100000 +0000" channel="SRF zwei HD">
+        <title lang="de">Kids@SRF</title>
+        <sub-title lang="de">Folge 144</sub-title>
+        <desc lang="de">(CHE) 2025 • S1 E144
+        Die Sendung beschäftigt sich mit Themen für Kinder mit Formaten wie "Kinder-News".</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Education / Science / Factual topics</category>
+        <icon src="http://images.zattic.com/cms/2fff30370f6b246d9e23/format_1920x1080.jpg"/>
+        <country>CHE</country>
+        <episode-num system="xmltv_ns">0 . 143 . </episode-num>
+    </programme>
+
+    <programme start="20250818100000 +0000" stop="20250818140500 +0000" channel="SRF zwei HD">
+        <title lang="de">3 auf zwei</title>
+        <desc lang="de">(CHE) 2025
+        Die Sendung schaltet sich zu einer Radioshow dazu und zeigt die Vorgänge im Studio.</desc>
+        <date>2025</date>
+        <icon src="http://images.zattic.com/cms/305e8d2f38f8110c8904/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818140500 +0000" stop="20250818145500 +0000" channel="SRF zwei HD">
+        <title lang="de">Wege zum Glück</title>
+        <sub-title lang="de">Folge 413</sub-title>
+        <desc lang="de">(DEU) 2007 • S2 E163 • FSK FSK 0
+        Richards jüngste Tochter Lizzy ist überraschend aufgetaucht und sorgt von Beginn an für Aufregung bei Kolja und Erik und großen Wirbel bei der Belegschaft des Gutshauses. Annabelle findet heraus, dass Max seinen Gehirntumor nur vorgetäuscht hat.</desc>
+        <credits>
+            <actor>Hubertus Grimm</actor>
+            <actor>Gisa Zach</actor>
+            <actor>Nicole Mercedes Müller</actor>
+            <actor>Jens-Peter Nünemann</actor>
+        </credits>
+        <date>2007</date>
+        <category lang="de">Romance</category>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://images.zattic.com/cms/a688dc7abaa65dbbda32/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <episode-num system="xmltv_ns">1 . 162 . </episode-num>
+        <rating>
+            <value>FSK 0</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818145500 +0000" stop="20250818155000 +0000" channel="SRF zwei HD">
+        <title lang="de">Station 19</title>
+        <sub-title lang="de">Die neue Chefin</sub-title>
+        <desc lang="de">(USA) 2022 • S5 E9 • FSK FSK 12
+        Ein neuer Chief startet auf der Station 19, während ein Geländewagen über eine Klippe stürzt.</desc>
+        <credits>
+            <actor>Jaina Lee Ortiz</actor>
+            <actor>Jason George</actor>
+            <actor>Boris Kodjoe</actor>
+            <actor>Grey Damon</actor>
+            <actor>Barrett Doss</actor>
+            <actor>Jay Hayden</actor>
+            <actor>Okieriete Onaodowan</actor>
+            <actor>Danielle Savre</actor>
+            <actor>Stefania Spampinato</actor>
+        </credits>
+        <date>2022</date>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">Adventure / Western / War</category>
+        <icon src="http://images.zattic.com/cms/6d91e2285a7ed471381a/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">4 . 8 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818155000 +0000" stop="20250818165000 +0000" channel="SRF zwei HD">
+        <title lang="de">Temps présent</title>
+        <sub-title lang="de">Hilfe für eine Person in Gefahr: ein Verbrechen</sub-title>
+        <desc lang="de">(CHE) 2020
+        Fast 900 Menschen in Gefahr werden in der Schweiz jedes Jahr wegen eines Verbrechens verurteilt.</desc>
+        <date>2020</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://images.zattic.com/cms/89c214a506dd03b69483/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818165000 +0000" stop="20250818173000 +0000" channel="SRF zwei HD">
+        <title lang="de">Life@SRF</title>
+        <sub-title lang="de">Folge 147</sub-title>
+        <desc lang="de">(CHE) 2025 • S1 E147
+        Die Sendung taucht ein in aktuelle gesellschaftliche Themen, die junge Menschen bewegen.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <category lang="de">Nature / Animals / Environment</category>
+        <icon src="http://images.zattic.com/cms/c494925dec31d453cd81/format_1920x1080.jpg"/>
+        <country>CHE</country>
+        <episode-num system="xmltv_ns">0 . 146 . </episode-num>
+    </programme>
+
+    <programme start="20250818173000 +0000" stop="20250818180000 +0000" channel="SRF zwei HD">
+        <title lang="de">Tagesschau - Hauptausgabe</title>
+        <desc lang="de">(CHE) 2025
+        In dieser Sendung werden aktuelle Ereignisse aus der Schweiz und der Welt präsentiert.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/c66f433912fd3e8d1289/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818180000 +0000" stop="20250818181000 +0000" channel="SRF zwei HD">
+        <title lang="de">sportflash</title>
+        <desc lang="de">(CHE) 2025
+        Gezeigt werden die wichtigsten Neuigkeiten aus der Welt des Sports in kompakter Form.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://images.zattic.com/cms/6e0c9f3ec264f7050d48/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818181000 +0000" stop="20250818190000 +0000" channel="SRF zwei HD">
+        <title lang="de">Grey's Anatomy</title>
+        <sub-title lang="de">Auf dem Boden der Tatsachen</sub-title>
+        <desc lang="de">(USA) 2025 • S21 E9 • FSK FSK 12
+        Nach einer Schießerei in einem Supermarkt versinkt das Grey Sloan im Chaos. Inmitten dieser Krise stößt Ben mit der Umsetzung seiner neuen Notfallprotokolle an seine Grenzen. Währenddessen muss sich Owen mit romantischen Spannungen auseinandersetzen.</desc>
+        <credits>
+            <director>Rob Corn</director>
+            <director>Kevin McKidd</director>
+            <director>Debbie Allen</director>
+            <director>Chandra Wilson</director>
+            <director>Allison Liddi-Brown</director>
+            <director>Jeannot Szwarc</director>
+            <actor>Ellen Pompeo</actor>
+            <actor>Chandra Wilson</actor>
+            <actor>James Pickens</actor>
+            <actor>Kevin McKidd</actor>
+            <actor>Caterina Scorsone</actor>
+            <actor>Camilla Luddington</actor>
+            <actor>Kelly McCreary</actor>
+            <actor>Kim Raver</actor>
+            <actor>Chris Carmack</actor>
+            <actor>Richard Flood</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">Medicine / Physiology / Psychology</category>
+        <icon src="http://images.zattic.com/cms/b1c79600c4c9ee7ea141/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">20 . 8 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818190000 +0000" stop="20250818194500 +0000" channel="SRF zwei HD">
+        <title lang="de">Grey's Anatomy</title>
+        <sub-title lang="de">Mit allen Mitteln</sub-title>
+        <desc lang="de">(USA) 2025 • S21 E10 • FSK FSK 12
+        Meredith und Nick kehren nach "Grey Sloan" zurück, um einen Patienten bei der Lebertransplantation zu behandeln. Bailey organisiert ein Praktikanten-Retreat in ihrem Haus. Winston und Ben helfen einem unerwarteten Unfallopfer.</desc>
+        <credits>
+            <director>Rob Corn</director>
+            <director>Kevin McKidd</director>
+            <director>Debbie Allen</director>
+            <director>Chandra Wilson</director>
+            <director>Allison Liddi-Brown</director>
+            <director>Jeannot Szwarc</director>
+            <actor>Ellen Pompeo</actor>
+            <actor>Chandra Wilson</actor>
+            <actor>James Pickens</actor>
+            <actor>Kevin McKidd</actor>
+            <actor>Caterina Scorsone</actor>
+            <actor>Camilla Luddington</actor>
+            <actor>Kelly McCreary</actor>
+            <actor>Kim Raver</actor>
+            <actor>Chris Carmack</actor>
+            <actor>Richard Flood</actor>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">Medicine / Physiology / Psychology</category>
+        <icon src="http://images.zattic.com/cms/be12bd4c06c0da0f052a/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">20 . 9 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818203500 +0000" stop="20250818211000 +0000" channel="SRF zwei HD">
+        <title lang="de">rec</title>
+        <sub-title lang="de">All-in mit Poker - Im Casino das grosse Geld verdienen?</sub-title>
+        <desc lang="de">(DEU) 2025
+        Professionelle Pokerspieler kombinieren Können und Glück, um ihren Lebensunterhalt zu verdienen. Doch wie nachhaltig ist dieses Geschäftsmodell? Livio Chistell beleuchtet, wie Pokerspieler mit Unsicherheiten, Erfolgsdruck und Suchtgefahr umgehen.</desc>
+        <date>2025</date>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://images.zattic.com/cms/68e94c0b929d1fafec41/format_1920x1080.jpg"/>
+        <country>DEU</country>
+    </programme>
+
+    <programme start="20250818211000 +0000" stop="20250818211500 +0000" channel="SRF zwei HD">
+        <title lang="de">sportflash</title>
+        <desc lang="de">(CHE) 2025
+        Gezeigt werden die wichtigsten Neuigkeiten aus der Welt des Sports in kompakter Form.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://images.zattic.com/cms/6e0c9f3ec264f7050d48/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818211500 +0000" stop="20250818213000 +0000" channel="SRF zwei HD">
+        <title lang="de">Newsflash SRF zwei</title>
+        <desc lang="de">(CHE) 2025
+        Die wichtigsten Nachrichten des Tages werden in sehr kompakter Form präsentiert.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/5a87e376f4c5ff803c92/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818213000 +0000" stop="20250818231500 +0000" channel="SRF zwei HD">
+        <title lang="de">Wie ausgewechselt</title>
+        <desc lang="de">(USA) 2011 • FSK FSK 16
+        Mitch und Dave sind seit ihrer Kindheit befreundet. Die beiden leben unterschiedliche Leben, träumen jedoch insgeheim davon, die Rollen zu tauschen. Ihr Traum soll wahr werden, denn nach einer heftigen Partynacht wachen sie im Körper des anderen auf.</desc>
+        <credits>
+            <director>David Dobkin</director>
+            <actor>Ryan Reynolds</actor>
+            <actor>Jason Bateman</actor>
+            <actor>Leslie Mann</actor>
+            <actor>Olivia Wilde</actor>
+            <actor>Craig Bierko</actor>
+            <actor>Gregory Itzin</actor>
+            <actor>Alan Arkin</actor>
+            <actor>Mircea Monroe</actor>
+            <actor>Ned Schmidtke</actor>
+            <actor>Ming Lo</actor>
+        </credits>
+        <date>2011</date>
+        <category lang="de">Comedy</category>
+        <icon src="http://images.zattic.com/cms/7fd157e911f89d61ad25/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250817220500 +0000" stop="20250817230000 +0000" channel="SRFinfo.nws">
+        <title lang="de">sportpanorama</title>
+        <sub-title lang="de">Studiogast - Kevin Fiala, NHL-Spieler</sub-title>
+        <desc lang="de">(CHE) 2025
+        NHL-Spieler Kevin Fiala nutzt den Sommer für ein Charity Game und ein Youth Camp. Im Sportpanorama spricht er über Karriere, soziales Engagement und Familienleben, während zudem Schwägalp-Schwinget und Leichtathletin Audrey Werro vorgestellt werden.</desc>
+        <date>2025</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Talk show</category>
+        <icon src="http://images.zattic.com/cms/1078fee3bfbc49d795f2/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250817230000 +0000" stop="20250817235000 +0000" channel="SRFinfo.nws">
+        <title lang="de">Schweizer Cup - Highlights</title>
+        <sub-title lang="de">1. Hauptrunde Männer - Die besten Spiele, Szenen und Tore</sub-title>
+        <desc lang="de"> 2025
+        Runde für Runde schreibt der Schweizer Fußballcup seine eigenen Geschichten. Eine Sensation liegt in der Luft, wenn ein unterklassiger Verein einem Super-Ligisten ein Bein zu stellen versucht. Gezeigt werden die Highlights der aktuellen Cup-Runde.</desc>
+        <date>2025</date>
+        <category lang="de">Talk show</category>
+        <icon src="http://images.zattic.com/cms/97c98cb40ac7d433db95/format_1920x1080.jpg"/>
+    </programme>
+
+    <programme start="20250818010000 +0000" stop="20250818015000 +0000" channel="SRFinfo.nws">
+        <title lang="de">Schweizer Cup - Highlights</title>
+        <sub-title lang="de">1. Hauptrunde Männer - Die besten Spiele, Szenen und Tore</sub-title>
+        <desc lang="de"> 2025
+        Runde für Runde schreibt der Schweizer Fußballcup seine eigenen Geschichten. Eine Sensation liegt in der Luft, wenn ein unterklassiger Verein einem Super-Ligisten ein Bein zu stellen versucht. Gezeigt werden die Highlights der aktuellen Cup-Runde.</desc>
+        <date>2025</date>
+        <category lang="de">Talk show</category>
+        <icon src="http://images.zattic.com/cms/97c98cb40ac7d433db95/format_1920x1080.jpg"/>
+    </programme>
+
+    <programme start="20250818015000 +0000" stop="20250818020000 +0000" channel="SRFinfo.nws">
+        <title lang="de">Tagesschau - Spätausgabe</title>
+        <desc lang="de">(CHE) 2025
+        In dieser Sendung werden aktuelle Ereignisse aus der Schweiz und der Welt präsentiert.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/65df7c744aec45403316/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818020500 +0000" stop="20250818030000 +0000" channel="SRFinfo.nws">
+        <title lang="de">sportpanorama</title>
+        <sub-title lang="de">Studiogast - Kevin Fiala, NHL-Spieler</sub-title>
+        <desc lang="de">(CHE) 2025
+        NHL-Spieler Kevin Fiala nutzt den Sommer für ein Charity Game und ein Youth Camp. Im Sportpanorama spricht er über Karriere, soziales Engagement und Familienleben, während zudem Schwägalp-Schwinget und Leichtathletin Audrey Werro vorgestellt werden.</desc>
+        <date>2025</date>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <category lang="de">Talk show</category>
+        <icon src="http://images.zattic.com/cms/1078fee3bfbc49d795f2/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818035000 +0000" stop="20250818035500 +0000" channel="SRFinfo.nws">
+        <title lang="de">Tagesschau - Spätausgabe</title>
+        <desc lang="de">(CHE) 2025
+        In dieser Sendung werden aktuelle Ereignisse aus der Schweiz und der Welt präsentiert.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/65df7c744aec45403316/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818045000 +0000" stop="20250818054000 +0000" channel="SRFinfo.nws">
+        <title lang="de">Südostschweiz Standpunkte</title>
+        <sub-title lang="de">Wie böse ist der Wolf?</sub-title>
+        <desc lang="de">(CHE) 2025
+        Im Kanton Graubünden wurden 42 Wölfe erlegt. Gehen dadurch die Risse von Nutztieren weiter zurück? Wie können die Tiere auf den Alpen geschützt werden und weshalb hat der Wolf ein so schlechtes Image? Über diese Themen redet die Diskussionsrunde.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/e0bedd714d84ce655e1b/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818054000 +0000" stop="20250818060000 +0000" channel="SRFinfo.nws">
+        <title lang="de">gesundheitheute</title>
+        <sub-title lang="de">Die Gesundheitssendung mit Dr. Jeanne Fürst - Herzensgeschichten</sub-title>
+        <desc lang="de">(CHE) 2025
+        Sebastian Schmid Arenas überlebte dank einer fünfstündigen Operation eine lebensbedrohliche Herzerkrankung. Heute lebt er mit einer künstlichen Aortenklappe. Die Musikerin Anna Känzig tritt auf der Palliativstation eines Spitals auf.</desc>
+        <date>2025</date>
+        <category lang="de">Medicine / Physiology / Psychology</category>
+        <category lang="de">Fitness and health</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://images.zattic.com/cms/3d631633dc9bf78d3269/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818065000 +0000" stop="20250818071500 +0000" channel="SRFinfo.nws">
+        <title lang="de">gesundheitheute</title>
+        <sub-title lang="de">Die Gesundheitssendung mit Dr. Jeanne Fürst - Herzensgeschichten</sub-title>
+        <desc lang="de">(CHE) 2025
+        Sebastian Schmid Arenas überlebte dank einer fünfstündigen Operation eine lebensbedrohliche Herzerkrankung. Heute lebt er mit einer künstlichen Aortenklappe. Die Musikerin Anna Känzig tritt auf der Palliativstation eines Spitals auf.</desc>
+        <date>2025</date>
+        <category lang="de">Medicine / Physiology / Psychology</category>
+        <category lang="de">Fitness and health</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://images.zattic.com/cms/3d631633dc9bf78d3269/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818082500 +0000" stop="20250818091500 +0000" channel="SRFinfo.nws">
+        <title lang="de">NZZ Format</title>
+        <sub-title lang="de">Demenz mit 49 - Wenn das Ich verschwindet</sub-title>
+        <desc lang="de">(DEU) 2025 • FSK FSK 0
+        Immer mehr Menschen erkranken an Demenz. Die meisten sind über 65 Jahre, aber es gibt auch immer mehr jüngere Betroffene. Ursina Parr ist 49 Jahre alt, als sie die Diagnose hört: Jugenddemenz. Anders als die Altersdemenz ist die Frühdemenz erblich.</desc>
+        <credits>
+            <director>Annette Frei Berthoud</director>
+            <director>Katharina Deuber</director>
+            <director>Basil Gelpke</director>
+            <director>Gerti Maader</director>
+            <director>Kurt Widmer</director>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Education / Science / Factual topics</category>
+        <icon src="http://images.zattic.com/cms/6a01e98d53fa8b6e79f4/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <rating>
+            <value>FSK 0</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818110000 +0000" stop="20250818110500 +0000" channel="SRFinfo.nws">
+        <title lang="de">Tagesschau kompakt</title>
+        <sub-title lang="de">Mittagsausgabe</sub-title>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/5ecb7f9a6c971f9dc62a/format_1920x1080.jpg"/>
+    </programme>
+
+    <programme start="20250818144000 +0000" stop="20250818144500 +0000" channel="SRFinfo.nws">
+        <title lang="de">Tagesschau kompakt</title>
+        <sub-title lang="de">Mittagsausgabe</sub-title>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/5ecb7f9a6c971f9dc62a/format_1920x1080.jpg"/>
+    </programme>
+
+    <programme start="20250818160000 +0000" stop="20250818161500 +0000" channel="SRFinfo.nws">
+        <title lang="de">Telesguard</title>
+        <desc lang="de">(CHE) 2025
+        Die Nachrichtensendung berichtet von Montag bis Freitag über das aktuelle Geschehen in der Schweiz und in Graubünden sowie über weitere relevante Themen. Auf Rätoromanisch wird gezeigt, was Graubünden und die rätoromanische Schweiz bewegt.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/90579332ee550a7e5426/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818163500 +0000" stop="20250818164000 +0000" channel="SRFinfo.nws">
+        <title lang="de">Meteo - Vorabendausgabe</title>
+        <desc lang="de"> 2025
+        Die Vorabendausgabe der Sendung informiert über die Wetteraussichten für die gesamte Schweiz.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">News / Weather report</category>
+        <icon src="http://images.zattic.com/cms/e80112871189d0b3899d/format_1920x1080.jpg"/>
+    </programme>
+
+    <programme start="20250818164000 +0000" stop="20250818165000 +0000" channel="SRFinfo.nws">
+        <title lang="de">Telesguard</title>
+        <desc lang="de">(CHE) 2025
+        Die Nachrichtensendung berichtet von Montag bis Freitag über das aktuelle Geschehen in der Schweiz und in Graubünden sowie über weitere relevante Themen. Auf Rätoromanisch wird gezeigt, was Graubünden und die rätoromanische Schweiz bewegt.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/90579332ee550a7e5426/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818173000 +0000" stop="20250818175500 +0000" channel="SRFinfo.nws">
+        <title lang="de">Tagesschau in Gebärdensprache - Hauptausgabe</title>
+        <desc lang="de">(CHE) 2025
+        In dieser Sendung werden aktuelle Ereignisse aus der Schweiz und der Welt präsentiert.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/a846d86c4607c4e0d531/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818180500 +0000" stop="20250818190000 +0000" channel="SRFinfo.nws">
+        <title lang="de">SRF DOK</title>
+        <sub-title lang="de">Die Tote vom Strassenstrich - Letzte Hoffnung: Aktenzeichen XY... Ungelöst</sub-title>
+        <desc lang="de">(CHE) 2025
+        Vor 10 Jahren wurde im Kanton Nidwalden die Leiche einer Prostituierten gefunden. Die Frau wurde ermordet, der Täter nie gefasst. Nun soll der Fall mithilfe der Sendung Aktenzeichen "XY Ungelöst" doch noch aufklärt werden.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://images.zattic.com/cms/40863bff4db95995c7c2/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818190000 +0000" stop="20250818194000 +0000" channel="SRFinfo.nws">
+        <title lang="de">Einstein</title>
+        <sub-title lang="de">DNA-Verbrecherjagd: spektakuläre Fälle und die Schweizer Realität</sub-title>
+        <desc lang="de">(CHE) 2025
+        Immer wieder gelingen spektakuläre Aufklärungen, auch Jahrzehnte nach der Tat. Im schweizerischen Polizeialltag spielen diese Methoden eine untergeordnete Rolle. Doch auch die klassische DNA-Analyse macht weiter Fortschritte.</desc>
+        <date>2025</date>
+        <category lang="de">Education / Science / Factual topics</category>
+        <icon src="http://images.zattic.com/cms/5b7d771d62b37b116f25/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818204000 +0000" stop="20250818210500 +0000" channel="SRFinfo.nws">
+        <title lang="de">10 vor 10</title>
+        <desc lang="de">(CHE) 2025
+        Die Schweizer Nachrichtensendung informiert über die aktuellsten und brisantesten Themen des Tages. In Reportagen, Porträts und Live-Gesprächen wird über die Hintergründe von Schlagzeilen und das Geschehen aus dem In- und Ausland berichtet.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Discussion / Interview / Debate</category>
+        <icon src="http://images.zattic.com/cms/ce1f08008983e6dcf9fc/format_1920x1080.jpg"/>
+        <country>CHE</country>
+    </programme>
+
+    <programme start="20250818210500 +0000" stop="20250818211000 +0000" channel="SRFinfo.nws">
+        <title lang="de">Meteo - Spätausgabe</title>
+        <desc lang="de"> 2025
+        Die Spätausgabe der Sendung informiert über die Wetteraussichten für die gesamte Schweiz.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">News / Weather report</category>
+        <icon src="http://images.zattic.com/cms/ceabbaa38d5ef74f5614/format_1920x1080.jpg"/>
+    </programme>
+
+    <programme start="20250817204500 +0000" stop="20250817221000 +0000" channel="3+ HD">
+        <title lang="de">First Dates - Znacht für Zwei</title>
+        <desc lang="de">(CHE) 2025 • S4 E1
+        Julia erscheint im Prinzessinnenkleid, Filippo in Flip-Flops, Florian kommt ins Schwitzen und Isabella wagt sich auf ihr erstes Blind-Date. Bei wem knistert es und wer erlebt eine böse Überraschung?</desc>
+        <date>2025</date>
+        <category lang="de">Romance</category>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://images.zattic.com/cms/d717bea396e4a64e2fc2/format_1920x1080.jpg"/>
+        <country>CHE</country>
+        <episode-num system="xmltv_ns">3 . 0 . </episode-num>
+    </programme>
+
+    <programme start="20250817221000 +0000" stop="20250818000500 +0000" channel="3+ HD">
+        <title lang="de">(T)Raumschiff Surprise - Periode 1</title>
+        <desc lang="de">(DEU) 2004 • FSK FSK 6
+        Im Jahre 2054: Die Menschheit hat den Mars besiedelt. Doch nun, 250 Jahre später, wird ihre Existenz durch den bösen Regulator bedroht. Königin Metapha setzt all ihre Hoffnungen in das (T)Raumschiff Surprise und seine Besatzung.</desc>
+        <credits>
+            <director>Michael Bully Herbig</director>
+            <actor>Michael Bully Herbig</actor>
+            <actor>Rick Kavanian</actor>
+            <actor>Christian Tramitz</actor>
+            <actor>Anja Kling</actor>
+            <actor>Hans Michael Rehberg</actor>
+            <actor>Til Schweiger</actor>
+        </credits>
+        <date>2004</date>
+        <category lang="de">Comedy</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <icon src="http://images.zattic.com/cms/ac853e4dcc884efc1d02/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <rating>
+            <value>FSK 6</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818000500 +0000" stop="20250818021000 +0000" channel="3+ HD">
+        <title lang="de">Gold - Im Rausch der Gier</title>
+        <desc lang="de">(AUS) 2022 • FSK FSK 16
+        Zwei Männer finden in einer unwirtlichen Wüste den größten Goldklumpen, der je entdeckt wurde. Sie müssen einen Weg finden, ihn auszugraben, doch die Zweifel und die Gier beginnen, als die beiden ihren Plan in die Tat umsetzen.</desc>
+        <credits>
+            <director>Anthony Hayes</director>
+            <actor>Zac Efron</actor>
+            <actor>Susie Porter</actor>
+            <actor>Anthony Hayes</actor>
+            <actor>Akuol Ngot</actor>
+            <actor>Thiik Biar</actor>
+            <actor>Andreas Sobik</actor>
+        </credits>
+        <date>2022</date>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Adventure / Western / War</category>
+        <icon src="http://images.zattic.com/cms/d6f559f52a6744ac7a42/format_1920x1080.jpg"/>
+        <country>AUS</country>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818021000 +0000" stop="20250818030000 +0000" channel="3+ HD">
+        <title lang="de">Susi.live</title>
+        <desc lang="de"> 2023
+        Die Sendung zeigt sexy Clips für heiße Nächte vor dem Bildschirm.</desc>
+        <date>2023</date>
+        <category lang="de">Adult movie / Drama</category>
+        <icon src="http://images.zattic.com/cms/ed1ff03d7120c5e3af6a/format_1920x1080.jpg"/>
+    </programme>
+
+    <programme start="20250818030000 +0000" stop="20250818040000 +0000" channel="3+ HD">
+        <title lang="de">MediaShop</title>
+        <desc lang="de">(DEU) 2014 • FSK FSK 0
+        Die Sendung stellt neue Produktinnovationen vor. Die Zuschauer können direkt von zu Hause bestellen.</desc>
+        <date>2014</date>
+        <category lang="de">Advertisement / Shopping</category>
+        <icon src="http://images.zattic.com/cms/b99ba8212e2d89f37c95/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <rating>
+            <value>FSK 0</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818040000 +0000" stop="20250818070000 +0000" channel="3+ HD">
+        <title lang="de">MediaShop</title>
+        <desc lang="de">(DEU) 2014 • FSK FSK 0
+        Die Sendung stellt neue Produktinnovationen vor. Die Zuschauer können direkt von zu Hause bestellen.</desc>
+        <date>2014</date>
+        <category lang="de">Advertisement / Shopping</category>
+        <icon src="http://images.zattic.com/cms/b99ba8212e2d89f37c95/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <rating>
+            <value>FSK 0</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818070000 +0000" stop="20250818090000 +0000" channel="3+ HD">
+        <title lang="de">MediaShop</title>
+        <desc lang="de">(DEU) 2014 • FSK FSK 0
+        Die Sendung stellt neue Produktinnovationen vor. Die Zuschauer können direkt von zu Hause bestellen.</desc>
+        <date>2014</date>
+        <category lang="de">Advertisement / Shopping</category>
+        <icon src="http://images.zattic.com/cms/b99ba8212e2d89f37c95/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <rating>
+            <value>FSK 0</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818090000 +0000" stop="20250818103000 +0000" channel="3+ HD">
+        <title lang="de">premiumshopping.tv</title>
+        <desc lang="de">(DEU) 2017 • FSK FSK 0
+        Die Sendung präsentiert hochwertige Marken, exklusive Produkte, großartige Angebote und Specials.</desc>
+        <date>2017</date>
+        <category lang="de">Advertisement / Shopping</category>
+        <icon src="http://images.zattic.com/cms/21ee813924b392a833c0/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <rating>
+            <value>FSK 0</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818103000 +0000" stop="20250818130500 +0000" channel="3+ HD">
+        <title lang="de">Bauer, ledig, sucht...</title>
+        <sub-title lang="de">Folge 3</sub-title>
+        <desc lang="de">(CHE) 2024 • S20 E3 • FSK FSK 0
+        Die Hofdame Katla trifft zum ersten Mal auf Beats Freunde und in Kanada schießen Conny und Lucas mit scharfen Waffen. Andreas wagt indessen einen ersten vorsichtigen Flirtversuch bei seiner Hofdame Magdalena.</desc>
+        <credits>
+            <actor>Christa Rigozzi</actor>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://images.zattic.com/cms/80e502c27e46cd2694d0/format_1920x1080.jpg"/>
+        <country>CHE</country>
+        <episode-num system="xmltv_ns">19 . 2 . </episode-num>
+        <rating>
+            <value>FSK 0</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818130500 +0000" stop="20250818135000 +0000" channel="3+ HD">
+        <title lang="de">Achtung, Zoll! Willkommen in Australien</title>
+        <sub-title lang="de">Folge 4</sub-title>
+        <desc lang="de">(AUS) 2009 • S7 E4 • FSK FSK 12
+        Hat der Passagier, der seine Arme vor dem Bauch verschränkt, etwas zu verbergen? Und; ein Passagier mit einem etwas anderen Geständnis.</desc>
+        <date>2009</date>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://images.zattic.com/cms/b0469f73a6146ef8f3e4/format_1920x1080.jpg"/>
+        <country>AUS</country>
+        <episode-num system="xmltv_ns">6 . 3 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818135000 +0000" stop="20250818143000 +0000" channel="3+ HD">
+        <title lang="de">Achtung, Zoll! Willkommen in Australien</title>
+        <sub-title lang="de">Folge 86</sub-title>
+        <desc lang="de">(AUS) 2009 • S7 E6 • FSK FSK 12
+        Am Flughafen von Melbourne kontrollieren die Beamten der "Border Security" auf Verstöße gegen Quarantäne- und Einreisebstimmungen, Schmuggel von Geld oder Drogen oder illegale Einfuhr von Waren. Die Serie sieht ihnen dabei über die Schulter.</desc>
+        <date>2009</date>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://images.zattic.com/cms/419f8317acd482bcd460/format_1920x1080.jpg"/>
+        <country>AUS</country>
+        <episode-num system="xmltv_ns">6 . 5 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818143000 +0000" stop="20250818150500 +0000" channel="3+ HD">
+        <title lang="de">Border Patrol New Zealand</title>
+        <sub-title lang="de">Der Drogen-Särge</sub-title>
+        <desc lang="de">(NZL) 2009 • S4 E9 • FSK FSK 12
+        Bei der routinemäßigen Kontrolle einer Großlieferung wird zufällig eine große Menge Drogen entdeckt. Einige Haustiere sollen transportiert werden, doch bevor die Tiere verreisen dürfen, müssen sie sich in Quarantäne begeben.</desc>
+        <date>2009</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://images.zattic.com/cms/9441943ae1b80005212e/format_1920x1080.jpg"/>
+        <country>NZL</country>
+        <episode-num system="xmltv_ns">3 . 8 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818150500 +0000" stop="20250818153500 +0000" channel="3+ HD">
+        <title lang="de">Border Patrol New Zealand</title>
+        <sub-title lang="de">Der Gecko-Schmuggler</sub-title>
+        <desc lang="de">(NZL) 2010 • S5 E3 • FSK FSK 12
+        Ein Reisender aus Deutschland versucht, lebende Wildtiere am Körper einzuschleusen. Weiterhin geht es um eine Asiatin mit Magenproblemen. Die Beamten spekulieren, ob die Ursache mit Drogenkonsum oder einer Krankheit zusammenhängt.</desc>
+        <date>2010</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://images.zattic.com/cms/d4cb51777079a809744d/format_1920x1080.jpg"/>
+        <country>NZL</country>
+        <episode-num system="xmltv_ns">4 . 2 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818153500 +0000" stop="20250818160500 +0000" channel="3+ HD">
+        <title lang="de">Border Patrol New Zealand</title>
+        <sub-title lang="de">Kalter Krieg in Aotearoa</sub-title>
+        <desc lang="de">(NZL) 2009 • S4 E10 • FSK FSK 12
+        Am Flughafen in Auckland entsteht große Aufregung aufgrund einer großen Menge Tabaks. Während der Routinekontrolle einer Privatyacht schlägt einer der Drogespürhunde an und weckt so das besondere Interesse der Grenzbeamten.</desc>
+        <date>2009</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://images.zattic.com/cms/59a8683215e984411c51/format_1920x1080.jpg"/>
+        <country>NZL</country>
+        <episode-num system="xmltv_ns">3 . 9 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818160500 +0000" stop="20250818163500 +0000" channel="3+ HD">
+        <title lang="de">Border Patrol New Zealand</title>
+        <sub-title lang="de">Verdächtige Gerüche</sub-title>
+        <desc lang="de">(NZL) 2010 • S5 E4 • FSK FSK 12
+        Zollbeamte an der neuseeländischen Grenze stoßen auf eigenartig verpackte Gegenstände.</desc>
+        <date>2010</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://images.zattic.com/cms/fb769cddd110469aa183/format_1920x1080.jpg"/>
+        <country>NZL</country>
+        <episode-num system="xmltv_ns">4 . 3 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818170500 +0000" stop="20250818174000 +0000" channel="3+ HD">
+        <title lang="de">Border Patrol New Zealand</title>
+        <sub-title lang="de">Tonnenweise Heilkräuter</sub-title>
+        <desc lang="de">(NZL) 2010 • S5 E7 • FSK FSK 12
+        An der neuseeländischen Grenze entdecken die Zollbeamten 13 Tonnen chinesischer Heilkräuter. Eine Reisende wirkt zudem verdächtig ermüdet. Die Kontrolleure sind unsicher, ob es sich um Drogenkonsum oder bloße Erschöpfung handelt.</desc>
+        <date>2010</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://images.zattic.com/cms/cae8060bc5be8cc54cc2/format_1920x1080.jpg"/>
+        <country>NZL</country>
+        <episode-num system="xmltv_ns">4 . 6 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818174000 +0000" stop="20250818181500 +0000" channel="3+ HD">
+        <title lang="de">Border Patrol New Zealand</title>
+        <sub-title lang="de">Panne auf hoher See</sub-title>
+        <desc lang="de">(NZL) 2010 • S5 E8 • FSK FSK 12
+        Die neuseeländischen Zollbeamten stoßen dieses Mal auf illegale Lebensmitteleinfuhren. Reisende, die frische Nahrungsmittel transportieren, werden aufgefordert, ein Strafgeld zu zahlen. Zudem entdecken die Kontrolleure verbotenes digitales Material.</desc>
+        <date>2010</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://images.zattic.com/cms/415070820bee26343244/format_1920x1080.jpg"/>
+        <country>NZL</country>
+        <episode-num system="xmltv_ns">4 . 7 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818181500 +0000" stop="20250818194000 +0000" channel="3+ HD">
+        <title lang="de">Adieu Heimat - Schweizer wandern aus</title>
+        <sub-title lang="de">Folge 22</sub-title>
+        <desc lang="de">(CHE) 2019 • S5 E3 • FSK FSK 0
+        In Pattaya genießen Asija und Max ihren Tag am Pool und träumen davon, welche Geschäfte sie in Zukunft in Thailand auf die Beine stellen könnten. Beim gemeinsamen Bummeln auf dem Markt kommt den Beiden noch eine weitere Geschäftsidee.</desc>
+        <date>2019</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://images.zattic.com/cms/8ba97d24c68c1157c9ab/format_1920x1080.jpg"/>
+        <country>CHE</country>
+        <episode-num system="xmltv_ns">4 . 2 . </episode-num>
+        <rating>
+            <value>FSK 0</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818194000 +0000" stop="20250818212000 +0000" channel="3+ HD">
+        <title lang="de">Adieu Heimat - Schweizer wandern aus</title>
+        <sub-title lang="de">Folge 23</sub-title>
+        <desc lang="de">(CHE) 2019 • S5 E4 • FSK FSK 0
+        In Fuerteventura begeben sich Tobias und Michael heute auf die Suche nach einer Babykatze. Während sich Michael sofort in eine Katze verliebt, ist sich Tobias noch nicht ganz sicher, ob es wirklich so eine gute Idee ist.</desc>
+        <date>2019</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://images.zattic.com/cms/bfad1f9f5deeb44de4f7/format_1920x1080.jpg"/>
+        <country>CHE</country>
+        <episode-num system="xmltv_ns">4 . 3 . </episode-num>
+        <rating>
+            <value>FSK 0</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818212000 +0000" stop="20250818223000 +0000" channel="3+ HD">
+        <title lang="de">Jung, wild &amp; sexy - Refilled</title>
+        <sub-title lang="de">Folge 6</sub-title>
+        <desc lang="de">(CHE) 2025 • S6 E6
+        Elf feierfreudige Jugendliche verbringen in Zypern den Partyurlaub ihres Lebens.</desc>
+        <date>2025</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://images.zattic.com/cms/639ef8674922dde892a2/format_1920x1080.jpg"/>
+        <country>CHE</country>
+        <episode-num system="xmltv_ns">5 . 5 . </episode-num>
+    </programme>
+
+    <programme start="20250817202000 +0000" stop="20250817222000 +0000" channel="4+ HD">
+        <title lang="de">Escape Plan 3: The Extractors</title>
+        <desc lang="de">(USA) 2019 • FSK FSK 16
+        Ray Breslin und sein Team von Sicherheitsexperten stehen vor einer gefährlichen Rettungsaktion: Sie versuchen, Breslins Freundin und die entführte Tochter eines Hongkonger Technikmoguls aus dem Gefängnis namens Devil's Station zu befreien.</desc>
+        <credits>
+            <director>John Herzfeld</director>
+            <actor>Sylvester Stallone</actor>
+            <actor>50 Cent</actor>
+            <actor>Dave Bautista</actor>
+            <actor>Zhang Jin</actor>
+            <actor>Harry Shum</actor>
+            <actor>Devon Sawa</actor>
+            <actor>Jaime King</actor>
+            <actor>Lydia Hull</actor>
+            <actor>Melise</actor>
+            <actor>Russell Wong</actor>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Adventure / Western / War</category>
+        <icon src="http://images.zattic.com/cms/46c87d3db7bfce893782/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250817222000 +0000" stop="20250818005500 +0000" channel="4+ HD">
+        <title lang="de">What Happened to Monday</title>
+        <desc lang="de">(FRA, USA, BEL, GBR) 2017 • FSK FSK 16
+        Monday und ihre sechs Zwillingsschwestern werden in eine Welt hineingeboren, in der eine Ein-Kind-Politik gilt. Um dieser strengen Regel zu entkommen, geben sich die sieben Schwestern als ein und dieselbe Person aus. Doch dann verschwindet Monday.</desc>
+        <credits>
+            <director>Tommy Wirkola</director>
+            <actor>Noomi Rapace</actor>
+            <actor>Willem Dafoe</actor>
+            <actor>Glenn Close</actor>
+            <actor>Robert Wagner</actor>
+            <actor>Marwan Kenzari</actor>
+            <actor>Pål Sverre Hagen</actor>
+            <actor>Lara Decaro</actor>
+            <actor>Tomiwa Edun</actor>
+        </credits>
+        <date>2017</date>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <icon src="http://images.zattic.com/cms/cd8cf31ce77a6dd4bf0e/format_1920x1080.jpg"/>
+        <country>FRA, USA, BEL, GBR</country>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818005500 +0000" stop="20250818040000 +0000" channel="4+ HD">
+        <title lang="de">Susi.live</title>
+        <desc lang="de"> 2023
+        Die Sendung zeigt sexy Clips für heiße Nächte vor dem Bildschirm.</desc>
+        <date>2023</date>
+        <category lang="de">Adult movie / Drama</category>
+        <icon src="http://images.zattic.com/cms/ed1ff03d7120c5e3af6a/format_1920x1080.jpg"/>
+    </programme>
+
+    <programme start="20250818040000 +0000" stop="20250818070000 +0000" channel="4+ HD">
+        <title lang="de">premiumshopping.tv</title>
+        <desc lang="de">(DEU) 2017 • FSK FSK 0
+        Die Sendung präsentiert hochwertige Marken, exklusive Produkte, großartige Angebote und Specials.</desc>
+        <date>2017</date>
+        <category lang="de">Advertisement / Shopping</category>
+        <icon src="http://images.zattic.com/cms/21ee813924b392a833c0/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <rating>
+            <value>FSK 0</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818070000 +0000" stop="20250818102000 +0000" channel="4+ HD">
+        <title lang="de">premiumshopping.tv</title>
+        <desc lang="de">(DEU) 2017 • FSK FSK 0
+        Die Sendung präsentiert hochwertige Marken, exklusive Produkte, großartige Angebote und Specials.</desc>
+        <date>2017</date>
+        <category lang="de">Advertisement / Shopping</category>
+        <icon src="http://images.zattic.com/cms/21ee813924b392a833c0/format_1920x1080.jpg"/>
+        <country>DEU</country>
+        <rating>
+            <value>FSK 0</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818102000 +0000" stop="20250818113500 +0000" channel="4+ HD">
+        <title lang="de">American Pickers - Die Trödelsammler</title>
+        <sub-title lang="de">Knucklehead-Guru</sub-title>
+        <desc lang="de">(USA) 2019 • S20 E23 • FSK FSK 12
+        Auf dem abgelegenen Gelände eines Sammlers in Kalifornien verliebt sich Frank Hals über Kopf in eine Harley-Davidson "Knucklehead". Danach sehen die Jungs sich noch eine andere versteckte Sammlung im San Joaquin Valley an.</desc>
+        <credits>
+            <actor>Mike Wolfe</actor>
+            <actor>Frank Fritz</actor>
+            <actor>Danielle Colby-Cushman</actor>
+            <actor>Ben Black</actor>
+            <actor>Rich Ewald</actor>
+            <actor>Michael Mefford</actor>
+        </credits>
+        <date>2019</date>
+        <category lang="de">Soap / Melodrama / Folkloric</category>
+        <icon src="http://images.zattic.com/cms/5d65261a4a5bae21c9c3/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">19 . 22 . </episode-num>
+        <rating>
+            <value>FSK 12</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818113500 +0000" stop="20250818125500 +0000" channel="4+ HD">
+        <title lang="de">Hawaii Five-0</title>
+        <sub-title lang="de">Spione</sub-title>
+        <desc lang="de">(USA) 2013 • S4 E5 • FSK FSK 16
+        Ein scheinbar ungefährlicher Überwachungsjob endet tödlich. In der Hoffnung, Kono retten zu können, denkt Adam derweil darüber nach, ein großes Opfer zu bringen.</desc>
+        <credits>
+            <director>Jeffrey Hunt</director>
+            <actor>Alex O'Loughlin</actor>
+            <actor>Scott Caan</actor>
+            <actor>Daniel Dae Kim</actor>
+            <actor>Grace Park</actor>
+            <actor>Masi Oka</actor>
+            <actor>Michelle Borth</actor>
+            <actor>Terry O'Quinn</actor>
+            <actor>Dennis Chun</actor>
+            <actor>Ian Anthony Dale</actor>
+            <actor>Justin Bruening</actor>
+        </credits>
+        <date>2013</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://images.zattic.com/cms/f8bb1fd35c53634d584c/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">3 . 4 . </episode-num>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818125500 +0000" stop="20250818140000 +0000" channel="4+ HD">
+        <title lang="de">Hawaii Five-0</title>
+        <sub-title lang="de">Der Zombie-Doktor</sub-title>
+        <desc lang="de">(USA) 2013 • S4 E6 • FSK FSK 16
+        Als Halloween auch auf Hawaii Einzug hält, wird ein Mann erschossen, der sich wie ein Zombie verhält. Das Team von Five-0 muss sich beeilen, um einen Verrückten aufzuhalten, der schreckliche Experimente an Menschen durchführt.</desc>
+        <credits>
+            <director>John Terlesky</director>
+            <actor>Alex O'Loughlin</actor>
+            <actor>Scott Caan</actor>
+            <actor>Daniel Dae Kim</actor>
+            <actor>Grace Park</actor>
+            <actor>Masi Oka</actor>
+            <actor>Michelle Borth</actor>
+            <actor>Taylor Wily</actor>
+            <actor>Teilor Grubbs</actor>
+            <actor>Dennis Chun</actor>
+            <actor>Rumer Willis</actor>
+        </credits>
+        <date>2013</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://images.zattic.com/cms/71356b52db70c136d862/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">3 . 5 . </episode-num>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818140000 +0000" stop="20250818150500 +0000" channel="4+ HD">
+        <title lang="de">Navy CIS</title>
+        <sub-title lang="de">Durch dick und dünn</sub-title>
+        <desc lang="de">(USA) 2022 • S19 E15 • FSK FSK 16
+        Rätselhafter Fall für das NCIS-Team: Nah der Leiche einer Offizierin in einem Park in Philadelphia wird eine Kiste mit Organen entdeckt. Daneben hat Parker private Probleme und muss mit seinem alten Freund Billy Doyle über die Vergangenheit reden.</desc>
+        <credits>
+            <director>Terrence O'Hara</director>
+            <actor>Mark Harmon</actor>
+            <actor>Sean Murray</actor>
+            <actor>Wilmer Valderrama</actor>
+            <actor>Brian Dietzen</actor>
+            <actor>Diona Reasonover</actor>
+            <actor>Katrina Law</actor>
+            <actor>Rocky Carroll</actor>
+            <actor>Gary Cole</actor>
+            <actor>David McCallum</actor>
+            <actor>Kevin Chapman</actor>
+        </credits>
+        <date>2022</date>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <icon src="http://images.zattic.com/cms/9f74d4ffee1e5d453602/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">18 . 14 . </episode-num>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818150500 +0000" stop="20250818160500 +0000" channel="4+ HD">
+        <title lang="de">Hawaii Five-0</title>
+        <sub-title lang="de">Ein größerer Typ</sub-title>
+        <desc lang="de">(USA) 2014 • S5 E4 • FSK FSK 16
+        Als ein Killer festgenommen werden soll, wird dieser von einem Scharfschützen erschossen. Der Schütze ist Nick Mercer, der nur mit Mühe gestoppt werden kann. Er hat zwar für den Mafia-Boss Bagosa gearbeitet, ist aber zur anderen Seite übergelaufen.</desc>
+        <credits>
+            <director>Ken Solarz</director>
+            <actor>Alex O'Loughlin</actor>
+            <actor>Scott Caan</actor>
+            <actor>Daniel Dae Kim</actor>
+            <actor>Grace Park</actor>
+            <actor>Masi Oka</actor>
+            <actor>Chi McBride</actor>
+            <actor>Jorge Garcia</actor>
+            <actor>Taylor Wily</actor>
+            <actor>Anthony Ruivivar</actor>
+            <actor>Brian Yang</actor>
+        </credits>
+        <date>2014</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://images.zattic.com/cms/7f1e68ddd5fb2c389d55/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">4 . 3 . </episode-num>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818160500 +0000" stop="20250818171000 +0000" channel="4+ HD">
+        <title lang="de">Hawaii Five-0</title>
+        <sub-title lang="de">Drei Männer und ein Baby</sub-title>
+        <desc lang="de">(USA) 2013 • S4 E7 • FSK FSK 16
+        Während sie sich mit dem Mord an einem verdeckten Ermittler befassen, werden McGarrett und das Team von Five-0 plötzlich auch als Babysitter in Anspruch genommen. Denn Marya wird plötzlich krank und das adoptierte Kind muss beaufsichtigt werden.</desc>
+        <credits>
+            <director>Joe Dante</director>
+            <actor>Alex O'Loughlin</actor>
+            <actor>Scott Caan</actor>
+            <actor>Daniel Dae Kim</actor>
+            <actor>Grace Park</actor>
+            <actor>Masi Oka</actor>
+            <actor>Michelle Borth</actor>
+            <actor>Taryn Manning</actor>
+            <actor>Brian Yang</actor>
+            <actor>Chi McBride</actor>
+            <actor>West LeClay</actor>
+        </credits>
+        <date>2013</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://images.zattic.com/cms/5db98244e3a595c38f08/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">3 . 6 . </episode-num>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818171000 +0000" stop="20250818181500 +0000" channel="4+ HD">
+        <title lang="de">Navy CIS</title>
+        <sub-title lang="de">Ein Fressen für die Geier</sub-title>
+        <desc lang="de">(USA) 2022 • S19 E16 • FSK FSK 16
+        Die Ermittler suchen nach einer vermissten Lehrkraft, die durch einen Podcast bekannt wurde.</desc>
+        <credits>
+            <director>Rocky Carroll</director>
+            <actor>Mark Harmon</actor>
+            <actor>Sean Murray</actor>
+            <actor>Wilmer Valderrama</actor>
+            <actor>Brian Dietzen</actor>
+            <actor>Diona Reasonover</actor>
+            <actor>Katrina Law</actor>
+            <actor>Rocky Carroll</actor>
+            <actor>David McCallum</actor>
+            <actor>Gary Cole</actor>
+            <actor>Mike Erwin</actor>
+        </credits>
+        <date>2022</date>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <icon src="http://images.zattic.com/cms/fd8a364efdfb7b2627b3/format_1920x1080.jpg"/>
+        <country>USA</country>
+        <episode-num system="xmltv_ns">18 . 15 . </episode-num>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818181500 +0000" stop="20250818201500 +0000" channel="4+ HD">
+        <title lang="de">Alien vs. Predator</title>
+        <desc lang="de">(GBR, CZE, CAN) 2004 • FSK FSK 16
+        Forscher des Weyland-Konzerns machen auf der Bouvetinsel in der Nähe der Antarktis einen atemberaubenden Fund: eine riesige Pyramide 600 Meter unter der Eisfläche. Ein Erkundungsteam macht sich auf den Weg durch einen unterirdischen Tunnel.</desc>
+        <credits>
+            <director>Paul W.S. Anderson</director>
+            <actor>Sanaa Lathan</actor>
+            <actor>Raoul Bova</actor>
+            <actor>Lance Henriksen</actor>
+            <actor>Ewen Bremner</actor>
+            <actor>Colin Salmon</actor>
+            <actor>Tommy Flanagan</actor>
+            <actor>Joseph Rye</actor>
+            <actor>Carsten Nørgaard</actor>
+            <actor>Sam Troughton</actor>
+            <actor>Ian Whyte</actor>
+        </credits>
+        <date>2004</date>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <icon src="http://images.zattic.com/cms/5863caa81f7b01c8b062/format_1920x1080.jpg"/>
+        <country>GBR, CZE, CAN</country>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
+    </programme>
+
+    <programme start="20250818201500 +0000" stop="20250818224000 +0000" channel="4+ HD">
+        <title lang="de">Resident Evil: Welcome to Raccoon City</title>
+        <desc lang="de">(DEU, CAN) 2021 • FSK FSK 16
+        Im 21. Jahrhundert wird bei der Umbrella Corporation, die zu einer der mächtigsten Firmen der Welt aufgestiegen ist, versehentlich ein tödliches Virus freigesetzt. Jede Person, die damit in Berührung kommt, verwandelt sich in einen rasenden Zombie.</desc>
+        <credits>
+            <director>Johannes Roberts</director>
+            <actor>Kaya Scodelario</actor>
+            <actor>Hannah John-Kamen</actor>
+            <actor>Robbie Amell</actor>
+            <actor>Tom Hopper</actor>
+            <actor>Avan Jogia</actor>
+            <actor>Donal Logue</actor>
+            <actor>Neal McDonough</actor>
+            <actor>Lily Gao</actor>
+            <actor>Chad Rook</actor>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <icon src="http://images.zattic.com/cms/3768b7c4b9ec790c9b26/format_1920x1080.jpg"/>
+        <country>DEU, CAN</country>
+        <rating>
+            <value>FSK 16</value>
+        </rating>
     </programme>
 
 </tv>
