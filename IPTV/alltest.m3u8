@@ -9,11 +9,11 @@ plugin://plugin.video.tvone112/play/52/166/play.pvr
 plugin://plugin.video.tvone112/play/52/171/play.pvr
 #EXTINF:-1 tvg-name=""tvg-id="RTL2.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtl2.png"group-title="Filme/Serien":http-user-agent="",RTL II
 plugin://plugin.video.tvone112/play/52/167/play.pvr
-#EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/pro7.png"group-title="Filme/Serien":http-user-agent="",ProSieben
+#EXTINF:-1 tvg-name=""tvg-id="Pro7.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/pro7.png"group-title="Filme/Serien":http-user-agent="",ProSieben
 plugin://plugin.video.vavooto/?name=PRO+7
 #EXTINF:-1 tvg-name=""tvg-id="Kabel.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/kabel1.png"group-title="Filme/Serien":http-user-agent="",KABEL 1
 plugin://plugin.video.vavooto/?name=KABEL+1
-#EXTINF:-1 tvg-name=""tvg-id="VOX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/vox.png"group-title="Filme/Serien":http-user-agent="",VOX
+#EXTINF:-1 tvg-name=""tvg-id="Vox.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/vox.png"group-title="Filme/Serien":http-user-agent="",VOX
 plugin://plugin.video.tvone112/play/52/180/play.pvr
 #EXTINF:-1 tvg-name=""tvg-id="Puls8.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/puls8.png"group-title="Filme/Serien":http-user-agent="",PULS 8
 plugin://plugin.video.zattoo_com/?mode=watch&id=puls8&level=hd&drm=False
