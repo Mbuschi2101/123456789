@@ -179,7 +179,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=spiegel_tv_konflikte_de&level=hd
 plugin://plugin.video.zattoo_com/?mode=watch&id=one_terra_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Moconomy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Moconomy.png"group-title="News/Doku":http-user-agent="",Moconomy
 plugin://plugin.video.zattoo_com/?mode=watch&id=moconomy_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Xplore"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/xplore.png"group-title="News/Doku":http-user-agent="",XPLORE
+#EXTINF:-1 tvg-name=""tvg-id="XPLORE HD"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/xplore.png"group-title="News/Doku":http-user-agent="",XPLORE
 plugin://plugin.video.zattoo_com/?mode=watch&id=xplore_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Tempora TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TemporaTV.png"group-title="News/Doku":http-user-agent="",Tempora TV
 plugin://plugin.video.zattoo_com/?mode=watch&id=tempora_tv_de&level=hd&drm=False
@@ -453,7 +453,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=spiegel_tv_konflikte_de&level=hd
 plugin://plugin.video.zattoo_com/?mode=watch&id=one_terra_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Moconomy(German).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Moconomy.png"group-title="TV-Schweiz":http-user-agent="",Moconomy
 plugin://plugin.video.zattoo_com/?mode=watch&id=moconomy_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Xplore"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/xplore.png"group-title="TV-Schweiz":http-user-agent="",XPLORE
+#EXTINF:-1 tvg-name=""tvg-id="XPLORE HD"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/xplore.png"group-title="TV-Schweiz":http-user-agent="",XPLORE
 plugin://plugin.video.zattoo_com/?mode=watch&id=xplore_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="TemporaTV(German).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TemporaTV.png"group-title="TV-Schweiz":http-user-agent="",Tempora TV
 plugin://plugin.video.zattoo_com/?mode=watch&id=tempora_tv_de&level=hd&drm=False
@@ -551,7 +551,7 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=terra-mater-wild-hd&stream_type=LIVE&fav_type=&title=%5BB%5DTerra+Mater+WILD+HD%5B%2FB%5D+-+Leuchtfeuer+des+Lebens&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22terra-mater-wild-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="One Terra"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/oneterra.png"group-title="Joyn (ohne VPN)":http-user-agent="",One Terra
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=oneterra-hd&stream_type=LIVE&fav_type=&title=%5BB%5DOne+Terra%5B%2FB%5D+-+Planet+Weltweit&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22oneterra-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-#EXTINF:-1 tvg-name=""tvg-id="XPLORE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/xplore.png"group-title="Joyn (ohne VPN)":http-user-agent="",XPLORE
+#EXTINF:-1 tvg-name=""tvg-id="XPLORE HD"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/xplore.png"group-title="Joyn (ohne VPN)":http-user-agent="",XPLORE
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=xplore-hd&stream_type=LIVE&fav_type=&title=%5BB%5Dxplore%5B%2FB%5D+-+VIP+Trip+-+Prominente+auf+Reisen+6&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22xplore-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/tagesschau.png"group-title="Joyn (ohne VPN)":http-user-agent="",Tagesschau 24
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tagesschau24-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DTagesschau+24+HD%5B%2FB%5D+-+NDR+Story&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tagesschau24-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
