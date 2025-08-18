@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <!-- EPG XMLTV FILE CREATED BY Take-a-LUG TEAM- (c) 2020 Bastian Kleinschmidt -->
-<!-- created on 2025-08-18 14:48:55.972503 -->
+<!-- created on 2025-08-18 14:54:17.249945 -->
 <tv generator-info-name="Takealug EPG Grabber Ver. 1.1.7+matrix" generator-info-url="https://github.com/DeBaschdi/service.takealug.epg-grabber">
 
 <!--  MAGENTA TV (DE)  CHANNEL LIST -->
@@ -16,6 +16,10 @@
     <channel id="RTL.de">
         <display-name lang="de">RTL</display-name>
         <icon src="http://ngiss.t-online.de/cm1s/media/3f21af88cf184a45ff4c54be37053ddd678e2456.png" />
+    </channel>
+    <channel id="Sat1.de">
+        <display-name lang="de">SAT.1</display-name>
+        <icon src="http://ngiss.t-online.de/cm1s/media/efd5a2c8992cd87d3fcc83b5b2399d12971bf89f.png" />
     </channel>
 
 <!--  MAGENTA TV (DE)  PROGRAMME LIST -->
@@ -3652,6 +3656,807 @@
         <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/7/p2723047_e_h10_ad_2022-07-14T06_57_05.jpg"/>
         <country>US</country>
         <episode-num system="xmltv_ns">6 . 5 . </episode-num>
+    </programme>
+
+    <programme start="20250817233803 +0000" stop="20250818010803 +0000" channel="Sat1.de">
+        <title lang="de">Direct Contact</title>
+        <desc lang="de">(US,DE) 2009
+        Der ehemalige Marinesoldat Mike Riggins ist in einem russischen Gefängnis inhaftiert, nachdem er wegen Waffenschmuggels verurteilt worden ist. Eines Tages bekommt er vom US-Botschafter das Angebot, im Tausch für die Befreiung einer entführten Amerikanerin seine eigene Freiheit wiederzuerlangen. Er willigt ein, jedoch ohne seinen Gegner zu kennen. Eine grausame Hetzjagd beginnt und bald kämpft Mike nicht mehr um seine Freiheit, sondern um sein Leben.</desc>
+        <credits>
+            <director>Danny Lerner</director>
+            <actor>Dolph Lundgren</actor>
+            <actor>Gina May</actor>
+            <actor>Michael Paré</actor>
+            <actor>Bashar Rahal</actor>
+            <actor>James Chalke</actor>
+            <actor>Vladimir Vladimirov</actor>
+            <actor>Raicho Vasilev</actor>
+            <actor>Uti Bachvarov</actor>
+            <actor>Gemma Garrett</actor>
+            <producer>Boaz Davidson</producer>
+            <producer>Danny Dimbort</producer>
+            <producer>Ewerhard Engels</producer>
+            <producer>Jack Gilardi</producer>
+            <producer>Anton Hoeger</producer>
+            <producer>Danny Lerner</producer>
+            <producer>Les Weldon</producer>
+        </credits>
+        <date>2009</date>
+        <category lang="de">Adventure / Western / War</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/3/4/p3494676_v_h10_ab_2021-09-23T17_15_58.jpg"/>
+        <country>US,DE</country>
+    </programme>
+
+    <programme start="20250818010803 +0000" stop="20250818015223 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife</title>
+        <sub-title lang="de">Hinterhältiger Armbrust-Anschlag</sub-title>
+        <desc lang="de">(DE) 2022 E1820
+        Eine Frau wurde mir einer Armbrust beschossen und gleichzeitig wurde ihre Freundin entführt. Der Sportwagen eines Chirurgen wird mit Drohnachrichten beschmiert. Es wird wiederholt in verschiedene Blumenläden eingebrochen.</desc>
+        <date>2022</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/2/p22956459_e_h10_ab_2025-04-07T08_14_42.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 1819 . </episode-num>
+    </programme>
+
+    <programme start="20250818015223 +0000" stop="20250818024239 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife</title>
+        <sub-title lang="de">Graffiti enthüllt Horrortat!</sub-title>
+        <desc lang="de">(DE) 2022 E1791
+        Eine junge Frau ist verschwunden und die Spuren führen zu einer Sachbeschädigung und einer schockierenden Entdeckung. Ein Mann bringt eine Tasche vorbei, in der sich haufenweise Bargeld befindet. Ein Verunfallter glaubt, einen Geist gesehen zu haben.</desc>
+        <date>2022</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/2/p22183202_e_h10_ac_2025-08-13T11_54_29.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 1790 . </episode-num>
+    </programme>
+
+    <programme start="20250818024239 +0000" stop="20250818032653 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife</title>
+        <sub-title lang="de">Gepanschte Krebsmedikamente</sub-title>
+        <desc lang="de">(DE) 2022 E1855
+        Ein Mann beschuldigt den Arzt seiner Frau, ihre Krebsmedikamente manipuliert zu haben. Außerdem wird eine blutverschmierte Frau in einem Wohnviertel aufgefunden. Eine junge Frau wird heimlich beobachtet und auch noch belästigt.</desc>
+        <date>2022</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/3/p23346130_e_h10_ab_2025-04-07T07_44_08.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 1854 . </episode-num>
+    </programme>
+
+    <programme start="20250818032653 +0000" stop="20250818080103 +0000" channel="Sat1.de">
+        <title lang="de">SAT.1-Frühstücksfernsehen</title>
+        <desc lang="de">(DE) 2025
+        Die Moderatoren berichten über topaktuelle Themen aus den Bereichen Politik, Wirtschaft, Gesellschaft sowie Kultur. Außerdem werden zahlreiche nützliche Verbrauchertipps für den Alltag und die Chance auf einen Gewinn geboten.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/3/0/p30413987_e_h8_aa_2025-08-18T09_25_17.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250818080103 +0000" stop="20250818090013 +0000" channel="Sat1.de">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">Folge 20</sub-title>
+        <desc lang="de">(DE) 2023 • S6 E20
+        Die Einsatzkräfte sind in dem Einsatzgebiet Fürstenfeldbruck unterwegs bei einer akuten Erblindung.</desc>
+        <date>2023</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/5/p25976961_e_h11_ab_2024-07-10T08_44_18.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">5 . 19 . </episode-num>
+    </programme>
+
+    <programme start="20250818090013 +0000" stop="20250818095849 +0000" channel="Sat1.de">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">Folge 18</sub-title>
+        <desc lang="de">(DE) 2024 • S7 E18
+        Die Sendung zeigt die nervenaufreibende Arbeit von Rettungskräften deutschlandweit und lässt die Zuschauer mit 15 Kameras und einer besonderen Kameratechnologie an Hubschraubereinsätzen, Messerstechereien und Reanimationen teilnehmen.</desc>
+        <credits>
+            <director>Patrick Wilkerling</director>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/8/p28690204_e_h11_aa_2025-07-29T09_24_34.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">6 . 17 . </episode-num>
+    </programme>
+
+    <programme start="20250818095849 +0000" stop="20250818105843 +0000" channel="Sat1.de">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">Folge 10</sub-title>
+        <desc lang="de">(DE) 2021 • S4 E10
+        Der Notdienst eilt zu einer schwangeren Frau, die ihr Kind nicht mehr spüren kann. Jede Sekunde zählt nun auch für den hinzugezogenen Notarzt, der keine Regung erkennen kann. In Potsdam ereignet sich derweil ein Fahrradunfall mit schweren Folgen.</desc>
+        <credits>
+            <director>Patrick Wilkerling</director>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/0/p20920061_e_h10_aa_2021-11-10T06_27_07.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">3 . 9 . </episode-num>
+    </programme>
+
+    <programme start="20250818105843 +0000" stop="20250818115830 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife - Die Spezialisten</title>
+        <sub-title lang="de">Überstürzte Geburt im Blumenladen</sub-title>
+        <desc lang="de">(DE) 2016
+        Bei einer hochschwangeren Frau geht mitten in einem Blumenladen plötzlich der Geburtsvorgang los. Auf der Autobahn verliert ein Kleintransporter seine Ladung und wird zur Gefahr. Eine Frau kommt mit Darmverschluss in die Notaufnahme.</desc>
+        <date>2016</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/2/p12638682_e_h11_aa_2025-07-24T11_14_20.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250818115830 +0000" stop="20250818125858 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife - Die Spezialisten</title>
+        <sub-title lang="de">Außer Rand und Band</sub-title>
+        <desc lang="de">(DE) 2016
+        Weil er Zivilcourage zeigt, wird ein Mann von brutalen Schlägern lebensgefährlich verletzt. In einem Gymnasium wird wegen eines missglückten Chemie-Experiments der Feueralarm ausgelöst. Eine Sechsjährige erleidet einen Stromschlag.</desc>
+        <date>2016</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/2/p12593005_e_h10_aa_2025-07-23T12_44_26.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250818125858 +0000" stop="20250818135956 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife</title>
+        <sub-title lang="de">Insassen aus Unfallauto verschwunden!</sub-title>
+        <desc lang="de">(DE) 2024 E134
+        Herrenloser Pkw: Wie kam es zu dem seltsamen Verkehrsunfall? Verschwundene Insassen, Blut und der Rucksack einer Minderjährigen lassen das Schlimmste vermuten. - Obdachloser zusammengeschlagen und ausgeraubt: Bei seinen wiedergefundenen Habseligkeiten machen die Beamten eine erstaunliche Entdeckung: 10.000 Euro in bar. - Geburtstagsgeschenk entpuppt sich als Farbbombe: Weitere Drohungen werden auch in anderen Geschenken gefunden. Wer hat es ... Videorechte: SAT.1, Bildrechte: SAT.1.</desc>
+        <date>2024</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/7/p27281473_e_h10_aa_2025-04-04T05_14_48.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 133 . </episode-num>
+    </programme>
+
+    <programme start="20250818135956 +0000" stop="20250818145925 +0000" channel="Sat1.de">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">(DE) 2023
+        Die Sendung zeigt die nervenaufreibende Arbeit von Rettungskräften deutschlandweit und lässt die Zuschauer mit 15 Kameras und einer besonderen Kameratechnologie an Hubschraubereinsätzen, Messerstechereien und Reanimationen teilnehmen.</desc>
+        <date>2023</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/8/p18733180_i_h8_af_2023-09-29T09_53_36.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250818145925 +0000" stop="20250818153000 +0000" channel="Sat1.de">
+        <title lang="de">NOTRUF</title>
+        <sub-title lang="de">Vom Grün begraben</sub-title>
+        <desc lang="de"> 2024 • S1 E108
+        Zeit für echte Helden: 84.000 Notrufe gehen täglich in den deutschen Rettungsleitstellen ein. Dann beginnt für die Einsatzkräfte der Kampf gegen die Zeit. Notärzte und Rettungssanitäter sind rund um die Uhr im Einsatz, um zu helfen und Menschenleben zu retten. In NOTRUF berichten sie von ihren schwierigsten Einsätzen, spektakulären Rettungen und emotionalen Momenten. Die Einsätze werden aufwändig in Echtzeit nachgestellt.</desc>
+        <date>2024</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Show / Game show</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/7/p27113932_i_h8_aa_2024-04-19T15_33_14.jpg"/>
+        <episode-num system="xmltv_ns">0 . 107 . </episode-num>
+    </programme>
+
+    <programme start="20250818153000 +0000" stop="20250818155933 +0000" channel="Sat1.de">
+        <title lang="de">NOTRUF / oder SAT.1 Regional-Magazine</title>
+        <sub-title lang="de">Das renkt sich wieder ein</sub-title>
+        <desc lang="de"> 2024 • S1 E157
+        Begleitet werden die Rettungskräfte der deutschen Rettungsleitstellen bei ihrer alltäglichen Arbeit.</desc>
+        <date>2024</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Show / Game show</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/8/p28758431_e_h10_aa_2025-01-13T10_53_40.jpg"/>
+        <episode-num system="xmltv_ns">0 . 156 . </episode-num>
+    </programme>
+
+    <programme start="20250818155933 +0000" stop="20250818162904 +0000" channel="Sat1.de">
+        <title lang="de">Lenßen übernimmt</title>
+        <sub-title lang="de">Rabenkind</sub-title>
+        <desc lang="de">(DE) 2022 • S3
+        Eine Frau bittet Lenßen um Hilfe, da sie von ihrer eigenen Mutter wegen Körperverletzung angezeigt wird. Sie kann sich nicht erklären, was es damit auf sich hat und die Mutter weigert sich, mit ihrer Tochter zu sprechen.</desc>
+        <credits>
+            <director>Thomas Kiesbuy</director>
+            <actor>Jessica Mechergui</actor>
+            <actor>Peter Lee Brevard</actor>
+        </credits>
+        <date>2022</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/2/p22956842_e_h10_aa_2023-10-20T07_34_50.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">2 . 0 . </episode-num>
+    </programme>
+
+    <programme start="20250818162904 +0000" stop="20250818165926 +0000" channel="Sat1.de">
+        <title lang="de">Lenßen übernimmt</title>
+        <sub-title lang="de">Braut auf der Flucht</sub-title>
+        <desc lang="de">(DE) • S3 E57
+        Ingo Lenßen und Ben Handke sind mit dem Auto unterwegs, als ihnen Yvonne Fischer (38) im Hochzeitskleid vors Auto läuft. Der Anwalt lernt Yvonnes Schwester Tamara Fischer (40) kennen, die erzählt, dass Yvonne kurz vor dem Ja-Wort abgehauen ist.</desc>
+        <credits>
+            <director>Thomas Kiesbuy</director>
+            <actor>Jessica Mechergui</actor>
+            <actor>Peter Lee Brevard</actor>
+        </credits>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/2/p22781081_e_h10_aa_2025-07-14T14_54_25.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">2 . 56 . </episode-num>
+    </programme>
+
+    <programme start="20250818165926 +0000" stop="20250818174500 +0000" channel="Sat1.de">
+        <title lang="de">Die Spreewaldklinik</title>
+        <sub-title lang="de">Traumhochzeit?</sub-title>
+        <desc lang="de">(DE) 2025 • S2 E36
+        Während Nico endlich Radus Gefühle zu erwidern scheint, beschließen Doreen und Paul, wieder zu heiraten. Alles scheint perfekt zu sein, doch dann droht Drama, als Erik zufällig von dem Kuss zwischen Paul und Lea erfährt.</desc>
+        <credits>
+            <director>Axel Hannemann</director>
+            <director>Patrick Caputo</director>
+            <director>Sabine Landgraeber</director>
+            <director>Jurij Neumann</director>
+            <director>Oliver Liliensiek</director>
+            <director>Su-Ji Wohlgemuth</director>
+            <director>Markus Hansen</director>
+            <actor>Sina-Valeska Jung</actor>
+            <actor>Muriel Baumeister</actor>
+            <actor>Daniel Buder</actor>
+            <actor>Daniel Scholz</actor>
+            <actor>Isabel Hinz</actor>
+            <actor>Jessica Walther-Gabory</actor>
+            <actor>Karsten Speck</actor>
+            <actor>Sandrine Mittelstädt</actor>
+            <actor>Richard Ciuchendea</actor>
+            <actor>Mieke Schymura</actor>
+            <actor>Benjamin Trinks</actor>
+            <actor>Mirya Kalmuth</actor>
+            <producer>Johannes Pollmann</producer>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">Further education</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/3/0/p30441033_i_h10_aa_2025-07-02T10_35_29.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">1 . 35 . </episode-num>
+    </programme>
+
+    <programme start="20250818174500 +0000" stop="20250818181455 +0000" channel="Sat1.de">
+        <title lang="de">SAT.1 :newstime</title>
+        <desc lang="de">(DE) 2025
+        Die Sendung berichtet über aktuelle Nachrichten und interessante Ereignisse aus aller Welt.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/4/p24999651_i_h10_aa_2023-06-16T10_09_00.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250818181455 +0000" stop="20250818210050 +0000" channel="Sat1.de">
+        <title lang="de">Villa der Versuchung</title>
+        <sub-title lang="de">Zwischen Absturz und Ekstase: Auf Familien-Tragödien folgt die Regen-Tanz-Party</sub-title>
+        <desc lang="de">(DE) 2025 • S1 E7
+        Als ein Star ausziehen muss, bringt das die Allianzen ins Wanken. Ein Machtspiel verändert alles. Es gibt intime Gespräche über Vergangenheit und Familie. Doch werden die zarten Bande auch halten, wenn es am Ende um das eigene Schicksal geht?</desc>
+        <date>2025</date>
+        <category lang="de">Show / Game show</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/3/0/p30728805_e_h10_ab_2025-08-12T12_55_28.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 6 . </episode-num>
+    </programme>
+
+    <programme start="20250818210050 +0000" stop="20250818220052 +0000" channel="Sat1.de">
+        <title lang="de">Julia Leischik sucht: Bitte melde dich</title>
+        <sub-title lang="de">Folge 8</sub-title>
+        <desc lang="de">(DE) 2024 • S16 E8
+        Seit seiner Kindheit sehnt sich der 87-jährige Rudolf nach seiner Schwester. Da sie von seinem Vater außerehelich gezeugt wurde, war es Rudolf streng verboten seine Schwester auch nur zu erwähnen. Jahrzehnte später will er sie nun endlich finden.</desc>
+        <date>2024</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/8/p28539475_e_h10_ab_2025-07-11T11_14_20.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">15 . 7 . </episode-num>
+    </programme>
+
+    <programme start="20250818220052 +0000" stop="20250818230020 +0000" channel="Sat1.de">
+        <title lang="de">Julia Leischik sucht: Bitte melde dich</title>
+        <sub-title lang="de">Folge 8</sub-title>
+        <desc lang="de">(DE) 2019 • S11 E8
+        Die 36-jährige Nancy ist auf der verzweifelten Suche nach ihrem leiblichen Vater. Frank hat sich von Nancys Mutter Kerstin getrennt, bevor Nancy zur Welt kam. Anschließend lebte er zurückgezogen. Julia setzt alles daran, die beiden zu vereinen.</desc>
+        <date>2019</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/7/p17152470_e_h10_ab_2024-07-04T13_43_54.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">10 . 7 . </episode-num>
+    </programme>
+
+    <programme start="20250818230020 +0000" stop="20250819011009 +0000" channel="Sat1.de">
+        <title lang="de">Villa der Versuchung</title>
+        <sub-title lang="de">Zwischen Absturz und Ekstase: Auf Familien-Tragödien folgt die Regen-Tanz-Party</sub-title>
+        <desc lang="de">(DE) 2025 • S1 E7
+        Als ein Star ausziehen muss, bringt das die Allianzen ins Wanken. Ein Machtspiel verändert alles. Es gibt intime Gespräche über Vergangenheit und Familie. Doch werden die zarten Bande auch halten, wenn es am Ende um das eigene Schicksal geht?</desc>
+        <date>2025</date>
+        <category lang="de">Show / Game show</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/3/0/p30728805_e_h10_ab_2025-08-12T12_55_28.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 6 . </episode-num>
+    </programme>
+
+    <programme start="20250819011009 +0000" stop="20250819011138 +0000" channel="Sat1.de">
+        <title lang="de">So gesehen</title>
+        <desc lang="de">(DE) 2025
+        Die evangelische und katholische Kirche erklären ihre Sicht zu aktuellen Ereignissen. Die Themen sind meist aus den Bereichen Politik, Wirtschaft und Technik, aber auch Liebe, Glück und Schicksalsschläge werden besprochen.</desc>
+        <date>2025</date>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/8/p28881754_i_h10_aa_2025-02-17T16_24_06.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250819011138 +0000" stop="20250819015608 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife - Die Spezialisten</title>
+        <sub-title lang="de">Eiskalte Fahrt</sub-title>
+        <desc lang="de">(DE) 2016
+        Die Einsatzkräfte werden zu einem verunglückten Lkw gerufen. In diesen wurde eine Familie eingeschlossen. Außerdem wird Kathrin von ihrem Freund ins Krankenhaus gebracht, da sie über starke Schmerzen im Brustbereich und im Bein klagt.</desc>
+        <date>2016</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/2/p12620128_e_h10_ab_2025-06-11T07_17_11.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250819015608 +0000" stop="20250819024036 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife - Die Spezialisten</title>
+        <sub-title lang="de">Kleider machen Leute</sub-title>
+        <desc lang="de">(DE) 2016
+        Ein junges Mädchen wurde in einen Altkleidercontainer gesperrt und droht nun zu ersticken. Bei einem Junggesellinnenabschied wird einer der Frauen von der Limousine eingequetscht. Ihre Diagnose im Krankenhaus ist schockierend.</desc>
+        <date>2016</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/2/p12881282_e_h11_aa_2024-07-03T12_54_00.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250819024036 +0000" stop="20250819032853 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife - Die Spezialisten</title>
+        <sub-title lang="de">Die Toastprobe</sub-title>
+        <desc lang="de">(DE) 2016
+        Wegen eines Schwelbrandes in der Wohnung einer alten Dame steigt Rauch aus einem Mietshaus. Dann taucht die Tochter der Dame auf und es kommt zur Eskalation. Eine Frau glaubt, dass auf einer Baustelle Kinder unerlaubt arbeiten müssen.</desc>
+        <date>2016</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/2/p12589702_e_h10_aa_2025-05-21T05_54_24.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250819032853 +0000" stop="20250819080038 +0000" channel="Sat1.de">
+        <title lang="de">SAT.1-Frühstücksfernsehen</title>
+        <desc lang="de">(DE) 2025
+        Die Moderatoren berichten über topaktuelle Themen aus den Bereichen Politik, Wirtschaft, Gesellschaft sowie Kultur. Außerdem werden zahlreiche nützliche Verbrauchertipps für den Alltag und die Chance auf einen Gewinn geboten.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <category lang="de">Game show / Quiz / Contest</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/8/p28873101_i_h10_ab_2024-12-10T10_53_21.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250819080038 +0000" stop="20250819090111 +0000" channel="Sat1.de">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">(DE) 2023
+        Die Sendung zeigt die nervenaufreibende Arbeit von Rettungskräften deutschlandweit und lässt die Zuschauer mit 15 Kameras und einer besonderen Kameratechnologie an Hubschraubereinsätzen, Messerstechereien und Reanimationen teilnehmen.</desc>
+        <date>2023</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/8/p18733180_i_h8_af_2023-09-29T09_53_36.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250819090111 +0000" stop="20250819100104 +0000" channel="Sat1.de">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">Folge 11</sub-title>
+        <desc lang="de">(DE) 2021 • S4 E11
+        Beim Verlassen des Rettungswagens können Rosi und Max aus Dortmund ihren Augen nicht trauen. In einem Mehrfamilienhaus gegenüber der Wache brennt eine Wohnung lichterloh. Mittendrin ein Mann, der versucht die riesigen Flammen zu löschen.</desc>
+        <credits>
+            <director>Patrick Wilkerling</director>
+        </credits>
+        <date>2021</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/4/p24187762_e_h10_aa_2025-07-29T06_33_55.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">3 . 10 . </episode-num>
+    </programme>
+
+    <programme start="20250819100104 +0000" stop="20250819110002 +0000" channel="Sat1.de">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <sub-title lang="de">Einsatzgebiet Bayerischer Hof: Verklemmtes Gebiss zwischen Lippe und Zunge</sub-title>
+        <desc lang="de">(DE) 2024 • S7 E24
+        Die Sendung zeigt die nervenaufreibende Arbeit von Rettungskräften deutschlandweit und lässt die Zuschauer mit 15 Kameras und einer besonderen Kameratechnologie an Hubschraubereinsätzen, Messerstechereien und Reanimationen teilnehmen.</desc>
+        <credits>
+            <director>Patrick Wilkerling</director>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/8/p28750925_e_h10_aa_2025-07-29T09_54_26.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">6 . 23 . </episode-num>
+    </programme>
+
+    <programme start="20250819110002 +0000" stop="20250819115818 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife - Die Spezialisten</title>
+        <sub-title lang="de">Der Mann im Baum</sub-title>
+        <desc lang="de">(DE) 2016
+        Nachdem er sich in einer Lichterkette verfangen hat, hängt ein junger Mann in zehn Metern Höhe in einer Baumkrone fest. Er droht abzurutschen, die Zeit drängt. In einem Fitnessstudio wird eine Mitarbeiterin plötzlich ohnmächtig.</desc>
+        <date>2016</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/2/p12638632_e_h11_aa_2025-07-24T11_16_12.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250819115818 +0000" stop="20250819125730 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife - Die Spezialisten</title>
+        <sub-title lang="de">Feuerengel</sub-title>
+        <desc lang="de">(DE) 2016
+        Die Einsatzkräfte werden zu einem brennenden Fahrzeug gerufen. Die Fahrerin kann die Lage nur schwer erklären. Außerdem wird eine schwangere Frau in die Notaufnahme gebracht. Kurze Zeit später bricht ihr hysterischer Mann zusammen.</desc>
+        <date>2016</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/2/p12633917_e_h11_ab_2024-07-14T08_13_23.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250819125730 +0000" stop="20250819135812 +0000" channel="Sat1.de">
+        <title lang="de">Auf Streife</title>
+        <sub-title lang="de">Junge Frau von Party verschleppt</sub-title>
+        <desc lang="de">(DE) 2022 E1838
+        Eine Frau schickt während ihrer Entführung eine panische Sprachnachricht an die Polizei. Ein Blitzerfoto scheint Sinas Mitarbeit bei einer Amokfahrt zu belegen. Ein Mann wird nackt und verwirrt auf der Straße aufgefunden.</desc>
+        <date>2022</date>
+        <category lang="de">Show / Game show</category>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/3/p23149033_e_h10_ab_2025-04-07T07_44_16.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">0 . 1837 . </episode-num>
+    </programme>
+
+    <programme start="20250819135812 +0000" stop="20250819145806 +0000" channel="Sat1.de">
+        <title lang="de">Lebensretter hautnah - Wenn jede Sekunde zählt</title>
+        <desc lang="de">(DE) 2023
+        Die Sendung zeigt die nervenaufreibende Arbeit von Rettungskräften deutschlandweit und lässt die Zuschauer mit 15 Kameras und einer besonderen Kameratechnologie an Hubschraubereinsätzen, Messerstechereien und Reanimationen teilnehmen.</desc>
+        <date>2023</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Magazines / Reports / Documentary</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/8/p18733180_i_h8_af_2023-09-29T09_53_36.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250819145806 +0000" stop="20250819153000 +0000" channel="Sat1.de">
+        <title lang="de">NOTRUF</title>
+        <sub-title lang="de">Aggressiver Patient in Handschellen</sub-title>
+        <desc lang="de"> 2025 • S2 E34
+        Der Einsatz des Notfallsanitäters Maik Westenhöfer nimmt eine gewaltvolle Wendung.</desc>
+        <date>2025</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Show / Game show</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/9/p29681828_e_h10_aa_2025-03-24T15_43_45.jpg"/>
+        <episode-num system="xmltv_ns">1 . 33 . </episode-num>
+    </programme>
+
+    <programme start="20250819153000 +0000" stop="20250819155933 +0000" channel="Sat1.de">
+        <title lang="de">NOTRUF / oder SAT.1 Regional-Magazine</title>
+        <sub-title lang="de">Schlimmer geht immer</sub-title>
+        <desc lang="de"> 2024 • S1 E171
+        Begleitet werden die Rettungskräfte der deutschen Rettungsleitstellen bei ihrer alltäglichen Arbeit.</desc>
+        <date>2024</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Show / Game show</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/8/p28819379_e_h10_aa_2025-01-13T10_33_33.jpg"/>
+        <episode-num system="xmltv_ns">0 . 170 . </episode-num>
+    </programme>
+
+    <programme start="20250819155933 +0000" stop="20250819162957 +0000" channel="Sat1.de">
+        <title lang="de">Lenßen übernimmt</title>
+        <sub-title lang="de">Schwanger im Knast</sub-title>
+        <desc lang="de">(DE) 2022 • S3
+        Eine Mutter bittet Lenßen um Hilfe für ihre hochschwangere und inhaftierte Tochter. Diese war in einem Raubüberfall verwickelt und sollte nach der Geburt in eine Mutter-Kind-Einrichtung umziehen. Doch das Jugendamt hat jetzt andere Pläne.</desc>
+        <credits>
+            <director>Thomas Kiesbuy</director>
+            <actor>Jessica Mechergui</actor>
+            <actor>Peter Lee Brevard</actor>
+            <actor>Sarah Grüner</actor>
+            <actor>Ben Handke</actor>
+        </credits>
+        <date>2022</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/2/p22751273_e_h10_aa_2025-07-14T14_54_29.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">2 . 0 . </episode-num>
+    </programme>
+
+    <programme start="20250819162957 +0000" stop="20250819170015 +0000" channel="Sat1.de">
+        <title lang="de">Lenßen übernimmt</title>
+        <sub-title lang="de">Club der Lügen</sub-title>
+        <desc lang="de">(DE) 2022 • S3
+        Ein Boxtrainer kontaktiert Lenßen, weil in seinem Club Anabolika gefunden wurden. Die Polizei hat diese in der Tasche eines Jugendlichen gefunden, der unter Verdacht steht, damit Handel betrieben zu haben. Es drohnt ihm ein Freizeitarrest.</desc>
+        <credits>
+            <director>Thomas Kiesbuy</director>
+            <actor>Jessica Mechergui</actor>
+            <actor>Peter Lee Brevard</actor>
+            <actor>Sarah Grüner</actor>
+            <actor>Ben Handke</actor>
+        </credits>
+        <date>2022</date>
+        <category lang="de">Documentary</category>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Social / Political issues / Economics</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/2/p22751263_e_h10_ac_2022-12-26T16_56_00.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">2 . 0 . </episode-num>
+    </programme>
+
+    <programme start="20250819170015 +0000" stop="20250819174500 +0000" channel="Sat1.de">
+        <title lang="de">Die Spreewaldklinik</title>
+        <sub-title lang="de">Unverzeihlich</sub-title>
+        <desc lang="de">(DE) 2025 • S2 E37
+        Fiona entscheidet sich dazu, Pflegekraft zu werden, doch Dr. Wemuth schätzt ihre Präferenzen falsch ein. Zwischen Lea und Erik stellt sich wieder Frieden ein, aber dann erfährt sie zufällig von einem Geheimnis, das Mona hütet.</desc>
+        <credits>
+            <director>Axel Hannemann</director>
+            <director>Patrick Caputo</director>
+            <director>Sabine Landgraeber</director>
+            <director>Jurij Neumann</director>
+            <director>Oliver Liliensiek</director>
+            <director>Su-Ji Wohlgemuth</director>
+            <director>Markus Hansen</director>
+            <actor>Sina-Valeska Jung</actor>
+            <actor>Muriel Baumeister</actor>
+            <actor>Daniel Buder</actor>
+            <actor>Daniel Scholz</actor>
+            <actor>Isabel Hinz</actor>
+            <actor>Jessica Walther-Gabory</actor>
+            <actor>Karsten Speck</actor>
+            <actor>Sandrine Mittelstädt</actor>
+            <actor>Richard Ciuchendea</actor>
+            <actor>Mieke Schymura</actor>
+            <actor>Benjamin Trinks</actor>
+            <actor>Mirya Kalmuth</actor>
+            <producer>Johannes Pollmann</producer>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Movie / Drama</category>
+        <category lang="de">Further education</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/3/0/p30725995_e_h10_aa_2025-08-12T05_34_34.jpg"/>
+        <country>DE</country>
+        <episode-num system="xmltv_ns">1 . 36 . </episode-num>
+    </programme>
+
+    <programme start="20250819174500 +0000" stop="20250819181457 +0000" channel="Sat1.de">
+        <title lang="de">SAT.1 :newstime</title>
+        <desc lang="de">(DE) 2025
+        Die Sendung berichtet über aktuelle Nachrichten und interessante Ereignisse aus aller Welt.</desc>
+        <date>2025</date>
+        <category lang="de">News / Current affairs</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/4/p24999651_i_h10_aa_2023-06-16T10_09_00.jpg"/>
+        <country>DE</country>
+    </programme>
+
+    <programme start="20250819181457 +0000" stop="20250819191229 +0000" channel="Sat1.de">
+        <title lang="de">Navy CIS: Origins</title>
+        <sub-title lang="de">Gebrochene Flügel</sub-title>
+        <desc lang="de">(US) 2024 • S1 E7
+        Ein verletzter Vogel in Gibbs' Apartment weckt schmerzhafte Erinnerungen an Ereignisse vor acht Jahren: Gibbs wird mit gebrochenen Knochen und voller Trauer aus dem Krankenhaus entlassen und sinnt auf Rache für den Verlust seiner Familie.</desc>
+        <credits>
+            <director>Jessica Lowrey</director>
+            <actor>Austin Stowell</actor>
+            <actor>Kyle Schmid</actor>
+            <actor>Mariel Molino</actor>
+            <actor>Tyla Abercrumbie</actor>
+            <actor>Diany Rodriguez</actor>
+            <producer>Mark Harmon</producer>
+            <producer>Sean Harmon</producer>
+            <producer>Gina Lucita Monreal</producer>
+            <producer>David J. North</producer>
+            <producer>Niels Arden Oplev</producer>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/8/p28709309_e_h10_aa_2025-01-29T06_43_58.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">0 . 6 . </episode-num>
+    </programme>
+
+    <programme start="20250819191229 +0000" stop="20250819201003 +0000" channel="Sat1.de">
+        <title lang="de">Navy CIS: Origins</title>
+        <sub-title lang="de">Beichten und Geheimnisse</sub-title>
+        <desc lang="de">(US) 2024 • S1 E8
+        Ein Priester stirbt während der Beichte. War der zweite Pastor der Gemeinde das eigentliche Ziel? Gibbs begleitet Randy in die Kirche, doch der Fall reißt alte Wunden auf.</desc>
+        <credits>
+            <director>Ed Ornelas</director>
+            <actor>Austin Stowell</actor>
+            <actor>Kyle Schmid</actor>
+            <actor>Mariel Molino</actor>
+            <actor>Tyla Abercrumbie</actor>
+            <actor>Diany Rodriguez</actor>
+            <actor>Caleb Foote</actor>
+            <actor>Patrick Fischler</actor>
+            <producer>Mark Harmon</producer>
+            <producer>Sean Harmon</producer>
+            <producer>Gina Lucita Monreal</producer>
+            <producer>David J. North</producer>
+            <producer>Niels Arden Oplev</producer>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/8/p28719391_e_h10_aa_2025-01-20T06_43_20.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">0 . 7 . </episode-num>
+    </programme>
+
+    <programme start="20250819201003 +0000" stop="20250819210619 +0000" channel="Sat1.de">
+        <title lang="de">FBI: Special Crime Unit</title>
+        <sub-title lang="de">Wachsende Zweifel</sub-title>
+        <desc lang="de">(US) 2025 • S7 E10
+        In der New Yorker Zweigstelle des FBI setzen ehrgeizige Spezialagenten all ihre Kenntnisse, ihre Ausbildung und ihre Erfahrungen ein, um die Stadt und das ganze Land vor organisiertem Verbrechen und Terror zu beschützen.</desc>
+        <credits>
+            <director>Alex Chapple</director>
+            <actor>Missy Peregrym</actor>
+            <actor>Zeeko Zaki</actor>
+            <actor>Jeremy Sisto</actor>
+            <actor>Alana De La Garza</actor>
+            <actor>John Boyd</actor>
+            <actor>Katherine Renee Kane </actor>
+            <producer>Dick Wolf</producer>
+            <producer>Rick Eid</producer>
+            <producer>Alex Chapple</producer>
+            <producer>Amanda Slater</producer>
+            <producer>Joe Halpin</producer>
+            <producer>Arthur W. Forney</producer>
+            <producer>Peter Jankowski</producer>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Adventure / Western / War</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/5/p15528073_i_h8_ah_2022-06-25T18_16_13.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">6 . 9 . </episode-num>
+    </programme>
+
+    <programme start="20250819210619 +0000" stop="20250819220039 +0000" channel="Sat1.de">
+        <title lang="de">FBI: Most Wanted</title>
+        <sub-title lang="de">Ars Moriendi</sub-title>
+        <desc lang="de">(US) 2025 • S6 E10
+        Ein Täter dokumentiert seine Mordserie mit Videos, Remys Team ermittelt. Sheryll soll mit der Hilfe der Cyberanalystin Jill das Material durchsuchen, die beiden Frauen kommen sich dabei schnell näher. Remy und Ray verfolgen den Verdächtigen.</desc>
+        <credits>
+            <director>Ken Girotti</director>
+            <actor>Dylan McDermott</actor>
+            <actor>Roxy Sternberg</actor>
+            <actor>Keisha Castle-Hughes</actor>
+            <actor>Edwin Hodge</actor>
+            <actor>Shantel VanSanten</actor>
+            <producer>Dick Wolf</producer>
+            <producer>David Hudgins</producer>
+            <producer>Ken Girotti</producer>
+            <producer>Terry Miller</producer>
+            <producer>Dylan McDermott</producer>
+            <producer>Arthur W. Forney</producer>
+            <producer>Peter Jankowski</producer>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Detective / Thriller</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/6/p16945418_i_h10_bc_2022-01-25T13_36_47.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">5 . 9 . </episode-num>
+    </programme>
+
+    <programme start="20250819220039 +0000" stop="20250819225832 +0000" channel="Sat1.de">
+        <title lang="de">Navy CIS: Origins</title>
+        <sub-title lang="de">Gebrochene Flügel</sub-title>
+        <desc lang="de">(US) 2024 • S1 E7
+        Ein verletzter Vogel in Gibbs' Apartment weckt schmerzhafte Erinnerungen an Ereignisse vor acht Jahren: Gibbs wird mit gebrochenen Knochen und voller Trauer aus dem Krankenhaus entlassen und sinnt auf Rache für den Verlust seiner Familie.</desc>
+        <credits>
+            <director>Jessica Lowrey</director>
+            <actor>Austin Stowell</actor>
+            <actor>Kyle Schmid</actor>
+            <actor>Mariel Molino</actor>
+            <actor>Tyla Abercrumbie</actor>
+            <actor>Diany Rodriguez</actor>
+            <producer>Mark Harmon</producer>
+            <producer>Sean Harmon</producer>
+            <producer>Gina Lucita Monreal</producer>
+            <producer>David J. North</producer>
+            <producer>Niels Arden Oplev</producer>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/8/p28709309_e_h10_aa_2025-01-29T06_43_58.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">0 . 6 . </episode-num>
+    </programme>
+
+    <programme start="20250819225832 +0000" stop="20250819234643 +0000" channel="Sat1.de">
+        <title lang="de">Navy CIS: Origins</title>
+        <sub-title lang="de">Beichten und Geheimnisse</sub-title>
+        <desc lang="de">(US) 2024 • S1 E8
+        Ein Priester stirbt während der Beichte. War der zweite Pastor der Gemeinde das eigentliche Ziel? Gibbs begleitet Randy in die Kirche, doch der Fall reißt alte Wunden auf.</desc>
+        <credits>
+            <director>Ed Ornelas</director>
+            <actor>Austin Stowell</actor>
+            <actor>Kyle Schmid</actor>
+            <actor>Mariel Molino</actor>
+            <actor>Tyla Abercrumbie</actor>
+            <actor>Diany Rodriguez</actor>
+            <actor>Caleb Foote</actor>
+            <actor>Patrick Fischler</actor>
+            <producer>Mark Harmon</producer>
+            <producer>Sean Harmon</producer>
+            <producer>Gina Lucita Monreal</producer>
+            <producer>David J. North</producer>
+            <producer>Niels Arden Oplev</producer>
+        </credits>
+        <date>2024</date>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Adventure / Western / War</category>
+        <category lang="de">Science fiction / Fantasy / Horror</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/2/8/p28719391_e_h10_aa_2025-01-20T06_43_20.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">0 . 7 . </episode-num>
+    </programme>
+
+    <programme start="20250819234643 +0000" stop="20250820003111 +0000" channel="Sat1.de">
+        <title lang="de">FBI: Special Crime Unit</title>
+        <sub-title lang="de">Wachsende Zweifel</sub-title>
+        <desc lang="de">(US) 2025 • S7 E10
+        In der New Yorker Zweigstelle des FBI setzen ehrgeizige Spezialagenten all ihre Kenntnisse, ihre Ausbildung und ihre Erfahrungen ein, um die Stadt und das ganze Land vor organisiertem Verbrechen und Terror zu beschützen.</desc>
+        <credits>
+            <director>Alex Chapple</director>
+            <actor>Missy Peregrym</actor>
+            <actor>Zeeko Zaki</actor>
+            <actor>Jeremy Sisto</actor>
+            <actor>Alana De La Garza</actor>
+            <actor>John Boyd</actor>
+            <actor>Katherine Renee Kane </actor>
+            <producer>Dick Wolf</producer>
+            <producer>Rick Eid</producer>
+            <producer>Alex Chapple</producer>
+            <producer>Amanda Slater</producer>
+            <producer>Joe Halpin</producer>
+            <producer>Arthur W. Forney</producer>
+            <producer>Peter Jankowski</producer>
+        </credits>
+        <date>2025</date>
+        <category lang="de">Detective / Thriller</category>
+        <category lang="de">Adventure / Western / War</category>
+        <icon src="http://ngiss.t-online.de/cm1s/media/gracenote/1/5/p15528073_i_h8_ah_2022-06-25T18_16_13.jpg"/>
+        <country>US</country>
+        <episode-num system="xmltv_ns">6 . 9 . </episode-num>
     </programme>
 
 </tv>
