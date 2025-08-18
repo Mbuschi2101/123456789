@@ -17,7 +17,7 @@ plugin://plugin.video.vavooto/?name=KABEL+1
 plugin://plugin.video.tvone112/play/52/180/play.pvr
 #EXTINF:-1 tvg-name=""tvg-id="Puls8.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/puls8.png"group-title="Filme/Serien":http-user-agent="",PULS 8
 plugin://plugin.video.zattoo_com/?mode=watch&id=puls8&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="3plus.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/3%2B.png"group-title="Filme/Serien":http-user-agent="",3+
+#EXTINF:-1 tvg-name=""tvg-id="3+ HD"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/3%2B.png"group-title="Filme/Serien":http-user-agent="",3+
 plugin://plugin.video.zattoo_com/?mode=watch&id=3plus&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="4plus.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/4%2B.png"group-title="Filme/Serien":http-user-agent="",4+
 plugin://plugin.video.zattoo_com/?mode=watch&id=4plus&level=sd&drm=False
