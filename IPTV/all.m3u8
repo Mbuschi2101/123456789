@@ -256,9 +256,9 @@ plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+8
 #EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 9"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/bundesliga/bundesliga9.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 9
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+9
 #EXTINF:-1 tvg-name=""tvg-id="DAZN 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/dazn1.png"group-title="Sport":http-user-agent="",DAZN 1
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-426.php
+plugin://plugin.video.vavooto/?name=DAZN+1
 #EXTINF:-1 tvg-name=""tvg-id="DAZN 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/dazn2.png"group-title="Sport":http-user-agent="",DAZN 2
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-427.php
+plugin://plugin.video.vavooto/?name=DAZN+2
 #EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
 #EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 2
