@@ -69,11 +69,11 @@ rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5110,5111,1270,1276,5112,5113,5114,5115,5116,5117,5118,5119,5198
 #EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/3sat.png"group-title="FritzTV":http-user-agent="",3 Sat
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6500,6510,6520,6521,6522,6523,6530,6531,6570
-#EXTINF:-1 tvg-name=""tvg-id="Phoenix"tvg-logo="https://github.com/Mbuschi2101/123456789/blob/main/IPTV/PiconsGlass/phoenix.png"group-title="FritzTV":http-user-agent="",Phoenix
+#EXTINF:-1 tvg-name=""tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/phoenix.png"group-title="FritzTV":http-user-agent="",Phoenix
 rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,5261,576,1870,2171,5262,5263,5264
 #EXTINF:-1 tvg-name=""tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/ardalpha.png"group-title="FritzTV":http-user-agent="",ARD Alpha
 rtsp://192.168.178.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5420,5421,1476,2171,4270,4272,5422,5423,5424,5425,5426,5427
-#EXTINF:-1 tvg-name=""tvg-id="Sachsen eins"tvg-logo=""group-title="FritzTV":http-user-agent="",Sachsen eins
+#EXTINF:-1 tvg-name=""tvg-id="Sachsen eins"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sachsen1.png"group-title="FritzTV":http-user-agent="",Sachsen eins
 rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,37,2001,49,50,2003,2004,2005
-#EXTINF:-1 tvg-name=""tvg-id="Leipzig.Fernsehen.de"tvg-logo=""group-title="FritzTV":http-user-agent="",SF-Leipzig
-rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,52,53,55,104,109
+#EXTINF:-1 tvg-name=""tvg-id="Leipzig.Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/Leipzig.png"group-title="FritzTV":http-user-agent="",Leipzig Fernsehen
+rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,52,1001,54,55,57
