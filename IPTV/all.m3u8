@@ -1,10 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name=""tvg-id="ORF 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/orf1.png"group-title="Filme/Serien":http-user-agent="",ORF 1
-plugin://plugin.video.zattoo_com/?mode=watch&id=orf-1&level=sd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="ORF 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/orf2.png"group-title="Filme/Serien":http-user-agent="",ORF 2
-plugin://plugin.video.zattoo_com/?mode=watch&id=orf-2&level=sd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="ORF 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/orf3.png"group-title="Filme/Serien":http-user-agent="",ORF 3
-plugin://plugin.video.zattoo_com/?mode=watch&id=orf3&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/ard.png"group-title="Filme/Serien":http-user-agent="",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/zdf.png"group-title="Filme/Serien":http-user-agent="",ZDF
@@ -46,7 +40,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=wedo_movies_de&level=hd&drm=Fals
 #EXTINF:-1 tvg-name=""tvg-id="Auftanken.TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/Auftanken.png"group-title="Filme/Serien":http-user-agent="",Auftanken.TV
 plugin://plugin.video.zattoo_com/?mode=watch&id=auftanken_tv_ch&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="SIXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sixx.png"group-title="Filme/Serien":http-user-agent="",SIXX
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fthedaddy.click%2F%2Fstream%2Fstream-732.php
+plugin://plugin.video.vavooto/?name=SIXX
 #EXTINF:-1 tvg-name=""tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/one.png"group-title="Filme/Serien":http-user-agent="",ONE
 plugin://plugin.video.vavooto/?name=ONE
 #EXTINF:-1 tvg-name=""tvg-id="Super RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/superrtl.png"group-title="Filme/Serien":http-user-agent="",Super RTL
@@ -100,8 +94,8 @@ plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-name=""tvg-id="Sky One"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/cinema/skyone.png"group-title="Filme/Serien":http-user-agent="",Sky One
 plugin://plugin.video.vavooto/?name=SKY+ONE
 #EXTINF:-1 tvg-name=""tvg-id="13TH Street"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/13street.png"group-title="Filme/Serien":http-user-agent="",13TH Street
-plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=13TH+STREET+HD%2B
-#EXTINF:-1 tvg-name=""tvg-id="Kinowelt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/Kinowelt.png"group-title="Filme/Serien":http-user-agent="",Kinowelt
+plugin://plugin.video.vavooto/?name=13TH+STREET
+#EXTINF:-1 tvg-name=""tvg-id="Kinowelt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/Kinowelt.png"group-title="Filme/Serien":http-user-agent="",Kinowelt(off)
 plugin://plugin.video.vavooto/?name=KINOWELT
 #EXTINF:-1 tvg-name=""tvg-id="AXN White"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/axnwhite.png"group-title="Filme/Serien":http-user-agent="",AXN White
 plugin://plugin.video.vavooto/?name=AXN+WHITE
@@ -220,19 +214,19 @@ https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTL Zwee"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtlzwee.png"group-title="Sport":http-user-agent="",RTL Zwee
 plugin://plugin.video.vavooto/?name=RTL+LUXEMBOURG
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/skysport/skynews.png"group-title="Sport":http-user-agent="",Sky Sport News
-plugin://plugin.video.vavooto/?name=SKY+SPORT+NEWS
+plugin://plugin.video.vavooto/?name=S.+SPORT+NEWS
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/bundesliga/bundesliga.png"group-title="Sport":http-user-agent="",SKY Sport Bundesliga
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-558.php
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+BUNDESLIGA
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/austria/austria1.png"group-title="Sport":http-user-agent="",Sky Sport Austria 1
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-559.php
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/austria/austria2.png"group-title="Sport":http-user-agent="",Sky Sport Austria 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+2+%28MATCH+TIME%29
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Premier League"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/skysport/skypremier.png"group-title="Sport":http-user-agent="",Sky Sport Premier League
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-130.php
+plugin://plugin.video.vavooto/?name=S.+SPORT+PREMIER+LEAGUE
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Top Event"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/skysport/skytopevent.png"group-title="Sport":http-user-agent="",Sky Sport Top Event
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-556.php
+plugin://plugin.video.vavooto/?name=S.+SPORT+TOP+EVENT
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Mix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/skysport/skymix.png"group-title="Sport":http-user-agent="",Sky Sport Mix
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-557.php
+plugin://plugin.video.vavooto/?name=S.+SPORT+MIX
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport F1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/skysport/skyf1.png"group-title="Sport":http-user-agent="",Sky Sport F1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+F1
 #EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/bundesliga/bundesliga1.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 1
@@ -297,19 +291,19 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+8
 plugin://plugin.video.vavooto/?name=SKY+SPORT+9
 #EXTINF:-1 tvg-name=""tvg-id="ORF Sport+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/orfsport.png"group-title="Sport":http-user-agent="",ORF Sport+
 plugin://plugin.video.vavooto/?name=ORF+SPORT
-#EXTINF:-1 tvg-name=""tvg-id="SPORTDIGITAL FUSSBALL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sportdigital.png"group-title="Sport":http-user-agent="",Sportdigital
-plugin://plugin.video.vavooto/?action=live&group=Germany&name=SPORTDIGITALL+FUSSBALL
+#EXTINF:-1 tvg-name=""tvg-id="SPORTDIGITAL FUSSBALL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sportdigital.png"group-title="Sport":http-user-agent="",Sportdigital Fussball
+plugin://plugin.video.vavooto/?name=SPORT+1%2B
 #EXTINF:-1 tvg-name=""tvg-id="SPORT1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sport1.png"group-title="Sport":http-user-agent="",Sport 1
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-641.php
-#EXTINF:-1 tvg-name=""tvg-id="SPORT1+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sport1%2B.png"group-title="Sport":http-user-agent="",Sport 1+
-plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylive.dad%2F%2Fstream%2Fstream-640.php
+plugin://plugin.video.vavooto/?name=SPORT+1
+#EXTINF:-1 tvg-name=""tvg-id="Sportdigital+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sport1%2B.png"group-title="Sport":http-user-agent="",Sportdigital+
+plugin://plugin.video.vavooto/?name=SPORT+1%2B
 #EXTINF:-1 tvg-name=""tvg-id="Eurosport 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/eurosport1.png"group-title="Sport":http-user-agent="",Eurosport 1
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-name=""tvg-id="Eurosport 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/eurosport2.png"group-title="Sport":http-user-agent="",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
 #EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/redbulltv.png"group-title="Sport":http-user-agent="",Red Bull TV
 plugin://plugin.video.vavooto/?name=RED+BULL+TV
-#EXTINF:-1 tvg-name=""tvg-id="Servus TV Motorsport"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/servus.png"group-title="Sport":http-user-agent="",Servus TV Motorsport
+#EXTINF:-1 tvg-name=""tvg-id="Servus TV Motorsport"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/servus.png"group-title="Sport":http-user-agent="",Red BullTV Motorsport
 plugin://plugin.video.vavooto/?name=SERVUS+TV
 #EXTINF:-1 tvg-name=""tvg-id="Auto Motor und Sport"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/automotorsport.png"group-title="Sport":http-user-agent="",Auto Motor und Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
@@ -318,15 +312,15 @@ plugin://plugin.video.vavooto/?name=MOTORVISION
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="Select":http-user-agent="",BlueTV 4K Action
 plugin://plugin.video.vavooto/?name=BLUETV+ACTION
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Fantasy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="Select":http-user-agent="",BlueTV 4K Fantasy
-plugin://plugin.video.vavooto/?name=BLUETV+4K+FANTASY
+plugin://plugin.video.vavooto/?name=BLUETV+FANTASY
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="Select":http-user-agent="",BlueTV 4K Horror
-plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
+plugin://plugin.video.vavooto/?name=BLUETV+HORROR
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Mystery"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="Select":http-user-agent="",BlueTV 4K Mystery
 plugin://plugin.video.vavooto/?name=BLUETV+MYSTERY
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="Select":http-user-agent="",BlueTV 4K Sci-Fi
 plugin://plugin.video.vavooto/?name=BLUETV+SCI-FI
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Komödie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="Select":http-user-agent="",BlueTV 4K Komödie
-plugin://plugin.video.vavooto/?name=BLUETV+4K+KOM+DIE
+plugin://plugin.video.vavooto/?name=BLUETV+KOM+DIE
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="Select":http-user-agent="",BlueTV 4K Thriller
 plugin://plugin.video.vavooto/?name=BLUETV+THRILLER
 #EXTINF:-1 tvg-name=""tvg-id="Sky Box Fantasy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/skybox%20.png"group-title="Select":http-user-agent="",Sky Box Fantasy
