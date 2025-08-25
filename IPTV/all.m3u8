@@ -1,20 +1,20 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name=""tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/ard.png"group-title="Filme/Serien":http-user-agent="",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/zdf.png"group-title="Filme/Serien":http-user-agent="",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
 #EXTINF:-1 tvg-name=""tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtl.png"group-title="Filme/Serien":http-user-agent="",RTL
-plugin://plugin.video.tvone112/play/52/166/play.pvr
+plugin://plugin.video.vavooto/?name=RTL
 #EXTINF:-1 tvg-name=""tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sat1.png"group-title="Filme/Serien":http-user-agent="",SAT.1
-plugin://plugin.video.tvone112/play/52/171/play.pvr
+plugin://plugin.video.vavooto/?name=SAT+1
 #EXTINF:-1 tvg-name=""tvg-id="RTL II"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtl2.png"group-title="Filme/Serien":http-user-agent="",RTL II
-plugin://plugin.video.tvone112/play/52/167/play.pvr
+plugin://plugin.video.vavooto/?name=RTL+2
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/pro7.png"group-title="Filme/Serien":http-user-agent="",Pro Sieben
 plugin://plugin.video.vavooto/?name=PRO+7
 #EXTINF:-1 tvg-name=""tvg-id="KABEL 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/kabel1.png"group-title="Filme/Serien":http-user-agent="",Kabel eins
 plugin://plugin.video.vavooto/?name=KABEL+1
 #EXTINF:-1 tvg-name=""tvg-id="VOX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/vox.png"group-title="Filme/Serien":http-user-agent="",VOX
-plugin://plugin.video.tvone112/play/52/180/play.pvr
+plugin://plugin.video.vavooto/?name=VOX
 #EXTINF:-1 tvg-name=""tvg-id="Puls 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/puls8.png"group-title="Filme/Serien":http-user-agent="",PULS 8
 plugin://plugin.video.zattoo_com/?mode=watch&id=puls8&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="3+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/3%2B.png"group-title="Filme/Serien":http-user-agent="",3+
@@ -44,11 +44,11 @@ plugin://plugin.video.vavooto/?name=SIXX
 #EXTINF:-1 tvg-name=""tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/one.png"group-title="Filme/Serien":http-user-agent="",ONE
 plugin://plugin.video.vavooto/?name=ONE
 #EXTINF:-1 tvg-name=""tvg-id="Super RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/superrtl.png"group-title="Filme/Serien":http-user-agent="",Super RTL
-plugin://plugin.video.tvone112/play/52/179/play.pvr
+plugin://plugin.video.vavooto/?name=SUPER+RTL
 #EXTINF:-1 tvg-name=""tvg-id="RTL Nitro"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/nitro.png"group-title="Filme/Serien":http-user-agent="",RTL Nitro
-plugin://plugin.video.tvone112/play/52/169/play.pvr
+plugin://plugin.video.vavooto/?name=NITRO
 #EXTINF:-1 tvg-name=""tvg-id="RTL Passion"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/rtlpassionhd.png"group-title="Filme/Serien":http-user-agent="",RTL Passion
-plugin://plugin.video.tvone112/play/52/170/play.pvr
+plugin://plugin.video.vavooto/?name=RTL+PASSION
 #EXTINF:-1 tvg-name=""tvg-id="SAT.1 Emotions"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sat1emotion.png"group-title="Filme/Serien":http-user-agent="",SAT.1 Emotions
 plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
 #EXTINF:-1 tvg-name=""tvg-id="VOXup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/voxup.png"group-title="Filme/Serien":http-user-agent="",VOXup
@@ -56,7 +56,7 @@ plugin://plugin.video.vavooto/?name=VOX+UP
 #EXTINF:-1 tvg-name=""tvg-id="RTLup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtlup.png"group-title="Filme/Serien":http-user-agent="",RTLup
 plugin://plugin.video.vavooto/?name=RTL+UP
 #EXTINF:-1 tvg-name=""tvg-id="RTL Crime"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/rtlcrimehd.png"group-title="Filme/Serien":http-user-agent="",RTL Crime
-plugin://plugin.video.tvone112/play/52/168/play.pvr
+plugin://plugin.video.vavooto/?name=RTL+CRIME
 #EXTINF:-1 tvg-name=""tvg-id="SAT.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sat1gold.png"group-title="Filme/Serien":http-user-agent="",SAT.1 Gold
 plugin://plugin.video.vavooto/?name=SAT+1+GOLD
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/pro7maxx.png"group-title="Filme/Serien":http-user-agent="",Pro Sieben MAXX
@@ -68,7 +68,7 @@ plugin://plugin.video.vavooto/?name=TELE+5
 #EXTINF:-1 tvg-name=""tvg-id="Kabel 1 Classics"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/kabel1classic.png"group-title="Filme/Serien":http-user-agent="",Kabel 1 Classics
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
 #EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/zdfneo.png"group-title="Filme/Serien":http-user-agent="",ZDFneo
-plugin://plugin.video.tvone112/play/52/2689/play.pvr
+plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 tvg-name=""tvg-id="Warner TV Comedy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/warnercomedy.png"group-title="Filme/Serien":http-user-agent="",Warner TV Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 #EXTINF:-1 tvg-name=""tvg-id="Warner TV Film"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/warnerfilm.png"group-title="Filme/Serien":http-user-agent="",Warner TV Film
@@ -138,11 +138,11 @@ https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/kabel1doku.png"group-title="News/Doku":http-user-agent="",Kabel eins Doku
 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 #EXTINF:-1 tvg-name=""tvg-id="N-TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/ntv.png"group-title="News/Doku":http-user-agent="",N-TV
-plugin://plugin.video.tvone112/play/52/164/play.pvr
+plugin://plugin.video.vavooto/?name=NTV
 #EXTINF:-1 tvg-name=""tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/welt.png"group-title="News/Doku":http-user-agent="",Welt
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8 
 #EXTINF:-1 tvg-name=""tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/n24doku.png"group-title="News/Doku":http-user-agent="",N24 Doku
-plugin://plugin.video.tvone112/play/52/163/play.pvr
+plugin://plugin.video.vavooto/?name=N24+DOKU
 #EXTINF:-1 tvg-name=""tvg-id="DMAX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/dmax.png"group-title="News/Doku":http-user-agent="",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
 #EXTINF:-1 tvg-name=""tvg-id="TLC"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/tlc.png"group-title="News/Doku":http-user-agent="",TLC
@@ -216,7 +216,7 @@ plugin://plugin.video.vavooto/?name=RTL+LUXEMBOURG
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/skysport/skynews.png"group-title="Sport":http-user-agent="",Sky Sport News
 plugin://plugin.video.vavooto/?name=S.+SPORT+NEWS
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/bundesliga/bundesliga.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga
-plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+BUNDESLIGA
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/austria/austria1.png"group-title="Sport":http-user-agent="",Sky Sport Austria 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/austria/austria2.png"group-title="Sport":http-user-agent="",Sky Sport Austria 2
