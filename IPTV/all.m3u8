@@ -6,7 +6,7 @@ plugin://plugin.video.tvone112/play/52/160/play.pvr
 #EXTINF:-1 tvg-name=""tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png"group-title="Filme/Serien":http-user-agent="",ZDF
 #plugin://plugin.video.vavooto/?name=ZDF
 #EXTINF:-1 tvg-name=""tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png"group-title="Filme/Serien":http-user-agent="",ZDF
-plugin://plugin.video.tvone112/play/52/160/play.pvr
+plugin://plugin.video.tvone112/play/52/181/play.pvr
 #EXTINF:-1 tvg-name=""tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png"group-title="Filme/Serien":http-user-agent="",RTL
 #plugin://plugin.video.vavooto/?name=RTL
 #EXTINF:-1 tvg-name=""tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png"group-title="Filme/Serien":http-user-agent="",RTL
@@ -78,7 +78,7 @@ plugin://plugin.video.vavooto/?name=RTL+UP
 #EXTINF:-1 tvg-name=""tvg-id="RTL Crime"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtlcrime.png"group-title="Filme/Serien":http-user-agent="",RTL Crime
 #plugin://plugin.video.vavooto/?name=RTL+CRIME
 #EXTINF:-1 tvg-name=""tvg-id="RTL Crime"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtlcrime.png"group-title="Filme/Serien":http-user-agent="",RTL Crime
-plugin://plugin.video.tvone112/play/52/167/play.pvr
+plugin://plugin.video.tvone112/play/52/168/play.pvr
 #EXTINF:-1 tvg-name=""tvg-id="SAT.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1gold.png"group-title="Filme/Serien":http-user-agent="",SAT.1 Gold
 plugin://plugin.video.vavooto/?name=SAT+1+GOLD
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7maxx.png"group-title="Filme/Serien":http-user-agent="",Pro Sieben MAXX
