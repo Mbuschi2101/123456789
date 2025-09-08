@@ -137,34 +137,12 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=4plus&level=sd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=5plus_ch&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="6+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/6%2B.png"group-title="VPN-SW":http-user-agent="",6+ (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=6plus_ch&level=sd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Moviedome Family"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/MoviedomeFamily.png"group-title="VPN-SW":http-user-agent="",Moviedome Family (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=moviedome_family_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Top Serien"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"group-title="VPN-SW":http-user-agent="",Top Serien (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=craction_tv_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Serien+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/serien%2B.png"group-title="VPN-SW":http-user-agent="",Serien+ (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=serien_plus_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Crime Time"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/crimetime.png"group-title="VPN-SW":http-user-agent="",Crime Time (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=crime_time_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Wedo Movies"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/wedomovies.png"group-title="VPN-SW":http-user-agent="",Wedo Movies (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=wedo_movies_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Auftanken.TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/auftankentv.png"group-title="VPN-SW":http-user-agent="",Auftanken.TV (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=auftanken_tv_ch&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Serien+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/serien%2B.png"group-title="VPN-SW":http-user-agent="",Serien+ (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=serien_plus_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="TopSerien"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"group-title="VPN-SW":http-user-agent="",Top Serien (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=craction_tv_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Top Filme"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TOPFILME.png"group-title="VPN-SW":http-user-agent="",Top Filme (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=top_filme_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Top True Crime"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/toptruecrime.png"group-title="VPN-SW":http-user-agent="",Top True Crime (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=top_true_crime_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Top Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSciFi.png"group-title="VPN-SW":http-user-agent="",Top Sci-Fi (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=top_sci_fi_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Crime Time"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/crimetime.png"group-title="VPN-SW":http-user-agent="",Crime Time (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=crime_time_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="wedomovies"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/wedomovies.png"group-title="VPN-SW":http-user-agent="",Wedo Movies (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=wedo_movies_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="MoviedomeFamily"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/MoviedomeFamily.png"group-title="VPN-SW":http-user-agent="",Moviedome Family (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=moviedome_family_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Heimatkino"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Heimatkino.png"group-title="VPN-SW":http-user-agent="",Heimatkino (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=heimatkino_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Himmlisches Kino"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/HimmlischesKino.png"group-title="VPN-SW":http-user-agent="",Himmlisches Kino (Schweiz)
@@ -183,32 +161,18 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=s1&level=hd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=tv24&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="TV25"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv25hd.png"group-title="VPN-SW":http-user-agent="",TV25 (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=tv25&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="TerraMaterWild"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Terramater.png"group-title="VPN-SW":http-user-agent="",Terra Mater Wild (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=terra_mater_wild_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="CuriosityNow"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/curiositynow.png"group-title="VPN-SW":http-user-agent="",Curiosity Now (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=curiosity_now_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="SpiegelTVKonflikte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Spiegeltvkonflikte.png"group-title="VPN-SW":http-user-agent="",Spiegel TV Konflikte (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=spiegel_tv_konflikte_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="OneTerra"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/oneterra.png"group-title="VPN-SW":http-user-agent="",One Terra (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=one_terra_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Moconomy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Moconomy.png"group-title="VPN-SW":http-user-agent="",Moconomy (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=moconomy_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="XPLORE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/xplore.png"group-title="VPN-SW":http-user-agent="",Xplore (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=xplore_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="TemporaTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TemporaTV.png"group-title="VPN-SW":http-user-agent="",Tempora TV (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=tempora_tv_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Servus TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/servustv.png"group-title="VPN-SW":http-user-agent="",Servus TV (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=servus_tv_austria&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Swiss1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/swiss1.png"group-title="VPN-SW":http-user-agent="",Swiss 1 (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=swiss_1&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="3Sat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png"group-title="VPN-SW":http-user-agent="",3 Sat (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=3sat&level=sd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Pheonix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"group-title="VPN-SW":http-user-agent="",Pheonix (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=phoenix&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="ARD-alpha"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"group-title="VPN-SW":http-user-agent="",ARD-alpha (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=br-alpha&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/arte.png"group-title="VPN-SW":http-user-agent="",Arte (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=DE_arte&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/red_bull_tv.png"group-title="VPN-SW":http-user-agent="",Red Bull TV (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=red_bull_tv_eu_int&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Sport1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sport1.png"group-title="VPN-SW":http-user-agent="",Sport 1 (Schweiz)
@@ -291,22 +255,14 @@ plugin://plugin.video.vavooto/?name=CURIOSITY+CHANNEL
 plugin://plugin.video.vavooto/?name=ANIMAL+PLANET
 #EXTINF:-1 tvg-name=""tvg-id="Geo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/GEOHD.png"group-title="VPN-SW":http-user-agent="",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
-#EXTINF:-1 tvg-name=""tvg-id="Terra Mater Wild"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Terramater.png"group-title="VPN-SW":http-user-agent="",Terra Mater Wild (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=terra_mater_wild_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Curiosity Now"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/curiositynow.png"group-title="VPN-SW":http-user-agent="",Curiosity Now (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=curiosity_now_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Spiegel TV Konflikte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Spiegeltvkonflikte.png"group-title="VPN-SW":http-user-agent="",Spiegel TV Konflikte (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=spiegel_tv_konflikte_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="OneTerra"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/oneterra.png"group-title="VPN-SW":http-user-agent="",One Terra (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=one_terra_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Moconomy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Moconomy.png"group-title="VPN-SW":http-user-agent="",Moconomy (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=moconomy_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="XPLORE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/xplore.png"group-title="VPN-SW":http-user-agent="",Xplore (Schweiz)
 plugin://plugin.video.zattoo_com/?mode=watch&id=xplore_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Tempora TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TemporaTV.png"group-title="VPN-SW":http-user-agent="",Tempora TV (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=tempora_tv_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="Swiss 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/swiss1.png"group-title="VPN-SW":http-user-agent="",Swiss 1 (Schweiz)
-plugin://plugin.video.zattoo_com/?mode=watch&id=swiss_1&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Bergblick"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/begblick.png"group-title="VPN-SW":http-user-agent="",Bergblick
 plugin://plugin.video.vavooto/?name=BERGBLICK
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysportnews.png"group-title="VPN-SW":http-user-agent="",Sky Sport News
