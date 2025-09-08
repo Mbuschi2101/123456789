@@ -1,79 +1,81 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="Das Erste"tvg-id="DasErste(src01).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/ard.png"group-title="FritzTV":http-user-agent="",Das Erste
+#EXTINF:-1 tvg-name=""tvg-id="Das Erste (pÿur)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png
+"group-title="FritzTV":http-user-agent="",Das Erste
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5100,5101,1170,1176,2171,5102,5103,5104,5105,5106,5107,5108,5172
-#EXTINF:-1 tvg-name="ZDF"tvg-id="ZDF(src01).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/zdf.png"group-title="FritzTV":http-user-agent="",ZDF
+#EXTINF:-1 tvg-name=""tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png
+"group-title="FritzTV":http-user-agent="",ZDF
 rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,6110,6120,6121,6122,6123,6130,6131,6132,6170,6171,6172
-#EXTINF:-1 tvg-name="RTL"tvg-id="RTL(src01).de(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtl.png"group-title="FritzTV":http-user-agent="",RTL
+#EXTINF:-1 tvg-name=""tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png"group-title="FritzTV":http-user-agent="",RTL
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
-#EXTINF:-1 tvg-name=""tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sat1.png"group-title="FritzTV":http-user-agent="",SAT.1
+#EXTINF:-1 tvg-name=""tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1.png"group-title="FritzTV":http-user-agent="",SAT.1
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106
-#EXTINF:-1 tvg-name=""tvg-id="RTL II"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtl2.png"group-title="FritzTV":http-user-agent="",RTL II
+#EXTINF:-1 tvg-name=""tvg-id="RTL II"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl2.png"group-title="FritzTV":http-user-agent="",RTL II
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158,159
-#EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/pro7.png"group-title="FritzTV":http-user-agent="",ProSieben
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"group-title="FritzTV":http-user-agent="",Pro Sieben
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,153,155,156
-#EXTINF:-1 tvg-name=""tvg-id="kabel.eins.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/kabel1.png"group-title="FritzTV":http-user-agent="",KABEL 1
+#EXTINF:-1 tvg-name=""tvg-id="kabel.eins.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"group-title="FritzTV":http-user-agent="",KABEL eins
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,201,202,205,206
-#EXTINF:-1 tvg-name=""tvg-id="VOX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/vox.png"group-title="FritzTV":http-user-agent="",VOX
+#EXTINF:-1 tvg-name=""tvg-id="VOX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/vox.png"group-title="FritzTV":http-user-agent="",VOX
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,255,256,257,258,259
-#EXTINF:-1 tvg-name=""tvg-id="VOXup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/voxup.png"group-title="FritzTV":http-user-agent="",VOXup
+#EXTINF:-1 tvg-name=""tvg-id="VOXup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/voxup.png"group-title="FritzTV":http-user-agent="",VOXup
 rtsp://192.168.178.1:554/?avm=1&freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,2800,2801,2802,2803,2804,2805,2806
-#EXTINF:-1 tvg-name=""tvg-id="NITRO.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/nitro.png"group-title="FritzTV":http-user-agent="",RTL Nitro
+#EXTINF:-1 tvg-name=""tvg-id="NITRO.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/nitro.png"group-title="FritzTV":http-user-agent="",RTL Nitro
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306,307,308,309
-#EXTINF:-1 tvg-name=""tvg-id="RTLup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rtlup.png"group-title="FritzTV":http-user-agent="",RTLup
+#EXTINF:-1 tvg-name=""tvg-id="RTLup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtlup.png"group-title="FritzTV":http-user-agent="",RTLup
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406,407,408
-#EXTINF:-1 tvg-name=""tvg-id="Sat.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sat1gold.png"group-title="FritzTV":http-user-agent="",Sat.1 Gold
+#EXTINF:-1 tvg-name=""tvg-id="Sat.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1gold.png"group-title="FritzTV":http-user-agent="",Sat.1 Gold
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,300,301,302,305,306
-#EXTINF:-1 tvg-name=""tvg-id="Tele 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/tele5.png"group-title="FritzTV":http-user-agent="",Tele 5
+#EXTINF:-1 tvg-name=""tvg-id="Tele 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tele5.png"group-title="FritzTV":http-user-agent="",Tele 5
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,106,107,108,109
-#EXTINF:-1 tvg-name=""tvg-id="SIXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sixx.png"group-title="FritzTV":http-user-agent="",SIXX
+#EXTINF:-1 tvg-name=""tvg-id="SIXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sixx.png"group-title="FritzTV":http-user-agent="",SIXX
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,550,551,38,552,558
-#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/zdfneo.png"group-title="FritzTV":http-user-agent="",ZDFneo
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"group-title="FritzTV":http-user-agent="",ZDFneo
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6300,6310,6320,6321,6322,6323,6330,6331,6370,6371,6372
-#EXTINF:-1 tvg-name=""tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/one.png"group-title="FritzTV":http-user-agent="",ONE
+#EXTINF:-1 tvg-name=""tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/one.png"group-title="FritzTV":http-user-agent="",ONE
 rtsp://192.168.178.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5410,5411,276,2171,4170,4172,5412,5413,5414,5415,5416,5417
-#EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/pro7maxx.png"group-title="FritzTV":http-user-agent="",ProSieben MAXX
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7maxx.png"group-title="FritzTV":http-user-agent="",ProSieben MAXX
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,355,356
-#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/zdfinfo.png"group-title="FritzTV":http-user-agent="",ZDFinfo
+#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfinfo.png"group-title="FritzTV":http-user-agent="",ZDFinfo
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6700,6710,6720,6721,6722,6723,6730,6731,6770,6771,6772
-#EXTINF:-1 tvg-name=""tvg-id="MDR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/mdr.png"group-title="FritzTV":http-user-agent="",MDR Sachsen
+#EXTINF:-1 tvg-name=""tvg-id="MDR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/mdr.png"group-title="FritzTV":http-user-agent="",MDR Sachsen
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5320,5331,2171,2876,3670,3672,5332,5333,5334,5335,5336,5337
-#EXTINF:-1 tvg-name=""tvg-id="N-TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/ntv.png"group-title="FritzTV":http-user-agent="",N-TV
+#EXTINF:-1 tvg-name=""tvg-id="N-TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/ntv.png"group-title="FritzTV":http-user-agent="",N-TV
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,353,355,356,357,358
-#EXTINF:-1 tvg-name=""tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/welt.png"group-title="FritzTV":http-user-agent="",Welt
+#EXTINF:-1 tvg-name=""tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png"group-title="FritzTV":http-user-agent="",Welt
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,250,251,252,256
-#EXTINF:-1 tvg-name=""tvg-id="DMAX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/dmax.png"group-title="FritzTV":http-user-agent="",DMAX
+#EXTINF:-1 tvg-name=""tvg-id="DMAX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dmax.png"group-title="FritzTV":http-user-agent="",DMAX
 rtsp://192.168.178.1:554/?avm=1&freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
-#EXTINF:-1 tvg-name=""tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/n24doku.png"group-title="FritzTV":http-user-agent="",N24 Doku
+#EXTINF:-1 tvg-name=""tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/n24doku.png"group-title="FritzTV":http-user-agent="",N24 Doku
 rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,450,451,452,456
-#EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/kabel1doku.png"group-title="FritzTV":http-user-agent="",Kabel eins Doku
+#EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1doku.png"group-title="FritzTV":http-user-agent="",Kabel eins Doku
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,400,401,402,405,406
-#EXTINF:-1 tvg-name=""tvg-id="TLC"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/tlc.png"group-title="FritzTV":http-user-agent="",TLC
+#EXTINF:-1 tvg-name=""tvg-id="TLC"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tlc.png"group-title="FritzTV":http-user-agent="",TLC
 rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
-#EXTINF:-1 tvg-name=""tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/dokusat.png"group-title="FritzTV":http-user-agent="",DokuSat
+#EXTINF:-1 tvg-name=""tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dokusat.png"group-title="FritzTV":http-user-agent="",DokuSat
 rtsp://192.168.178.1:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,505,506
-#EXTINF:-1 tvg-name=""tvg-id="tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/tagesschau.png"group-title="FritzTV":http-user-agent="",Tagesschau 24
+#EXTINF:-1 tvg-name=""tvg-id="tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/tagesschau.png"group-title="FritzTV":http-user-agent="",Tagesschau 24
 rtsp://192.168.178.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5400,5401,176,2171,3970,4072,5402,5403,5404,5406,5407
-#EXTINF:-1 tvg-name=""tvg-id="RBB"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/rbb.png"group-title="FritzTV":http-user-agent="",RBB
+#EXTINF:-1 tvg-name=""tvg-id="RBB"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/rbb.png"group-title="FritzTV":http-user-agent="",RBB
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5310,5311,2171,2176,3770,3772,5312,5313,5314,5315,5316,5317
-#EXTINF:-1 tvg-name=""tvg-id="WDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/wdr.png"group-title="FritzTV":http-user-agent="",WDR
+#EXTINF:-1 tvg-name=""tvg-id="WDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/wdr.png"group-title="FritzTV":http-user-agent="",WDR
 rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,950,101,102,103,104,105,106,107,2171,2371,2376,2377
-#EXTINF:-1 tvg-name=""tvg-id="NDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/ndr.png"group-title="FritzTV":http-user-agent="",NDR
+#EXTINF:-1 tvg-name=""tvg-id="NDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ndr.png"group-title="FritzTV":http-user-agent="",NDR
 rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,5221,1770,2171,2676,5222,5223,5224,5225,5226,5227,5273
-#EXTINF:-1 tvg-name=""tvg-id="BR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/br.png"group-title="FritzTV":http-user-agent="",BR
+#EXTINF:-1 tvg-name=""tvg-id="BR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/br.png"group-title="FritzTV":http-user-agent="",BR
 rtsp://192.168.178.1:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,5201,1076,1570,2171,5202,5203,5204,5205,5206,5207,5209,5275
-#EXTINF:-1 tvg-name=""tvg-id="SWR/SR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sr.png"group-title="FritzTV":http-user-agent="",SWR
+#EXTINF:-1 tvg-name=""tvg-id="SWR/SR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/swr.png"group-title="FritzTV":http-user-agent="",SWR
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5120,5121,1370,2171,2476,5122,5123,5124,5125,5126,5127,5174
-#EXTINF:-1 tvg-name=""tvg-id="HR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/hr.png"group-title="FritzTV":http-user-agent="",HR
+#EXTINF:-1 tvg-name=""tvg-id="HR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/hr.png"group-title="FritzTV":http-user-agent="",HR
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5350,5351,2171,2276,3570,3572,5352,5353,5354,5355,5356,5357
-#EXTINF:-1 tvg-name=""tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/arte.png"group-title="FritzTV":http-user-agent="",Arte
+#EXTINF:-1 tvg-name=""tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/arte.png"group-title="FritzTV":http-user-agent="",Arte
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5110,5111,1270,1276,5112,5113,5114,5115,5116,5117,5118,5119,5198
-#EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/3sat.png"group-title="FritzTV":http-user-agent="",3 Sat
+#EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png"group-title="FritzTV":http-user-agent="",3 Sat
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6500,6510,6520,6521,6522,6523,6530,6531,6570
-#EXTINF:-1 tvg-name=""tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/phoenix.png"group-title="FritzTV":http-user-agent="",Phoenix
+#EXTINF:-1 tvg-name=""tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"group-title="FritzTV":http-user-agent="",Phoenix
 rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,5261,576,1870,2171,5262,5263,5264
-#EXTINF:-1 tvg-name=""tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/ardalpha.png"group-title="FritzTV":http-user-agent="",ARD Alpha
+#EXTINF:-1 tvg-name=""tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"group-title="FritzTV":http-user-agent="",ARD Alpha
 rtsp://192.168.178.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5420,5421,1476,2171,4270,4272,5422,5423,5424,5425,5426,5427
-#EXTINF:-1 tvg-name=""tvg-id="Sachsen eins"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/sachsen1.png"group-title="FritzTV":http-user-agent="",Sachsen eins
+#EXTINF:-1 tvg-name=""tvg-id="Sachsen eins"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/sachsen.png"group-title="FritzTV":http-user-agent="",Sachsen eins
 rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,37,2001,49,50,2003,2004,2005
-#EXTINF:-1 tvg-name=""tvg-id="Leipzig.Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/PiconsGlass/Leipzig.png"group-title="FritzTV":http-user-agent="",Leipzig Fernsehen
+#EXTINF:-1 tvg-name=""tvg-id="Leipzig.Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Leipzig.png"group-title="FritzTV":http-user-agent="",Leipzig Fernsehen
 rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,52,1001,54,55,57
