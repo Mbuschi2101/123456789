@@ -1,7 +1,9 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-name="Das Erste"tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png"group-title="FritzTV":http-user-agent="",Das Erste (Pÿur)
+#EXTINF:-1 tvg-name="Das Erste"tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png
+"group-title="FritzTV":http-user-agent="",Das Erste (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5100,5101,1170,1176,2171,5102,5103,5104,5105,5106,5107,5108,5172
-#EXTINF:-1 tvg-name="ZDF"tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png"group-title="FritzTV":http-user-agent="",ZDF (Pÿur)
+#EXTINF:-1 tvg-name="ZDF"tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png
+"group-title="FritzTV":http-user-agent="",ZDF (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,650,6110,6120,6121,6122,6123,6130,6131,6132,6170,6171,6172
 #EXTINF:-1 tvg-name="RTL"tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png"group-title="FritzTV":http-user-agent="",RTL (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,100,101,102,103,105,106,107,108,119
@@ -35,7 +37,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,355,356
 #EXTINF:-1 tvg-name="ZDFinfo"tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfinfo.png"group-title="FritzTV":http-user-agent="",ZDFinfo (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6700,6710,6720,6721,6722,6723,6730,6731,6770,6771,6772
-#EXTINF:-1 tvg-name="MDR.de"tvg-id="MDR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/mdr.png"group-title="FritzTV":http-user-agent="",MDR Sachsen (Pÿur)
+#EXTINF:-1 tvg-name="MDR Sachsen"tvg-id="MDR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/mdr.png"group-title="FritzTV":http-user-agent="",MDR Sachsen (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5320,5331,2171,2876,3670,3672,5332,5333,5334,5335,5336,5337
 #EXTINF:-1 tvg-name="N-TV"tvg-id="N-TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/ntv.png"group-title="FritzTV":http-user-agent="",N-TV (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,350,351,352,353,355,356,357,358
@@ -51,7 +53,7 @@ rtsp://192.168.178.1:554/?avm=1&freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,151,152,155,156,157,158
 #EXTINF:-1 tvg-name="DokuSat"tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dokusat.png"group-title="FritzTV":http-user-agent="",DokuSat (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,500,501,502,505,506
-#EXTINF:-1 tvg-name="tagesschau24.de"tvg-id="tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/tagesschau.png"group-title="FritzTV":http-user-agent="",Tagesschau 24 (Pÿur)
+#EXTINF:-1 tvg-name="Tagesschau 24"tvg-id="tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/tagesschau.png"group-title="FritzTV":http-user-agent="",Tagesschau 24 (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5400,5401,176,2171,3970,4072,5402,5403,5404,5406,5407
 #EXTINF:-1 tvg-name="RBB"tvg-id="RBB"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/rbb.png"group-title="FritzTV":http-user-agent="",RBB (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5310,5311,2171,2176,3770,3772,5312,5313,5314,5315,5316,5317
@@ -61,19 +63,19 @@ rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&spe
 rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,5221,1770,2171,2676,5222,5223,5224,5225,5226,5227,5273
 #EXTINF:-1 tvg-name="BR"tvg-id="BR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/br.png"group-title="FritzTV":http-user-agent="",BR (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=522&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,150,5201,1076,1570,2171,5202,5203,5204,5205,5206,5207,5209,5275
-#EXTINF:-1 tvg-name="SWR/SR.de"tvg-id="SWR/SR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/swr.png"group-title="FritzTV":http-user-agent="",SWR (Pÿur)
+#EXTINF:-1 tvg-name="SWR"tvg-id="SWR/SR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/swr.png"group-title="FritzTV":http-user-agent="",SWR (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5120,5121,1370,2171,2476,5122,5123,5124,5125,5126,5127,5174
 #EXTINF:-1 tvg-name="HR"tvg-id="HR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/hr.png"group-title="FritzTV":http-user-agent="",HR (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5350,5351,2171,2276,3570,3572,5352,5353,5354,5355,5356,5357
 #EXTINF:-1 tvg-name="Arte"tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/arte.png"group-title="FritzTV":http-user-agent="",Arte (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=314&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5110,5111,1270,1276,5112,5113,5114,5115,5116,5117,5118,5119,5198
-#EXTINF:-1 tvg-name="3sat.de"tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png"group-title="FritzTV":http-user-agent="",3 Sat (Pÿur)
+#EXTINF:-1 tvg-name="3 Sat"tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png"group-title="FritzTV":http-user-agent="",3 Sat (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,6500,6510,6520,6521,6522,6523,6530,6531,6570
 #EXTINF:-1 tvg-name="Phoenix"tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"group-title="FritzTV":http-user-agent="",Phoenix (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=322&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,200,5261,576,1870,2171,5262,5263,5264
-#EXTINF:-1 tvg-name="ARD-alpha.de"tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"group-title="FritzTV":http-user-agent="",ARD Alpha (Pÿur)
+#EXTINF:-1 tvg-name="ARD Alpha"tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"group-title="FritzTV":http-user-agent="",ARD Alpha (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,5420,5421,1476,2171,4270,4272,5422,5423,5424,5425,5426,5427
 #EXTINF:-1 tvg-name="Sachsen eins"tvg-id="Sachsen eins"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/sachsen.png"group-title="FritzTV":http-user-agent="",Sachsen eins (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,37,2001,49,50,2003,2004,2005
-#EXTINF:-1 tvg-name="Leipzig.Fernsehen.de"tvg-id="Leipzig.Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Leipzig.png"group-title="FritzTV":http-user-agent="",Leipzig Fernsehen (Pÿur)
+#EXTINF:-1 tvg-name="Leipzig Fernsehen"tvg-id="Leipzig.Fernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Leipzig.png"group-title="FritzTV":http-user-agent="",Leipzig Fernsehen (Pÿur)
 rtsp://192.168.178.1:554/?avm=1&freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,52,1001,54,55,57
