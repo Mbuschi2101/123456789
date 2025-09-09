@@ -183,7 +183,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=swiss_sport_tv_ch&level=hd&drm=F
 plugin://plugin.video.zattoo_com/?mode=watch&id=wedo_sports_de&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="World of Freesports"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/WorldofFreesports.png"group-title="VPN-SW":http-user-agent="",World of Freesports
 plugin://plugin.video.zattoo_com/?mode=watch&id=world_of_freesports_de&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="FREEDOM"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/freedom.png"group-title="VPN-SW":http-user-agent="",Feedom
+#EXTINF:-1 tvg-name=""tvg-id="FREEDOM"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/freedom.png"group-title="VPN-SW":http-user-agent="",FREEDOM
 plugin://plugin.video.zattoo_com/?mode=watch&id=uatv_ua&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="RTL Passion"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtlpassion.png"group-title="VPN-SW":http-user-agent="",RTL Passion
 plugin://plugin.video.tvone112/play/52/170/play.pvr
