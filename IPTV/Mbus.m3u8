@@ -269,6 +269,10 @@ plugin://plugin.video.vavooto/?name=S.+SPORT+TOP+EVENT
 plugin://plugin.video.vavooto/?name=S.+SPORT+MIX
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport F1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysportf1.png"group-title="VPN-SW":http-user-agent="",Sky Sport F1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+F1
+#EXTINF:-1 tvg-name=""tvg-id="DAZN 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn1.png"group-title="VPN-SW":http-user-agent="",DAZN 1
+plugin://plugin.video.vavooto/?name=DAZN+1
+#EXTINF:-1 tvg-name=""tvg-id="DAZN 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn2.png"group-title="VPN-SW":http-user-agent="",DAZN 2
+plugin://plugin.video.vavooto/?name=DAZN+2
 #EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga1.png"group-title="VPN-SW":http-user-agent="",Sky Sport Bundesliga 1
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+1
 #EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga1.png"group-title="VPN-SW":http-user-agent="",Sky Sport Bundesliga 1
@@ -289,10 +293,6 @@ plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+7
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+8
 #EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 9"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga9.png"group-title="VPN-SW":http-user-agent="",Sky Sport Bundesliga 9
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+9
-#EXTINF:-1 tvg-name=""tvg-id="DAZN 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn1.png"group-title="VPN-SW":http-user-agent="",DAZN 1
-plugin://plugin.video.vavooto/?name=DAZN+1
-#EXTINF:-1 tvg-name=""tvg-id="DAZN 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn2.png"group-title="VPN-SW":http-user-agent="",DAZN 2
-plugin://plugin.video.vavooto/?name=DAZN+2
 #EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="VPN-SW":http-user-agent="",Magenta Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
 #EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="VPN-SW":http-user-agent="",Magenta Sport 2
