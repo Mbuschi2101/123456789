@@ -255,7 +255,7 @@ plugin://plugin.video.vavooto/?name=GEO+TV
 plugin://plugin.video.vavooto/?name=BERGBLICK
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysportnews.png"group-title="VPN-SW":http-user-agent="",Sky Sport News
 plugin://plugin.video.vavooto/?name=S.+SPORT+NEWS
-#EXTINF:-1 tvg-name=""tvg-id="RTL ZWEE"tvg-logo="png"group-title="VPN-SW":http-user-agent="",RTL ZWEE
+#EXTINF:-1 tvg-name=""tvg-id="RTL ZWEE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/rtlzwee.png"group-title="VPN-SW":http-user-agent="",RTL ZWEE
 https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event"tvg-logo="png"group-title="VPN-SW":http-user-agent="",RTL+ Sport Event
 plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+1
@@ -369,25 +369,25 @@ plugin://plugin.video.vavooto/?name=BLUETV+FANTASY
 plugin://plugin.video.vavooto/?name=BLUETV+MYSTERY
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Horror
 plugin://plugin.video.vavooto/?name=BLUETV+HORROR
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV Thriller"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Thriller
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV Thriller
 plugin://plugin.video.vavooto/?name=BLUETV+THRILLER+1
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV Komödie"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Komödie
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Komödie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV Komödie
 plugin://plugin.video.vavooto/?name=BLUETV+KOMODIE+1
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV Sci-Fi"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Sci-Fi
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV Sci-Fi
 plugin://plugin.video.vavooto/?name=BLUETV+SCIENCE-FICTION
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV Action"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Action
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV Action
 plugin://plugin.video.vavooto/?name=BLUETV+ACTION+2
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV Action II"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Action II
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Action II"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV Action II
 plugin://plugin.video.vavooto/?name=BLUETV+ACTION+3
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV Mystery"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Mystery
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Mystery"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV Mystery
 plugin://plugin.video.vavooto/?name=BLUETV+MYSTERY+1
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV Horror"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Horror
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV Horror
 plugin://plugin.video.vavooto/?name=BLUETV+HORROR+1
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV Kriegsfilm"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Kriegsfilm
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Kriegsfilm"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV Kriegsfilm
 plugin://plugin.video.vavooto/?name=BLUETV+KRIEGSFILM
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV History"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV History
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV History"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV History
 plugin://plugin.video.vavooto/?name=BLUETV+HISTORIE
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV Doku"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Doku
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV Doku
 plugin://plugin.video.vavooto/?name=BLUETV+DOKUMENTARFILM
 #EXTINF:-1 tvg-name=""tvg-id="Sky Box Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Thriller
 plugin://plugin.video.vavooto/?name=SKY+BOX+THRILLER
