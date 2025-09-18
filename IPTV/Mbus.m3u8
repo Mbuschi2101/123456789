@@ -359,19 +359,19 @@ plugin://plugin.video.vavooto/?name=RED+BULL+TV
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 #EXTINF:-1 tvg-name=""tvg-id="Motorvision+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Motorvision%2B.png"group-title="VPN-SW":http-user-agent="",Motorvision+
 plugin://plugin.video.vavooto/?name=MOTORVISION
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Thriller
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Thriller
 plugin://plugin.video.vavooto/?name=BLUETV+THRILLER
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Komödie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Komödie
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Komödie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Komödie
 plugin://plugin.video.vavooto/?name=BLUETV+KOM+DIE
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Sci-Fi
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Sci-Fi
 plugin://plugin.video.vavooto/?name=BLUETV+SCI-FI
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Action
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Action
 plugin://plugin.video.vavooto/?name=BLUETV+ACTION
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Fantasy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Fantasy
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Fantasy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Fantasy
 plugin://plugin.video.vavooto/?name=BLUETV+FANTASY
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Mystery"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Mystery
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Mystery"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Mystery
 plugin://plugin.video.vavooto/?name=BLUETV+MYSTERY
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Horror
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Horror
 plugin://plugin.video.vavooto/?name=BLUETV+HORROR
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV Thriller
 plugin://plugin.video.vavooto/?name=BLUETV+THRILLER+1
