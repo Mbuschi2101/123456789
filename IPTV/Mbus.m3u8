@@ -43,6 +43,8 @@ plugin://plugin.video.simplitv/?mode=play&channel=orf-sport-plus&recording=false
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sixx-de&stream_type=LIVE&fav_type=&title=%5BB%5Dsixx%5B%2FB%5D+-+9-1-1%3A+Lone+Star&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sixx-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/one.png"group-title="German TV":http-user-agent="",ONE
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=one-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DONE+HD%5B%2FB%5D+-+Murdoch+Mysteries&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22one-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"group-title="German TV":http-user-agent="",ZDFneo
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=zdfneo-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DZDF+neo+HD%5B%2FB%5D+-+Aktenzeichen+XY...+ungel%C3%B6st&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22zdfneo-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="SAT.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1gold.png"group-title="German TV":http-user-agent="",SAT.1 Gold
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-de&stream_type=LIVE&fav_type=&title=%5BB%5DSAT.1+GOLD%5B%2FB%5D+-+Navy+CIS%3A+New+Orleans&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22sat1gold-de%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="Comedy Central"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/comedycentral.png"group-title="German TV":http-user-agent="",Comedy Central
@@ -101,8 +103,6 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tagesschau24-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DTagesschau+24+HD%5B%2FB%5D+-+NDR+Story&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22tagesschau24-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"group-title="German TV":http-user-agent="",Phoenix
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=phoenix-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DPhoenix+HD%5B%2FB%5D+-+Ein+Leben+in+zehn+Fotos&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22phoenix-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
-#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"group-title="German TV":http-user-agent="",ZDFneo
-plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=zdfneo-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DZDF+neo+HD%5B%2FB%5D+-+Aktenzeichen+XY...+ungel%C3%B6st&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22zdfneo-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/arte.png"group-title="German TV":http-user-agent="",Arte
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=arte-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DArte+HD%5B%2FB%5D+-+Look+Me+Over+-+Liberace&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22arte-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png"group-title="German TV":http-user-agent="",3 Sat
@@ -218,7 +218,7 @@ plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-name=""tvg-id="Sky One"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skyone.png"group-title="VPN-SW":http-user-agent="",Sky One
 plugin://plugin.video.vavooto/?name=SKY+ONE
 #EXTINF:-1 tvg-name=""tvg-id="13TH Street"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/13street.png"group-title="VPN-SW":http-user-agent="",13TH Street
-plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=13TH+STREET+HD%2B
+plugin://plugin.video.vavooto/?name=13TH+STREET
 #EXTINF:-1 tvg-name=""tvg-id="AXN White"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/axnwhite.png"group-title="VPN-SW":http-user-agent="",AXN White
 plugin://plugin.video.vavooto/?name=AXN+WHITE
 #EXTINF:-1 tvg-name=""tvg-id="AXN Black"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/axnblack.png"group-title="VPN-SW":http-user-agent="",AXN Black
@@ -255,12 +255,22 @@ plugin://plugin.video.vavooto/?name=GEO+TV
 plugin://plugin.video.vavooto/?name=BERGBLICK
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysportnews.png"group-title="VPN-SW":http-user-agent="",Sky Sport News
 plugin://plugin.video.vavooto/?name=S.+SPORT+NEWS
+#EXTINF:-1 tvg-name=""tvg-id="RTL ZWEE"tvg-logo="png"group-title="VPN-SW":http-user-agent="",RTL ZWEE
+https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event"tvg-logo="png"group-title="VPN-SW":http-user-agent="",RTL+ Sport Event
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+1
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga.png"group-title="VPN-SW":http-user-agent="",Sky Sport Bundesliga
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skyaustria/skyaustria1.png"group-title="VPN-SW":http-user-agent="",Sky Sport Austria 1
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+1+%28MATCH+TIME%29
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skyaustria/skyaustria2.png"group-title="VPN-SW":http-user-agent="",Sky Sport Austria 2
 plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+2+%28MATCH+TIME%29
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skyaustria/skyaustria3.png"group-title="VPN-SW":http-user-agent="",Sky Sport Austria 3
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+3+%28MATCH+TIME%29
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skyaustria/skyaustria4.png"group-title="VPN-SW":http-user-agent="",Sky Sport Austria 4
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+4+%28MATCH+TIME%29
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skyaustria/skyaustria5.png"group-title="VPN-SW":http-user-agent="",Sky Sport Austria 5
+plugin://plugin.video.BauBauVavoo/?action=&group=Germany&name=SKY+SPORT+AUSTRIA+5+%28MATCH+TIME%29
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Premier League"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysportpremier.png"group-title="VPN-SW":http-user-agent="",Sky Sport Premier League
 plugin://plugin.video.vavooto/?name=S.+SPORT+PREMIER+LEAGUE
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Top Event"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysporttopevent.png"group-title="VPN-SW":http-user-agent="",Sky Sport Top Event
@@ -345,29 +355,57 @@ plugin://plugin.video.vavooto/?name=RED+BULL+TV
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 #EXTINF:-1 tvg-name=""tvg-id="Motorvision+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Motorvision%2B.png"group-title="VPN-SW":http-user-agent="",Motorvision+
 plugin://plugin.video.vavooto/?name=MOTORVISION
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Thriller
+plugin://plugin.video.vavooto/?name=BLUETV+THRILLER
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Komödie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Komödie
+plugin://plugin.video.vavooto/?name=BLUETV+KOM+DIE
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Sci-Fi
+plugin://plugin.video.vavooto/?name=BLUETV+SCI-FI
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Action
 plugin://plugin.video.vavooto/?name=BLUETV+ACTION
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Fantasy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Fantasy
 plugin://plugin.video.vavooto/?name=BLUETV+FANTASY
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Horror
-plugin://plugin.video.vavooto/?name=BLUETV+HORROR
 #EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Mystery"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Mystery
 plugin://plugin.video.vavooto/?name=BLUETV+MYSTERY
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Sci-Fi
-plugin://plugin.video.vavooto/?name=BLUETV+SCI-FI
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Komödie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Komödie
-plugin://plugin.video.vavooto/?name=BLUETV+KOM+DIE
-#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Thriller
-plugin://plugin.video.vavooto/?name=BLUETV+THRILLER
-#EXTINF:-1 tvg-name=""tvg-id="Sky Box Fantasy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Fantasy
-plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
-#EXTINF:-1 tvg-name=""tvg-id="Sky Box Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Horror
-plugin://plugin.video.vavooto/?name=SKY+BOX+HORROR
-#EXTINF:-1 tvg-name=""tvg-id="Sky Box Komödie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Komödie
-plugin://plugin.video.vavooto/?name=SKY+BOX+KOMODIE
-#EXTINF:-1 tvg-name=""tvg-id="Sky Box Mystery"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Mystery
-plugin://plugin.video.vavooto/?name=SKY+BOX+MYSTERY
-#EXTINF:-1 tvg-name=""tvg-id="Sky Box Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Sci-Fi
-plugin://plugin.video.vavooto/?name=SKY+BOX+SCI-FI
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bluetv.png"group-title="VPN-SW":http-user-agent="",BlueTV 4K Horror
+plugin://plugin.video.vavooto/?name=BLUETV+HORROR
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Thriller"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Thriller
+plugin://plugin.video.vavooto/?name=BLUETV+THRILLER+1
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Komödie"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Komödie
+plugin://plugin.video.vavooto/?name=BLUETV+KOMODIE+1
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Sci-Fi"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Sci-Fi
+plugin://plugin.video.vavooto/?name=BLUETV+SCIENCE-FICTION
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Action"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Action
+plugin://plugin.video.vavooto/?name=BLUETV+ACTION+2
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Action II"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Action II
+plugin://plugin.video.vavooto/?name=BLUETV+ACTION+3
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Mystery"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Mystery
+plugin://plugin.video.vavooto/?name=BLUETV+MYSTERY+1
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Horror"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Horror
+plugin://plugin.video.vavooto/?name=BLUETV+HORROR+1
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Kriegsfilm"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Kriegsfilm
+plugin://plugin.video.vavooto/?name=BLUETV+KRIEGSFILM
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV History"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV History
+plugin://plugin.video.vavooto/?name=BLUETV+HISTORIE
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Doku"tvg-logo="png"group-title="VPN-SW":http-user-agent="",BlueTV Doku
+plugin://plugin.video.vavooto/?name=BLUETV+DOKUMENTARFILM
 #EXTINF:-1 tvg-name=""tvg-id="Sky Box Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Thriller
 plugin://plugin.video.vavooto/?name=SKY+BOX+THRILLER
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Komödie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Komödie
+plugin://plugin.video.vavooto/?name=SKY+BOX+KOMODIE
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Sci-Fi
+plugin://plugin.video.vavooto/?name=SKY+BOX+SCI-FI
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Action
+plugin://plugin.video.vavooto/?name=SKY+BOX+ACTION
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Fantasy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Fantasy
+plugin://plugin.video.vavooto/?name=SKY+BOX+FANTASY
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Mystery"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Mystery
+plugin://plugin.video.vavooto/?name=SKY+BOX+MYSTERY
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Horror
+plugin://plugin.video.vavooto/?name=SKY+BOX+HORROR
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Kriegsfilm"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Kriegsfilm
+plugin://plugin.video.vavooto/?name=SKY+BOX+KRIEGSFILM
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box History"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box HISTORY
+plugin://plugin.video.vavooto/?name=SKY+BOX+HISTORIE
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="VPN-SW":http-user-agent="",Sky Box Doku
+plugin://plugin.video.vavooto/?name=SKY+BOX+DOCU
