@@ -213,10 +213,6 @@ plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8 
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport News"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysportnews.png"group-title="Sport":http-user-agent="",Sky Sport News
 plugin://plugin.video.vavooto/?name=S.+SPORT+NEWS
-#EXTINF:-1 tvg-name=""tvg-id="RTL ZWEE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/rtlzwee.png"group-title="Sport":http-user-agent="",RTL ZWEE
-https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTL%2B.png"group-title="Sport":http-user-agent="",RTL+ Sport Event
-plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+1
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skyaustria/skyaustria1.png"group-title="Sport":http-user-agent="",Sky Sport Austria 1
@@ -265,6 +261,26 @@ plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+7
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+8
 #EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 9"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga9.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga 9
 plugin://plugin.video.vavooto/?action=live&group=Germany&name=DB+LIGA+9
+#EXTINF:-1 tvg-name=""tvg-id="RTL ZWEE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/rtlzwee.png"group-title="Sport":http-user-agent="",RTL ZWEE
+https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="Sport":http-user-agent="",RTL+ Sport Event 1
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+1
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="Sport":http-user-agent="",RTL+ Sport Event 2
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+2
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="Sport":http-user-agent="",RTL+ Sport Event 3
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+3
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="Sport":http-user-agent="",RTL+ Sport Event 4
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+4
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="Sport":http-user-agent="",RTL+ Sport Event 5
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+5
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 6"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="Sport":http-user-agent="",RTL+ Sport Event 6
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+6
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 7"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="Sport":http-user-agent="",RTL+ Sport Event 7
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+7
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="Sport":http-user-agent="",RTL+ Sport Event 8
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+8
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 9"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="Sport":http-user-agent="",RTL+ Sport Event 9
+plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+9
 #EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 1
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
 #EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="Sport":http-user-agent="",Magenta Sport 2
