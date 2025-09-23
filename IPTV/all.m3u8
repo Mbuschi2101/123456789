@@ -215,7 +215,7 @@ https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 plugin://plugin.video.vavooto/?name=S.+SPORT+NEWS
 #EXTINF:-1 tvg-name=""tvg-id="RTL ZWEE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/rtlzwee.png"group-title="Sport":http-user-agent="",RTL ZWEE
 https://stream.rtl.lu/data/live/tele/channel2/1080p.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event"tvg-logo="png"group-title="Sport":http-user-agent="",RTL+ Sport Event
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTL%2B.png"group-title="Sport":http-user-agent="",RTL+ Sport Event
 plugin://plugin.video.vavooto/?name=RTL%2B+SPORT+EVENT+1
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga.png"group-title="Sport":http-user-agent="",Sky Sport Bundesliga
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA
