@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:0001 tvg-id="ARD.de" tvg-chno="1" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/ard/13f3e0f0/hd/standard?res=320x180", Das Erste
+http://10.5.0.2:5000/api/wp2/live/ard
+#EXTINF:0001 tvg-id="ZDF.de" tvg-chno="2" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/zdf/74d6f9f9/hd/standard?res=320x180", ZDF
+http://10.5.0.2:5000/api/wp2/live/zdf
+#EXTINF:0001 tvg-id="ZDFneo.de" tvg-chno="3" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/zdfneo/a4169661/hd/standard?res=320x180", ZDFneo
+http://10.5.0.2:5000/api/wp2/live/zdfneo
+#EXTINF:0001 tvg-id="mdr_sachsen" tvg-chno="4" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/mdr_sachsen/5673ac36/hd/standard?res=320x180", MDR Sachsen
+http://10.5.0.2:5000/api/wp2/live/mdr_sachsen
+#EXTINF:0001 tvg-id="ZDFinfo.de" tvg-chno="5" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/zdfinfo/29ff9c38/hd/standard?res=320x180", ZDFinfo
+http://10.5.0.2:5000/api/wp2/live/zdfinfo
+#EXTINF:0001 tvg-id="toptruecrime" tvg-chno="6" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/toptruecrime/39c8b8f3/hd/standard?res=320x180", TOP TRUE CRIME
+http://10.5.0.2:5000/api/wp2/live/toptruecrime
+#EXTINF:0001 tvg-id="wir24" tvg-chno="7" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/wir24/000f6a32/hd/standard?res=320x180", Wir24.tv - Der Haushalts Channel
+http://10.5.0.2:5000/api/wp2/live/wir24
+#EXTINF:0001 tvg-id="craction" tvg-chno="8" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/craction/dfa8a4ba/hd/standard?res=320x180", Top Serien
+http://10.5.0.2:5000/api/wp2/live/craction
+#EXTINF:0001 tvg-id="Kika.de" tvg-chno="9" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/kika/0e71aacc/hd/standard?res=320x180", KiKA
+http://10.5.0.2:5000/api/wp2/live/kika
+#EXTINF:0001 tvg-id="naruto" tvg-chno="10" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/naruto/53390cd8/hd/standard?res=320x180", NARUTO
+http://10.5.0.2:5000/api/wp2/live/naruto
+#EXTINF:0001 tvg-id="daznfast" tvg-chno="11" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/daznfast/ebb43bab/hd/standard?res=320x180", DAZN FAST
+http://10.5.0.2:5000/api/wp2/live/daznfast
+#EXTINF:0001 tvg-id="daznrise" tvg-chno="12" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/daznrise/9a8e5e81/hd/standard?res=320x180", DAZN RISE
+http://10.5.0.2:5000/api/wp2/live/daznrise
+#EXTINF:0001 tvg-id="redbull" tvg-chno="13" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/redbull/8de2b3ab/hd/standard?res=320x180", Red Bull TV
+http://10.5.0.2:5000/api/wp2/live/redbull
+#EXTINF:0001 tvg-id="DeLuxeMusic.de" tvg-chno="14" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/deluxetv/54dbedd1/sd/standard?res=320x180", DELUXE MUSIC
+http://10.5.0.2:5000/api/wp2/live/deluxetv
+#EXTINF:0001 tvg-id="3sat.de" tvg-chno="15" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/3sat/e45376a9/hd/standard?res=320x180", 3sat
+http://10.5.0.2:5000/api/wp2/live/3sat
+#EXTINF:0001 tvg-id="ARD-alpha.de" tvg-chno="16" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/bralpha/8be63fda/hd/standard?res=320x180", ARD-alpha
+http://10.5.0.2:5000/api/wp2/live/bralpha
+#EXTINF:0001 tvg-id="cnn_europe" tvg-chno="17" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/cnn_europe/ebc3f3d6/hd/standard?res=320x180", CNN Europe
+http://10.5.0.2:5000/api/wp2/live/cnn_europe
+#EXTINF:0001 tvg-id="bbc_world_news_europe" tvg-chno="18" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/bbc_world_news_europe/b22b554c/hd/standard?res=320x180", BBC News
+http://10.5.0.2:5000/api/wp2/live/bbc_world_news_europe
+#EXTINF:0001 tvg-id="euronews" tvg-chno="19" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/euronews/c0df2910/hd/standard?res=320x180", euronews
+http://10.5.0.2:5000/api/wp2/live/euronews
+#EXTINF:0001 tvg-id="WDR.de" tvg-chno="20" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/wdr_koeln/69284d63/hd/standard?res=320x180", WDR Köln
+http://10.5.0.2:5000/api/wp2/live/wdr_koeln
+#EXTINF:0001 tvg-id="ndr.de" tvg-chno="21" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/n3_hamburg/e34b584d/hd/standard?res=320x180", NDR Hamburg
+http://10.5.0.2:5000/api/wp2/live/n3_hamburg
+#EXTINF:0001 tvg-id="n3_bremen" tvg-chno="22" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/n3_bremen/69e82cf5/hd/standard?res=320x180", Radio Bremen
+http://10.5.0.2:5000/api/wp2/live/n3_bremen
+#EXTINF:0001 tvg-id="rbb_berlin" tvg-chno="23" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/rbb_berlin/5c726bd5/hd/standard?res=320x180", RBB Berlin
+http://10.5.0.2:5000/api/wp2/live/rbb_berlin
+#EXTINF:0001 tvg-id="swr_bw" tvg-chno="24" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/swr_bw/ac9e7bc5/hd/standard?res=320x180", SWR Baden-Württemberg
+http://10.5.0.2:5000/api/wp2/live/swr_bw
+#EXTINF:0001 tvg-id="brsued" tvg-chno="25" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/brsued/4c497ecc/hd/standard?res=320x180", BR Süd
+http://10.5.0.2:5000/api/wp2/live/brsued
+#EXTINF:0001 tvg-id="hr" tvg-chno="26" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/hr/f449d093/hd/standard?res=320x180", hr-fernsehen
+http://10.5.0.2:5000/api/wp2/live/hr
+#EXTINF:0001 tvg-id="sr" tvg-chno="27" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/sr/fe7000e1/hd/standard?res=320x180", SR
+http://10.5.0.2:5000/api/wp2/live/sr
+#EXTINF:0001 tvg-id="rot" tvg-chno="28" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/rot/da690d93/hd/standard?res=320x180", Rocket Beans TV
+http://10.5.0.2:5000/api/wp2/live/rot
+#EXTINF:0001 tvg-id="handystar" tvg-chno="29" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/handystar/3f5dafa9/hd/standard?res=320x180", Handystar.tv
+http://10.5.0.2:5000/api/wp2/live/handystar
+#EXTINF:0001 tvg-id="topscifi" tvg-chno="30" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/topscifi/f5154f31/hd/standard?res=320x180", TOP SCI-FI
+http://10.5.0.2:5000/api/wp2/live/topscifi
+#EXTINF:0001 tvg-id="topfilme" tvg-chno="31" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/topfilme/b5a9d79b/hd/standard?res=320x180", Top Filme
+http://10.5.0.2:5000/api/wp2/live/topfilme
+#EXTINF:0001 tvg-id="dokusat" tvg-chno="32" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/dokusat/f35e6a7e/hd/standard?res=320x180", DOKUSAT
+http://10.5.0.2:5000/api/wp2/live/dokusat
+#EXTINF:0001 tvg-id="landlust" tvg-chno="33" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/landlust/0ac19159/hd/standard?res=320x180", Landlust TV
+http://10.5.0.2:5000/api/wp2/live/landlust
+#EXTINF:0001 tvg-id="travelxp" tvg-chno="34" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/travelxp/f1a47c5d/hd/standard?res=320x180", travelxp
+http://10.5.0.2:5000/api/wp2/live/travelxp
+#EXTINF:0001 tvg-id="df1" tvg-chno="35" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/df1/a27f7ee2/hd/standard?res=320x180", DF1
+http://10.5.0.2:5000/api/wp2/live/df1
+#EXTINF:0001 tvg-id="tennischannel" tvg-chno="36" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/tennischannel/1473199a/hd/standard?res=320x180", Tennis Channel
+http://10.5.0.2:5000/api/wp2/live/tennischannel
+#EXTINF:0001 tvg-id="wedosports" tvg-chno="37" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/wedosports/32cf468f/hd/standard?res=320x180", wedo sports
+http://10.5.0.2:5000/api/wp2/live/wedosports
+#EXTINF:0001 tvg-id="ewtn" tvg-chno="38" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/ewtn/c7e63c27/hd/standard?res=320x180", EWTN katholisches TV
+http://10.5.0.2:5000/api/wp2/live/ewtn
+#EXTINF:0001 tvg-id="KTV.de" tvg-chno="39" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/ktv/88b6fbac/hd/standard?res=320x180", K-TV
+http://10.5.0.2:5000/api/wp2/live/ktv
+#EXTINF:0001 tvg-id="hopetv" tvg-chno="40" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/hopetv/95e03b6f/hd/standard?res=320x180", Hope TV
+http://10.5.0.2:5000/api/wp2/live/hopetv
+#EXTINF:0001 tvg-id="nhk" tvg-chno="41" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/nhk/b7911b86/hd/standard?res=320x180", NHK WORLD-JAPAN
+http://10.5.0.2:5000/api/wp2/live/nhk
+#EXTINF:0001 tvg-id="channel21" tvg-chno="42" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/channel21/06091429/hd/standard?res=320x180", Channel21
+http://10.5.0.2:5000/api/wp2/live/channel21
+#EXTINF:0001 tvg-id="sonnenklar" tvg-chno="43" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/sonnenklar/51f29f1b/hd/standard?res=320x180", sonnenklar.TV
+http://10.5.0.2:5000/api/wp2/live/sonnenklar
+#EXTINF:0001 tvg-id="musicboxclassic" tvg-chno="44" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/musicboxclassic/c791e93b/hd/standard?res=320x180", Music Box Classic
+http://10.5.0.2:5000/api/wp2/live/musicboxclassic
+#EXTINF:0001 tvg-id="xitehits" tvg-chno="45" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/xitehits/4d7225c2/hd/standard?res=320x180", XITE Hits
+http://10.5.0.2:5000/api/wp2/live/xitehits
+#EXTINF:0001 tvg-id="quello" tvg-chno="46" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/quello/aaaf9bd4/hd/standard?res=320x180", Qello Concerts by Stingray
+http://10.5.0.2:5000/api/wp2/live/quello
+#EXTINF:0001 tvg-id="deluxedance" tvg-chno="47" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/deluxedance/117dfd7a/hd/standard?res=320x180", DELUXE DANCE by Kontor
+http://10.5.0.2:5000/api/wp2/live/deluxedance
+#EXTINF:0001 tvg-id="xiterb" tvg-chno="48" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/xiterb/e562e66b/hd/standard?res=320x180", xite R&B Classic Jams
+http://10.5.0.2:5000/api/wp2/live/xiterb
+#EXTINF:0001 tvg-id="deluxerap" tvg-chno="49" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/deluxerap/59151c8b/hd/standard?res=320x180", DELUXE RAP
+http://10.5.0.2:5000/api/wp2/live/deluxerap
+#EXTINF:0001 tvg-id="moviemusic" tvg-chno="50" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/moviemusic/b0802829/hd/standard?res=320x180", Movie Music by Stingray
+http://10.5.0.2:5000/api/wp2/live/moviemusic
+#EXTINF:0001 tvg-id="stingrayclassica" tvg-chno="51" group-title="Live TV" tvg-logo="https://images.wpstr.tv/station/stingrayclassica/1c9f1c70/hd/standard?res=320x180", Stingray Classica
+http://10.5.0.2:5000/api/wp2/live/stingrayclassica
