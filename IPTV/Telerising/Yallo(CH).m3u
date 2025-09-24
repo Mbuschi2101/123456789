@@ -11,6 +11,8 @@ http://192.168.178.103:5000/api/y3o/live/tv24.m3u8
 http://192.168.178.103:5000/api/y3o/live/prosieben.m3u8
 #EXTINF:0001 tvg-id="RTL.ch" tvg-chno="6" group-title="German" tvg-logo="https://channel.images.production.web.w4a.tv/dark/rtl.png", RTL CH
 http://192.168.178.103:5000/api/y3o/live/rtl.m3u8
+#EXTINF:0001 tvg-id="RTL.ch" tvg-chno="6" group-title="German" tvg-logo="https://channel.images.production.web.w4a.tv/dark/rtl.png", RTL test
+http://192.168.178.103:5000//api/y3o/live/rtl.mpd?platform=dash
 #EXTINF:0001 tvg-id="rtl-2" tvg-chno="7" group-title="German" tvg-logo="https://channel.images.production.web.w4a.tv/dark/rtl-2.png", RTL zwei
 http://192.168.178.103:5000/api/y3o/live/rtl-2.m3u8
 #EXTINF:0001 tvg-id="4plus.ch" tvg-chno="8" group-title="German" tvg-logo="https://channel.images.production.web.w4a.tv/dark/4plus.png", 4+
