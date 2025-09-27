@@ -121,6 +121,70 @@ plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_i
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=rbb-brandenburg-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DRBB+Brandenburg+HD%5B%2FB%5D+-+Die+Kinder+von+Golzow&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22rbb-brandenburg-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
 #EXTINF:-1 tvg-name=""tvg-id="WDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/wdr.png"group-title="German TV":http-user-agent="",WDR
 plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=wdr-bonn-de-hd&stream_type=LIVE&fav_type=&title=%5BB%5DWDR+Bonn+HD%5B%2FB%5D+-+2+f%C3%BCr+300&client_data=%7B%22genre%22%3A+%5B%5D%2C+%22startTime%22%3A+0%2C+%22videoId%22%3A+null%2C+%22npa%22%3A+false%2C+%22channelId%22%3A+%22wdr-bonn-de-hd%22%2C+%22brand%22%3A+%22%22%7D&compilation_id=&viewtype=&path=
+#EXTINF:-1 tvg-name=""tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png"group-title="VPN-SW":http-user-agent="",Das Erste
+plugin://plugin.video.zattoo_com/?mode=watch&id=ard&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png"group-title="VPN-SW":http-user-agent="",ZDF
+plugin://plugin.video.zattoo_com/?mode=watch&id=zdf&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png"group-title="VPN-SW":http-user-agent="",RTL
+plugin://plugin.video.zattoo_com/?mode=watch&id=rtl&level=sd&drm=True
+#EXTINF:-1 tvg-name=""tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1.png"group-title="VPN-SW":http-user-agent="",SAT.1
+plugin://plugin.video.zattoo_com/?mode=watch&id=sat1&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="RTL II"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl2.png"group-title="VPN-SW":http-user-agent="",RTL II
+plugin://plugin.video.zattoo_com/?mode=watch&id=rtl-2&level=sd&drm=True
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"group-title="VPN-SW":http-user-agent="",Pro Sieben
+plugin://plugin.video.zattoo_com/?mode=watch&id=prosieben&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="VOX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/vox.png"group-title="VPN-SW":http-user-agent="",VOX
+plugin://plugin.video.zattoo_com/?mode=watch&id=vox&level=sd&drm=True
+#EXTINF:-1 tvg-name=""tvg-id="KABEL 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"group-title="VPN-SW":http-user-agent="",Kabel eins
+plugin://plugin.video.zattoo_com/?mode=watch&id=kabel-eins&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="RTL Nitro"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/nitro.png"group-title="VPN-SW":http-user-agent="",RTL Nitro
+plugin://plugin.video.zattoo_com/?mode=watch&id=rtlnitro&level=sd&drm=True
+#EXTINF:-1 tvg-name=""tvg-id="SIXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sixx.png"group-title="German TV":http-user-agent="",SIXX
+plugin://plugin.video.zattoo_com/?mode=watch&id=de_sixx&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"group-title="Joyn (ohne VPN)":http-user-agent="",ZDFneo
+plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/one.png"group-title="VPN-SW":http-user-agent="",ONE
+plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="Super RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/superrtl.png"group-title="VPN-SW":http-user-agent="",Super RTL
+plugin://plugin.video.zattoo_com/?mode=watch&id=super-rtl&level=sd&drm=True
+#EXTINF:-1 tvg-name=""tvg-id="SAT.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1gold.png"group-title="VPN-SW":http-user-agent="",SAT.1 Gold
+plugin://plugin.video.zattoo_com/?mode=watch&id=sat1_gold_ch&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="VOXup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/voxup.png"group-title="VPN-SW":http-user-agent="",VOXup
+plugin://plugin.video.zattoo_com/?mode=watch&id=vox_up_de&level=sd&drm=True
+#EXTINF:-1 tvg-name=""tvg-id="RTLup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtlup.png"group-title="VPN-SW":http-user-agent="",RTLup
+plugin://plugin.video.zattoo_com/?mode=watch&id=rtl_plus&level=sd&drm=True
+#EXTINF:-1 tvg-name=""tvg-id="Tele 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tele5.png"group-title="VPN-SW":http-user-agent="",Tele 5
+plugin://plugin.video.zattoo_com/?mode=watch&id=tele-5&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7maxx.png"group-title="Joyn (ohne VPN)":http-user-agent="",Pro Sieben MAXX
+plugin://plugin.video.zattoo_com/?mode=watch&id=pro7maxx_ch&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfinfo.png"group-title="Joyn (ohne VPN)":http-user-agent="",ZDFinfo
+plugin://plugin.video.zattoo_com/?mode=watch&id=zdf-info&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1doku.png"group-title="VPN-SW":http-user-agent="",Kabel eins Doku
+plugin://plugin.video.zattoo_com/?mode=watch&id=kabel1_doku&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="DMAX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dmax.png"group-title="VPN-SW":http-user-agent="",DMAX
+plugin://plugin.video.zattoo_com/?mode=watch&id=dmax&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="TLC"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tlc.png"group-title="VPN-SW":http-user-agent="",TLC
+plugin://plugin.video.zattoo_com/?mode=watch&id=tlc&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dokusat.png"group-title="VPN-SW":http-user-agent="",DokuSat
+plugin://plugin.video.zattoo_com/?mode=watch&id=dokusat_de&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/arte.png"group-title="VPN-SW":http-user-agent="",Arte
+plugin://plugin.video.zattoo_com/?mode=watch&id=DE_arte&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="3Sat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png"group-title="VPN-SW":http-user-agent="",3 Sat
+plugin://plugin.video.zattoo_com/?mode=watch&id=3sat&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"group-title="VPN-SW":http-user-agent="",Phoenix
+plugin://plugin.video.zattoo_com/?mode=watch&id=phoenix&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="Tagesschau 24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/tagesschau.png"group-title="VPN-SW":http-user-agent="",Tagesschau 24
+plugin://plugin.video.zattoo_com/?mode=watch&id=einsextra&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="ARD-alpha"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"group-title="TV-VPN-SW":http-user-agent="",ARD-alpha
+plugin://plugin.video.zattoo_com/?mode=watch&id=br-alpha&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="ORF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf1.png"group-title="VPN-SW":http-user-agent="",ORF 1
+plugin://plugin.video.zattoo_com/?mode=watch&id=orf-1&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="ORF2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf2.png"group-title="VPN-SW":http-user-agent="",ORF 2
+plugin://plugin.video.zattoo_com/?mode=watch&id=orf-2&level=sd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="ORFIII"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf3.png"group-title="VPN-SW":http-user-agent="",ORF 3
+plugin://plugin.video.zattoo_com/?mode=watch&id=orf3&level=hd&drm=False
+#EXTINF:-1 tvg-name=""tvg-id="ORF Sport+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orfsport.png"group-title="VPN-SW":http-user-agent="",ORF Sport+
+plugin://plugin.video.zattoo_com/?mode=watch&id=orf3&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="SRFInfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srfinfo.png"group-title="VPN-SW":http-user-agent="",SRFinfo
 plugin://plugin.video.zattoo_com/?mode=watch&id=sf-info&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="SRF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf1.png"group-title="VPN-SW":http-user-agent="",SRF 1
