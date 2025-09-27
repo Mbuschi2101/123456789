@@ -139,9 +139,9 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=vox&level=sd&drm=True
 plugin://plugin.video.zattoo_com/?mode=watch&id=kabel-eins&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="RTL Nitro"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/nitro.png"group-title="VPN-SW":http-user-agent="",RTL Nitro
 plugin://plugin.video.zattoo_com/?mode=watch&id=rtlnitro&level=sd&drm=True
-#EXTINF:-1 tvg-name=""tvg-id="SIXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sixx.png"group-title="German TV":http-user-agent="",SIXX
+#EXTINF:-1 tvg-name=""tvg-id="SIXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sixx.png"group-title="VPN-SW":http-user-agent="",SIXX
 plugin://plugin.video.zattoo_com/?mode=watch&id=de_sixx&level=sd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"group-title="Joyn (ohne VPN)":http-user-agent="",ZDFneo
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"group-title="VPN-SW":http-user-agent="",ZDFneo
 plugin://plugin.video.zattoo_com/?mode=watch&id=zdfneo&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/one.png"group-title="VPN-SW":http-user-agent="",ONE
 plugin://plugin.video.zattoo_com/?mode=watch&id=einsfestival&level=hd&drm=False
@@ -155,9 +155,9 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=vox_up_de&level=sd&drm=True
 plugin://plugin.video.zattoo_com/?mode=watch&id=rtl_plus&level=sd&drm=True
 #EXTINF:-1 tvg-name=""tvg-id="Tele 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tele5.png"group-title="VPN-SW":http-user-agent="",Tele 5
 plugin://plugin.video.zattoo_com/?mode=watch&id=tele-5&level=sd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7maxx.png"group-title="Joyn (ohne VPN)":http-user-agent="",Pro Sieben MAXX
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7maxx.png"group-title="VPN-SW":http-user-agent="",Pro Sieben MAXX
 plugin://plugin.video.zattoo_com/?mode=watch&id=pro7maxx_ch&level=sd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfinfo.png"group-title="Joyn (ohne VPN)":http-user-agent="",ZDFinfo
+#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfinfo.png"group-title="VPN-SW":http-user-agent="",ZDFinfo
 plugin://plugin.video.zattoo_com/?mode=watch&id=zdf-info&level=sd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1doku.png"group-title="VPN-SW":http-user-agent="",Kabel eins Doku
 plugin://plugin.video.zattoo_com/?mode=watch&id=kabel1_doku&level=sd&drm=False
@@ -175,7 +175,7 @@ plugin://plugin.video.zattoo_com/?mode=watch&id=3sat&level=sd&drm=False
 plugin://plugin.video.zattoo_com/?mode=watch&id=phoenix&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="Tagesschau 24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/tagesschau.png"group-title="VPN-SW":http-user-agent="",Tagesschau 24
 plugin://plugin.video.zattoo_com/?mode=watch&id=einsextra&level=hd&drm=False
-#EXTINF:-1 tvg-name=""tvg-id="ARD-alpha"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"group-title="TV-VPN-SW":http-user-agent="",ARD-alpha
+#EXTINF:-1 tvg-name=""tvg-id="ARD-alpha"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"group-title="VPN-SW":http-user-agent="",ARD-alpha
 plugin://plugin.video.zattoo_com/?mode=watch&id=br-alpha&level=hd&drm=False
 #EXTINF:-1 tvg-name=""tvg-id="ORF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf1.png"group-title="VPN-SW":http-user-agent="",ORF 1
 plugin://plugin.video.zattoo_com/?mode=watch&id=orf-1&level=sd&drm=False
@@ -340,11 +340,7 @@ plugin://plugin.video.vavooto/?name=S.+SPORT+MIX
 #EXTINF:-1 tvg-name=""tvg-id="Sky Sport F1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysportf1.png"group-title="VPN-SW":http-user-agent="",Sky Sport F1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+F1
 #EXTINF:-1 tvg-name=""tvg-id="DAZN 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn1.png"group-title="VPN-SW":http-user-agent="",DAZN 1
-#plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-426.php
-#EXTINF:-1 tvg-name=""tvg-id="DAZN 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn1.png"group-title="VPN-SW":http-user-agent="",DAZN 1
 plugin://plugin.video.vavooto/?name=DAZN+1
-#EXTINF:-1 tvg-name=""tvg-id="DAZN 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn2.png"group-title="VPN-SW":http-user-agent="",DAZN 2
-#plugin://plugin.video.daddylive/?mode=play&url=https%3A%2F%2Fdaddylivestream.com%2Fstream%2Fstream-427.php
 #EXTINF:-1 tvg-name=""tvg-id="DAZN 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn2.png"group-title="VPN-SW":http-user-agent="",DAZN 2
 plugin://plugin.video.vavooto/?name=DAZN+2
 #EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga1.png"group-title="VPN-SW":http-user-agent="",Sky Sport Bundesliga 1
