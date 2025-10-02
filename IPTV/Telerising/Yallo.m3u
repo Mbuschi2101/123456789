@@ -60,7 +60,7 @@ http://192.168.178.103:5000/api/y3o/live/tlc.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Schweiz",WELT
 http://192.168.178.103:5000/api/y3o/live/n24.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Schweiz",N-TV
-http://192.168.178.103:5000/api/y3o/live/n-tv.mpd
+http://192.168.178.103:5000/api/y3o/live/ntv_de.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Schweiz",Kabel 1 Doku
 http://192.168.178.103:5000/api/y3o/live/kabel1_doku.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="Schweiz",N24 Doku
