@@ -53,11 +53,9 @@ http://192.168.178.37:5000/api/tby/live/351.mpd
 http://192.168.178.37:5000/api/tby/live/348.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/6%2B.png"tvg-chno=""group-title="German",6+
 http://192.168.178.37:5000/api/tby/live/390.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",7+
-http://192.168.178.37:5000/api/tby/live/182.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/s1.png"tvg-chno=""group-title="German",S1
 http://192.168.178.37:5000/api/tby/live/323.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SWISS1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/swiss1.png"tvg-chno=""group-title="German",SWISS1
 http://192.168.178.37:5000/api/tby/live/341.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7maxx.png"tvg-chno=""group-title="German",ProSieben Maxx
 http://192.168.178.37:5000/api/tby/live/317.mpd
@@ -75,7 +73,7 @@ http://192.168.178.37:5000/api/tby/live/465.mpd
 http://192.168.178.37:5000/api/tby/live/363.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dmax.png"tvg-chno=""group-title="German",DMAX
 http://192.168.178.37:5000/api/tby/live/154.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Welt der Wunder TV
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/www.png"tvg-chno=""group-title="German",Welt der Wunder TV
 http://192.168.178.37:5000/api/tby/live/511.mpd
 #EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv24.hdpng.png"tvg-chno=""group-title="German",TV24
 http://192.168.178.37:5000/api/tby/live/326.mpd
@@ -83,31 +81,31 @@ http://192.168.178.37:5000/api/tby/live/326.mpd
 http://192.168.178.37:5000/api/tby/live/364.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Star TV
 http://192.168.178.37:5000/api/tby/live/19.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",wedo movies
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/wedomovies.png"tvg-chno=""group-title="German",wedo movies
 http://192.168.178.37:5000/api/tby/live/593.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Swiss Sport TV
 http://192.168.178.37:5000/api/tby/live/594.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",World of Freesports
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/WorldofFreesports.png"tvg-chno=""group-title="German",World of Freesports
 http://192.168.178.37:5000/api/tby/live/595.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Filmgold
 http://192.168.178.37:5000/api/tby/live/598.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Wedo Big Stories
 http://192.168.178.37:5000/api/tby/live/609.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Top Serien
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"tvg-chno=""group-title="German",Top Serien
 http://192.168.178.37:5000/api/tby/live/610.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Naruto
 http://192.168.178.37:5000/api/tby/live/611.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Top True Crime
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/toptruecrime.png"tvg-chno=""group-title="German",Top True Crime
 http://192.168.178.37:5000/api/tby/live/612.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Top Filme
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TOPFILME.png"tvg-chno=""group-title="German",Top Filme
 http://192.168.178.37:5000/api/tby/live/613.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",DF1
 http://192.168.178.37:5000/api/tby/live/614.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Curiosity Now
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/curiositynow.png"tvg-chno=""group-title="German",Curiosity Now
 http://192.168.178.37:5000/api/tby/live/615.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SPIEGEL TV Konflikt
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Spiegeltvkonflikte.png"tvg-chno=""group-title="German",SPIEGEL TV Konflikt
 http://192.168.178.37:5000/api/tby/live/618.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Terra Mater Wild
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Terramater.png"tvg-chno=""group-title="German",Terra Mater Wild
 http://192.168.178.37:5000/api/tby/live/620.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Disney Channel
 http://192.168.178.37:5000/api/tby/live/145.mpd
@@ -121,9 +119,9 @@ http://192.168.178.37:5000/api/tby/live/505.mpd
 http://192.168.178.37:5000/api/tby/live/379.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Arte de
 http://192.168.178.37:5000/api/tby/live/310.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",3sat
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png"tvg-chno=""group-title="German",3sat
 http://192.168.178.37:5000/api/tby/live/311.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ARD-alpha
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"tvg-chno=""group-title="German",ARD-alpha
 http://192.168.178.37:5000/api/tby/live/40.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Home & Garden
 http://192.168.178.37:5000/api/tby/live/522.mpd
@@ -157,7 +155,7 @@ http://192.168.178.37:5000/api/tby/live/21.mpd
 http://192.168.178.37:5000/api/tby/live/72.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TV Oberwallis
 http://192.168.178.37:5000/api/tby/live/531.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",auftanken.tv
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/auftankentv.png"tvg-chno=""group-title="German",auftanken.tv
 http://192.168.178.37:5000/api/tby/live/558.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Schaffhauser Fernsehen
 http://192.168.178.37:5000/api/tby/live/559.mpd
@@ -165,27 +163,27 @@ http://192.168.178.37:5000/api/tby/live/559.mpd
 http://192.168.178.37:5000/api/tby/live/560.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TeleBielingue
 http://192.168.178.37:5000/api/tby/live/298.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",BR Fernsehen Süd
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/br.png"tvg-chno=""group-title="German",BR Fernsehen Süd
 http://192.168.178.37:5000/api/tby/live/336.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",hr-fernsehen
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/hr.png"tvg-chno=""group-title="German",hr-fernsehen
 http://192.168.178.37:5000/api/tby/live/444.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",MDR Sachsen
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/mdr.png"tvg-chno=""group-title="German",MDR Sachsen
 http://192.168.178.37:5000/api/tby/live/31.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",1 FL TV
 http://192.168.178.37:5000/api/tby/live/524.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",NDR Fernsehen
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ndr.png"tvg-chno=""group-title="German",NDR Fernsehen
 http://192.168.178.37:5000/api/tby/live/337.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Radio Bremen TV
 http://192.168.178.37:5000/api/tby/live/476.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",rbb Berlin
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/rbb.png"tvg-chno=""group-title="German",rbb Berlin
 http://192.168.178.37:5000/api/tby/live/486.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SR Fernsehen
 http://192.168.178.37:5000/api/tby/live/501.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SWR Fernsehen BW
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/swr.png"tvg-chno=""group-title="German",SWR Fernsehen BW
 http://192.168.178.37:5000/api/tby/live/345.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",tagesschau24
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/tagesschau.png"tvg-chno=""group-title="German",tagesschau24
 http://192.168.178.37:5000/api/tby/live/503.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",WDR Fernsehen
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/wdr.png"tvg-chno=""group-title="German",WDR Fernsehen
 http://192.168.178.37:5000/api/tby/live/338.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",R9 Österreich
 http://192.168.178.37:5000/api/tby/live/475.mpd
@@ -197,7 +195,7 @@ http://192.168.178.37:5000/api/tby/live/389.mpd
 http://192.168.178.37:5000/api/tby/live/35.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Rocket Beans TV
 http://192.168.178.37:5000/api/tby/live/491.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Sport1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sport1.png"tvg-chno=""group-title="German",Sport1
 http://192.168.178.37:5000/api/tby/live/36.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",More Than Sports TV
 http://192.168.178.37:5000/api/tby/live/432.mpd
@@ -219,5 +217,5 @@ http://192.168.178.37:5000/api/tby/live/454.mpd
 http://192.168.178.37:5000/api/tby/live/177.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Deutsches Musik Fernsehen
 http://192.168.178.37:5000/api/tby/live/429.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Phoenix
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"tvg-chno=""group-title="German",Phoenix
 http://192.168.178.37:5000/api/tby/live/328.mpd
