@@ -1,633 +1,227 @@
-#EXTM3U
-#EXTINF:0001 tvg-id="SRF1.ch" tvg-chno="1" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/303/icon320_dark.png", SRF 1
+﻿#EXTM3U
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SRF 1
 http://192.168.178.37:5000/api/tby/live/303.mpd
-#EXTINF:0001 tvg-id="SRF2.ch" tvg-chno="2" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/304/icon320_dark.png", SRF zwei
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SRF 2
 http://192.168.178.37:5000/api/tby/live/304.mpd
-#EXTINF:0001 tvg-id="3plus.ch" tvg-chno="3" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/350/icon320_dark.png", 3+
-http://192.168.178.37:5000/api/tby/live/350.mpd
-#EXTINF:0001 tvg-id="SRFinfo.ch" tvg-chno="4" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/5/icon320_dark.png", SRF info
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SRF info
 http://192.168.178.37:5000/api/tby/live/5.mpd
-#EXTINF:0001 tvg-id="ARD.de" tvg-chno="5" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/309/icon320_dark.png", Das Erste
-http://192.168.178.37:5000/api/tby/live/309.mpd
-#EXTINF:0001 tvg-id="ZDF.de" tvg-chno="6" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/306/icon320_dark.png", ZDF
-http://192.168.178.37:5000/api/tby/live/306.mpd
-#EXTINF:0001 tvg-id="RTL.ch" tvg-chno="7" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/356/icon320_dark.png", RTL
-http://192.168.178.37:5000/api/tby/live/356.mpd
-#EXTINF:0001 tvg-id="Pro7.ch" tvg-chno="8" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/354/icon320_dark.png", ProSieben Schweiz
-http://192.168.178.37:5000/api/tby/live/354.mpd
-#EXTINF:0001 tvg-id="Sat1.ch" tvg-chno="9" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/360/icon320_dark.png", Sat.1
-http://192.168.178.37:5000/api/tby/live/360.mpd
-#EXTINF:0001 tvg-id="TV24.ch" tvg-chno="10" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/326/icon320_dark.png", TV24
-http://192.168.178.37:5000/api/tby/live/326.mpd
-#EXTINF:0001 tvg-id="TV25.ch" tvg-chno="11" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/364/icon320_dark.png", TV25
-http://192.168.178.37:5000/api/tby/live/364.mpd
-#EXTINF:0001 tvg-id="RTL2.ch" tvg-chno="12" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/357/icon320_dark.png", RTLZWEI
-http://192.168.178.37:5000/api/tby/live/357.mpd
-#EXTINF:0001 tvg-id="Vox.ch" tvg-chno="13" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/352/icon320_dark.png", VOX
-http://192.168.178.37:5000/api/tby/live/352.mpd
-#EXTINF:0001 tvg-id="4plus.ch" tvg-chno="14" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/351/icon320_dark.png", 4+
-http://192.168.178.37:5000/api/tby/live/351.mpd
-#EXTINF:0001 tvg-id="5plus.ch" tvg-chno="15" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/348/icon320_dark.png", 5+
-http://192.168.178.37:5000/api/tby/live/348.mpd
-#EXTINF:0001 tvg-id="6plus.ch" tvg-chno="16" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/390/icon320_dark.png", 6+
-http://192.168.178.37:5000/api/tby/live/390.mpd
-#EXTINF:0001 tvg-id="182" tvg-chno="17" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/182/icon320_dark.png", 7+ / Nick CH
-http://192.168.178.37:5000/api/tby/live/182.mpd
-#EXTINF:0001 tvg-id="S1.ch" tvg-chno="18" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/323/icon320_dark.png", S1
-http://192.168.178.37:5000/api/tby/live/323.mpd
-#EXTINF:0001 tvg-id="Swiss1.ch" tvg-chno="19" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/341/icon320_dark.png", SWISS1
-http://192.168.178.37:5000/api/tby/live/341.mpd
-#EXTINF:0001 tvg-id="StarTV.ch" tvg-chno="20" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/19/icon320_dark.png", Star TV
-http://192.168.178.37:5000/api/tby/live/19.mpd
-#EXTINF:0001 tvg-id="Puls8.ch" tvg-chno="21" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/362/icon320_dark.png", Puls 8
-http://192.168.178.37:5000/api/tby/live/362.mpd
-#EXTINF:0001 tvg-id="ORF1.at" tvg-chno="22" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/307/icon320_dark.png", ORF 1
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ORF 1
 http://192.168.178.37:5000/api/tby/live/307.mpd
-#EXTINF:0001 tvg-id="ORF2.at" tvg-chno="23" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/347/icon320_dark.png", ORF 2
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ORF 2
 http://192.168.178.37:5000/api/tby/live/347.mpd
-#EXTINF:0001 tvg-id="Kabel.ch" tvg-chno="24" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/353/icon320_dark.png", Kabel Eins
-http://192.168.178.37:5000/api/tby/live/353.mpd
-#EXTINF:0001 tvg-id="Sat1Gold.de" tvg-chno="25" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/301/icon320_dark.png", Sat.1 Gold 
-http://192.168.178.37:5000/api/tby/live/301.mpd
-#EXTINF:0001 tvg-id="493" tvg-chno="26" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/493/icon320_dark.png", RTLup
-http://192.168.178.37:5000/api/tby/live/493.mpd
-#EXTINF:0001 tvg-id="Sixx.ch" tvg-chno="27" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/361/icon320_dark.png", sixx
-http://192.168.178.37:5000/api/tby/live/361.mpd
-#EXTINF:0001 tvg-id="VOXup.de" tvg-chno="28" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/518/icon320_dark.png", VOXup
-http://192.168.178.37:5000/api/tby/live/518.mpd
-#EXTINF:0001 tvg-id="RTLNitro.ch" tvg-chno="29" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/358/icon320_dark.png", NITRO
-http://192.168.178.37:5000/api/tby/live/358.mpd
-#EXTINF:0001 tvg-id="TLC.de" tvg-chno="30" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/363/icon320_dark.png", TLC Deutschland
-http://192.168.178.37:5000/api/tby/live/363.mpd
-#EXTINF:0001 tvg-id="SuperRTL.ch" tvg-chno="31" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/359/icon320_dark.png", Super RTL
-http://192.168.178.37:5000/api/tby/live/359.mpd
-#EXTINF:0001 tvg-id="ProSiebenMaxx.ch" tvg-chno="32" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/317/icon320_dark.png", ProSieben Maxx
-http://192.168.178.37:5000/api/tby/live/317.mpd
-#EXTINF:0001 tvg-id="disneychannel.de" tvg-chno="33" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/145/icon320_dark.png", Disney Channel
-http://192.168.178.37:5000/api/tby/live/145.mpd
-#EXTINF:0001 tvg-id="ComedyCentral/VIVA.ch" tvg-chno="34" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/387/icon320_dark.png", Comedy Central
-http://192.168.178.37:5000/api/tby/live/387.mpd
-#EXTINF:0001 tvg-id="Kika.de" tvg-chno="35" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/343/icon320_dark.png", KiKa
-http://192.168.178.37:5000/api/tby/live/343.mpd
-#EXTINF:0001 tvg-id="TOGGOplus.de" tvg-chno="36" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/505/icon320_dark.png", TOGGO plus
-http://192.168.178.37:5000/api/tby/live/505.mpd
-#EXTINF:0001 tvg-id="RiC.de" tvg-chno="37" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/379/icon320_dark.png", RiC
-http://192.168.178.37:5000/api/tby/live/379.mpd
-#EXTINF:0001 tvg-id="KabelEinsDoku.de" tvg-chno="38" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/456/icon320_dark.png", Kabel Eins Doku
-http://192.168.178.37:5000/api/tby/live/456.mpd
-#EXTINF:0001 tvg-id="N24Doku.de" tvg-chno="39" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/465/icon320_dark.png", N24 Doku
-http://192.168.178.37:5000/api/tby/live/465.mpd
-#EXTINF:0001 tvg-id="WeltDerWunder.de" tvg-chno="40" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/511/icon320_dark.png", Welt der Wunder TV
-http://192.168.178.37:5000/api/tby/live/511.mpd
-#EXTINF:0001 tvg-id="ARTE.de" tvg-chno="41" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/310/icon320_dark.png", Arte de
-http://192.168.178.37:5000/api/tby/live/310.mpd
-#EXTINF:0001 tvg-id="3sat.de" tvg-chno="42" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/311/icon320_dark.png", 3sat
-http://192.168.178.37:5000/api/tby/live/311.mpd
-#EXTINF:0001 tvg-id="ZDFinfo.de" tvg-chno="43" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/172/icon320_dark.png", ZDFinfo
-http://192.168.178.37:5000/api/tby/live/172.mpd
-#EXTINF:0001 tvg-id="ARD-alpha.de" tvg-chno="44" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/40/icon320_dark.png", ARD-alpha
-http://192.168.178.37:5000/api/tby/live/40.mpd
-#EXTINF:0001 tvg-id="ZDFneo.de" tvg-chno="45" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/121/icon320_dark.png", ZDFneo
-http://192.168.178.37:5000/api/tby/live/121.mpd
-#EXTINF:0001 tvg-id="One.de" tvg-chno="46" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/470/icon320_dark.png", ARD ONE
-http://192.168.178.37:5000/api/tby/live/470.mpd
-#EXTINF:0001 tvg-id="DMax.ch" tvg-chno="47" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/154/icon320_dark.png", DMAX
-http://192.168.178.37:5000/api/tby/live/154.mpd
-#EXTINF:0001 tvg-id="HGTV.de" tvg-chno="48" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/522/icon320_dark.png", Home & Garden
-http://192.168.178.37:5000/api/tby/live/522.mpd
-#EXTINF:0001 tvg-id="AnixeHD.de" tvg-chno="49" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/175/icon320_dark.png", Anixe
-http://192.168.178.37:5000/api/tby/live/175.mpd
-#EXTINF:0001 tvg-id="547" tvg-chno="50" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/547/icon320_dark.png", Anixe+
-http://192.168.178.37:5000/api/tby/live/547.mpd
-#EXTINF:0001 tvg-id="Tele5.de" tvg-chno="51" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/86/icon320_dark.png", Tele 5
-http://192.168.178.37:5000/api/tby/live/86.mpd
-#EXTINF:0001 tvg-id="ServusHD.de" tvg-chno="52" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/637/icon320_dark.png", ServusTV
-http://192.168.178.37:5000/api/tby/live/637.mpd
-#EXTINF:0001 tvg-id="ntv.ch" tvg-chno="53" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/38/icon320_dark.png", n-tv
-http://192.168.178.37:5000/api/tby/live/38.mpd
-#EXTINF:0001 tvg-id="WELT.de" tvg-chno="54" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/44/icon320_dark.png", WELT
-http://192.168.178.37:5000/api/tby/live/44.mpd
-#EXTINF:0001 tvg-id="phoenix.de" tvg-chno="55" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/328/icon320_dark.png", Phoenix
-http://192.168.178.37:5000/api/tby/live/328.mpd
-#EXTINF:0001 tvg-id="Euronews.nws" tvg-chno="56" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/67/icon320_dark.png", euronews de
-http://192.168.178.37:5000/api/tby/live/67.mpd
-#EXTINF:0001 tvg-id="HelvetiaOne.ch" tvg-chno="57" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/528/icon320_dark.png", Helvetia One TV
-http://192.168.178.37:5000/api/tby/live/528.mpd
-#EXTINF:0001 tvg-id="Kanal9.ch" tvg-chno="58" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/313/icon320_dark.png", Kanal9
-http://192.168.178.37:5000/api/tby/live/313.mpd
-#EXTINF:0001 tvg-id="Tele1.ch" tvg-chno="59" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/84/icon320_dark.png", Tele 1
-http://192.168.178.37:5000/api/tby/live/84.mpd
-#EXTINF:0001 tvg-id="TeleM1.ch" tvg-chno="60" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/20/icon320_dark.png", Tele M1
-http://192.168.178.37:5000/api/tby/live/20.mpd
-#EXTINF:0001 tvg-id="TSO.ch" tvg-chno="61" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/314/icon320_dark.png", Tele Südostschweiz
-http://192.168.178.37:5000/api/tby/live/314.mpd
-#EXTINF:0001 tvg-id="TeleTop.ch" tvg-chno="62" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/274/icon320_dark.png", Tele Top
-http://192.168.178.37:5000/api/tby/live/274.mpd
-#EXTINF:0001 tvg-id="TeleZ.ch" tvg-chno="63" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/519/icon320_dark.png", Tele Z
-http://192.168.178.37:5000/api/tby/live/519.mpd
-#EXTINF:0001 tvg-id="TeleBaern.ch" tvg-chno="64" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/22/icon320_dark.png", TeleBärn
-http://192.168.178.37:5000/api/tby/live/22.mpd
-#EXTINF:0001 tvg-id="TeleBasel.ch" tvg-chno="65" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/21/icon320_dark.png", Telebasel
-http://192.168.178.37:5000/api/tby/live/21.mpd
-#EXTINF:0001 tvg-id="TeleZuri.ch" tvg-chno="66" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/72/icon320_dark.png", TeleZüri
-http://192.168.178.37:5000/api/tby/live/72.mpd
-#EXTINF:0001 tvg-id="531" tvg-chno="67" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/531/icon320_dark.png", TV Oberwallis
-http://192.168.178.37:5000/api/tby/live/531.mpd
-#EXTINF:0001 tvg-id="558" tvg-chno="68" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/558/icon320_dark.png", auftanken.tv
-http://192.168.178.37:5000/api/tby/live/558.mpd
-#EXTINF:0001 tvg-id="559" tvg-chno="69" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/559/icon320_dark.png", Schaffhauser Fernsehen
-http://192.168.178.37:5000/api/tby/live/559.mpd
-#EXTINF:0001 tvg-id="560" tvg-chno="70" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/560/icon320_dark.png", Tele D
-http://192.168.178.37:5000/api/tby/live/560.mpd
-#EXTINF:0001 tvg-id="TeleBielingue.ch" tvg-chno="71" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/298/icon320_dark.png", TeleBielingue
-http://192.168.178.37:5000/api/tby/live/298.mpd
-#EXTINF:0001 tvg-id="BR.de" tvg-chno="72" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/336/icon320_dark.png", BR Fernsehen Süd
-http://192.168.178.37:5000/api/tby/live/336.mpd
-#EXTINF:0001 tvg-id="HR.de" tvg-chno="73" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/444/icon320_dark.png", hr-fernsehen
-http://192.168.178.37:5000/api/tby/live/444.mpd
-#EXTINF:0001 tvg-id="MDRSachsen.de" tvg-chno="74" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/31/icon320_dark.png", MDR Sachsen
-http://192.168.178.37:5000/api/tby/live/31.mpd
-#EXTINF:0001 tvg-id="1FLTV.de" tvg-chno="75" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/524/icon320_dark.png", 1 FL TV
-http://192.168.178.37:5000/api/tby/live/524.mpd
-#EXTINF:0001 tvg-id="ndr.de" tvg-chno="76" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/337/icon320_dark.png", NDR Fernsehen
-http://192.168.178.37:5000/api/tby/live/337.mpd
-#EXTINF:0001 tvg-id="ORF3.at" tvg-chno="77" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/170/icon320_dark.png", ORF 3
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ORF 3
 http://192.168.178.37:5000/api/tby/live/170.mpd
-#EXTINF:0001 tvg-id="RadioBremen.de" tvg-chno="78" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/476/icon320_dark.png", Radio Bremen TV
-http://192.168.178.37:5000/api/tby/live/476.mpd
-#EXTINF:0001 tvg-id="rbbBerlin.de" tvg-chno="79" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/486/icon320_dark.png", rbb Berlin
-http://192.168.178.37:5000/api/tby/live/486.mpd
-#EXTINF:0001 tvg-id="SRFernsehen.de" tvg-chno="80" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/501/icon320_dark.png", SR Fernsehen
-http://192.168.178.37:5000/api/tby/live/501.mpd
-#EXTINF:0001 tvg-id="SWR.de" tvg-chno="81" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/345/icon320_dark.png", SWR Fernsehen BW
-http://192.168.178.37:5000/api/tby/live/345.mpd
-#EXTINF:0001 tvg-id="tagesschau24.de" tvg-chno="82" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/503/icon320_dark.png", tagesschau24
-http://192.168.178.37:5000/api/tby/live/503.mpd
-#EXTINF:0001 tvg-id="WDR.de" tvg-chno="83" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/338/icon320_dark.png", WDR Fernsehen
-http://192.168.178.37:5000/api/tby/live/338.mpd
-#EXTINF:0001 tvg-id="R9Osterreich.at" tvg-chno="84" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/475/icon320_dark.png", R9 Österreich
-http://192.168.178.37:5000/api/tby/live/475.mpd
-#EXTINF:0001 tvg-id="TVO.ch" tvg-chno="85" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/85/icon320_dark.png", TVO - das Ostschweizer Fernsehen
-http://192.168.178.37:5000/api/tby/live/85.mpd
-#EXTINF:0001 tvg-id="389" tvg-chno="86" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/389/icon320_dark.png", blue Zoom de
-http://192.168.178.37:5000/api/tby/live/389.mpd
-#EXTINF:0001 tvg-id="Eurosport1.de" tvg-chno="87" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/35/icon320_dark.png", Eurosport 1 de
-http://192.168.178.37:5000/api/tby/live/35.mpd
-#EXTINF:0001 tvg-id="RocketBeansTV.de" tvg-chno="88" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/491/icon320_dark.png", Rocket Beans TV
-http://192.168.178.37:5000/api/tby/live/491.mpd
-#EXTINF:0001 tvg-id="Sport1HD.de" tvg-chno="89" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/36/icon320_dark.png", Sport1
-http://192.168.178.37:5000/api/tby/live/36.mpd
-#EXTINF:0001 tvg-id="432" tvg-chno="90" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/432/icon320_dark.png", More Than Sports TV
-http://192.168.178.37:5000/api/tby/live/432.mpd
-#EXTINF:0001 tvg-id="HSE24.de" tvg-chno="91" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/445/icon320_dark.png", HSE24
-http://192.168.178.37:5000/api/tby/live/445.mpd
-#EXTINF:0001 tvg-id="HSE24Extra.de" tvg-chno="92" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/446/icon320_dark.png", HSE24 Extra
-http://192.168.178.37:5000/api/tby/live/446.mpd
-#EXTINF:0001 tvg-id="HSE24Trend.de" tvg-chno="93" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/447/icon320_dark.png", HSE24 Trend
-http://192.168.178.37:5000/api/tby/live/447.mpd
-#EXTINF:0001 tvg-id="QS24.ch" tvg-chno="94" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/388/icon320_dark.png", QS24
-http://192.168.178.37:5000/api/tby/live/388.mpd
-#EXTINF:0001 tvg-id="Wetterfernsehen.ch" tvg-chno="95" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/386/icon320_dark.png", wetter.tv
-http://192.168.178.37:5000/api/tby/live/386.mpd
-#EXTINF:0001 tvg-id="BibelTV.de" tvg-chno="96" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/403/icon320_dark.png", Bibel TV
-http://192.168.178.37:5000/api/tby/live/403.mpd
-#EXTINF:0001 tvg-id="KTV.de" tvg-chno="97" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/454/icon320_dark.png", K-TV
-http://192.168.178.37:5000/api/tby/live/454.mpd
-#EXTINF:0001 tvg-id="DeLuxeMusic.de" tvg-chno="98" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/177/icon320_dark.png", Deluxe Music
-http://192.168.178.37:5000/api/tby/live/177.mpd
-#EXTINF:0001 tvg-id="DeutschesMusikFernsehen.de" tvg-chno="99" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/429/icon320_dark.png", Deutsches Musik Fernsehen
-http://192.168.178.37:5000/api/tby/live/429.mpd
-#EXTINF:0001 tvg-id="532" tvg-chno="100" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/532/icon320_dark.png", Folx TV
-http://192.168.178.37:5000/api/tby/live/532.mpd
-#EXTINF:0001 tvg-id="562" tvg-chno="101" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/562/icon320_dark.png", Schlager Deluxe
-http://192.168.178.37:5000/api/tby/live/562.mpd
-#EXTINF:0001 tvg-id="563" tvg-chno="102" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/563/icon320_dark.png", Melodie TV
-http://192.168.178.37:5000/api/tby/live/563.mpd
-#EXTINF:0001 tvg-id="37" tvg-chno="103" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/37/icon320_dark.png", MTV
-http://192.168.178.37:5000/api/tby/live/37.mpd
-#EXTINF:0001 tvg-id="BBC1London.uk" tvg-chno="104" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/332/icon320_dark.png", BBC One
-http://192.168.178.37:5000/api/tby/live/332.mpd
-#EXTINF:0001 tvg-id="BBC2.uk" tvg-chno="105" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/333/icon320_dark.png", BBC Two
-http://192.168.178.37:5000/api/tby/live/333.mpd
-#EXTINF:0001 tvg-id="564" tvg-chno="106" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/564/icon320_dark.png", BBC Three
-http://192.168.178.37:5000/api/tby/live/564.mpd
-#EXTINF:0001 tvg-id="BBC4.uk" tvg-chno="107" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/399/icon320_dark.png", BBC Four
-http://192.168.178.37:5000/api/tby/live/399.mpd
-#EXTINF:0001 tvg-id="BBCWorldNews.nws" tvg-chno="108" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/101/icon320_dark.png", BBC World News
-http://192.168.178.37:5000/api/tby/live/101.mpd
-#EXTINF:0001 tvg-id="CNN.nws" tvg-chno="109" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/50/icon320_dark.png", CNN
-http://192.168.178.37:5000/api/tby/live/50.mpd
-#EXTINF:0001 tvg-id="CNBC.nws" tvg-chno="110" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/131/icon320_dark.png", CNBC Europe
-http://192.168.178.37:5000/api/tby/live/131.mpd
-#EXTINF:0001 tvg-id="Bloomberg.nws" tvg-chno="111" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/150/icon320_dark.png", Bloomberg
-http://192.168.178.37:5000/api/tby/live/150.mpd
-#EXTINF:0001 tvg-id="565" tvg-chno="112" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/565/icon320_dark.png", Bloomberg Quicktake HD
-http://192.168.178.37:5000/api/tby/live/565.mpd
-#EXTINF:0001 tvg-id="SkyNews.uk" tvg-chno="113" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/496/icon320_dark.png", Sky News
-http://192.168.178.37:5000/api/tby/live/496.mpd
-#EXTINF:0001 tvg-id="ITV1London.uk" tvg-chno="114" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/346/icon320_dark.png", ITV
-http://192.168.178.37:5000/api/tby/live/346.mpd
-#EXTINF:0001 tvg-id="ITV2.uk" tvg-chno="115" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/255/icon320_dark.png", ITV 2
-http://192.168.178.37:5000/api/tby/live/255.mpd
-#EXTINF:0001 tvg-id="ITV3.uk" tvg-chno="116" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/189/icon320_dark.png", ITV 3
-http://192.168.178.37:5000/api/tby/live/189.mpd
-#EXTINF:0001 tvg-id="ITV4.uk" tvg-chno="117" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/452/icon320_dark.png", ITV 4
-http://192.168.178.37:5000/api/tby/live/452.mpd
-#EXTINF:0001 tvg-id="ITVBe.uk" tvg-chno="118" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/453/icon320_dark.png", ITVBe
-http://192.168.178.37:5000/api/tby/live/453.mpd
-#EXTINF:0001 tvg-id="E4.uk" tvg-chno="119" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/192/icon320_dark.png", E4
-http://192.168.178.37:5000/api/tby/live/192.mpd
-#EXTINF:0001 tvg-id="Channel4.uk" tvg-chno="120" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/262/icon320_dark.png", Channel 4
-http://192.168.178.37:5000/api/tby/live/262.mpd
-#EXTINF:0001 tvg-id="Channel5.uk" tvg-chno="121" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/191/icon320_dark.png", Channel 5 
-http://192.168.178.37:5000/api/tby/live/191.mpd
-#EXTINF:0001 tvg-id="Film4.uk" tvg-chno="122" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/263/icon320_dark.png", Film 4
-http://192.168.178.37:5000/api/tby/live/263.mpd
-#EXTINF:0001 tvg-id="More4.uk" tvg-chno="123" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/193/icon320_dark.png", More 4
-http://192.168.178.37:5000/api/tby/live/193.mpd
-#EXTINF:0001 tvg-id="4Seven.uk" tvg-chno="124" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/393/icon320_dark.png", 4Seven
-http://192.168.178.37:5000/api/tby/live/393.mpd
-#EXTINF:0001 tvg-id="FiveUSA.uk" tvg-chno="125" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/396/icon320_dark.png", 5USA
-http://192.168.178.37:5000/api/tby/live/396.mpd
-#EXTINF:0001 tvg-id="5Select.uk" tvg-chno="126" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/394/icon320_dark.png", 5SELECT
-http://192.168.178.37:5000/api/tby/live/394.mpd
-#EXTINF:0001 tvg-id="557" tvg-chno="127" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/557/icon320_dark.png", 5STAR
-http://192.168.178.37:5000/api/tby/live/557.mpd
-#EXTINF:0001 tvg-id="566" tvg-chno="128" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/566/icon320_dark.png", 5ACTION
-http://192.168.178.37:5000/api/tby/live/566.mpd
-#EXTINF:0001 tvg-id="Euronews.nws" tvg-chno="129" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/195/icon320_dark.png", euronews en
-http://192.168.178.37:5000/api/tby/live/195.mpd
-#EXTINF:0001 tvg-id="France24.fr" tvg-chno="130" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/436/icon320_dark.png", France 24 en
-http://192.168.178.37:5000/api/tby/live/436.mpd
-#EXTINF:0001 tvg-id="DeutscheWelleEN.de" tvg-chno="131" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/426/icon320_dark.png", Deutsche Welle en
-http://192.168.178.37:5000/api/tby/live/426.mpd
-#EXTINF:0001 tvg-id="AlJazeera.nws" tvg-chno="132" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/148/icon320_dark.png", Al Jazeera en
-http://192.168.178.37:5000/api/tby/live/148.mpd
-#EXTINF:0001 tvg-id="ClublandTV.uk" tvg-chno="133" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/419/icon320_dark.png", Clubland TV
-http://192.168.178.37:5000/api/tby/live/419.mpd
-#EXTINF:0001 tvg-id="567" tvg-chno="134" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/567/icon320_dark.png", Now70s
-http://192.168.178.37:5000/api/tby/live/567.mpd
-#EXTINF:0001 tvg-id="568" tvg-chno="135" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/568/icon320_dark.png", Now80s
-http://192.168.178.37:5000/api/tby/live/568.mpd
-#EXTINF:0001 tvg-id="ChilledTV.uk" tvg-chno="136" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/469/icon320_dark.png", Now 90s
-http://192.168.178.37:5000/api/tby/live/469.mpd
-#EXTINF:0001 tvg-id="FashionTV.eu" tvg-chno="137" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/433/icon320_dark.png", Fashion TV
-http://192.168.178.37:5000/api/tby/live/433.mpd
-#EXTINF:0001 tvg-id="BBCNews.nws" tvg-chno="138" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/400/icon320_dark.png", BBC News
-http://192.168.178.37:5000/api/tby/live/400.mpd
-#EXTINF:0001 tvg-id="BBCParliament.uk" tvg-chno="139" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/401/icon320_dark.png", BBC Parliament
-http://192.168.178.37:5000/api/tby/live/401.mpd
-#EXTINF:0001 tvg-id="CBBC.uk" tvg-chno="140" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/185/icon320_dark.png", CBBC
-http://192.168.178.37:5000/api/tby/live/185.mpd
-#EXTINF:0001 tvg-id="CBeebies.uk" tvg-chno="141" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/411/icon320_dark.png", CBeebies
-http://192.168.178.37:5000/api/tby/live/411.mpd
-#EXTINF:0001 tvg-id="S4C.uk" tvg-chno="142" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/495/icon320_dark.png", S4C
-http://192.168.178.37:5000/api/tby/live/495.mpd
-#EXTINF:0001 tvg-id="Drama.uk" tvg-chno="143" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/431/icon320_dark.png", Drama
-http://192.168.178.37:5000/api/tby/live/431.mpd
-#EXTINF:0001 tvg-id="ParamountNetwork.uk" tvg-chno="144" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/472/icon320_dark.png", Paramount Network
-http://192.168.178.37:5000/api/tby/live/472.mpd
-#EXTINF:0001 tvg-id="Dave.uk" tvg-chno="145" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/423/icon320_dark.png", Dave
-http://192.168.178.37:5000/api/tby/live/423.mpd
-#EXTINF:0001 tvg-id="474" tvg-chno="146" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/474/icon320_dark.png", Sky Mix
-http://192.168.178.37:5000/api/tby/live/474.mpd
-#EXTINF:0001 tvg-id="Challenge.uk" tvg-chno="147" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/412/icon320_dark.png", Challenge
-http://192.168.178.37:5000/api/tby/live/412.mpd
-#EXTINF:0001 tvg-id="Yesterday.uk" tvg-chno="148" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/512/icon320_dark.png", Yesterday
-http://192.168.178.37:5000/api/tby/live/512.mpd
-#EXTINF:0001 tvg-id="FoodNetwork.uk" tvg-chno="149" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/435/icon320_dark.png", Food Network
-http://192.168.178.37:5000/api/tby/live/435.mpd
-#EXTINF:0001 tvg-id="GODChannel.eu" tvg-chno="150" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/441/icon320_dark.png", GOD Channel
-http://192.168.178.37:5000/api/tby/live/441.mpd
-#EXTINF:0001 tvg-id="Sonlife.uk" tvg-chno="151" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/499/icon320_dark.png", SONLife
-http://192.168.178.37:5000/api/tby/live/499.mpd
-#EXTINF:0001 tvg-id="PBS.uk" tvg-chno="152" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/473/icon320_dark.png", PBS America
-http://192.168.178.37:5000/api/tby/live/473.mpd
-#EXTINF:0001 tvg-id="RTSUn.ch" tvg-chno="153" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/331/icon320_dark.png", RTS Un
-http://192.168.178.37:5000/api/tby/live/331.mpd
-#EXTINF:0001 tvg-id="RTSDeux.ch" tvg-chno="154" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/305/icon320_dark.png", RTS Deux
-http://192.168.178.37:5000/api/tby/live/305.mpd
-#EXTINF:0001 tvg-id="TF1.fr" tvg-chno="155" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/308/icon320_dark.png", TF1
-http://192.168.178.37:5000/api/tby/live/308.mpd
-#EXTINF:0001 tvg-id="M6.fr" tvg-chno="156" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/312/icon320_dark.png", M6 Suisse 
-http://192.168.178.37:5000/api/tby/live/312.mpd
-#EXTINF:0001 tvg-id="TVSuissePlus.ch" tvg-chno="157" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/527/icon320_dark.png", TV Suisse Plus
-http://192.168.178.37:5000/api/tby/live/527.mpd
-#EXTINF:0001 tvg-id="W9.fr" tvg-chno="158" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/268/icon320_dark.png", W9
-http://192.168.178.37:5000/api/tby/live/268.mpd
-#EXTINF:0001 tvg-id="France2.fr" tvg-chno="159" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/342/icon320_dark.png", France 2
-http://192.168.178.37:5000/api/tby/live/342.mpd
-#EXTINF:0001 tvg-id="France3.fr" tvg-chno="160" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/58/icon320_dark.png", France 3
-http://192.168.178.37:5000/api/tby/live/58.mpd
-#EXTINF:0001 tvg-id="France4.fr" tvg-chno="161" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/288/icon320_dark.png", France 4
-http://192.168.178.37:5000/api/tby/live/288.mpd
-#EXTINF:0001 tvg-id="France5.fr" tvg-chno="162" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/80/icon320_dark.png", France 5
-http://192.168.178.37:5000/api/tby/live/80.mpd
-#EXTINF:0001 tvg-id="ARTE.fr" tvg-chno="163" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/330/icon320_dark.png", Arte fr
-http://192.168.178.37:5000/api/tby/live/330.mpd
-#EXTINF:0001 tvg-id="517" tvg-chno="164" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/517/icon320_dark.png", blue Zoom fr
-http://192.168.178.37:5000/api/tby/live/517.mpd
-#EXTINF:0001 tvg-id="Canal9.ch" tvg-chno="165" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/408/icon320_dark.png", Canal9
-http://192.168.178.37:5000/api/tby/live/408.mpd
-#EXTINF:0001 tvg-id="LemanBleu.ch" tvg-chno="166" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/296/icon320_dark.png", Léman Bleu
-http://192.168.178.37:5000/api/tby/live/296.mpd
-#EXTINF:0001 tvg-id="CanalAlpha.ch" tvg-chno="167" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/299/icon320_dark.png", Canal Alpha Neuchâtel
-http://192.168.178.37:5000/api/tby/live/299.mpd
-#EXTINF:0001 tvg-id="CanalAlphaJU.ch" tvg-chno="168" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/525/icon320_dark.png", Canal Alpha Jura
-http://192.168.178.37:5000/api/tby/live/525.mpd
-#EXTINF:0001 tvg-id="TVM3.ch" tvg-chno="169" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/385/icon320_dark.png", TVM3
-http://192.168.178.37:5000/api/tby/live/385.mpd
-#EXTINF:0001 tvg-id="LaTele.ch" tvg-chno="170" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/297/icon320_dark.png", La Télé
-http://192.168.178.37:5000/api/tby/live/297.mpd
-#EXTINF:0001 tvg-id="365" tvg-chno="171" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/365/icon320_dark.png", CARAC 1 HD
-http://192.168.178.37:5000/api/tby/live/365.mpd
-#EXTINF:0001 tvg-id="521" tvg-chno="172" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/521/icon320_dark.png", CARAC 2 CH HD
-http://192.168.178.37:5000/api/tby/live/521.mpd
-#EXTINF:0001 tvg-id="520" tvg-chno="173" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/520/icon320_dark.png", CARAC 3 HD
-http://192.168.178.37:5000/api/tby/live/520.mpd
-#EXTINF:0001 tvg-id="6ter.fr" tvg-chno="174" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/367/icon320_dark.png", 6ter
-http://192.168.178.37:5000/api/tby/live/367.mpd
-#EXTINF:0001 tvg-id="TMC.fr" tvg-chno="175" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/383/icon320_dark.png", TMC
-http://192.168.178.37:5000/api/tby/live/383.mpd
-#EXTINF:0001 tvg-id="TFX.fr" tvg-chno="176" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/375/icon320_dark.png", TFX
-http://192.168.178.37:5000/api/tby/live/375.mpd
-#EXTINF:0001 tvg-id="TF1SeriesFilms.fr" tvg-chno="177" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/372/icon320_dark.png", TF1 Séries Films
-http://192.168.178.37:5000/api/tby/live/372.mpd
-#EXTINF:0001 tvg-id="Gulli.fr" tvg-chno="178" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/270/icon320_dark.png", Gulli
-http://192.168.178.37:5000/api/tby/live/270.mpd
-#EXTINF:0001 tvg-id="France24fr.fr" tvg-chno="179" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/147/icon320_dark.png", France 24 fr
-http://192.168.178.37:5000/api/tby/live/147.mpd
-#EXTINF:0001 tvg-id="EuronewsFR.nws" tvg-chno="180" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/196/icon320_dark.png", euronews fr
-http://192.168.178.37:5000/api/tby/live/196.mpd
-#EXTINF:0001 tvg-id="Franceinfo.fr" tvg-chno="181" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/437/icon320_dark.png", franceinfo
-http://192.168.178.37:5000/api/tby/live/437.mpd
-#EXTINF:0001 tvg-id="CNews.fr" tvg-chno="182" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/420/icon320_dark.png", CNEWS
-http://192.168.178.37:5000/api/tby/live/420.mpd
-#EXTINF:0001 tvg-id="LCI.fr" tvg-chno="183" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/462/icon320_dark.png", LCI
-http://192.168.178.37:5000/api/tby/live/462.mpd
-#EXTINF:0001 tvg-id="KTO.fr" tvg-chno="184" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/458/icon320_dark.png", KTO
-http://192.168.178.37:5000/api/tby/live/458.mpd
-#EXTINF:0001 tvg-id="TV5MondeFBS.fr" tvg-chno="185" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/61/icon320_dark.png", TV5 Monde FBS
-http://192.168.178.37:5000/api/tby/live/61.mpd
-#EXTINF:0001 tvg-id="TV5MondeEurope.fr" tvg-chno="186" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/507/icon320_dark.png", TV5
-http://192.168.178.37:5000/api/tby/live/507.mpd
-#EXTINF:0001 tvg-id="BFMTV.fr" tvg-chno="187" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/368/icon320_dark.png", BFM TV
-http://192.168.178.37:5000/api/tby/live/368.mpd
-#EXTINF:0001 tvg-id="BeCuriousTV.ch" tvg-chno="188" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/402/icon320_dark.png", beCuriousTV
-http://192.168.178.37:5000/api/tby/live/402.mpd
-#EXTINF:0001 tvg-id="TV8MontBlanc.ch" tvg-chno="189" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/384/icon320_dark.png", TV8 Mont Blanc
-http://192.168.178.37:5000/api/tby/live/384.mpd
-#EXTINF:0001 tvg-id="EquipeTV.fr" tvg-chno="190" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/373/icon320_dark.png", L'Équipe 21
-http://192.168.178.37:5000/api/tby/live/373.mpd
-#EXTINF:0001 tvg-id="Cherie25.fr" tvg-chno="191" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/371/icon320_dark.png", Chérie 25
-http://192.168.178.37:5000/api/tby/live/371.mpd
-#EXTINF:0001 tvg-id="CStar.fr" tvg-chno="192" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/422/icon320_dark.png", CSTAR
-http://192.168.178.37:5000/api/tby/live/422.mpd
-#EXTINF:0001 tvg-id="RMCdecouverte.fr" tvg-chno="193" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/380/icon320_dark.png", RMC Découverte
-http://192.168.178.37:5000/api/tby/live/380.mpd
-#EXTINF:0001 tvg-id="Numero23.fr" tvg-chno="194" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/376/icon320_dark.png", RMC Story
-http://192.168.178.37:5000/api/tby/live/376.mpd
-#EXTINF:0001 tvg-id="RSILa1.ch" tvg-chno="195" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/339/icon320_dark.png", RSI LA 1
-http://192.168.178.37:5000/api/tby/live/339.mpd
-#EXTINF:0001 tvg-id="RSILa2.ch" tvg-chno="196" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/340/icon320_dark.png", RSI LA 2
-http://192.168.178.37:5000/api/tby/live/340.mpd
-#EXTINF:0001 tvg-id="TeleTicino.ch" tvg-chno="197" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/300/icon320_dark.png", TeleTicino
-http://192.168.178.37:5000/api/tby/live/300.mpd
-#EXTINF:0001 tvg-id="Rai1.it" tvg-chno="198" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/52/icon320_dark.png", Rai 1
-http://192.168.178.37:5000/api/tby/live/52.mpd
-#EXTINF:0001 tvg-id="Rai2.it" tvg-chno="199" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/53/icon320_dark.png", Rai 2
-http://192.168.178.37:5000/api/tby/live/53.mpd
-#EXTINF:0001 tvg-id="Rai3.it" tvg-chno="200" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/54/icon320_dark.png", Rai 3
-http://192.168.178.37:5000/api/tby/live/54.mpd
-#EXTINF:0001 tvg-id="Rai4.it" tvg-chno="201" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/477/icon320_dark.png", Rai 4
-http://192.168.178.37:5000/api/tby/live/477.mpd
-#EXTINF:0001 tvg-id="Rai5.it" tvg-chno="202" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/478/icon320_dark.png", Rai 5
-http://192.168.178.37:5000/api/tby/live/478.mpd
-#EXTINF:0001 tvg-id="RaiMovie.it" tvg-chno="203" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/480/icon320_dark.png", Rai Movie
-http://192.168.178.37:5000/api/tby/live/480.mpd
-#EXTINF:0001 tvg-id="RaiPremium.it" tvg-chno="204" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/481/icon320_dark.png", Rai Premium
-http://192.168.178.37:5000/api/tby/live/481.mpd
-#EXTINF:0001 tvg-id="RaiNews.it" tvg-chno="205" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/283/icon320_dark.png", Rai News 24
-http://192.168.178.37:5000/api/tby/live/283.mpd
-#EXTINF:0001 tvg-id="RaiSport.it" tvg-chno="206" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/271/icon320_dark.png", Rai Sport 1
-http://192.168.178.37:5000/api/tby/live/271.mpd
-#EXTINF:0001 tvg-id="RaiGulp.it" tvg-chno="207" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/479/icon320_dark.png", Rai Gulp
-http://192.168.178.37:5000/api/tby/live/479.mpd
-#EXTINF:0001 tvg-id="RaiYoyo.it" tvg-chno="208" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/485/icon320_dark.png", Rai Yoyo
-http://192.168.178.37:5000/api/tby/live/485.mpd
-#EXTINF:0001 tvg-id="RaiScuola.it" tvg-chno="209" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/482/icon320_dark.png", Rai Scuola
-http://192.168.178.37:5000/api/tby/live/482.mpd
-#EXTINF:0001 tvg-id="RaiStoria.it" tvg-chno="210" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/484/icon320_dark.png", Rai Storia
-http://192.168.178.37:5000/api/tby/live/484.mpd
-#EXTINF:0001 tvg-id="Canale5.it" tvg-chno="211" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/335/icon320_dark.png", Canale 5
-http://192.168.178.37:5000/api/tby/live/335.mpd
-#EXTINF:0001 tvg-id="Italia1.it" tvg-chno="212" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/344/icon320_dark.png", Italia 1
-http://192.168.178.37:5000/api/tby/live/344.mpd
-#EXTINF:0001 tvg-id="Italia2.it" tvg-chno="213" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/451/icon320_dark.png", Italia 2
-http://192.168.178.37:5000/api/tby/live/451.mpd
-#EXTINF:0001 tvg-id="Rete4.it" tvg-chno="214" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/329/icon320_dark.png", Rete 4
-http://192.168.178.37:5000/api/tby/live/329.mpd
-#EXTINF:0001 tvg-id="La7.it" tvg-chno="215" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/276/icon320_dark.png", La7
-http://192.168.178.37:5000/api/tby/live/276.mpd
-#EXTINF:0001 tvg-id="La7d.it" tvg-chno="216" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/461/icon320_dark.png", La7d
-http://192.168.178.37:5000/api/tby/live/461.mpd
-#EXTINF:0001 tvg-id="Iris.it" tvg-chno="217" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/450/icon320_dark.png", Iris
-http://192.168.178.37:5000/api/tby/live/450.mpd
-#EXTINF:0001 tvg-id="CanaleItalia.it" tvg-chno="218" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/409/icon320_dark.png", Canale Italia
-http://192.168.178.37:5000/api/tby/live/409.mpd
-#EXTINF:0001 tvg-id="Cielo.it" tvg-chno="219" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/281/icon320_dark.png", Cielo
-http://192.168.178.37:5000/api/tby/live/281.mpd
-#EXTINF:0001 tvg-id="CineSonyItalia.it" tvg-chno="220" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/417/icon320_dark.png", Mediaset Extra 2
-http://192.168.178.37:5000/api/tby/live/417.mpd
-#EXTINF:0001 tvg-id="573" tvg-chno="221" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/573/icon320_dark.png", 27 Twentyseven
-http://192.168.178.37:5000/api/tby/live/573.mpd
-#EXTINF:0001 tvg-id="391" tvg-chno="222" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/391/icon320_dark.png", 20 Mediaset
-http://192.168.178.37:5000/api/tby/live/391.mpd
-#EXTINF:0001 tvg-id="554" tvg-chno="223" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/554/icon320_dark.png", TOPcrime
-http://192.168.178.37:5000/api/tby/live/554.mpd
-#EXTINF:0001 tvg-id="555" tvg-chno="224" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/555/icon320_dark.png", Cine34
-http://192.168.178.37:5000/api/tby/live/555.mpd
-#EXTINF:0001 tvg-id="553" tvg-chno="225" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/553/icon320_dark.png", TGcom24
-http://192.168.178.37:5000/api/tby/live/553.mpd
-#EXTINF:0001 tvg-id="RealTime.it" tvg-chno="226" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/487/icon320_dark.png", Real Time
-http://192.168.178.37:5000/api/tby/live/487.mpd
-#EXTINF:0001 tvg-id="ClassTVModa.it" tvg-chno="227" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/418/icon320_dark.png", Class TV Moda
-http://192.168.178.37:5000/api/tby/live/418.mpd
-#EXTINF:0001 tvg-id="RTL102.5TV.it" tvg-chno="228" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/282/icon320_dark.png", RTL 102.5
-http://192.168.178.37:5000/api/tby/live/282.mpd
-#EXTINF:0001 tvg-id="Nove.it" tvg-chno="229" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/468/icon320_dark.png", NOVE
-http://192.168.178.37:5000/api/tby/live/468.mpd
-#EXTINF:0001 tvg-id="DMAX.it" tvg-chno="230" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/430/icon320_dark.png", DMAX Italia
-http://192.168.178.37:5000/api/tby/live/430.mpd
-#EXTINF:0001 tvg-id="574" tvg-chno="231" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/574/icon320_dark.png", HGTV Italy
-http://192.168.178.37:5000/api/tby/live/574.mpd
-#EXTINF:0001 tvg-id="575" tvg-chno="232" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/575/icon320_dark.png", Alma TV
-http://192.168.178.37:5000/api/tby/live/575.mpd
-#EXTINF:0001 tvg-id="Giallo.it" tvg-chno="233" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/440/icon320_dark.png", Giallo
-http://192.168.178.37:5000/api/tby/live/440.mpd
-#EXTINF:0001 tvg-id="Focus.it" tvg-chno="234" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/434/icon320_dark.png", Focus
-http://192.168.178.37:5000/api/tby/live/434.mpd
-#EXTINF:0001 tvg-id="Tv8.it" tvg-chno="235" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/137/icon320_dark.png", TV8
-http://192.168.178.37:5000/api/tby/live/137.mpd
-#EXTINF:0001 tvg-id="576" tvg-chno="236" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/576/icon320_dark.png", TV2000
-http://192.168.178.37:5000/api/tby/live/576.mpd
-#EXTINF:0001 tvg-id="EuronewsIT.nws" tvg-chno="237" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/194/icon320_dark.png", euronews it
-http://192.168.178.37:5000/api/tby/live/194.mpd
-#EXTINF:0001 tvg-id="SkyTG24.it" tvg-chno="238" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/498/icon320_dark.png", Sky TG24
-http://192.168.178.37:5000/api/tby/live/498.mpd
-#EXTINF:0001 tvg-id="UNINETTUNOUniversityTV.it" tvg-chno="239" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/509/icon320_dark.png", UniNettuno University TV
-http://192.168.178.37:5000/api/tby/live/509.mpd
-#EXTINF:0001 tvg-id="Telepace.it" tvg-chno="240" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/504/icon320_dark.png", Telepace
-http://192.168.178.37:5000/api/tby/live/504.mpd
-#EXTINF:0001 tvg-id="Boing.ir" tvg-chno="241" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/404/icon320_dark.png", Boing
-http://192.168.178.37:5000/api/tby/live/404.mpd
-#EXTINF:0001 tvg-id="Frisbee.it" tvg-chno="242" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/439/icon320_dark.png", Frisbee
-http://192.168.178.37:5000/api/tby/live/439.mpd
-#EXTINF:0001 tvg-id="K2.it" tvg-chno="243" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/455/icon320_dark.png", K2
-http://192.168.178.37:5000/api/tby/live/455.mpd
-#EXTINF:0001 tvg-id="Cartoonito.it" tvg-chno="244" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/410/icon320_dark.png", Cartoonito
-http://192.168.178.37:5000/api/tby/live/410.mpd
-#EXTINF:0001 tvg-id="Super!.it" tvg-chno="245" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/502/icon320_dark.png", Super!
-http://192.168.178.37:5000/api/tby/live/502.mpd
-#EXTINF:0001 tvg-id="LA5.it" tvg-chno="246" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/460/icon320_dark.png", La5
-http://192.168.178.37:5000/api/tby/live/460.mpd
-#EXTINF:0001 tvg-id="549" tvg-chno="247" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/549/icon320_dark.png", RADIO TICINO CHANNEL
-http://192.168.178.37:5000/api/tby/live/549.mpd
-#EXTINF:0001 tvg-id="577" tvg-chno="248" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/577/icon320_dark.png", Sportitalia HD
-http://192.168.178.37:5000/api/tby/live/577.mpd
-#EXTINF:0001 tvg-id="550" tvg-chno="249" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/550/icon320_dark.png", SuperTennis
-http://192.168.178.37:5000/api/tby/live/550.mpd
-#EXTINF:0001 tvg-id="552" tvg-chno="250" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/552/icon320_dark.png", Boing Plus
-http://192.168.178.37:5000/api/tby/live/552.mpd
-#EXTINF:0001 tvg-id="TVE.es" tvg-chno="251" group-title="Spanish" tvg-logo="https://www.teleboy.ch/assets/stations/153/icon320_dark.png", TVEi
-http://192.168.178.37:5000/api/tby/live/153.mpd
-#EXTINF:0001 tvg-id="Canal24Horas.es" tvg-chno="252" group-title="Spanish" tvg-logo="https://www.teleboy.ch/assets/stations/392/icon320_dark.png", 24H
-http://192.168.178.37:5000/api/tby/live/392.mpd
-#EXTINF:0001 tvg-id="DeutscheWelleES.de" tvg-chno="253" group-title="Spanish" tvg-logo="https://www.teleboy.ch/assets/stations/428/icon320_dark.png", Deutsche Welle es
-http://192.168.178.37:5000/api/tby/live/428.mpd
-#EXTINF:0001 tvg-id="RTPi.pt" tvg-chno="254" group-title="Portuguese" tvg-logo="https://www.teleboy.ch/assets/stations/152/icon320_dark.png", RTPi
-http://192.168.178.37:5000/api/tby/live/152.mpd
-#EXTINF:0001 tvg-id="RTP3.pt" tvg-chno="255" group-title="Portuguese" tvg-logo="https://www.teleboy.ch/assets/stations/494/icon320_dark.png", RTP 3
-http://192.168.178.37:5000/api/tby/live/494.mpd
-#EXTINF:0001 tvg-id="RecordNews.pt" tvg-chno="256" group-title="Portuguese" tvg-logo="https://www.teleboy.ch/assets/stations/488/icon320_dark.png", Record News
-http://192.168.178.37:5000/api/tby/live/488.mpd
-#EXTINF:0001 tvg-id="489" tvg-chno="257" group-title="Portuguese" tvg-logo="https://www.teleboy.ch/assets/stations/489/icon320_dark.png", RecordTV
-http://192.168.178.37:5000/api/tby/live/489.mpd
-#EXTINF:0001 tvg-id="534" tvg-chno="258" group-title="Turkish" tvg-logo="https://www.teleboy.ch/assets/stations/534/icon320_dark.png", CNN Türk
-http://192.168.178.37:5000/api/tby/live/534.mpd
-#EXTINF:0001 tvg-id="535" tvg-chno="259" group-title="Turkish" tvg-logo="https://www.teleboy.ch/assets/stations/535/icon320_dark.png", Dream Türk
-http://192.168.178.37:5000/api/tby/live/535.mpd
-#EXTINF:0001 tvg-id="536" tvg-chno="260" group-title="Turkish" tvg-logo="https://www.teleboy.ch/assets/stations/536/icon320_dark.png", Euro D
-http://192.168.178.37:5000/api/tby/live/536.mpd
-#EXTINF:0001 tvg-id="537" tvg-chno="261" group-title="Turkish" tvg-logo="https://www.teleboy.ch/assets/stations/537/icon320_dark.png", Euro Star
-http://192.168.178.37:5000/api/tby/live/537.mpd
-#EXTINF:0001 tvg-id="538" tvg-chno="262" group-title="Turkish" tvg-logo="https://www.teleboy.ch/assets/stations/538/icon320_dark.png", Haber Turk
-http://192.168.178.37:5000/api/tby/live/538.mpd
-#EXTINF:0001 tvg-id="539" tvg-chno="263" group-title="Turkish" tvg-logo="https://www.teleboy.ch/assets/stations/539/icon320_dark.png", Halk TV
-http://192.168.178.37:5000/api/tby/live/539.mpd
-#EXTINF:0001 tvg-id="Kanal7.tr" tvg-chno="264" group-title="Turkish" tvg-logo="https://www.teleboy.ch/assets/stations/540/icon320_dark.png", Kanal 7 Avrupa
-http://192.168.178.37:5000/api/tby/live/540.mpd
-#EXTINF:0001 tvg-id="578" tvg-chno="265" group-title="Turkish" tvg-logo="https://www.teleboy.ch/assets/stations/578/icon320_dark.png", TV8 Int
-http://192.168.178.37:5000/api/tby/live/578.mpd
-#EXTINF:0001 tvg-id="15.Show TV.digiturk.com.tr" tvg-chno="266" group-title="Turkish" tvg-logo="https://www.teleboy.ch/assets/stations/544/icon320_dark.png", Show Turk
-http://192.168.178.37:5000/api/tby/live/544.mpd
-#EXTINF:0001 tvg-id="579" tvg-chno="267" group-title="International" tvg-logo="https://www.teleboy.ch/assets/stations/579/icon320_dark.png", Al Jazeera ar
-http://192.168.178.37:5000/api/tby/live/579.mpd
-#EXTINF:0001 tvg-id="BBCArabic.uk" tvg-chno="268" group-title="International" tvg-logo="https://www.teleboy.ch/assets/stations/398/icon320_dark.png", BBC Arabic
-http://192.168.178.37:5000/api/tby/live/398.mpd
-#EXTINF:0001 tvg-id="DeutscheWelleAR.de" tvg-chno="269" group-title="International" tvg-logo="https://www.teleboy.ch/assets/stations/427/icon320_dark.png", Deutsche Welle ar
-http://192.168.178.37:5000/api/tby/live/427.mpd
-#EXTINF:0001 tvg-id="BVN.be" tvg-chno="270" group-title="Dutch" tvg-logo="https://www.teleboy.ch/assets/stations/407/icon320_dark.png", BVN
-http://192.168.178.37:5000/api/tby/live/407.mpd
-#EXTINF:0001 tvg-id="581" tvg-chno="271" group-title="International" tvg-logo="https://www.teleboy.ch/assets/stations/581/icon320_dark.png", 1+1
-http://192.168.178.37:5000/api/tby/live/581.mpd
-#EXTINF:0001 tvg-id="585" tvg-chno="272" group-title="International" tvg-logo="https://www.teleboy.ch/assets/stations/585/icon320_dark.png", Espreso TV
-http://192.168.178.37:5000/api/tby/live/585.mpd
-#EXTINF:0001 tvg-id="586" tvg-chno="273" group-title="International" tvg-logo="https://www.teleboy.ch/assets/stations/586/icon320_dark.png", UATV
-http://192.168.178.37:5000/api/tby/live/586.mpd
-#EXTINF:0001 tvg-id="588" tvg-chno="274" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/588/icon320_dark.png", WION
-http://192.168.178.37:5000/api/tby/live/588.mpd
-#EXTINF:0001 tvg-id="589" tvg-chno="275" group-title="International" tvg-logo="https://www.teleboy.ch/assets/stations/589/icon320_dark.png", Arirang TV
-http://192.168.178.37:5000/api/tby/live/589.mpd
-#EXTINF:0001 tvg-id="590" tvg-chno="276" group-title="International" tvg-logo="https://www.teleboy.ch/assets/stations/590/icon320_dark.png", KBS World
-http://192.168.178.37:5000/api/tby/live/590.mpd
-#EXTINF:0001 tvg-id="591" tvg-chno="277" group-title="International" tvg-logo="https://www.teleboy.ch/assets/stations/591/icon320_dark.png", NHK World
-http://192.168.178.37:5000/api/tby/live/591.mpd
-#EXTINF:0001 tvg-id="592" tvg-chno="278" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/592/icon320_dark.png", E4 Extra
-http://192.168.178.37:5000/api/tby/live/592.mpd
-#EXTINF:0001 tvg-id="593" tvg-chno="279" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/593/icon320_dark.png", wedo movies
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Das Erste
+http://192.168.178.37:5000/api/tby/live/309.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ZDF
+http://192.168.178.37:5000/api/tby/live/306.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",RTL
+http://192.168.178.37:5000/api/tby/live/356.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Sat.1
+http://192.168.178.37:5000/api/tby/live/360.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",RTL II
+http://192.168.178.37:5000/api/tby/live/357.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ProSieben
+http://192.168.178.37:5000/api/tby/live/354.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Kabel 1
+http://192.168.178.37:5000/api/tby/live/353.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",VOX
+http://192.168.178.37:5000/api/tby/live/352.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SIXX
+http://192.168.178.37:5000/api/tby/live/361.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Sat.1 Gold
+http://192.168.178.37:5000/api/tby/live/301.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",RTLup
+http://192.168.178.37:5000/api/tby/live/493.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",VOXup
+http://192.168.178.37:5000/api/tby/live/518.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",RTL NITRO
+http://192.168.178.37:5000/api/tby/live/358.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ZDFneo
+http://192.168.178.37:5000/api/tby/live/121.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ONE
+http://192.168.178.37:5000/api/tby/live/470.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Tele 5
+http://192.168.178.37:5000/api/tby/live/86.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Puls 8
+http://192.168.178.37:5000/api/tby/live/362.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",3+
+http://192.168.178.37:5000/api/tby/live/350.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",4+
+http://192.168.178.37:5000/api/tby/live/351.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",5+
+http://192.168.178.37:5000/api/tby/live/348.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",6+
+http://192.168.178.37:5000/api/tby/live/390.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",7+
+http://192.168.178.37:5000/api/tby/live/182.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",S1
+http://192.168.178.37:5000/api/tby/live/323.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SWISS1
+http://192.168.178.37:5000/api/tby/live/341.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ProSieben Maxx
+http://192.168.178.37:5000/api/tby/live/317.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ZDFinfo
+http://192.168.178.37:5000/api/tby/live/172.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",WELT
+http://192.168.178.37:5000/api/tby/live/44.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",n-tv
+http://192.168.178.37:5000/api/tby/live/38.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Kabel Eins Doku
+http://192.168.178.37:5000/api/tby/live/456.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",N24 Doku
+http://192.168.178.37:5000/api/tby/live/465.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TLC
+http://192.168.178.37:5000/api/tby/live/363.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",DMAX
+http://192.168.178.37:5000/api/tby/live/154.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Welt der Wunder TV
+http://192.168.178.37:5000/api/tby/live/511.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TV24
+http://192.168.178.37:5000/api/tby/live/326.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TV25
+http://192.168.178.37:5000/api/tby/live/364.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Star TV
+http://192.168.178.37:5000/api/tby/live/19.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",wedo movies
 http://192.168.178.37:5000/api/tby/live/593.mpd
-#EXTINF:0001 tvg-id="594" tvg-chno="280" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/594/icon320_dark.png", Swiss Sport TV
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Swiss Sport TV
 http://192.168.178.37:5000/api/tby/live/594.mpd
-#EXTINF:0001 tvg-id="595" tvg-chno="281" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/595/icon320_dark.png", World of Freesports
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",World of Freesports
 http://192.168.178.37:5000/api/tby/live/595.mpd
-#EXTINF:0001 tvg-id="598" tvg-chno="282" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/598/icon320_dark.png", Filmgold
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Filmgold
 http://192.168.178.37:5000/api/tby/live/598.mpd
-#EXTINF:0001 tvg-id="609" tvg-chno="283" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/609/icon320_dark.png", Wedo Big Stories
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Wedo Big Stories
 http://192.168.178.37:5000/api/tby/live/609.mpd
-#EXTINF:0001 tvg-id="610" tvg-chno="284" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/610/icon320_dark.png", Top Serien
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Top Serien
 http://192.168.178.37:5000/api/tby/live/610.mpd
-#EXTINF:0001 tvg-id="611" tvg-chno="285" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/611/icon320_dark.png", Naruto
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Naruto
 http://192.168.178.37:5000/api/tby/live/611.mpd
-#EXTINF:0001 tvg-id="612" tvg-chno="286" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/612/icon320_dark.png", Top True Crime
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Top True Crime
 http://192.168.178.37:5000/api/tby/live/612.mpd
-#EXTINF:0001 tvg-id="613" tvg-chno="287" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/613/icon320_dark.png", Top Filme
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Top Filme
 http://192.168.178.37:5000/api/tby/live/613.mpd
-#EXTINF:0001 tvg-id="614" tvg-chno="288" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/614/icon320_dark.png", DF1
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",DF1
 http://192.168.178.37:5000/api/tby/live/614.mpd
-#EXTINF:0001 tvg-id="615" tvg-chno="289" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/615/icon320_dark.png", Curiosity Now
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Curiosity Now
 http://192.168.178.37:5000/api/tby/live/615.mpd
-#EXTINF:0001 tvg-id="618" tvg-chno="290" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/618/icon320_dark.png", SPIEGEL TV Konflikt
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SPIEGEL TV Konflikt
 http://192.168.178.37:5000/api/tby/live/618.mpd
-#EXTINF:0001 tvg-id="620" tvg-chno="291" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/620/icon320_dark.png", Terra Mater Wild
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Terra Mater Wild
 http://192.168.178.37:5000/api/tby/live/620.mpd
-#EXTINF:0001 tvg-id="600" tvg-chno="292" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/600/icon320_dark.png", DMAX UK
-http://192.168.178.37:5000/api/tby/live/600.mpd
-#EXTINF:0001 tvg-id="621" tvg-chno="293" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/621/icon320_dark.png", Red Bull TV (engl.)
-http://192.168.178.37:5000/api/tby/live/621.mpd
-#EXTINF:0001 tvg-id="601" tvg-chno="294" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/601/icon320_dark.png", Quest Red
-http://192.168.178.37:5000/api/tby/live/601.mpd
-#EXTINF:0001 tvg-id="602" tvg-chno="295" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/602/icon320_dark.png", Quest
-http://192.168.178.37:5000/api/tby/live/602.mpd
-#EXTINF:0001 tvg-id="603" tvg-chno="296" group-title="English" tvg-logo="https://www.teleboy.ch/assets/stations/603/icon320_dark.png", CBS Reality
-http://192.168.178.37:5000/api/tby/live/603.mpd
-#EXTINF:0001 tvg-id="616" tvg-chno="297" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/616/icon320_dark.png", Enquetes De Choc
-http://192.168.178.37:5000/api/tby/live/616.mpd
-#EXTINF:0001 tvg-id="617" tvg-chno="298" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/617/icon320_dark.png", Homicide
-http://192.168.178.37:5000/api/tby/live/617.mpd
-#EXTINF:0001 tvg-id="605" tvg-chno="299" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/605/icon320_dark.png", Warner TV Italy HD
-http://192.168.178.37:5000/api/tby/live/605.mpd
-#EXTINF:0001 tvg-id="606" tvg-chno="300" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/606/icon320_dark.png", Food Network Italia HD
-http://192.168.178.37:5000/api/tby/live/606.mpd
-#EXTINF:0001 tvg-id="608" tvg-chno="301" group-title="Italian" tvg-logo="https://www.teleboy.ch/assets/stations/608/icon320_dark.png", Motor Trend HD
-http://192.168.178.37:5000/api/tby/live/608.mpd
-#EXTINF:0001 tvg-id="622" tvg-chno="302" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/622/icon320_dark.png", MySports Eins
-http://192.168.178.37:5000/api/tby/live/622.mpd
-#EXTINF:0001 tvg-id="624" tvg-chno="303" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/624/icon320_dark.png", MySports 2
-http://192.168.178.37:5000/api/tby/live/624.mpd
-#EXTINF:0001 tvg-id="625" tvg-chno="304" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/625/icon320_dark.png", MySports 3
-http://192.168.178.37:5000/api/tby/live/625.mpd
-#EXTINF:0001 tvg-id="626" tvg-chno="305" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/626/icon320_dark.png", MySports 4
-http://192.168.178.37:5000/api/tby/live/626.mpd
-#EXTINF:0001 tvg-id="627" tvg-chno="306" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/627/icon320_dark.png", MySports 5
-http://192.168.178.37:5000/api/tby/live/627.mpd
-#EXTINF:0001 tvg-id="628" tvg-chno="307" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/628/icon320_dark.png", MySports 6
-http://192.168.178.37:5000/api/tby/live/628.mpd
-#EXTINF:0001 tvg-id="629" tvg-chno="308" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/629/icon320_dark.png", MySports 7
-http://192.168.178.37:5000/api/tby/live/629.mpd
-#EXTINF:0001 tvg-id="630" tvg-chno="309" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/630/icon320_dark.png", MySports 8
-http://192.168.178.37:5000/api/tby/live/630.mpd
-#EXTINF:0001 tvg-id="631" tvg-chno="310" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/631/icon320_dark.png", MySports 9
-http://192.168.178.37:5000/api/tby/live/631.mpd
-#EXTINF:0001 tvg-id="632" tvg-chno="311" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/632/icon320_dark.png", MySports 10
-http://192.168.178.37:5000/api/tby/live/632.mpd
-#EXTINF:0001 tvg-id="633" tvg-chno="312" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/633/icon320_dark.png", MySports EDGE
-http://192.168.178.37:5000/api/tby/live/633.mpd
-#EXTINF:0001 tvg-id="623" tvg-chno="313" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/623/icon320_dark.png", MySports Un
-http://192.168.178.37:5000/api/tby/live/623.mpd
-#EXTINF:0001 tvg-id="634" tvg-chno="314" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/634/icon320_dark.png", Sport 1+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Sport 1+
 http://192.168.178.37:5000/api/tby/live/634.mpd
-#EXTINF:0001 tvg-id="635" tvg-chno="315" group-title="German" tvg-logo="https://www.teleboy.ch/assets/stations/635/icon320_dark.png", Motorvision+
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Motorvision+
 http://192.168.178.37:5000/api/tby/live/635.mpd
-#EXTINF:0001 tvg-id="636" tvg-chno="316" group-title="French" tvg-logo="https://www.teleboy.ch/assets/stations/636/icon320_dark.png", Motorvision+ F
-http://192.168.178.37:5000/api/tby/live/636.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Disney Channel
+http://192.168.178.37:5000/api/tby/live/145.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Comedy Central
+http://192.168.178.37:5000/api/tby/live/387.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",KiKa
+http://192.168.178.37:5000/api/tby/live/343.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TOGGO plus
+http://192.168.178.37:5000/api/tby/live/505.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",RiC
+http://192.168.178.37:5000/api/tby/live/379.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Arte de
+http://192.168.178.37:5000/api/tby/live/310.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",3sat
+http://192.168.178.37:5000/api/tby/live/311.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ARD-alpha
+http://192.168.178.37:5000/api/tby/live/40.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Home & Garden
+http://192.168.178.37:5000/api/tby/live/522.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Anixe
+http://192.168.178.37:5000/api/tby/live/175.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Anixe+
+http://192.168.178.37:5000/api/tby/live/547.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ServusTV
+http://192.168.178.37:5000/api/tby/live/637.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Phoenix
+http://192.168.178.37:5000/api/tby/live/328.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",euronews de
+http://192.168.178.37:5000/api/tby/live/67.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Helvetia One TV
+http://192.168.178.37:5000/api/tby/live/528.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Kanal9
+http://192.168.178.37:5000/api/tby/live/313.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Tele 1
+http://192.168.178.37:5000/api/tby/live/84.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Tele M1
+http://192.168.178.37:5000/api/tby/live/20.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Tele Südostschweiz
+http://192.168.178.37:5000/api/tby/live/314.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Tele Top
+http://192.168.178.37:5000/api/tby/live/274.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Tele Z
+http://192.168.178.37:5000/api/tby/live/519.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TeleBärn
+http://192.168.178.37:5000/api/tby/live/22.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Telebasel
+http://192.168.178.37:5000/api/tby/live/21.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TeleZüri
+http://192.168.178.37:5000/api/tby/live/72.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TV Oberwallis
+http://192.168.178.37:5000/api/tby/live/531.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",auftanken.tv
+http://192.168.178.37:5000/api/tby/live/558.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Schaffhauser Fernsehen
+http://192.168.178.37:5000/api/tby/live/559.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Tele D
+http://192.168.178.37:5000/api/tby/live/560.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TeleBielingue
+http://192.168.178.37:5000/api/tby/live/298.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",BR Fernsehen Süd
+http://192.168.178.37:5000/api/tby/live/336.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",hr-fernsehen
+http://192.168.178.37:5000/api/tby/live/444.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",MDR Sachsen
+http://192.168.178.37:5000/api/tby/live/31.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",1 FL TV
+http://192.168.178.37:5000/api/tby/live/524.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",NDR Fernsehen
+http://192.168.178.37:5000/api/tby/live/337.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Radio Bremen TV
+http://192.168.178.37:5000/api/tby/live/476.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",rbb Berlin
+http://192.168.178.37:5000/api/tby/live/486.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SR Fernsehen
+http://192.168.178.37:5000/api/tby/live/501.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SWR Fernsehen BW
+http://192.168.178.37:5000/api/tby/live/345.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",tagesschau24
+http://192.168.178.37:5000/api/tby/live/503.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",WDR Fernsehen
+http://192.168.178.37:5000/api/tby/live/338.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",R9 Österreich
+http://192.168.178.37:5000/api/tby/live/475.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TVO - das Ostschweizer Fernsehen
+http://192.168.178.37:5000/api/tby/live/85.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",blue Zoom de
+http://192.168.178.37:5000/api/tby/live/389.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Eurosport 1 de
+http://192.168.178.37:5000/api/tby/live/35.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Rocket Beans TV
+http://192.168.178.37:5000/api/tby/live/491.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Sport1
+http://192.168.178.37:5000/api/tby/live/36.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",More Than Sports TV
+http://192.168.178.37:5000/api/tby/live/432.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",HSE24
+http://192.168.178.37:5000/api/tby/live/445.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",HSE24 Extra
+http://192.168.178.37:5000/api/tby/live/446.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",HSE24 Trend
+http://192.168.178.37:5000/api/tby/live/447.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",QS24
+http://192.168.178.37:5000/api/tby/live/388.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",wetter.tv
+http://192.168.178.37:5000/api/tby/live/386.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Bibel TV
+http://192.168.178.37:5000/api/tby/live/403.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",K-TV
+http://192.168.178.37:5000/api/tby/live/454.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Deluxe Music
+http://192.168.178.37:5000/api/tby/live/177.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Deutsches Musik Fernsehen
+http://192.168.178.37:5000/api/tby/live/429.mpd
