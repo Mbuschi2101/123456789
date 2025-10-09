@@ -1,85 +1,85 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SRF 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf1.png"tvg-chno=""group-title="German",SRF 1
 http://192.168.178.37:5000/api/tby/live/303.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SRF 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf2.png"tvg-chno=""group-title="German",SRF 2
 http://192.168.178.37:5000/api/tby/live/304.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SRF info
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srfinfo.png"tvg-chno=""group-title="German",SRF info
 http://192.168.178.37:5000/api/tby/live/5.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ORF 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf1.png"tvg-chno=""group-title="German",ORF 1
 http://192.168.178.37:5000/api/tby/live/307.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ORF 2
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf2.png"tvg-chno=""group-title="German",ORF 2
 http://192.168.178.37:5000/api/tby/live/347.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ORF 3
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf3.png"tvg-chno=""group-title="German",ORF 3
 http://192.168.178.37:5000/api/tby/live/170.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Das Erste
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png"tvg-chno=""group-title="German",Das Erste
 http://192.168.178.37:5000/api/tby/live/309.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ZDF
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png"tvg-chno=""group-title="German",ZDF
 http://192.168.178.37:5000/api/tby/live/306.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",RTL
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png"tvg-chno=""group-title="German",RTL
 http://192.168.178.37:5000/api/tby/live/356.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Sat.1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1.png"tvg-chno=""group-title="German",Sat.1
 http://192.168.178.37:5000/api/tby/live/360.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",RTL II
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl2.png"tvg-chno=""group-title="German",RTL II
 http://192.168.178.37:5000/api/tby/live/357.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ProSieben
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"tvg-chno=""group-title="German",ProSieben
 http://192.168.178.37:5000/api/tby/live/354.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Kabel 1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"tvg-chno=""group-title="German",Kabel 1
 http://192.168.178.37:5000/api/tby/live/353.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",VOX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/vox.png"tvg-chno=""group-title="German",VOX
 http://192.168.178.37:5000/api/tby/live/352.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SIXX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sixx.png"tvg-chno=""group-title="German",SIXX
 http://192.168.178.37:5000/api/tby/live/361.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Sat.1 Gold
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1gold.png"tvg-chno=""group-title="German",Sat.1 Gold
 http://192.168.178.37:5000/api/tby/live/301.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",RTLup
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtlup.png"tvg-chno=""group-title="German",RTLup
 http://192.168.178.37:5000/api/tby/live/493.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",VOXup
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/voxup.png"tvg-chno=""group-title="German",VOXup
 http://192.168.178.37:5000/api/tby/live/518.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",RTL NITRO
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/nitro.png"tvg-chno=""group-title="German",RTL NITRO
 http://192.168.178.37:5000/api/tby/live/358.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ZDFneo
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"tvg-chno=""group-title="German",ZDFneo
 http://192.168.178.37:5000/api/tby/live/121.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ONE
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/one.png"tvg-chno=""group-title="German",ONE
 http://192.168.178.37:5000/api/tby/live/470.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Tele 5
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tele5.png"tvg-chno=""group-title="German",Tele 5
 http://192.168.178.37:5000/api/tby/live/86.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Puls 8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls8.png"tvg-chno=""group-title="German",Puls 8
 http://192.168.178.37:5000/api/tby/live/362.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",3+
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/3%2B.png"tvg-chno=""group-title="German",3+
 http://192.168.178.37:5000/api/tby/live/350.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",4+
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/4%2B.png"tvg-chno=""group-title="German",4+
 http://192.168.178.37:5000/api/tby/live/351.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",5+
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/5%2B.png"tvg-chno=""group-title="German",5+
 http://192.168.178.37:5000/api/tby/live/348.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",6+
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/6%2B.png"tvg-chno=""group-title="German",6+
 http://192.168.178.37:5000/api/tby/live/390.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",7+
 http://192.168.178.37:5000/api/tby/live/182.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",S1
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/s1.png"tvg-chno=""group-title="German",S1
 http://192.168.178.37:5000/api/tby/live/323.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",SWISS1
 http://192.168.178.37:5000/api/tby/live/341.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ProSieben Maxx
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7maxx.png"tvg-chno=""group-title="German",ProSieben Maxx
 http://192.168.178.37:5000/api/tby/live/317.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ZDFinfo
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfinfo.png"tvg-chno=""group-title="German",ZDFinfo
 http://192.168.178.37:5000/api/tby/live/172.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",WELT
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png"tvg-chno=""group-title="German",WELT
 http://192.168.178.37:5000/api/tby/live/44.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",n-tv
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/ntv.png"tvg-chno=""group-title="German",n-tv
 http://192.168.178.37:5000/api/tby/live/38.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Kabel Eins Doku
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1doku.png"tvg-chno=""group-title="German",Kabel Eins Doku
 http://192.168.178.37:5000/api/tby/live/456.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",N24 Doku
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/n24doku.png"tvg-chno=""group-title="German",N24 Doku
 http://192.168.178.37:5000/api/tby/live/465.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TLC
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tlc.png"tvg-chno=""group-title="German",TLC
 http://192.168.178.37:5000/api/tby/live/363.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",DMAX
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dmax.png"tvg-chno=""group-title="German",DMAX
 http://192.168.178.37:5000/api/tby/live/154.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Welt der Wunder TV
 http://192.168.178.37:5000/api/tby/live/511.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TV24
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv24.hdpng.png"tvg-chno=""group-title="German",TV24
 http://192.168.178.37:5000/api/tby/live/326.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",TV25
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv25hd.png"tvg-chno=""group-title="German",TV25
 http://192.168.178.37:5000/api/tby/live/364.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Star TV
 http://192.168.178.37:5000/api/tby/live/19.mpd
@@ -109,10 +109,6 @@ http://192.168.178.37:5000/api/tby/live/615.mpd
 http://192.168.178.37:5000/api/tby/live/618.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Terra Mater Wild
 http://192.168.178.37:5000/api/tby/live/620.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Sport 1+
-http://192.168.178.37:5000/api/tby/live/634.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Motorvision+
-http://192.168.178.37:5000/api/tby/live/635.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Disney Channel
 http://192.168.178.37:5000/api/tby/live/145.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Comedy Central
@@ -137,8 +133,6 @@ http://192.168.178.37:5000/api/tby/live/175.mpd
 http://192.168.178.37:5000/api/tby/live/547.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",ServusTV
 http://192.168.178.37:5000/api/tby/live/637.mpd
-#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Phoenix
-http://192.168.178.37:5000/api/tby/live/328.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",euronews de
 http://192.168.178.37:5000/api/tby/live/67.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Helvetia One TV
@@ -225,3 +219,5 @@ http://192.168.178.37:5000/api/tby/live/454.mpd
 http://192.168.178.37:5000/api/tby/live/177.mpd
 #EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Deutsches Musik Fernsehen
 http://192.168.178.37:5000/api/tby/live/429.mpd
+#EXTINF:-1 tvg-id=""tvg-logo=""tvg-chno=""group-title="German",Phoenix
+http://192.168.178.37:5000/api/tby/live/328.mpd
