@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://xmltv.info/de/epg.xml" refresh="3600"
+#EXTM3U url-tvg="http://m3u4u.com/xml/d5k2nv93pkc313v6y984" refresh="3600"
 
 #EXTINF:-1  tvg-id="DE: WELT" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png", Welt
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8 
