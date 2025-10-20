@@ -33,8 +33,14 @@ https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id=" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1gold.png", Sat.1 Gold
 https://s6.hopslan.com/goldX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-id=" tvg-logo=https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sixx.png", SXX
+#EXTINF:-1  tvg-id=" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sixx.png", SIXX
 https://s6.hopslan.com/sixX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-id=" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png", ZDFneo
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8 
+
+
+
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png", Welt
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8 
