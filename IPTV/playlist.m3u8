@@ -21,7 +21,7 @@ https://s6.hopslan.com/pro7z/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png", Kabel eins
 https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png", VOX
+#EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/vox.pngg", VOX
 https://s6.hopslan.com/voxz/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/nitro.png", RTL Nitro
