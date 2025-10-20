@@ -21,6 +21,15 @@ https://s6.hopslan.com/pro7z/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png", Kabel eins
 https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png", VOX
+https://s6.hopslan.com/voxz/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/nitro.png", RTL Nitro
+https://s6.hopslan.com/nitro1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1gold.png", Sat.1 Gold
+https://s6.hopslan.com/goldX/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png", Welt
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8 
 
