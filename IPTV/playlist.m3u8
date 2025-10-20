@@ -39,8 +39,11 @@ https://s6.hopslan.com/sixX/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-id=" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png", ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8 
 
+#EXTINF:-1  tvg-id=" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/one.png", One
+https://mcdn-one.ard.de/ardone/hls/master.m3u8
 
-
+#EXTINF:-1  tvg-id=" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7maxx.png", Pro 7 MAXX
+https://s6.hopslan.com/pro7maxxX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png", Welt
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8 
