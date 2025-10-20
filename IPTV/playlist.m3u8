@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz" refresh="3600"
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_DE.xml" refresh="3600"
 
 #EXTINF:-1  tvg-id="Das.Erste.de" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png", Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8 
