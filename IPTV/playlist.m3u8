@@ -1,18 +1,18 @@
-#EXTM3U url-tvg="https://xmltv.info/de/epg.xml" refresh="3600"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz" refresh="3600"
 
-#EXTINF:-1  tvg-id="DE: Das Erste" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png", Das Erste
+#EXTINF:-1  tvg-id="Das.Erste.de" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png", Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8 
 
-#EXTINF:-1  tvg-id="76627" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png", ZDF
+#EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png", ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
-#EXTINF:-1  tvg-id="76795" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png", Welt
+#EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png", Welt
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8 
 
-#EXTINF:-1  tvg-id="76740" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png", RTL
+#EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png", RTL
 https://s6.hopslan.com/rtl1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-id="DE: 3sat" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png", 3 Sat
+#EXTINF:-1  tvg-id="" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png", 3 Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 
 #EXTINF:-1  tvg-id="403" tvg-logo="https://poster.starhubgo.com/Linear_channels2/403_1920x1080_HTV.png?w=272", Channel 4
