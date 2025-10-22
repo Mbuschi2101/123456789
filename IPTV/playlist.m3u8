@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://www.open-epg.com/generate/Ntcjw2Awf2.xml" refresh="3600"
 
-#EXTINF:-1  tvg-id="0001" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png", Das Erste
+#EXTINF:-1  tvg-id="Das Erste.de" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png", Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8 
 
 #EXTINF:-1  tvg-id="ZDF.de" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png", ZDF
