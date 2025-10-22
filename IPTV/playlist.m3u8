@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="https://xmltv.info/de/epg.xml" refresh="3600"
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_DE.xml" refresh="3600"
 
-#EXTINF:-1  tvg-id="DE: Das Erste" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png", Das Erste
+#EXTINF:-1  tvg-id="76674" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png", Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8 
 
 #EXTINF:-1  tvg-id=" tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png", ZDF
