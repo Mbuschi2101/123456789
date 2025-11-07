@@ -1,19 +1,19 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="ARD.de"tvg-logo=""tvg-chno=""group-title="German",Das Erste
+#EXTINF:-1 tvg-id="ARD"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png"tvg-chno=""group-title="German",Das Erste
 http://192.168.178.37:5000/api/tby/live/309.mpd
-#EXTINF:-1 tvg-id="ZDF.de"tvg-logo=""tvg-chno=""group-title="German",ZDF
+#EXTINF:-1 tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png"tvg-chno=""group-title="German",ZDF
 http://192.168.178.37:5000/api/tby/live/306.mpd
-#EXTINF:-1 tvg-id="RTL.ch"tvg-logo=""tvg-chno=""group-title="German",RTL
+#EXTINF:-1 tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png"tvg-chno=""group-title="German",RTL
 http://192.168.178.37:5000/api/tby/live/356.mpd
-#EXTINF:-1 tvg-id="Sat1.ch"tvg-logo=""tvg-chno=""group-title="German",Sat.1
+#EXTINF:-1 tvg-id="SAT1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1.png"tvg-chno=""group-title="German",SAT.1
 http://192.168.178.37:5000/api/tby/live/360.mpd
-#EXTINF:-1 tvg-id="RTL2.ch"tvg-logo=""tvg-chno=""group-title="German",RTLZWEI
+#EXTINF:-1 tvg-id="RTL2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl2.png"tvg-chno=""group-title="German",RTL II
 http://192.168.178.37:5000/api/tby/live/357.mpd
-#EXTINF:-1 tvg-id="Pro7.ch"tvg-logo=""tvg-chno=""group-title="German",ProSieben Schweiz
+#EXTINF:-1 tvg-id="Pro7"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"tvg-chno=""group-title="German",Pro Sieben
 http://192.168.178.37:5000/api/tby/live/354.mpd
-#EXTINF:-1 tvg-id="Kabel.ch"tvg-logo=""tvg-chno=""group-title="German",Kabel Eins
+#EXTINF:-1 tvg-id="Kabel"tvg-logo=""tvg-chno="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"group-title="German",Kabel eins
 http://192.168.178.37:5000/api/tby/live/353.mpd
-#EXTINF:-1 tvg-id="Vox.ch"tvg-logo=""tvg-chno=""group-title="German",VOX
+#EXTINF:-1 tvg-id="VOX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/vox.png"tvg-chno=""group-title="German",VOX
 http://192.168.178.37:5000/api/tby/live/352.mpd
 #EXTINF:-1 tvg-id="Sixx.ch"tvg-logo=""tvg-chno=""group-title="German",sixx
 http://192.168.178.37:5000/api/tby/live/361.mpd
