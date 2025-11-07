@@ -1,6 +1,6 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="ARD.de"tvg-logo=""tvg-chno=""group-title="German",Das Erste
-http://10.5.0.2:5000/api/tby/live/309.mpd
+http://192.168.178.37:5000/api/tby/live/309.mpd
 #EXTINF:-1 tvg-id="ZDF.de"tvg-logo=""tvg-chno=""group-title="German",ZDF
 http://10.5.0.2:5000/api/tby/live/306.mpd
 #EXTINF:-1 tvg-id="RTL.ch"tvg-logo=""tvg-chno=""group-title="German",RTL
