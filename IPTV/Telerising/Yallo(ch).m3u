@@ -11,7 +11,7 @@ http://192.168.178.37:5000/api/tby/live/360.mpd
 http://192.168.178.37:5000/api/tby/live/357.mpd
 #EXTINF:-1 tvg-id="Pro7"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"tvg-chno=""group-title="German",Pro Sieben
 http://192.168.178.37:5000/api/tby/live/354.mpd
-#EXTINF:-1 tvg-id="Kabel"tvg-logo=""tvg-chno="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"group-title="German",Kabel eins
+#EXTINF:-1 tvg-id="Kabel"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"tvg-chno=""group-title="German",Kabel eins
 http://192.168.178.37:5000/api/tby/live/353.mpd
 #EXTINF:-1 tvg-id="VOX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/vox.png"tvg-chno=""group-title="German",VOX
 http://192.168.178.37:5000/api/tby/live/352.mpd
