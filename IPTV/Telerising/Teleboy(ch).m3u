@@ -55,3 +55,57 @@ http://192.168.178.37:5000/api/tby/live/390.mpd
 
 #EXTINF:-1 tvg-id="puls 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls8.png"group-title="Teleboy":http-user-agent="",PULS 8
 http://192.168.178.37:5000/api/tby/live/362.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="swiss1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/swiss1.png"group-title="Teleboy":http-user-agent="",Swiss 1
+http://192.168.178.37:5000/api/tby/live/341.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="S1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/s1.png"group-title="Teleboy":http-user-agent="",S1
+http://192.168.178.37:5000/api/tby/live/323.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"group-title="Teleboy":http-user-agent="",ZDFneo
+http://192.168.178.37:5000/api/tby/live/121.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="One"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/one.png"group-title="Teleboy":http-user-agent="",One
+http://192.168.178.37:5000/api/tby/live/470.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="Super RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/superrtl.png"group-title="Teleboy":http-user-agent="",RTL Super
+http://192.168.178.37:5000/api/tby/live/359.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="SRFInfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srfinfo.png"group-title="Teleboy":http-user-agent="",SRFinfo
+http://192.168.178.37:5000/api/tby/live/5.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="SRF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf1.png"group-title="Teleboy":http-user-agent="",SRF 1
+http://192.168.178.37:5000/api/tby/live/303.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="SRFzwei"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf2.png"group-title="Teleboy":http-user-agent="",SRF 2
+http://192.168.178.37:5000/api/tby/live/304.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="ORF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf1.png"group-title="Teleboy":http-user-agent="",ORF 1
+http://192.168.178.37:5000/api/tby/live/307.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="ORF2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf2.png"group-title="Teleboy":http-user-agent="",ORF 2
+http://192.168.178.37:5000/api/tby/live/347.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="ORFIII"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf3.png"group-title="Teleboy":http-user-agent="",ORF 3
+http://192.168.178.37:5000/api/tby/live/170.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="TV24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv24.hdpng.png"group-title="Teleboy":http-user-agent="",TV24
+http://192.168.178.37:5000/api/tby/live/326.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="TV25"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv25hd.png"group-title="Teleboy":http-user-agent="",TV25
+http://192.168.178.37:5000/api/tby/live/364.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/mdr.png"group-title="Teleboy":http-user-agent="",MDR Sachsen
+http://192.168.178.37:5000/api/tby/live/31.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfinfo.png"group-title="Teleboy":http-user-agent="",ZDFinfo
+http://192.168.178.37:5000/api/tby/live/172.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="N-TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/ntv.png"group-title="Teleboy":http-user-agent="",N-TV
+http://192.168.178.37:5000/api/tby/live/38.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png"group-title="Teleboy":http-user-agent="",Welt
+http://192.168.178.37:5000/api/tby/live/44.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="DMAX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dmax.png"group-title="Teleboy":http-user-agent="",DMAX
+http://192.168.178.37:5000/api/tby/live/154.mpd
