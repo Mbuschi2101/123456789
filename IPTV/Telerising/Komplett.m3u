@@ -211,6 +211,136 @@ http://192.168.178.37:5000/api/tby/live/345.mpd
 http://192.168.178.37:5000/api/tby/live/503.mpd
 #EXTINF:-1 tvg-name=""tvg-id="WDR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/wdr.png"tvg-chno=""group-title="Teleboy":http-user-agent="",WDR Fernsehen
 http://192.168.178.37:5000/api/tby/live/338.mpd
+
+#EXTINF:-1 tvg-name=""tvg-id="ard"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png"tvg-chno=""group-title="Yallo":http-user-agent="",Das Erste
+http://192.168.178.37:5000/api/y3o/live/ard.mpd
+#EXTINF:-1 tvg-name=""tvg-id="zdf"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png"tvg-chno=""group-title="Yallo":http-user-agent="",ZDF
+http://192.168.178.37:5000/api/y3o/live/zdf.mpd
+#EXTINF:-1 tvg-name=""tvg-id="rtl"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png"tvg-chno=""group-title="Yallo":http-user-agent="",RTL
+http://192.168.178.37:5000/api/y3o/live/rtl.mpd
+#EXTINF:-1 tvg-name=""tvg-id="sat1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1.png"tvg-chno=""group-title="Yallo":http-user-agent="",SAT.1
+http://192.168.178.37:5000/api/y3o/live/sat1.mpd
+#EXTINF:-1 tvg-name=""tvg-id="rtl2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl2.png"tvg-chno=""group-title="Yallo":http-user-agent="",RTL II
+http://192.168.178.37:5000/api/y3o/live/rtl-2.mpd
+#EXTINF:-1 tvg-name=""tvg-id="pro7"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"tvg-chno=""group-title="Yallo":http-user-agent="",Pro Sieben
+http://192.168.178.37:5000/api/y3o/live/prosieben.mpd
+#EXTINF:-1 tvg-name=""tvg-id="kabel"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"tvg-chno=""group-title="Yallo":http-user-agent="",Kabel eins
+http://192.168.178.37:5000/api/y3o/live/kabel-eins.mpd
+#EXTINF:-1 tvg-name=""tvg-id="vox"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/vox.png"tvg-chno=""group-title="Yallo":http-user-agent="",VOX
+http://192.168.178.37:5000/api/y3o/live/vox.mpd
+#EXTINF:-1 tvg-name=""tvg-id="sixx"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sixx.png"tvg-chno=""group-title="Yallo":http-user-agent="",SIXX
+http://192.168.178.37:5000/api/y3o/live/de_sixx.mpd
+#EXTINF:-1 tvg-name=""tvg-id="sat1gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1gold.png"tvg-chno=""group-title="Yallo":http-user-agent="",SAT.1 Gold
+http://192.168.178.37:5000/api/y3o/live/sat1gold.mpd
+#EXTINF:-1 tvg-name=""tvg-id="nitro"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/nitro.png"tvg-chno=""group-title="Yallo":http-user-agent="",RTL Nitro
+http://192.168.178.37:5000/api/y3o/live/rtlnitro.mpd
+#EXTINF:-1 tvg-name=""tvg-id="rtlup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtlup.png"tvg-chno=""group-title="Yallo":http-user-agent="",RTLup
+http://192.168.178.37:5000/api/y3o/live/rtl_plus.mpd
+#EXTINF:-1 tvg-name=""tvg-id="voxup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/voxup.png"tvg-chno=""group-title="Yallo":http-user-agent="",VOXup
+http://192.168.178.37:5000/api/y3o/live/vox_up_de.mpd
+#EXTINF:-1 tvg-name=""tvg-id="tele5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tele5.png"tvg-chno=""group-title="Yallo":http-user-agent="",Tele 5
+http://192.168.178.37:5000/api/y3o/live/tele-5.mpd
+#EXTINF:-1 tvg-name=""tvg-id="3+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/3%2B.png"tvg-chno=""group-title="Yallo":http-user-agent="",3+
+http://192.168.178.37:5000/api/y3o/live/3plus.mpd
+#EXTINF:-1 tvg-name=""tvg-id="4+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/4%2B.png"tvg-chno=""group-title="Yallo":http-user-agent="",4+
+http://192.168.178.37:5000/api/y3o/live/4plus.mpd
+#EXTINF:-1 tvg-name=""tvg-id="5+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/5%2B.png"tvg-chno=""group-title="Yallo":http-user-agent="",5+
+http://192.168.178.37:5000/api/y3o/live/5plus_ch.mpd
+#EXTINF:-1 tvg-name=""tvg-id="6+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/6%2B.png"tvg-chno=""group-title="Yallo":http-user-agent="",6+
+http://192.168.178.37:5000/api/y3o/live/6plus_ch.mpd
+#EXTINF:-1 tvg-name=""tvg-id="puls 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls8.png"tvg-chno=""group-title="Yallo":http-user-agent="",PULS 8
+http://192.168.178.37:5000/api/y3o/live/puls8.mpd
+#EXTINF:-1 tvg-name=""tvg-id="swiss1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/swiss1.png"tvg-chno=""group-title="Yallo":http-user-agent="",Swiss 1
+http://192.168.178.37:5000/api/y3o/live/swiss_1.mpd
+#EXTINF:-1 tvg-name=""tvg-id="S1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/s1.png"tvg-chno=""group-title="Yallo":http-user-agent="",S1
+http://192.168.178.37:5000/api/y3o/live/s1.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"tvg-chno=""group-title="Yallo":http-user-agent="",ZDFneo
+http://192.168.178.37:5000/api/y3o/live/zdfneo.mpd
+#EXTINF:-1 tvg-name=""tvg-id="One"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/one.png"tvg-chno=""group-title="Yallo":http-user-agent="",One
+http://192.168.178.37:5000/api/y3o/live/einsfestival.mpd
+#EXTINF:-1 tvg-name=""tvg-id="Super RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/superrtl.png"tvg-chno=""group-title="Yallo":http-user-agent="",RTL Super
+http://192.168.178.37:5000/api/y3o/live/super-rtl.mpd
+#EXTINF:-1 tvg-name=""tvg-id="SRFInfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srfinfo.png"tvg-chno=""group-title="Yallo":http-user-agent="",SRFinfo
+http://192.168.178.37:5000/api/y3o/live/sf-info.mpd
+#EXTINF:-1 tvg-name=""tvg-id="SRF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf1.png"tvg-chno=""group-title="Yallo":http-user-agent="",SRF 1
+http://192.168.178.37:5000/api/y3o/live/sf-1.mpd
+#EXTINF:-1 tvg-name=""tvg-id="SRFzwei"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf2.png"tvg-chno=""group-title="Yallo":http-user-agent="",SRF 2
+http://192.168.178.37:5000/api/y3o/live/sf-2.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ORF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf1.png"tvg-chno=""group-title="Yallo":http-user-agent="",ORF 1
+http://192.168.178.37:5000/api/y3o/live/orf-1.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ORF2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf2.png"tvg-chno=""group-title="Yallo":http-user-agent="",ORF 2
+http://192.168.178.37:5000/api/y3o/live/orf-2.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ORFIII"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf3.png"tvg-chno=""group-title="Yallo":http-user-agent="",ORF 3
+http://192.168.178.37:5000/api/y3o/live/orf3.mpd
+#EXTINF:-1 tvg-name=""tvg-id="TV24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv24.hdpng.png"tvg-chno=""group-title="Yallo":http-user-agent="",TV24
+http://192.168.178.37:5000/api/y3o/live/tv24.mpd
+#EXTINF:-1 tvg-name=""tvg-id="TV25"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv25hd.png"tvg-chno=""group-title="Yallo":http-user-agent="",TV25
+http://192.168.178.37:5000/api/y3o/live/tv25.mpd
+#EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/mdr.png"tvg-chno=""group-title="Yallo":http-user-agent="",MDR Sachsen
+http://192.168.178.37:5000/api/y3o/live/mdr-sachsen.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfinfo.png"tvg-chno=""group-title="Yallo":http-user-agent="",ZDFinfo
+http://192.168.178.37:5000/api/y3o/live/zdf-info.mpd
+#EXTINF:-1 tvg-name=""tvg-id="N-TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/ntv.png"tvg-chno=""group-title="Yallo":http-user-agent="",N-TV
+http://192.168.178.37:5000/api/y3o/live/ntv_de.mpd
+#EXTINF:-1 tvg-name=""tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png"tvg-chno=""group-title="Yallo":http-user-agent="",Welt
+http://192.168.178.37:5000/api/y3o/live/n24.mpd
+#EXTINF:-1 tvg-name=""tvg-id="DMAX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dmax.png"tvg-chno=""group-title="Yallo":http-user-agent="",DMAX
+http://192.168.178.37:5000/api/y3o/live/dmax.mpd
+#EXTINF:-1 tvg-name=""tvg-id="TLC"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tlc.png"tvg-chno=""group-title="Yallo":http-user-agent="",TLC
+http://192.168.178.37:5000/api/y3o/live/tlc.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ProSiebenMaxx.ch"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7maxx.png"tvg-chno=""group-title="Yallo":http-user-agent="",ProSieben Maxx
+http://192.168.178.37:5000/api/y3o/live/pro7maxx_ch.mpd
+#EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1doku.png"tvg-chno=""group-title="Yallo":http-user-agent="",kabel eins Doku
+http://192.168.178.37:5000/api/y3o/live/kabel1_doku.mpd
+#EXTINF:-1 tvg-name=""tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/n24doku.png"tvg-chno=""group-title="Yallo":http-user-agent="",N24 Doku
+http://192.168.178.37:5000/api/y3o/live/n24_doku.mpd
+#EXTINF:-1 tvg-name=""tvg-id="WeltDerWunder.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/www.png"tvg-chno=""group-title="Yallo":http-user-agent="",Welt der Wunder TV
+http://192.168.178.37:5000/api/y3o/live/weltderwunder.mpd
+#EXTINF:-1 tvg-name=""tvg-id="xplore_de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/xplore.png"tvg-chno=""group-title="Yallo":http-user-agent="",Xplore
+http://192.168.178.37:5000/api/y3o/live/xplore_de.mpd
+#EXTINF:-1 tvg-name=""tvg-id="terra_mater_wild_de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Terramater.png"tvg-chno=""group-title="Yallo":http-user-agent="",Terra Mater Wild
+http://192.168.178.37:5000/api/y3o/live/terra_mater_wild_de.mpd
+#EXTINF:-1 tvg-name=""tvg-id="one_terra_de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/oneterra.png"tvg-chno=""group-title="Yallo":http-user-agent="",one TERRA
+http://192.168.178.37:5000/api/y3o/live/one_terra_de.mpd
+#EXTINF:-1 tvg-name=""tvg-id="curiosity_now_de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/curiositynow.png"tvg-chno=""group-title="Yallo":http-user-agent="",Curiosity Now
+http://192.168.178.37:5000/api/y3o/live/curiosity_now_de.mpd
+#EXTINF:-1 tvg-name=""tvg-id="wedo_movies_de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/wedomovies.png"tvg-chno=""group-title="Yallo":http-user-agent="",Wedo Movies
+http://192.168.178.37:5000/api/y3o/live/wedo_movies_de.mpd
+#EXTINF:-1 tvg-name=""tvg-id="top_filme_de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TOPFILME.png"tvg-chno=""group-title="Yallo":http-user-agent="",Top Filme
+http://192.168.178.37:5000/api/y3o/live/top_filme_de.mpd
+#EXTINF:-1 tvg-name=""tvg-id="craction_tv_de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"tvg-chno=""group-title="Yallo":http-user-agent="",Top Serien
+http://192.168.178.37:5000/api/y3o/live/craction_tv_de.mpd
+#EXTINF:-1 tvg-name=""tvg-id="558"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/auftankentv.png"tvg-chno=""group-title="Yallo":http-user-agent="",auftanken.tv
+http://192.168.178.37:5000/api/y3o/live/auftanken_tv_ch.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ARTE.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/arte.png"tvg-chno=""group-title="Yallo":http-user-agent="",Arte de
+http://192.168.178.37:5000/api/y3o/live/DE_arte.mpd
+#EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png"tvg-chno=""group-title="Yallo":http-user-agent="",3sat
+http://192.168.178.37:5000/api/y3o/live/3sat.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ARD-alpha.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"tvg-chno=""group-title="Yallo":http-user-agent="",ARD-alpha
+http://192.168.178.37:5000/api/y3o/live/br-alpha.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ServusHD.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/servustv.png"tvg-chno=""group-title="Yallo":http-user-agent="",ServusTV
+http://192.168.178.37:5000/api/y3o/live/servus_tv_austria.mpd
+#EXTINF:-1 tvg-name=""tvg-id="phoenix.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"tvg-chno=""group-title="Yallo":http-user-agent="",Phoenix
+http://192.168.178.37:5000/api/y3o/live/phoenix.mpd
+#EXTINF:-1 tvg-name=""tvg-id="336"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/br.png"tvg-chno=""group-title="Yallo":http-user-agent="",BR Fernsehen Süd
+http://192.168.178.37:5000/api/y3o/live/br.mpd
+#EXTINF:-1 tvg-name=""tvg-id="HR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/hr.png"tvg-chno=""group-title="Yallo":http-user-agent="",hr-fernsehen
+http://192.168.178.37:5000/api/y3o/live/hr.mpd
+#EXTINF:-1 tvg-name=""tvg-id="ndr.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ndr.png"tvg-chno=""group-title="Yallo":http-user-agent="",NDR Fernsehen
+http://192.168.178.37:5000/api/y3o/live/ndr-niedersachsen.mpd
+#EXTINF:-1 tvg-name=""tvg-id="rbbBerlin.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/rbb.png"tvg-chno=""group-title="Yallo":http-user-agent="",rbb Berlin
+http://192.168.178.37:5000/api/y3o/live/rbb.mpd
+#EXTINF:-1 tvg-name=""tvg-id="SRFernsehen.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/swr.png"tvg-chno=""group-title="Yallo":http-user-agent="",SR Fernsehen
+http://192.168.178.37:5000/api/y3o/live/sr-fernsehen.mpd
+#EXTINF:-1 tvg-name=""tvg-id="SWR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/swr.png"tvg-chno=""group-title="Yallo":http-user-agent="",SWR Fernsehen BW
+http://192.168.178.37:5000/api/y3o/live/swr-fernsehen-bw.mpd
+#EXTINF:-1 tvg-name=""tvg-id="tagesschau24.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/tagesschau.png"tvg-chno=""group-title="Yallo":http-user-agent="",tagesschau24
+http://192.168.178.37:5000/api/y3o/live/einsextra.mpd
+#EXTINF:-1 tvg-name=""tvg-id="WDR.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/wdr.png"tvg-chno=""group-title="Yallo":http-user-agent="",WDR Fernsehen
+http://192.168.178.37:5000/api/y3o/live/wdr-koeln.mpd
+
+
+
 #EXTINF:-1 tvg-name=""tvg-id="Warner TV Comedy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/warnercomedy.png"tvg-chno=""group-title="Sky":http-user-agent="",Warner TV Comedy
 plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
 #EXTINF:-1 tvg-name=""tvg-id="Warner TV Film"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/warnerfilm.png"tvg-chno=""group-title="Sky":http-user-agent="",Warner TV Film
