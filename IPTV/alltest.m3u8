@@ -164,13 +164,13 @@ plugin://plugin.video.playlistbee/?name=DMAX+HD&url=http%3A%2F%2Fz1mag.xyz%3A808
 #EXTINF:-1 tvg-name=""tvg-id="HR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/hr.png"group-title="":http-user-agent="",HR (Joyn)
 
 #EXTINF:-1 tvg-name=""tvg-id="KABEL 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"group-title="":http-user-agent="",Kabel eins
-
+plugin://plugin.video.playlistbee/?name=KABEL+EINS+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A13%3A56%3Aaa%26stream%3D797882%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fkabel-eins.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="KABEL 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"group-title="":http-user-agent="",KABEL eins (Joyn)
 
 #EXTINF:-1 tvg-name=""tvg-id="Kabel 1 Classics"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1classic.png"group-title="":http-user-agent="",Kabel 1 Classics
 
 #EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1doku.png"group-title="":http-user-agent="",Kabel eins Doku
-
+plugin://plugin.video.playlistbee/?name=KABEL+EINS+DOKU+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A13%3A56%3Aaa%26stream%3D797872%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2Fkabel-eins-doku-austria.eno.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1doku.png"group-title="":http-user-agent="",kabel eins Doku (Schweiz)
 
 #EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1doku.png"group-title="":http-user-agent="",Kabel eins Doku (Joyn)
@@ -216,7 +216,7 @@ plugin://plugin.video.playlistbee/?name=DMAX+HD&url=http%3A%2F%2Fz1mag.xyz%3A808
 #EXTINF:-1 tvg-name=""tvg-id="MoviedomeFamily"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/MoviedomeFamily.png"group-title="":http-user-agent="",Moviedome Family (Schweiz)
 
 #EXTINF:-1 tvg-name=""tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/n24doku.png"group-title="":http-user-agent="",N24 Doku
-
+plugin://plugin.video.playlistbee/?name=N24+DOKU+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797847%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fn24doku.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/n24doku.png"group-title="":http-user-agent="",N24 Doku (Schweiz)
 
 #EXTINF:-1 tvg-name=""tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/n24doku.png"group-title="":http-user-agent="",N24 Doku (Joyn)
@@ -248,11 +248,11 @@ plugin://plugin.video.playlistbee/?name=DMAX+HD&url=http%3A%2F%2Fz1mag.xyz%3A808
 #EXTINF:-1 tvg-name=""tvg-id="ORF Sport+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orfsport.png"group-title="":http-user-agent="",ORF Sport+
 
 #EXTINF:-1 tvg-name=""tvg-id="ORF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf1.png"group-title="":http-user-agent="",ORF 1 (Schweiz)
-
+plugin://plugin.video.playlistbee/?name=ORF+1+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A13%3A56%3Aaa%26stream%3D797905%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogo.nl%2Ffiles%2Fch%2FAUSTRA%2FORF1-min.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ORF2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf2.png"group-title="":http-user-agent="",ORF 2 (Schweiz)
 
 #EXTINF:-1 tvg-name=""tvg-id="ORFIII"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf3.png"group-title="":http-user-agent="",ORF 3 (Schweiz)
-
+plugin://plugin.video.playlistbee/?name=ORF+3+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797901%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogo.nl%2Ffiles%2Fch%2FAUSTRA%2FORF_III_HD-min.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="Pheonix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"group-title="":http-user-agent="",Pheonix (Schweiz)
 
 #EXTINF:-1 tvg-name=""tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"group-title="":http-user-agent="",Phoenix
@@ -260,7 +260,7 @@ plugin://plugin.video.playlistbee/?name=DMAX+HD&url=http%3A%2F%2Fz1mag.xyz%3A808
 #EXTINF:-1 tvg-name=""tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"group-title="":http-user-agent="",Phoenix (Joyn)
 
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"group-title="":http-user-agent="",Pro Sieben
-
+plugin://plugin.video.playlistbee/?name=PROSIEBEN+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797886%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Faustria%2FPro7_Eno.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"group-title="":http-user-agent="",Pro Sieben (Schweiz)
 
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"group-title="":http-user-agent="",Pro Sieben (Joyn)
