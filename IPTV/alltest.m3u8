@@ -1,71 +1,643 @@
 #EXTM3U
-#EXTINF:-1 tvg-name=""tvg-id="ATV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/atv.png"group-title="":http-user-agent="",ATV
-plugin://plugin.video.playlistbee/?name=ATV+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D797898%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Faustria%2Fatv-hd-at.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="ATV 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/atv2.png"group-title="":http-user-agent="",ATV 2
-plugin://plugin.video.playlistbee/?name=ATV+2+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797896%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Faustria%2Fatv2-hd-at.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="Canal+ Action"tvg-logo=""group-title="":http-user-agent="",Canal+ Action
-plugin://plugin.video.playlistbee/?name=CANAL%2B+ACTION&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D817481%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2FCanalaction.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="13TH Street"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/13street.png"group-title="":http-user-agent="",13TH Street
+plugin://plugin.video.playlistbee/?name=13TH+STREET+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D2790%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FTzcXMNH.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="3+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/3%2B.png"group-title="":http-user-agent="",3+ (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="3plus"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/3%2B.png"group-title="":http-user-agent="",3+ (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="3Sat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png"group-title="":http-user-agent="",3 Sat (Schweiz)
+plugin://plugin.video.playlistbee/?name=3SAT+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1288%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FtMeBcjf.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png"group-title="":http-user-agent="",3 Sat
+
+#EXTINF:-1 tvg-name=""tvg-id="3sat.de"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/3sat.png"group-title="":http-user-agent="",3 Sat (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="4+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/4%2B.png"group-title="":http-user-agent="",4+ (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="4plus"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/4%2B.png"group-title="":http-user-agent="",4+ (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="5+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/5%2B.png"group-title="":http-user-agent="",5+ (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="5plus"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/5%2B.png"group-title="":http-user-agent="",5+ (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="6+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/6%2B.png"group-title="":http-user-agent="",6+ (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="6plus"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/6%2B.png"group-title="":http-user-agent="",6+ (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Animal Planet"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/animalplanethd.png"group-title="":http-user-agent="",Animal Planet
+plugin://plugin.video.playlistbee/?name=ANIMAL+PLANET+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D36341%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FNHVgf4D.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="ARD-alpha"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"group-title="":http-user-agent="",ARD-alpha
+plugin://plugin.video.playlistbee/?name=ARD+ALPHA+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1312%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FHn6yrv2.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="ARD-alpha"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"group-title="":http-user-agent="",ARD-alpha (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="ARD-alpha"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ardalpha.png"group-title="":http-user-agent="",ARD-alpha (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/arte.png"group-title="":http-user-agent="",Arte
+plugin://plugin.video.playlistbee/?name=ARTE+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D1280%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F763qq40.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/arte.png"group-title="":http-user-agent="",Arte (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Arte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/arte.png"group-title="":http-user-agent="",Arte (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="ATV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/atv.png"group-title="":http-user-agent="",ATV (Österreich)
+
+#EXTINF:-1 tvg-name=""tvg-id="ATV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/atv.png"group-title="":http-user-agent="",ATV (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="ATV 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/atv2.png"group-title="":http-user-agent="",ATV 2 (Österreich)
+
+#EXTINF:-1 tvg-name=""tvg-id="ATV 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/atv2.png"group-title="":http-user-agent="",ATV 2 (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Auftanken.TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/auftankentv.png"group-title="":http-user-agent="",Auftanken.TV (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="AuftankenTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/auftankentv.png"group-title="":http-user-agent="",Auftanken.TV (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Auto Motor und Sport"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/automotorsport.png"group-title="":http-user-agent="",Auto Motor und Sport
+
+#EXTINF:-1 tvg-name=""tvg-id="AXN Black"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/axnblack.png"group-title="":http-user-agent="",AXN Black
+plugin://plugin.video.playlistbee/?name=AXN+BLACK+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D195395%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FvRrdg9U.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="AXN White"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/axnwhite.png"group-title="":http-user-agent="",AXN White
+plugin://plugin.video.playlistbee/?name=AXN+WHITE+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D195393%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FeBhB9nk.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="Bergblick"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/begblick.png"group-title="":http-user-agent="",Bergblick
+plugin://plugin.video.playlistbee/?name=BERGBLICK+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D148124%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FaUGdviA.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="Bild TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Bild.png"group-title="":http-user-agent="",Bild TV
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="":http-user-agent="",BlueTV 4K Action
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Fantasy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="":http-user-agent="",BlueTV 4K Fantasy
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="":http-user-agent="",BlueTV 4K Horror
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Komödie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="":http-user-agent="",BlueTV 4K Komödie
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Mystery"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="":http-user-agent="",BlueTV 4K Mystery
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="":http-user-agent="",BlueTV 4K Sci-Fi
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV 4K Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Bluetv.png"group-title="":http-user-agent="",BlueTV 4K Thriller
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="":http-user-agent="",BlueTV Action
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Action II"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="":http-user-agent="",BlueTV Action II
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="":http-user-agent="",BlueTV Doku
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV History"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="":http-user-agent="",BlueTV History
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="":http-user-agent="",BlueTV Horror
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Komödie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="":http-user-agent="",BlueTV Komödie
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Kriegsfilm"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="":http-user-agent="",BlueTV Kriegsfilm
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Mystery"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="":http-user-agent="",BlueTV Mystery
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="":http-user-agent="",BlueTV Sci-Fi
+
+#EXTINF:-1 tvg-name=""tvg-id="BlueTV Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/bluetv.png"group-title="":http-user-agent="",BlueTV Thriller
+
+#EXTINF:-1 tvg-name=""tvg-id="BR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/br.png"group-title="":http-user-agent="",BR (Joyn)
+plugin://plugin.video.playlistbee/?name=BR+FERNSEHEN+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D1302%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FI3ln2U3.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="Comedy Central"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/comedycentral.png"group-title="":http-user-agent="",Comedy Central
+plugin://plugin.video.playlistbee/?name=COMEDY+CENTRAL+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D593306%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogolar.xyz%2Flogo%2Fgermany%2FCOMEDY.CENTRAL.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="Comedy Central"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/comedycentral.png"group-title="":http-user-agent="",Comedy Central (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Comedy Central"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/comedycentral.png"group-title="":http-user-agent="",Comedy Central (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Crime Investigation"tvg-logo=""group-title="":http-user-agent="",Crime Investigation
+plugin://plugin.video.playlistbee/?name=CRIME%2B+INVESTIGATION+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A13%3A55%3A68%26stream%3D36346%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FQQEsbqO.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="Crime Time"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/crimetime.png"group-title="":http-user-agent="",Crime Time (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Crime Time"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/crimetime.png"group-title="":http-user-agent="",Crime Time (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Curiosity"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/curiosity.png"group-title="":http-user-agent="",Curiosity Channel
+
+#EXTINF:-1 tvg-name=""tvg-id="Curiosity Now"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/curiositynow.png"group-title="":http-user-agent="",Curiosity Now (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Curiosity Now"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/curiositynow.png"group-title="":http-user-agent="",Curiosity Now (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="CuriosityNow"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/curiositynow.png"group-title="":http-user-agent="",Curiosity Now (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png"group-title="":http-user-agent="",Das Erste
+plugin://plugin.video.playlistbee/?name=ARD+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D1234%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2F4meIyfc.png&logos=&epg=&cache=0&uuid=0
+#EXTINF:-1 tvg-name=""tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png"group-title="":http-user-agent="",Das Erste (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Das Erste"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ard.png"group-title="":http-user-agent="",Das Erste (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="DAZN 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn1.png"group-title="":http-user-agent="",DAZN 1
+
+#EXTINF:-1 tvg-name=""tvg-id="DAZN 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn1.png"group-title="":http-user-agent="",DAZN 1
+
+#EXTINF:-1 tvg-name=""tvg-id="DAZN 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn2.png"group-title="":http-user-agent="",DAZN 2
+
+#EXTINF:-1 tvg-name=""tvg-id="DAZN 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/dazn/dazn2.png"group-title="":http-user-agent="",DAZN 2
+
+#EXTINF:-1 tvg-name=""tvg-id="DISCOVERY"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/discovery.png"group-title="":http-user-agent="",Discovery Channel
+plugin://plugin.video.playlistbee/?name=DISCOVERY+FHD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D36347%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FfqkLBua.png&logos=&epg=&cache=0&uuid=0
 #EXTINF:-1 tvg-name=""tvg-id="DMAX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dmax.png"group-title="":http-user-agent="",DMAX
-plugin://plugin.video.playlistbee/?name=DMAX+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797845%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2FDMAX.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="DMAX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dmax.png"group-title="":http-user-agent="",DMAX (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="DMAX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dmax.png"group-title="":http-user-agent="",DMAX (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dokusat.png"group-title="":http-user-agent="",DokuSat
+
+#EXTINF:-1 tvg-name=""tvg-id="DokuSat"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/dokusat.png"group-title="":http-user-agent="",DokuSat (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Eurosport 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/eurosport1.png"group-title="":http-user-agent="",Eurosport 1
+
+#EXTINF:-1 tvg-name=""tvg-id="Eurosport 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/eurosport1.png"group-title="":http-user-agent="",Eurosport 1 (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Eurosport 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/eurosport2.png"group-title="":http-user-agent="",Eurosport 2
+
+#EXTINF:-1 tvg-name=""tvg-id="Eurosport1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/eurosport1.png"group-title="":http-user-agent="",Eurosport 1 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Fabella"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Fabella.png"group-title="":http-user-agent="",Fabella (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Free Comedy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/FreeComedy.png"group-title="":http-user-agent="",Free Comedy (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="FREEDOM"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/freedom.png"group-title="":http-user-agent="",FREEDOM (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Geo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/GEOHD.png"group-title="":http-user-agent="",Geo
+
+#EXTINF:-1 tvg-name=""tvg-id="Grjngo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Grjngo.png"group-title="":http-user-agent="",Grjngo (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Heimatkino"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Heimatkino.png"group-title="":http-user-agent="",Heimatkino (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Himmlisches Kino"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/HimmlischesKino.png"group-title="":http-user-agent="",Himmlisches Kino (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="HISTORY"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/history.png"group-title="":http-user-agent="",History Channel
+
+#EXTINF:-1 tvg-name=""tvg-id="HR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/hr.png"group-title="":http-user-agent="",HR
+
+#EXTINF:-1 tvg-name=""tvg-id="HR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/hr.png"group-title="":http-user-agent="",HR (Joyn)
+
 #EXTINF:-1 tvg-name=""tvg-id="KABEL 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"group-title="":http-user-agent="",Kabel eins
-plugin://plugin.video.playlistbee/?name=KABEL+EINS+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797882%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fkabel-eins.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="KABEL 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"group-title="":http-user-agent="",KABEL eins (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Kabel 1 Classics"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1classic.png"group-title="":http-user-agent="",Kabel 1 Classics
+
 #EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1doku.png"group-title="":http-user-agent="",Kabel eins Doku
-plugin://plugin.video.playlistbee/?name=KABEL+EINS+DOKU+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D797872%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2Fkabel-eins-doku-austria.eno.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1doku.png"group-title="":http-user-agent="",kabel eins Doku (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Kabel eins Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1doku.png"group-title="":http-user-agent="",Kabel eins Doku (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="kabeleins"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/kabel1.png"group-title="":http-user-agent="",kabel eins (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="":http-user-agent="",Magenta Sport 1
+
+#EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="":http-user-agent="",Magenta Sport 2
+
+#EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="":http-user-agent="",Magenta Sport 3
+
+#EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="":http-user-agent="",Magenta Sport 4
+
+#EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="":http-user-agent="",Magenta Sport 5
+
+#EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 6"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="":http-user-agent="",Magenta Sport 6
+
+#EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 7"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="":http-user-agent="",Magenta Sport 7
+
+#EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="":http-user-agent="",Magenta Sport 8
+
+#EXTINF:-1 tvg-name=""tvg-id="Magenta Sport 9"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Magenta.png"group-title="":http-user-agent="",Magenta Sport 9
+
+#EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/mdr.png"group-title="":http-user-agent="",MDR Sachsen
+
+#EXTINF:-1 tvg-name=""tvg-id="MDR Sachsen"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/mdr.png"group-title="":http-user-agent="",MDR Sachsen (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Moconomy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Moconomy.png"group-title="":http-user-agent="",Moconomy (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Moconomy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Moconomy.png"group-title="":http-user-agent="",Moconomy (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Motorvision+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/Motorvision%2B.png"group-title="":http-user-agent="",Motorvision+
+
+#EXTINF:-1 tvg-name=""tvg-id="Moviedome"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Moviedome.png"group-title="":http-user-agent="",Moviedome (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Moviedome Family"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/MoviedomeFamily.png"group-title="":http-user-agent="",Moviedome Family (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Moviedome Family"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/MoviedomeFamily.png"group-title="":http-user-agent="",Moviedome Family (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="MoviedomeFamily"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/MoviedomeFamily.png"group-title="":http-user-agent="",Moviedome Family (Schweiz)
+
 #EXTINF:-1 tvg-name=""tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/n24doku.png"group-title="":http-user-agent="",N24 Doku
-plugin://plugin.video.playlistbee/?name=N24+DOKU+AUSTRIA&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A13%3A56%3Aaa%26stream%3D797846%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Fn24doku.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="ORF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf1.png"group-title="":http-user-agent="",ORF 1
-plugin://plugin.video.playlistbee/?name=ORF+1&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797904%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogo.nl%2Ffiles%2Fch%2FAUSTRA%2FORF1-min.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="ORF2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf2.png"group-title="":http-user-agent="",ORF 2
-plugin://plugin.video.playlistbee/?name=ORF+2&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A13%3A56%3Aaa%26stream%3D797902%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogo.nl%2Ffiles%2Fch%2FAUSTRA%2FORF2HD-min.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="ORFIII"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf3.png"group-title="":http-user-agent="",ORF 3
-plugin://plugin.video.playlistbee/?name=ORF+3&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797900%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogo.nl%2Ffiles%2Fch%2FAUSTRA%2FORF_III_HD-min.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/n24doku.png"group-title="":http-user-agent="",N24 Doku (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="N24 Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/n24doku.png"group-title="":http-user-agent="",N24 Doku (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="National Geographic"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/nationalgeo.png"group-title="":http-user-agent="",National Geographic
+
+#EXTINF:-1 tvg-name=""tvg-id="National Geographic Wild"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/nationalwild.png"group-title="":http-user-agent="",National Geographic Wild
+
+#EXTINF:-1 tvg-name=""tvg-id="NDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ndr.png"group-title="":http-user-agent="",NDR
+
+#EXTINF:-1 tvg-name=""tvg-id="NDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/ndr.png"group-title="":http-user-agent="",NDR (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="N-TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/ntv.png"group-title="":http-user-agent="",N-TV
+
+#EXTINF:-1 tvg-name=""tvg-id="N-TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/ntv.png"group-title="":http-user-agent="",N-TV (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/one.png"group-title="":http-user-agent="",ONE
+
+#EXTINF:-1 tvg-name=""tvg-id="One"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/one.png"group-title="":http-user-agent="",One (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="ONE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/one.png"group-title="":http-user-agent="",ONE (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="One Terra"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/oneterra.png"group-title="":http-user-agent="",One Terra (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="OneTerra"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/oneterra.png"group-title="":http-user-agent="",One Terra (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="OneTerra"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/oneterra.png"group-title="":http-user-agent="",One Terra (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="ORF Sport+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orfsport.png"group-title="":http-user-agent="",ORF Sport+
+
+#EXTINF:-1 tvg-name=""tvg-id="ORF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf1.png"group-title="":http-user-agent="",ORF 1 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="ORF2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf2.png"group-title="":http-user-agent="",ORF 2 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="ORFIII"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/orf3.png"group-title="":http-user-agent="",ORF 3 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Pheonix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"group-title="":http-user-agent="",Pheonix (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"group-title="":http-user-agent="",Phoenix
+
+#EXTINF:-1 tvg-name=""tvg-id="Phoenix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/phoenix.png"group-title="":http-user-agent="",Phoenix (Joyn)
+
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"group-title="":http-user-agent="",Pro Sieben
-plugin://plugin.video.playlistbee/?name=PROSIEBEN+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797886%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Faustria%2FPro7_Eno.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"group-title="":http-user-agent="",Pro Sieben (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7.png"group-title="":http-user-agent="",Pro Sieben (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben Fun"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/ProSieben_FUN.png"group-title="":http-user-agent="",Pro Sieben Fun
+
 #EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7maxx.png"group-title="":http-user-agent="",Pro Sieben MAXX
-plugin://plugin.video.playlistbee/?name=PROSIEBEN+MAXX+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A13%3A56%3Aaa%26stream%3D797876%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Faustria%2Fprosieben-maxx.eno.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="Puls 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls4.png"group-title="":http-user-agent="",Puls 4
-plugin://plugin.video.playlistbee/?name=PULS+4+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA3%3AB7%3A95%26stream%3D191822%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FSxOQM6V.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="Puls 24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls24.png"group-title="":http-user-agent="",Puls 24
-plugin://plugin.video.playlistbee/?name=PULS+24+HD&url=http%3A%2F%2Fgermanytv.net%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3AA0%3AFF%3A4C%26stream%3D191824%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fi.imgur.com%2FQmJSrnM.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="ProSieben MAXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/pro7maxx.png"group-title="":http-user-agent="",Pro Sieben MAXX (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Puls 24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls24.png"group-title="":http-user-agent="",Puls 24 (Österreich)
+
+#EXTINF:-1 tvg-name=""tvg-id="Puls 24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls24.png"group-title="":http-user-agent="",Puls 24 (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Puls 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls4.png"group-title="":http-user-agent="",Puls 4 (Österreich)
+
+#EXTINF:-1 tvg-name=""tvg-id="Puls 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls4.png"group-title="":http-user-agent="",Puls 4 (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Puls 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls8.png"group-title="":http-user-agent="",PULS 8 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="PULS8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls8.png"group-title="":http-user-agent="",PULS 8 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="RBB"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/rbb.png"group-title="":http-user-agent="",RBB
+
+#EXTINF:-1 tvg-name=""tvg-id="RBB"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/rbb.png"group-title="":http-user-agent="",RBB (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/red_bull_tv.png"group-title="":http-user-agent="",Red Bull TV
+
+#EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/red_bull_tv.png"group-title="":http-user-agent="",Red Bull TV (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Red Bull TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/red_bull_tv.png"group-title="":http-user-agent="",Red Bull TV (Joyn)
+
 #EXTINF:-1 tvg-name=""tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png"group-title="":http-user-agent="",RTL
-plugin://plugin.video.playlistbee/?name=RTL&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797887%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Faustria%2Frtl_eno.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl.png"group-title="":http-user-agent="",RTL (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL Crime"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtlcrime.png"group-title="":http-user-agent="",RTL Crime
+
 #EXTINF:-1 tvg-name=""tvg-id="RTL II"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl2.png"group-title="":http-user-agent="",RTL II
-plugin://plugin.video.playlistbee/?name=RTL+ZWEI+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D797884%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2FRTLZWEI.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL Nitro"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/nitro.png"group-title="":http-user-agent="",RTL Nitro
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL Nitro"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/nitro.png"group-title="":http-user-agent="",RTL Nitro (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL Passion"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtlpassion.png"group-title="":http-user-agent="",RTL Passion
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL ZWEE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/rtlzwee.png"group-title="":http-user-agent="",RTL ZWEE
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="":http-user-agent="",RTL+ Sport Event 1
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="":http-user-agent="",RTL+ Sport Event 2
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="":http-user-agent="",RTL+ Sport Event 3
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="":http-user-agent="",RTL+ Sport Event 4
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="":http-user-agent="",RTL+ Sport Event 5
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 6"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="":http-user-agent="",RTL+ Sport Event 6
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 7"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="":http-user-agent="",RTL+ Sport Event 7
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="":http-user-agent="",RTL+ Sport Event 8
+
+#EXTINF:-1 tvg-name=""tvg-id="RTL+ Sport Event 9"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/RTLplus.png"group-title="":http-user-agent="",RTL+ Sport Event 9
+
+#EXTINF:-1 tvg-name=""tvg-id="RTLII"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtl2.png"group-title="":http-user-agent="",RTL II (Schweiz)
+
 #EXTINF:-1 tvg-name=""tvg-id="RTLup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtlup.png"group-title="":http-user-agent="",RTLup
-plugin://plugin.video.playlistbee/?name=RTL+UP+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A13%3A56%3Aaa%26stream%3D797870%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2Frtlup.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="RTLup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/rtlup.png"group-title="":http-user-agent="",RTLup (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="S1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/s1.png"group-title="":http-user-agent="",S1 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="S1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/s1.png"group-title="":http-user-agent="",S1 (Schweiz)
+
 #EXTINF:-1 tvg-name=""tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1.png"group-title="":http-user-agent="",SAT.1
-plugin://plugin.video.playlistbee/?name=SAT.1&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797889%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Faustria%2Fsat-1-eno.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1.png"group-title="":http-user-agent="",SAT.1 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SAT.1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1.png"group-title="":http-user-agent="",SAT.1 (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="SAT.1 Emotions"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1emotion.png"group-title="":http-user-agent="",SAT.1 Emotions
+
 #EXTINF:-1 tvg-name=""tvg-id="SAT.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1gold.png"group-title="":http-user-agent="",SAT.1 Gold
-plugin://plugin.video.playlistbee/?name=SAT.1+GOLD+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797874%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Faustria%2Fsat.1.Gold-eno.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="SAT.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1gold.png"group-title="":http-user-agent="",SAT.1 Gold (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SAT.1 Gold"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sat1gold.png"group-title="":http-user-agent="",SAT.1 Gold (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Scooore"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Scooore.png"group-title="":http-user-agent="",Scooore (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Serien+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/serien%2B.png"group-title="":http-user-agent="",Serien+ (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Serien+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/serien%2B.png"group-title="":http-user-agent="",Serien+ (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Serien+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/serien%2B.png"group-title="":http-user-agent="",Serien+ (Schweiz)
+
 #EXTINF:-1 tvg-name=""tvg-id="Servus TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/servustv.png"group-title="":http-user-agent="",Servus TV
-plugin://plugin.video.playlistbee/?name=SERVUS+TV&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797867%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogo.nl%2Ffiles%2Fch%2FGERMANY%2Fservus.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="Servus TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/servustv.png"group-title="":http-user-agent="",Servus TV (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SILVERLINE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/silverline.png"group-title="":http-user-agent="",Silverline
+
 #EXTINF:-1 tvg-name=""tvg-id="SIXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sixx.png"group-title="":http-user-agent="",SIXX
-plugin://plugin.video.playlistbee/?name=SIXX&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A66%26stream%3D797877%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Flogo%2Fgermany%2FSIXX.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="SIXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sixx.png"group-title="":http-user-agent="",SIXX (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SIXX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sixx.png"group-title="":http-user-agent="",SIXX (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Atlantic"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skyatlantic.png"group-title="":http-user-agent="",Sky Atlantic
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="":http-user-agent="",Sky Box Action
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Doku"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="":http-user-agent="",Sky Box Doku
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Fantasy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="":http-user-agent="",Sky Box Fantasy
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box History"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="":http-user-agent="",Sky Box HISTORY
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Horror"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="":http-user-agent="",Sky Box Horror
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Komödie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="":http-user-agent="",Sky Box Komödie
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Kriegsfilm"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="":http-user-agent="",Sky Box Kriegsfilm
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Mystery"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="":http-user-agent="",Sky Box Mystery
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="":http-user-agent="",Sky Box Sci-Fi
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Box Thriller"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/skybox%20.png"group-title="":http-user-agent="",Sky Box Thriller
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga1.png"group-title="":http-user-agent="",Sky Sport Bundesliga 1
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga1.png"group-title="":http-user-agent="",Sky Sport Bundesliga 1
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga2.png"group-title="":http-user-agent="",Sky Sport Bundesliga 2
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga3.png"group-title="":http-user-agent="",Sky Sport Bundesliga 3
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga4.png"group-title="":http-user-agent="",Sky Sport Bundesliga 4
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga5.png"group-title="":http-user-agent="",Sky Sport Bundesliga 5
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 6"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga6.png"group-title="":http-user-agent="",Sky Sport Bundesliga 6
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 7"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga7.png"group-title="":http-user-agent="",Sky Sport Bundesliga 7
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga8.png"group-title="":http-user-agent="",Sky Sport Bundesliga 8
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Bundesliga 9"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga9.png"group-title="":http-user-agent="",Sky Sport Bundesliga 9
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Action"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skyaction.png"group-title="":http-user-agent="",Sky Cinema Action
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Classics"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skyclassics.png"group-title="":http-user-agent="",Sky Cinema Classics
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Family"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skyfamily.png"group-title="":http-user-agent="",Sky Cinema Family
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Highlights"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skyhighlights.png"group-title="":http-user-agent="",Sky Cinema Highlights
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Cinema Premiere"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skypremiere.png"group-title="":http-user-agent="",Sky Cinema Premiere
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Crime"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skycrime.png"group-title="":http-user-agent="",Sky Crime
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Documentaries"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skydocumentaries.png"group-title="":http-user-agent="",Sky Documentaries
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Krimi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skykrimi.png"group-title="":http-user-agent="",Sky Krimi
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Nature"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skynature.png"group-title="":http-user-agent="",Sky Nature
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky One"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/skyone.png"group-title="":http-user-agent="",Sky One
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysport1.png"group-title="":http-user-agent="",Sky Sport 1
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysport2.png"group-title="":http-user-agent="",Sky Sport 2
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysport3.png"group-title="":http-user-agent="",Sky Sport 3
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysport4.png"group-title="":http-user-agent="",Sky Sport 4
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysport5.png"group-title="":http-user-agent="",Sky Sport 5
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 6"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysport6.png"group-title="":http-user-agent="",Sky Sport 6
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 7"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysport7.png"group-title="":http-user-agent="",Sky Sport 7
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysport8.png"group-title="":http-user-agent="",Sky Sport 8
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport 9"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysport9.png"group-title="":http-user-agent="",Sky Sport 9
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skyaustria/skyaustria1.png"group-title="":http-user-agent="",Sky Sport Austria 1
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 2"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skyaustria/skyaustria2.png"group-title="":http-user-agent="",Sky Sport Austria 2
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 3"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skyaustria/skyaustria3.png"group-title="":http-user-agent="",Sky Sport Austria 3
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 4"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skyaustria/skyaustria4.png"group-title="":http-user-agent="",Sky Sport Austria 4
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Austria 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skyaustria/skyaustria5.png"group-title="":http-user-agent="",Sky Sport Austria 5
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Bundesliga"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skybundesliga/bundesliga.png"group-title="":http-user-agent="",Sky Sport Bundesliga
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport F1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysportf1.png"group-title="":http-user-agent="",Sky Sport F1
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Mix"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysportmix.png"group-title="":http-user-agent="",Sky Sport Mix
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport News"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysportnews.png"group-title="":http-user-agent="",Sky Sport News
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Premier League"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysportpremier.png"group-title="":http-user-agent="",Sky Sport Premier League
+
+#EXTINF:-1 tvg-name=""tvg-id="Sky Sport Top Event"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/skysport/skysporttopevent.png"group-title="":http-user-agent="",Sky Sport Top Event
+
+#EXTINF:-1 tvg-name=""tvg-id="Spiegel Geschichte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/spiegelgeschichte.png"group-title="":http-user-agent="",Spiegel Geschichte
+
+#EXTINF:-1 tvg-name=""tvg-id="Spiegel TV Konflikte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Spiegeltvkonflikte.png"group-title="":http-user-agent="",Spiegel TV Konflikte (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Spiegel TV Konflikte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Spiegeltvkonflikte.png"group-title="":http-user-agent="",Spiegel TV Konflikte (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="SpiegelTVKonflikte"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Spiegeltvkonflikte.png"group-title="":http-user-agent="",Spiegel TV Konflikte (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SPORT1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sport1.png"group-title="":http-user-agent="",Sport 1
+
+#EXTINF:-1 tvg-name=""tvg-id="Sport1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sport1.png"group-title="":http-user-agent="",Sport 1 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SPORT1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sport1.png"group-title="":http-user-agent="",Sport 1 (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="SPORTDIGITAL FUSSBALL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/sportdigital.png"group-title="":http-user-agent="",Sportdigital Fussball
+
+#EXTINF:-1 tvg-name=""tvg-id="Sportdigital+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/sportdigital1%2B.png"group-title="":http-user-agent="",Sportdigital+
+
+#EXTINF:-1 tvg-name=""tvg-id="SR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/swr.png"group-title="":http-user-agent="",SR/SWR (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="SR/SWR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/swr.png"group-title="":http-user-agent="",SR/SWR
+
+#EXTINF:-1 tvg-name=""tvg-id="SRF 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf1.png"group-title="":http-user-agent="",SRF 1 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SRF info"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srfinfo.png"group-title="":http-user-agent="",SRFinfo (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SRF zwei"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf2.png"group-title="":http-user-agent="",SRF 2 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SRF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf1.png"group-title="":http-user-agent="",SRF 1 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SRFInfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srfinfo.png"group-title="":http-user-agent="",SRFinfo (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SRFzwei"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf2.png"group-title="":http-user-agent="",SRF 2 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Super RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/superrtl.png"group-title="":http-user-agent="",Super RTL
+
+#EXTINF:-1 tvg-name=""tvg-id="Super RTL"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/superrtl.png"group-title="":http-user-agent="",Super RTL (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Swiss 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/swiss1.png"group-title="":http-user-agent="",Swiss 1 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Swiss Sport TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/SwissSportTV.png"group-title="":http-user-agent="",Swiss Sport TV (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Swiss1(src01).ch(m3u4u)"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/swiss1.png"group-title="":http-user-agent="",Swiss 1 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="SyFy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/syfy.png"group-title="":http-user-agent="",SyFy
+
+#EXTINF:-1 tvg-name=""tvg-id="Tagesschau 24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/tagesschau.png"group-title="":http-user-agent="",Tagesschau 24
+
+#EXTINF:-1 tvg-name=""tvg-id="Tagesschau 24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/tagesschau.png"group-title="":http-user-agent="",Tagesschau 24
+
+#EXTINF:-1 tvg-name=""tvg-id="Tagesschau 24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/tagesschau.png"group-title="":http-user-agent="",Tagesschau 24 (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="tagesschau24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/tagesschau.png"group-title="":http-user-agent="",Tagesschau 24 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Tele 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tele5.png"group-title="":http-user-agent="",Tele 5
+
+#EXTINF:-1 tvg-name=""tvg-id="Tele 5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tele5.png"group-title="":http-user-agent="",Tele 5 (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Tele5"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tele5.png"group-title="":http-user-agent="",Tele5 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Tempora TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TemporaTV.png"group-title="":http-user-agent="",Tempora TV (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="TemporaTV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TemporaTV.png"group-title="":http-user-agent="",Tempora TV (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Terra Mater Wild"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Terramater.png"group-title="":http-user-agent="",Terra Mater Wild (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Terra Mater Wild"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Terramater.png"group-title="":http-user-agent="",Terra Mater Wild (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="TerraMaterWild"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Terramater.png"group-title="":http-user-agent="",Terra Mater Wild (Schweiz)
+
 #EXTINF:-1 tvg-name=""tvg-id="TLC"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tlc.png"group-title="":http-user-agent="",TLC
-plugin://plugin.video.playlistbee/?name=TLC+HD&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3A13%3A56%3Aaa%26stream%3D797843%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Ftvlogo.nl%2Ffiles%2Fch%2FHOLLANDA%2FTLC.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="TLC"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tlc.png"group-title="":http-user-agent="",TLC (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="TLC"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/tlc.png"group-title="":http-user-agent="",TLC (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Top Filme"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TOPFILME.png"group-title="":http-user-agent="",Top Filme (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Top Filme"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TOPFILME.png"group-title="":http-user-agent="",Top Filme (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Top Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSciFi.png"group-title="":http-user-agent="",Top Sci-Fi (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Top Sci-Fi"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSciFi.png"group-title="":http-user-agent="",Top Sci-Fi (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Top Serien"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"group-title="":http-user-agent="",Top Serien (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Top Serien"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"group-title="":http-user-agent="",Top Serien (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Top True Crime"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/toptruecrime.png"group-title="":http-user-agent="",Top True Crime (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="TopSerien"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/TopSerien.png"group-title="":http-user-agent="",Top Serien (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="TV24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv24.hdpng.png"group-title="":http-user-agent="",TV24 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="TV24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv24.hdpng.png"group-title="":http-user-agent="",TV24 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="TV25"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv25hd.png"group-title="":http-user-agent="",TV25 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="TV25"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv25hd.png"group-title="":http-user-agent="",TV25 (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Universal TV"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/universal.png"group-title="":http-user-agent="",Universal TV
+
+#EXTINF:-1 tvg-name=""tvg-id="Utopja"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/Utopja.png"group-title="":http-user-agent="",Utopja (Schweiz)
+
 #EXTINF:-1 tvg-name=""tvg-id="VOX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/vox.png"group-title="":http-user-agent="",VOX
-plugin://plugin.video.playlistbee/?name=VOX&url=http%3A%2F%2Fz1mag.xyz%3A8080%2Fplay%2Flive.php%3Fmac%3D00%3A1A%3A79%3A01%3A6A%3A67%26stream%3D797879%26extension%3Dts&mode=3&iconimage=https%3A%2F%2Fwww.tvlogolar.xyz%2Feuropa%2Fgermany%2FVOX.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="3+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/3%2B.png"group-title="":http-user-agent="",3+
-plugin://plugin.video.playlistbee/?name=3%2B+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D188222%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F188222.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="4+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/4%2B.png"group-title="":http-user-agent="",4+
-plugin://plugin.video.playlistbee/?name=4%2B+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D188220%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F188220.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="5+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/5%2B.png"group-title="":http-user-agent="",5+
-plugin://plugin.video.playlistbee/?name=5%2B+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D188218%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F188218.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="6+"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/6%2B.png"group-title="":http-user-agent="",6+
-plugin://plugin.video.playlistbee/?name=6%2B+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D188217%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F188217.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="Puls 8"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/puls8.png"group-title="":http-user-agent="",PULS 8
-plugin://plugin.video.playlistbee/?name=PULS+8+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D188214%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F188214.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="S1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/s1.png"group-title="":http-user-agent="",S1
-plugin://plugin.video.playlistbee/?name=S1+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D188202%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F188202.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="SRF info"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srfinfo.png"group-title="":http-user-agent="",SRFinfo
-plugin://plugin.video.playlistbee/?name=SRF+INFO+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D188229%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F188229.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="SRF1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf1.png"group-title="":http-user-agent="",SRF 1
-plugin://plugin.video.playlistbee/?name=SRF+1+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D188226%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F188226.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="SRFzwei"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/srf2.png"group-title="":http-user-agent="",SRF 2
-plugin://plugin.video.playlistbee/?name=SRF+2+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D188224%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F188224.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="Swiss 1"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/swiss1.png"group-title="":http-user-agent="",Swiss 1
-plugin://plugin.video.playlistbee/?name=SWISS+1+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D830781%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F830781.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="TV24"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv24.hdpng.png"group-title="":http-user-agent="",TV24
-plugin://plugin.video.playlistbee/?name=TV24+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D188209%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F188209.png&logos=&epg=&cache=0&uuid=0
-#EXTINF:-1 tvg-name=""tvg-id="TV25"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sw/tv25hd.png"group-title="":http-user-agent="",TV25
-plugin://plugin.video.playlistbee/?name=TV25+HD&url=http%3A%2F%2Ftrxx.in%3A80%2Fplay%2Flive.php%3Fmac%3D00%3A1a%3A79%3Ab7%3A1a%3A2e%26stream%3D188208%26extension%3Dts&mode=3&iconimage=http%3A%2F%2F103.176.90.92%2Fimages%2F188208.png&logos=&epg=&cache=0&uuid=0
+
+#EXTINF:-1 tvg-name=""tvg-id="VOX"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/vox.png"group-title="":http-user-agent="",VOX (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="VOXup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/voxup.png"group-title="":http-user-agent="",VOXup
+
+#EXTINF:-1 tvg-name=""tvg-id="VOXup"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/voxup.png"group-title="":http-user-agent="",VOXup (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Warner TV Comedy"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/warnercomedy.png"group-title="":http-user-agent="",Warner TV Comedy
+
+#EXTINF:-1 tvg-name=""tvg-id="Warner TV Film"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/warnerfilm.png"group-title="":http-user-agent="",Warner TV Film
+
+#EXTINF:-1 tvg-name=""tvg-id="Warner TV Serie"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/sky/warnerserie.png"group-title="":http-user-agent="",Warner TV Serie
+
+#EXTINF:-1 tvg-name=""tvg-id="WDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/wdr.png"group-title="":http-user-agent="",WDR
+
+#EXTINF:-1 tvg-name=""tvg-id="WDR"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/wdr.png"group-title="":http-user-agent="",WDR (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Wedo Movies"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/wedomovies.png"group-title="":http-user-agent="",Wedo Movies (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Wedo Movies"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/wedomovies.png"group-title="":http-user-agent="",Wedo Movies (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Wedo Sports"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/wedosports.png"group-title="":http-user-agent="",Wedo Sports (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="wedomovies"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/wedomovies.png"group-title="":http-user-agent="",Wedo Movies (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png"group-title="":http-user-agent="",Welt
+
+#EXTINF:-1 tvg-name=""tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png"group-title="":http-user-agent="",Welt (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="Welt"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/welt.png"group-title="":http-user-agent="",Welt (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="Welt der Wunder"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/www.png"group-title="":http-user-agent="",Welt der Wunder
+
+#EXTINF:-1 tvg-name=""tvg-id="World of Freesports"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/Picons/WorldofFreesports.png"group-title="":http-user-agent="",World of Freesports (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="XPLORE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/xplore.png"group-title="":http-user-agent="",Xplore (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="XPLORE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/xplore.png"group-title="":http-user-agent="",Xplore (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="XPLORE"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deprivat/xplore.png"group-title="":http-user-agent="",Xplore (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png"group-title="":http-user-agent="",ZDF
+
+#EXTINF:-1 tvg-name=""tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png"group-title="":http-user-agent="",ZDF (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="ZDF"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdf.png"group-title="":http-user-agent="",ZDF (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfinfo.png"group-title="":http-user-agent="",ZDFinfo
+
+#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfinfo.png"group-title="":http-user-agent="",ZDFinfo (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="ZDFinfo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfinfo.png"group-title="":http-user-agent="",ZDFinfo (Joyn)
+
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"group-title="":http-user-agent="",ZDFneo
+
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"group-title="":http-user-agent="",ZDFneo (Schweiz)
+
+#EXTINF:-1 tvg-name=""tvg-id="ZDFneo"tvg-logo="https://raw.githubusercontent.com/Mbuschi2101/123456789/refs/heads/main/IPTV/piconglasssd/deoeff/zdfneo.png"group-title="":http-user-agent="",ZDFneo (Joyn)
+
